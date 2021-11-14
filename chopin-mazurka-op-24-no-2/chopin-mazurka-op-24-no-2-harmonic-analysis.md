@@ -4,6 +4,8 @@ Chopin Mazurka Op. 24, No. 2
 Harmonic Analysis
 -----------------
 
+<table><tr><td>
+
 ### 1a: Prefix
 
 |              |         |         |         |
@@ -40,7 +42,8 @@ Harmonic Analysis
 |  Ⅴ ' ⅱ   |  Ⅴ ' ⅱ   |  ⅱ ' Ⅴ⁷  |  Ⅰ   |
 |  D ' S   |  D ' S   |   S ' D   |  T  |
 
-<br/>
+</td>
+<td>
 
 ### 4: Intermezzo 1
 
@@ -82,7 +85,8 @@ Harmonic Analysis
 |  ⅵ  Ⅳ  '  |   Ⅴ⁷ '  Ⅰ  |      ⅱ      |  Ⅲ⁷ ' ⅵ   |
 |   T  S  '  |    D  ' T  |      S      |   D  ' T   |
 
-<br/><br/><br/>
+</td></tr></table>
+<table><tr><td>
 
 ### 3a: Chorus
 
@@ -126,7 +130,7 @@ Harmonic Analysis
 |  (Dᵇ:) Ⅴ⁷  |  Ⅰ   |  Ⅳ   |  Ⅰ   |
 |      D     |  T   |  S    |  T   |
 
-<br/><br/>
+</td><td>
 
 |       |
 |:-----:|
@@ -168,7 +172,11 @@ Harmonic Analysis
 |      iiᵒ     |             |     ‘Ⅴ’     |   (Aᵐ:) Ⅴ⁷   |
 |      S       |             |      D      |      D        |
 
-<br/><br/><br/>
+</td></tr></table>
+
+<br/><br/><br/><br/>
+
+<table><tr><td>
 
 ### 2: Verse
 
@@ -212,7 +220,7 @@ Harmonic Analysis
 |       Ⅰ Ⅴ Ⅰ  |  Ⅴ Ⅰ Ⅴ  |  Ⅰ Ⅴ Ⅰ   |  Ⅴ  |
 |       T D T  |  D T D  |  T D T  |  D  |
 
-<br/><br/>
+</td><td>
 
 |              |         |         |                    |
 |-------------:|:-------:|:-------:|--------------------|
@@ -225,3 +233,5 @@ Harmonic Analysis
 |  (C:) C G '  |  C G '  |  C G C  |  G C  |
 |       Ⅰ Ⅴ '  |  Ⅰ Ⅴ '  |  Ⅰ Ⅴ Ⅰ  |  Ⅴ Ⅰ   |
 |       T D '  |  T D '  |  T D T  |  D T  |
+
+</td></tr></table>
