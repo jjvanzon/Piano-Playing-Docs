@@ -64,13 +64,7 @@ Done
 - [x] Listened on the piano.
 - [x] Compared XL to Sml for most.
 - [x] Compared XL and Lrg (for more favorite).
-- [x] Bank Pianos Very Most Favorite (Royal XL, Silver XL, Amber XL, Mellow XL)
-- [x] Bank Pianos Favorites (Royal XL, Silver Lrg, Amber XL, Mellow XL, Velvet XL, Beethoven Lrg)
-- [x] Bank Nice Ones Lrg (Royal, Silver, Amber, Mellow, Beethoven, Grand Upright, Italian, Imperial, Bambino, Baby)
-- [x] Bank Nice Ones Med Mostly (Roy M, Sil M, Amb M, Mel M, Beeth M, GrdUpr M, Ita M, Imp M, Bamb M, Baby M, Moz S, Stein XL)
-- [x] Bank many pianos size Sml.
-- [x] Bank Pianos Characterful XL (Beethoven, Bambino, Baby, Steinway, Mozart) and 3 Favorites Lrg (Royal, Silver, Mellow)
-- [x] ~~Bank Bright Hollow Soft?~~ > Maybe not interesting enough.
+- [x] Made several bundles for piano sound selections.
 - [x] Rework (2021-10-26):
     - [x] Trying Velvet factory defaults with FX.
     - [x] Recategorizing: avoiding category Favorite, Hollow and Metallic and preferring categories Soft, Mid, Bright.

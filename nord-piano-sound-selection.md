@@ -3,18 +3,20 @@ Nord Piano Sound Selection
 
 *JJ van Zon, 2021-09*
 
+Intro
+-----
+
+Here I list my favorite sounds for my Nord Piano 4 digital piano.
+
 Piano Selection
 ---------------
 
-Compared XL to Lgr for most favorite.
-Compared XL to Sml for less favorite.
 String resonance seems to matters (Lrg size has it).
-/ = Not loaded in 'Pianos Many Small Versions' bank.
 
-__Like more:__
+### Like More
 
 | Score | Category  | Name                      | Remark
-|:-----:|-----------| --------------------------|-------
+|:-----:|-----------|---------------------------|-------
 |  8-D  | Mid tones | Royal Grand 3D            | XL nice, bit subtler than Lrg
 |  8-D  | Bright    | Silver Grand              | XL nice, Lrg nice too, XL bit more subtle
 |  8-D  | Mid tones | Amber Upright             | XL nice, subtler than Lrg
@@ -29,24 +31,36 @@ __Like more:__
 |  :-)  | Soft      | Mozart FortePno           | Characterful
 |  :-)  | Detuned   | / Steinway No 1           | Characterful a bit, Lrg only
 
-__Like less:__
+### Like Less
 
-| Score | Category | Name                      | Remark
-|:-----:|----------| --------------------------|-------
-|  :-/  | Bright   | White Grand               | XL nice, but big, subtler than Lrg, maybe not worth it
-|  :-/  | Bright   | Bright Grand              | XL less effective
-|  :-/  | Bright   | Studio Grand 1            | Lrg max size
-|  :-/  | Soft     | Concert Grand 1 Amb       | EQ soft better, Lrg max size
-|  :-/  | Soft     | Studio Grand 2            | Lrg max size and matters
-|  :-/  | Hollow   | Queen Upright             | Mid tones harsh, Lrg max size
-|  :-/  | Hollow   | Grand Lady D              | Lrg max size and matters a little
-|  :-/  | Metallic | Romantic Upright          | Lrg max size and matters (vs Sml)
-|  :-/  | Metallic | BlueSwede                 | Lrg max size and matters, not best but subtle
-|  :-/  | Metallic | Black Upright             | Lrg max size, nothing wrong with it, just not best
-|  :-/  | Metallic | / Rain Piano              | Lrg max size and matters a bit, a bit of character
-|  :-(  | Detuned  | / HonkyTonkUpright        |
-|  :-(  | Detuned  | / Saloon Upright          |
-|  :-(  | Hollow   | / Concert Grand 1         |
+| Score | Category | Name                       | Remark
+|:-----:|----------|----------------------------|-------
+|  :-/  | Bright   | White Grand                | XL nice, but big, subtler than Lrg, maybe not worth it
+|  :-/  | Bright   | Bright Grand               | XL less effective
+|  :-/  | Bright   | Studio Grand 1             | Lrg max size
+|  :-/  | Soft     | Concert Grand 1 Amb        | EQ soft better, Lrg max size
+|  :-/  | Soft     | Studio Grand 2             | Lrg max size and matters
+|  :-/  | Hollow   | Queen Upright              | Mid tones harsh, Lrg max size
+|  :-/  | Hollow   | Grand Lady D               | Lrg max size and matters a little
+|  :-/  | Metallic | Romantic Upright           | Lrg max size and matters (vs Sml)
+|  :-/  | Metallic | BlueSwede                  | Lrg max size and matters, not best but subtle
+|  :-/  | Metallic | Black Upright              | Lrg max size, nothing wrong with it, just not best
+|  :-/  | Metallic | Rain Piano                 | Lrg max size and matters a bit, a bit of character
+|  :-(  | Detuned  | HonkyTonkUpright           | Not a fan of detuned piano sound.
+|  :-(  | Detuned  | Saloon Upright             | Not a fan of detuned piano sound.
+|  :-(  | Hollow   | Concert Grand 1            | Not a fan of detuned piano sound.
+
+### Bundles
+
+Made the following bundles with piano sound selections (np4pbundle files).  
+They all may take up most of the 1 GB memory for piano sounds.
+
+1. Pianos Very Most Favorite XL (Royal, Silver, Amber, Mellow, Velvet)
+2. Pianos Favorites XL & Lrg (Royal XL, Silver Lrg, Amber XL, Mellow XL, Velvet XL, Beethoven Lrg)
+3. Pianos Nice Ones Lrg (Royal, Silver, Amber, Mellow, Beethoven, Imperial, Grand Upright, Bambino, Baby, Italian)
+4. Pianos Nice Ones Med Mostly (Roy M, Sil M, Amb M, Mel M, Beeth M, GrdUpr M, It M, Imp M, Bamb M, Baby M, Stein XL, Moz S)
+5. Pianos Many Small Versions (Roy Sil Amb Mel Vel Beeth GrdUpr It Imp Bamb Baby Moz Wht Bri Stu1 ConcAmb Stu2 Queen Lady Rom BluSw Black)
+6. Pianos Characterful XL (Beethoven, Bambino, Baby, Steinway, Mozart) and 3 Favorites Lrg (Royal, Silver, Mellow)
 
 Electric Piano Selection
 ------------------------
@@ -215,8 +229,6 @@ Chinese Orchestra Sound Collection Selection
 
 Mellotron Sound Collection Selection
 ------------------------------------
-
-... = Loaded, trying
 
 - [x] = Loaded
 - [x] Accordions
