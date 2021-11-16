@@ -19,11 +19,12 @@ TODO
 
 ### 2021-11-16 TODO Technique
 
-- [ ] I felt fluent motion.
-- [ ] But missing notes.
+- [ ] I was feeling more fluent motion.
+- [ ] But then I was missing notes.
 - [ ] Trying to regain control,
-- [ ] I become less fluent again.
+- [ ] I seem to become less fluent again.
 - [ ] Maybe practice Barbara Lister-Sink's tips some more.
+- [ ] Maybe put the piano bench lower?
 
 Done
 ----
