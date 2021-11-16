@@ -34,4 +34,4 @@ Contents
 
 - [Nord Piano 4](nord-piano-4)
 
-    - Lists my favorite sounds for my Nord Piano 4 digital piano. Also has planning notes about how I work on it.
+    - Lists some of my favorite sounds for my Nord Piano 4 digital piano. Also has planning notes about how I work on it.
