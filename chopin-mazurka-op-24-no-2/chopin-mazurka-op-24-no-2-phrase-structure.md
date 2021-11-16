@@ -62,7 +62,7 @@ But for G⁷ the base note used is B (the 2nd note of the chord).
 Trying to capture the structure of each melody variation:
 
 - Taking 1st melody variation as base,  
-- The 2nd melody variation throws itself a chord inversion further up in the 2nd measure, works itself down to a similar but not same 3th and 4th measure.
+- The 2nd melody variation throws itself a chord inversion further up in the 2nd measure, works itself down to a slightly different 3th and 4th measure.
 - The 3rd melody variation is quite similar to the 1st with a slight ornamentation at the beginning of the 3rd measure.
 - The 4th melody variation seems based on equally timed 8th notes, then the ending is same as 3rd melody variation.
 

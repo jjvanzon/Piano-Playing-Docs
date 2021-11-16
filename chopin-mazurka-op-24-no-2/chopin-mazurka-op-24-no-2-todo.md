@@ -1,6 +1,30 @@
 Chopin Mazurka Op. 24, No. 2
 ============================
 
+TODO
+----
+
+### 2021-11-16 TODO Part 4 Memorizing and Phrase Structure
+
+- [ ] I have some difficulty memorizing part 4.
+- [ ] Might extend the phrase structure analysis for part 4.
+- [ ] Perhaps splitting up in more pieces, and more specific how they repeat and recombine.
+- [ ] (Rather than saying: 4 playful variations a1, a2, a3 and a4.)
+
+### 2021-11-16 TODO Memorizing
+
+- [ ] I nearly memorized the *notes*.
+- [ ] I may want to memorize the *chords* too.
+- [ ] (And after that, maybe even the *harmonic functions* (tonic, dominant, subdominant).
+
+### 2021-11-16 TODO Technique
+
+- [ ] I felt fluent motion.
+- [ ] But missing notes.
+- [ ] Trying to regain control,
+- [ ] I become less fluent again.
+- [ ] Maybe practice Barbara Lister-Sink's tips some more.
+
 Done
 ----
 
