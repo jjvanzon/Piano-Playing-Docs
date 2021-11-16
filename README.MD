@@ -21,7 +21,7 @@ Contents
 
 - [Chopin Ballade II Practice](chopin-ballade-2-practice.md)
 
-    - An overview scoring myself on the different parts and aspects of the piece while studying it.
+    - An overview scoring myself on the different parts and aspects of the Chopin Ballade II piano piece while studying it.
 
 - [Barbara Lister-Sink's "Freeing the Caged Bird" Videos Summary](barbara-lister-sink-freeing-the-caged-bird-videos-summary.md)
 
