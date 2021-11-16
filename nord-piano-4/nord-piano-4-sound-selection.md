@@ -6,7 +6,7 @@ Nord Piano 4 Sound Selection
 Intro
 -----
 
-Here I list my favorite sounds for my Nord Piano 4 digital piano.
+Here I list some of my favorite sounds for my Nord Piano 4 digital piano.
 
 Piano Selection
 ---------------
