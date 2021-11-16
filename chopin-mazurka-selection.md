@@ -1,5 +1,5 @@
-Chopin Mazurkas Selection
-=========================
+Chopin Mazurka Selection
+========================
 
 *JJ van Zon, 2021-09*
 

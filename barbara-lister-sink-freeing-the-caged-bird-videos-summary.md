@@ -1,9 +1,11 @@
-Barbara Lister Sink's "Freeing the Caged Bird" Videos Summary
+Barbara Lister-Sink's "Freeing the Caged Bird" Videos Summary
 =============================================================
 
 *2021-10-11, JJ van Zon*
 
-(Source: https://www.youtube.com/user/BarbaraListerSink/videos)
+Summary in bullet points of videos about piano technique by Barbara Lister-Sink.  
+Source: https://www.youtube.com/user/BarbaraListerSink/videos.  
+
 
 - General intros skipped here.
 - Eliminate Chronic Muscle Tension:

@@ -1,4 +1,4 @@
-Chopin Mazurka Op. 24, No. 2 
+Chopin Mazurka Op. 24, No. 2
 ============================
 
 Harmonic Analysis

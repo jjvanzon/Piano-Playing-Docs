@@ -5,6 +5,7 @@ Phrase Structure
 ----------------
 
 Phrasing and repetition structure.  
+
 There is a melody, base notes, unbroken chords/intervals, subtle contretemps.
 
 |                       |             |
