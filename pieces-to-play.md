@@ -9,7 +9,7 @@ Studying
 - Chopin Ballade II
 - Chopin Mazurka Op. 24, No. 2
 - Debussy Arabesque I
-- Mozart Sonata "Facile" in C major part 1 (KVK 545)
+- Mozart Sonata "Facile" in C major part 1 (KV 545)
 
 
 Might Like to Play
@@ -22,6 +22,11 @@ Might Like to Play
 - Beethoven Sonata Op.27 No.2 Mov. 2 ("Moonlight Sonata")
 - Chopin Prelude Op. 28, No. 4
 - Debussy Rêverie
+- Liszt Liebestraum No. 3 
+- Beethoven Sonata Pathétique Opus. 13 Mov 2
+- Chopin Grand Polonaise Brillante Op. 22
+- Chopin Etude Op. 10, No. 3 in E ("Tristesse")
+- ~ Beethoven Sonata Pathétique Opus. 13 Mov 1
 - ~ [Chopin Mazurkas](chopin-mazurka-selection.md)
 - ~ Chopin Ballade I
 - ~ Chopin Ballade III
@@ -31,6 +36,10 @@ Once Played
 -----------
 
 - Beethoven Für Elise
+- Walter Carroll "Forest Fantasies" (specify songs...)
+- Duvernois (specify songs...)
+- Burgmüller (specify songs...)
+- Czerny (specify which...)
 - Mozart Rondo Alla Turca
 - Saint-Saëns Danse Macabre
 - Satie Gymnopédie 1
@@ -51,10 +60,15 @@ Once Played
 - Chopin Waltz Op. 70, No. 3
 - Chopin Nocturne Op. post., BI 49
 - Chopin Nocturne Op. 37, No. 1
-- Bartok Rumänische Volkstänze
-- Mozart Sonate in C, Allegro (part 1), KV 279 (189d)
+- Bartok Rumänische Volkstänze: Der Tanz mit dem Stabe
+- Bartok Rumänische Volkstänze: Brâul
+- Bartok Rumänische Volkstänze: Der Stampfer
+- Bartok Rumänische Volkstänze: Tanz aus Butschum
+- Mozart Sonata in C, Allegro (part 1), KV 279 (189d)
+- Mozart Sonata "Facile" in C major part 2  (KV 545)
+- Mozart Sonata "Facile" in C major part 3 (KV 545)
 - Chopin Prelude 6, lento assai in B minor
-- Chopin Sonata Op.35, Funeral March
+- Chopin Sonata II Op. 35 Part 3 "Funeral March"
 - Chopin Nocturne Op. post.72., No. 1
 - Chopin Mazurka Op. 6, No. 1
 - Chopin Mazurka Op. 6, No. 2
@@ -64,4 +78,4 @@ Once Played
 - Chopin Fantaisie Impromptu
 - Debussy Clair de Lune
 - Brahms Intermezzo 118.2
-- Chopin Sonata II Op. 35 Part 3 "Funeral March"
+- Bach Invention No. 13

@@ -27,6 +27,10 @@ TODO
     - [ ] Chord symbol digitization.
 - [ ] Technique: Rehearsing Barbara Lister-Sink suggestions.
 - [ ] ... __Making a list of pieces__ I play / have played / would like to play.
+    - [ ] Using [100 Songs You´ve Heard And Don´t Know The Name](https://www.youtube.com/watch?v=PCx8Xcm9l7U&t=1099s)
+    - [ ] WAS AT: 16.52
+    - [ ] Using books in closet
+    - [ ] Using books in attic
 - [ ] Learning a piece by ear.
 
 ### 2021-11-16 TODO Simplifying Musical Score of Mozart Sonata "Facile" in C major Part 1
