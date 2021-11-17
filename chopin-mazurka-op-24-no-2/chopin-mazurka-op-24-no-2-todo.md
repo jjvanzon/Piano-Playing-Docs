@@ -24,7 +24,7 @@ TODO
 - [ ] Trying to regain control,
 - [ ] I seem to become less fluent again.
 - [ ] Maybe practice Barbara Lister-Sink's tips some more.
-- [ ] Maybe put the piano bench lower?
+- [x] Maybe put the piano bench lower.
 
 Done
 ----
