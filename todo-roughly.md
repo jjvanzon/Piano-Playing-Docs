@@ -24,7 +24,8 @@ TODO
     - [ ] Memorizing chords
 - [ ] Debussy Arabesque I: 
     - [ ] Subdivision in parts.
-    - [ ] Chord symbol digitization.
+    - [ ] __Chord symbol digitization (triads only).__
+    - [ ] __Chord symbol digitization (full chords).__
 - [ ] Technique: Rehearsing Barbara Lister-Sink suggestions.
 - [ ] ... Making a list of pieces I play / have played / would like to play.
     - [x] Using [100 Songs You´ve Heard And Don´t Know The Name](https://www.youtube.com/watch?v=PCx8Xcm9l7U&t=1099s)
