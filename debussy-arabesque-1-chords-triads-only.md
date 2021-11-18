@@ -2,7 +2,7 @@ Arabesque I - Claude Debussy
 ============================
 
 Chords (triads only)
----------------------
+--------------------
 
 ### Part 1
 
@@ -137,4 +137,3 @@ Chords (triads only)
 |     |
 |:---:|
 |  E  |
-
