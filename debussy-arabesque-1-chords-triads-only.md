@@ -4,6 +4,8 @@ Arabesque I - Claude Debussy
 Chords (triads only)
 --------------------
 
+<table><tr><td>
+
 ### Part 1a
 
 |       |       |       |       |     |
@@ -50,6 +52,9 @@ Chords (triads only)
 |:---:|:---:|:---:|:---:|
 |  B  |  '  |  E  |  '  |
 
+</td>
+<td>
+
 ### Part 4
 
 |          |           |     |     |
@@ -85,6 +90,8 @@ Chords (triads only)
 |     |     |     |     |     |
 |:---:|:---:|:---:|:---:|:---:|
 | C F | C F | C F |  C  | C#m |
+
+</td></tr></table>
 
 ### Part 1b
 
