@@ -42,6 +42,10 @@ Contents
 
     - Lists some of my favorite sounds for my Nord Piano 4 digital piano. Also has planning notes about how I work on it.
 
+- [Unicode Characters for Music](unicode-characters-for-music.md)
+
+    - Some unicode characters that might be handy for music.
+
 - [TODO Roughly](todo-roughly.md)
 
     - Perhaps some rough plans about what I would like to do today.
