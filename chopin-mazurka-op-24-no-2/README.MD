@@ -9,7 +9,7 @@ Notes and analyses studying Chopin Mazurka Op. 24, No. 2 piano piece.
 
 - [Chopin Mazurka Op. 24, No. 2 Chords (PDF)](chopin-mazurka-op-24-no-2-chords.pdf)
 
-    - Chord progression of the Chopin Mazurka Op. 24, No. 2 piano piece. This is in PDF format, which is easier to print.
+    - Chord progression of the Chopin Mazurka Op. 24, No. 2 piano piece. This is in PDF format, which may be easier to print.
 
 - [Chopin Mazurka Op. 24, No. 2 Harmonic Analysis (MarkDown)](chopin-mazurka-op-24-no-2-harmonic-analysis.md)
 
@@ -17,7 +17,7 @@ Notes and analyses studying Chopin Mazurka Op. 24, No. 2 piano piece.
 
 - [Chopin Mazurka Op. 24, No. 2 Harmonic Analysis (PDF)](chopin-mazurka-op-24-no-2-harmonic-analysis.pdf)
 
-    - Harmonic analysis of the Chopin Mazurka Op. 24, No. 2 piano piece. This is in PDF format, which is easier to print.
+    - Harmonic analysis of the Chopin Mazurka Op. 24, No. 2 piano piece. This is in PDF format, which may be easier to print.
 
 - [Chopin Mazurka Op. 24, No. 2 Phrase Structure](chopin-mazurka-op-24-no-2-phrase-structure.md)
 

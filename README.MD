@@ -17,9 +17,9 @@ Contents
 
     - Notes and analyses studying Chopin Mazurka Op. 24, No. 2. May include chord progression, harmonic analysis, phrase structure and an overview scoring myself on the different parts and aspects of the piece.
 
-- [Debussy Arabesque I Chords (triads only)](debussy-arabesque-1-chords-triads-only.md)
+- [Debussy Arabesque I](debussy-arabesque-1)
 
-    - Chord progression of Debussy Arabesque I in chords with 3 notes only.
+    - Chord progressions of Debussy Arabesque I.
 
 - [Chopin Ballade II Practice](chopin-ballade-2-practice.md)
 
