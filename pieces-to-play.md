@@ -16,7 +16,9 @@ Might Like to Play
 ------------------
 
 - Chopin Mazurka Op. 41, No. 1
-- Chopin Etude Op. 25, No. 12
+- Chopin Etude Op. 25, No. 1 ("Harp Study")
+- Chopin Etude Op. 10, No. 3 in E ("Tristesse")
+- Chopin Etude Op. 25, No. 12 ("Ocean")
 - Chopin Nocturne Op. 32, No. 2
 - Bach Prelude 1 Well Tempered Clavier
 - Beethoven Sonata Op.27 No.2 Mov. 2 ("Moonlight Sonata")
@@ -25,9 +27,10 @@ Might Like to Play
 - Liszt Liebestraum No. 3 
 - Beethoven Sonata Pathétique Opus. 13 Mov 2
 - Chopin Grand Polonaise Brillante Op. 22
-- Chopin Etude Op. 10, No. 3 in E ("Tristesse")
+- Chopin Scherzo Op. 31, No. 2
 - ~ Beethoven Sonata Pathétique Opus. 13 Mov 1
 - ~ [Chopin Mazurkas](chopin-mazurka-selection.md)
+- ~ Chopin Etude Op. 25, No. 11 ("Winter Wind")
 - ~ Chopin Ballade I
 - ~ Chopin Ballade III
 - ~ Chopin Ballade IV
@@ -44,7 +47,6 @@ Once Played
 - Saint-Saëns Danse Macabre
 - Satie Gymnopédie 1
 - Satie Gymnopédie 2
-- Satie Gymnopédie 3
 - Satie Gnossienne 1
 - Satie Gnossienne 3
 - Clementi Sonatina in C major, Op. 36, No. 1
@@ -65,7 +67,7 @@ Once Played
 - Bartok Rumänische Volkstänze: Der Stampfer
 - Bartok Rumänische Volkstänze: Tanz aus Butschum
 - Mozart Sonata in C, Allegro (part 1), KV 279 (189d)
-- Mozart Sonata "Facile" in C major part 2  (KV 545)
+- Mozart Sonata "Facile" in C major part 2 (KV 545)
 - Mozart Sonata "Facile" in C major part 3 (KV 545)
 - Chopin Prelude 6, lento assai in B minor
 - Chopin Sonata II Op. 35 Part 3 "Funeral March"
