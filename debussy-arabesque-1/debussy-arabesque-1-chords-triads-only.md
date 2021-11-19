@@ -38,6 +38,9 @@ Chords (triads only)
 |:------:|:-----:|:----:|:---:|
 | G♯ F♯ᵐ | G♯ Bᵐ | E Bᵐ |  E  |
 
+</td>
+<td>
+
 ### Part 3
 
 |     |     |     |     |     |
@@ -51,9 +54,6 @@ Chords (triads only)
 |     |     |     |     |
 |:---:|:---:|:---:|:---:|
 |  B  |  '  |  E  |  '  |
-
-</td>
-<td>
 
 ### Part 4
 
@@ -81,6 +81,10 @@ Chords (triads only)
 |:---------:|:-----------:|:---------:|:---:|
 | Bᵐ ' ' Dᵒ | F♯ᵐ ' B D♯ᵒ | E F♯ᵐ ' B |  E  |
 
+</td></tr></table>
+<br/><br/><br/>
+<table><tr><td>
+
 ### Part 5
 
 |         |           |          |     |
@@ -90,8 +94,6 @@ Chords (triads only)
 |     |     |     |     |     |
 |:---:|:---:|:---:|:---:|:---:|
 | C F | C F | C F |  C  | C♯ᵐ |
-
-</td></tr></table>
 
 ### Part 1b
 
@@ -114,6 +116,9 @@ Chords (triads only)
 |       |       |
 |:-----:|:-----:|
 | A G♯ᵐ | F♯ᵐ E |
+
+</td>
+<td>
 
 ### Part 6
 
@@ -144,3 +149,5 @@ Chords (triads only)
 |     |
 |:---:|
 |  E  |
+
+</td></tr></table>
