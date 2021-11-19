@@ -32,7 +32,7 @@ Contents
 
 - [Chopin Mazurkas Selection](chopin-mazurka-selection.md)
 
-    - An list of a selection of Chopin Mazurkas. that seemed nice and more easy than other pieces. This while looking for something easier to play and easy on the ears too.
+    - An list of a selection of Chopin Mazurkas. that seemed nice and easier than other pieces. This while looking for something easier to play and easy on the ears too.
 
 - [Pieces to Play](pieces-to-play.md)
 
@@ -40,7 +40,7 @@ Contents
 
 - [Nord Piano 4](nord-piano-4)
 
-    - Lists some of my favorite sounds for my Nord Piano 4 digital piano. Also has planning notes about how I work on it.
+    - Lists some of my favorite sounds for my Nord Piano 4 digital piano. Also has planning notes about how I worked on it.
 
 - [Unicode Characters for Music](unicode-characters-for-music.md)
 
