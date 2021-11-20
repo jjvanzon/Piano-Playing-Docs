@@ -1,5 +1,5 @@
-Arabesque I - Claude Debussy
-============================
+Debussy Arabesque I
+===================
 
 TODO
 ----
