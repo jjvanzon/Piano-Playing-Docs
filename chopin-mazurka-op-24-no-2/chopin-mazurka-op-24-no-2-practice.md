@@ -1,8 +1,6 @@
 Chopin Mazurka Op. 24, No. 2 Practice
 =====================================
 
-*JJ van Zon, 2021-10-18*
-
 I annotated the musical score, subdividing it into parts.  
 For each part I might score myself 0 / 2 / 5 / 7 / 10 for different aspects: note reading / memorizing / technique / expression.  
 To perhaps focus on things with lower scores.
