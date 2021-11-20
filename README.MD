@@ -19,7 +19,7 @@ Contents
 
 - [Debussy Arabesque I](debussy-arabesque-1)
 
-    - Chord progressions of Debussy Arabesque I.
+    - Chord progression and simplified sheet music for Debussy Arabesque I.
 
 - [Chopin Ballade II Practice](chopin-ballade-2-practice.md)
 
@@ -45,6 +45,10 @@ Contents
 - [Unicode Characters for Music](unicode-characters-for-music.md)
 
     - Some unicode characters that might be handy for music.
+
+- [8th Rest Symbol Picture](8th-rest-symbol.png)
+
+    - Picture of an 9th rest.
 
 - [TODO Roughly](todo-roughly.md)
 

@@ -10,3 +10,11 @@ Chord progressions of Debussy Arabesque I.
 - [Debussy Arabesque I Chords (triads only) (PDF)](debussy-arabesque-1-chords-triads-only.pdf)
 
     - Chord progression of Debussy Arabesque I in chords with 3 notes only. This is in PDF format, which may be easier to print.
+
+- [Sheet Music Simplified](sheet-music-simplified)
+
+    - Simplified sheet music for Debussy Arabesque I.
+
+- [Debussy Arabesque I TODO](debussy-arabesque-1-todo.md)
+
+    - Some notes on where to go next on my studying the Debussy Arabesque I piano piece.

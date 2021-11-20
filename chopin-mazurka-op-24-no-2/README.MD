@@ -19,13 +19,21 @@ Notes and analyses studying Chopin Mazurka Op. 24, No. 2 piano piece.
 
     - Harmonic analysis of the Chopin Mazurka Op. 24, No. 2 piano piece. This is in PDF format, which may be easier to print.
 
-- [Chopin Mazurka Op. 24, No. 2 Phrase Structure](chopin-mazurka-op-24-no-2-phrase-structure.md)
+- [Chopin Mazurka Op. 24, No. 2 Phrase Structure (MarkDown)](chopin-mazurka-op-24-no-2-phrase-structure.md)
 
-    - Attempts to split up the Chopin Mazurka Op. 24, No. 2 piano piece in parts and analyses its phrase structure, like sentences in the music piece, and what things repeat and how.
+    - Attempts to split up the Chopin Mazurka Op. 24, No. 2 piano piece in parts and analyses its phrase structure, like sentences in the music piece, and what things repeat and how. This is in MarkDown format, more readable like a web site.
 
-- [Chopin Mazurka Op. 24, No. 2 Practice](chopin-mazurka-op-24-no-2-practice.md)
+- [Chopin Mazurka Op. 24, No. 2 Phrase Structure (PDF)](chopin-mazurka-op-24-no-2-phrase-structure.pdf)
+
+    - Attempts to split up the Chopin Mazurka Op. 24, No. 2 piano piece in parts and analyses its phrase structure, like sentences in the music piece, and what things repeat and how. This is in PDF format, which may be easier to print.
+
+- [Chopin Mazurka Op. 24, No. 2 Practice (MarkDown)](chopin-mazurka-op-24-no-2-practice.md)
     
-    - An overview scoring myself on the different parts and aspects of the Chopin Mazurka Op. 24, No. 2 piano piece.
+    - An overview scoring myself on the different parts and aspects of the Chopin Mazurka Op. 24, No. 2 piano piece. This is in MarkDown format, more readable like a web site.
+
+- [Chopin Mazurka Op. 24, No. 2 Practice (PDF)](chopin-mazurka-op-24-no-2-practice.pdf)
+    
+    - An overview scoring myself on the different parts and aspects of the Chopin Mazurka Op. 24, No. 2 piano piece. This is in PDF format, which may be easier to print.
 
 - [Chopin Mazurka Op. 24, No. 2 TODO](chopin-mazurka-op-24-no-2-todo.md)
 
