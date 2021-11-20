@@ -4,7 +4,7 @@ Arabesque I - Claude Debussy
 TODO
 ----
 
-### 2021-11-18 TODO Chords &  Music
+### 2021-11-18 TODO Chords & Sheet Music
 
 - [ ] Subdivision in parts.
     - [x] Is subdivided.
@@ -14,12 +14,35 @@ TODO
     - [ ] Maybe make more fine-grained.
 - [ ] __Chord symbol digitization (triads only)__
     - [x] Superscript symbols
-    - [ ] Check if it is good.
+    - [x] Checking and correcting.
+    - [x] Increasing zoom.
+    - [ ] Checking again?
     - [ ] Not sure ♯ looks better than #.
-    - [ ] Letters seem quite small (increase zoom?)
+    - [ ] Avoiding small superscript letters?
 - [ ] Sheet music 
     - [ ] Might be difficult to read:
     - [ ] Faint (grey)
     - [ ] Colored notes fainter
     - [ ] Clutter
+    - [ ] https://michaelkravchuk.com/free-piano-sheet-music-first-arabesque-debussy/
+    - [x] Asked if I could publish derivative works.
 - [ ] Chord symbol digitization (full chords)
+
+### 2021-11-19 TODO Sheet Music Simplification
+
+- [x] Crop image.
+- [x] Brightness / contrast of the scan.
+- [x] Removing page headers and footers.
+- [x] Removing the big accolades at the left.
+- [x] Removing measure numbers.
+- [x] Removing fingering numbers.
+- [x] Removing repeated key signatures.
+- [x] Removing expression symbols (and pedal symbols, tempo, words, dynamics).
+- [x] Removing expression bows.
+- [x] Removing some rest symbols.
+- [x] Removing extension bows.
+- [x] ~~Removing repeated clefts.~~ > Changes too often.
+- [x] Simplifying note durations / voicing notation.
+- [ ] Adding accidentals (even when part of key) (might take a few hours more).
+- [ ] Adding title (adding the word 'simplified')
+- [ ] Adding page numbers (font not too small)

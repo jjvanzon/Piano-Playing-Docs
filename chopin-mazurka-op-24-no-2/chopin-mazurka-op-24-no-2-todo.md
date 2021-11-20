@@ -10,6 +10,7 @@ TODO
 - [ ] Might extend the phrase structure analysis for part 4.
 - [ ] Perhaps splitting up in more pieces, and more specific how they repeat and recombine.
 - [ ] (Rather than saying: 4 playful variations a1, a2, a3 and a4.)
+- [ ] Maybe remove harmonic info from prase structure analysis, since that may be already captured by the chord progression.
 
 ### 2021-11-16 TODO Memorizing
 
