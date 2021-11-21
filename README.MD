@@ -42,13 +42,9 @@ Contents
 
     - Lists some of my favorite sounds for my Nord Piano 4 digital piano. Also has planning notes about how I worked on it.
 
-- [Unicode Characters for Music](unicode-characters-for-music.md)
+- [Resources](resources)
 
-    - Some unicode characters that might be handy for music.
-
-- [8th Rest Symbol Picture](8th-rest-symbol.png)
-
-    - Picture of an 9th rest.
+    - Characters and symbols that might be a helpful aid for music notes and analyses.
 
 - [TODO Roughly](todo-roughly.md)
 
