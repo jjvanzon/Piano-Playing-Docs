@@ -19,12 +19,12 @@ TODO
     - [ ] Checking again?
     - [ ] Not sure ♯ looks better than #.
     - [ ] Avoiding small superscript letters?
-- [ ] Sheet music 
-    - [ ] Might be difficult to read:
-    - [ ] Faint (grey)
-    - [ ] Colored notes fainter
-    - [ ] Clutter
-    - [ ] https://michaelkravchuk.com/free-piano-sheet-music-first-arabesque-debussy/
+- [x] Sheet music 
+    - [x] Might be difficult to read:
+    - [x] Faint (grey)
+    - [x] Colored notes fainter
+    - [x] Clutter
+    - [x] https://michaelkravchuk.com/free-piano-sheet-music-first-arabesque-debussy/
     - [x] Asked if I could publish derivative works.
 - [ ] Chord symbol digitization (full chords)
 
@@ -44,5 +44,6 @@ TODO
 - [x] ~~Removing repeated clefts.~~ > Changes too often.
 - [x] Simplifying note durations / voicing notation.
 - [ ] Adding accidentals (even when part of key) (might take a few hours more).
+    - [ ] WAS AT: Page 2
 - [ ] Adding title (adding the word 'simplified')
 - [ ] Adding page numbers (font not too small)
