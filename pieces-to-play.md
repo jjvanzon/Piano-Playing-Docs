@@ -28,6 +28,7 @@ Might Like to Play
 - Beethoven Sonata Pathétique Opus. 13 Mov 2
 - Chopin Grand Polonaise Brillante Op. 22
 - Chopin Scherzo Op. 31, No. 2
+- ~ Chopin Grand Polonaise Brilliante Op. 22
 - ~ Beethoven Sonata Pathétique Opus. 13 Mov 1
 - ~ [Chopin Mazurkas](chopin-mazurka-selection.md)
 - ~ Chopin Etude Op. 25, No. 11 ("Winter Wind")
