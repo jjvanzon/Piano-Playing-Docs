@@ -43,7 +43,8 @@ TODO
 - [x] Removing extension bows.
 - [x] ~~Removing repeated clefts.~~ > Changes too often.
 - [x] Simplifying note durations / voicing notation.
-- [ ] Adding accidentals (even when part of key) (might take a few hours more).
-    - [ ] WAS AT: Page 2
+- [ ] __Adding accidentals__ (even when part of key) (might take a few hours more).
+    - [ ] WAS AT: Page 2, line 3, bar 4
+- [ ] Change B# => C | Cb => B | E# => F | Fb => E
 - [ ] Adding title (adding the word 'simplified')
 - [ ] Adding page numbers (font not too small)

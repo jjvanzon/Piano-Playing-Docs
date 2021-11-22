@@ -14,6 +14,8 @@ TODO
 - [ ] Debussy Arabesque I
     - [ ] Chords & sheet music
     - [ ] See specialized TODO.
+- [ ] Sheet Music Software
+    - [ ] Trying "Neuratron AudioScore First" / "Avid Sibelius First"
 - [ ] Technique:
     - [ ] Rehearsing Barbara Lister-Sink suggestions.
 - [ ] Pieces to play:
