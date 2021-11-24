@@ -33,7 +33,7 @@ TODO
 - [x] Crop image.
 - [x] Brightness / contrast of the scan.
 - [x] Removing page headers and footers.
-- [x] Removing the big accolades at the left.
+- [x] Removing the big saccolades at the left.
 - [x] Removing measure numbers.
 - [x] Removing fingering numbers.
 - [x] Removing repeated key signatures.
@@ -44,7 +44,7 @@ TODO
 - [x] ~~Removing repeated clefts.~~ > Changes too often.
 - [x] Simplifying note durations / voicing notation.
 - [ ] __Adding accidentals__ (even when part of key) (might take a few hours more).
-    - [ ] WAS AT: page 4, last line, bar 2
+    - [ ] WAS AT: page 5
 - [ ] Change B# => C | Cb => B | E# => F | Fb => E
 - [ ] Adding title (adding the word 'simplified')
 - [ ] Adding page numbers (font not too small)
