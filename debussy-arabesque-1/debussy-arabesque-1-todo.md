@@ -44,7 +44,7 @@ TODO
 - [x] ~~Removing repeated clefts.~~ > Changes too often.
 - [x] Simplifying note durations / voicing notation.
 - [ ] __Adding accidentals__ (even when part of key) (might take a few hours more).
-    - [ ] WAS AT: Page 4
+    - [ ] WAS AT: page 4, last line, bar 2
 - [ ] Change B# => C | Cb => B | E# => F | Fb => E
 - [ ] Adding title (adding the word 'simplified')
 - [ ] Adding page numbers (font not too small)
