@@ -33,7 +33,7 @@ TODO
 - [x] Crop image.
 - [x] Brightness / contrast of the scan.
 - [x] Removing page headers and footers.
-- [x] Removing the big saccolades at the left.
+- [x] Removing the big accolades at the left.
 - [x] Removing measure numbers.
 - [x] Removing fingering numbers.
 - [x] Removing repeated key signatures.
@@ -45,5 +45,9 @@ TODO
 - [x] Simplifying note durations / voicing notation.
 - [x] Adding accidentals (even when part of key) (might take a few hours more).
 - [x] Change B# => C | Cb => B | E# => F | Fb => E
-- [ ] Adding title (adding the word 'simplified')
-- [ ] Adding page numbers (font not too small)
+- [x] Adding title (adding the word 'simplified')
+- [x] Adding page numbers (font not too small)
+- [x] Checking by playing the print
+- [x] Correcting it
+- [ ] Checking it again
+- [ ] Might make notes bigger
