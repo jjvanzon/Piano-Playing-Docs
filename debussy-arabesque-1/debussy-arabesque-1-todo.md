@@ -50,7 +50,7 @@ TODO
 - [x] Checking by playing the print
 - [x] Correcting it
 - [ ] __Might make notes bigger__
-    - [ ] WAS AT: Page 3
+    - [ ] WAS AT: Page 4
 - [ ] Checking cleft change integrity
 - [ ] Checking it again by playing the print
 
