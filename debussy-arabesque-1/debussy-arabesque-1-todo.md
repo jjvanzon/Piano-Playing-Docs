@@ -49,8 +49,7 @@ TODO
 - [x] Adding page numbers (font not too small)
 - [x] Checking by playing the print
 - [x] Correcting it
-- [ ] __Might make notes bigger__
-    - [ ] WAS AT: Page 4
+- [x] Rearranging measures to make notes look bigger.
 - [ ] Checking cleft change integrity
+- [ ] Checking copy-past errors.
 - [ ] Checking it again by playing the print
-
