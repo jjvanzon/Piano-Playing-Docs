@@ -49,5 +49,6 @@ TODO
 - [x] Adding page numbers (font not too small)
 - [x] Checking by playing the print
 - [x] Correcting it
+- [ ] __Might make notes bigger__
+    - [ ] Trying 1 page > Worth it.
 - [ ] Checking it again
-- [ ] Might make notes bigger
