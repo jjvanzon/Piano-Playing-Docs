@@ -50,6 +50,6 @@ TODO
 - [x] Checking by playing the print
 - [x] Correcting it
 - [x] Rearranging measures to make notes look bigger.
-- [ ] Checking cleft change integrity
-- [ ] Checking copy-past errors.
+- [x] Checking cleft change integrity
+- [x] Checking copy-past errors.
 - [ ] Checking it again by playing the print
