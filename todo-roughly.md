@@ -11,9 +11,10 @@ TODO
 - [ ] Chopin Mazurka Op. 24, No. 2
     - [ ] Phrase structure intermezzo 1 more detailed.
     - [ ] Memorizing chords
+    - [ ] See specialized [TODO](chopin-mazurka-op-24-no-2/chopin-mazurka-op-24-no-2-todo.md)
 - [ ] Debussy Arabesque I
     - [ ] Chords & sheet music
-    - [ ] See specialized TODO.
+    - [ ] See specialized [TODO](debussy-arabesque-1/debussy-arabesque-1-todo.md))
 - [ ] Sheet Music Software
     - [ ] Trying "Neuratron AudioScore First" / "Avid Sibelius First"
 - [ ] Technique:
