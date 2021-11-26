@@ -11,6 +11,6 @@ You may find some of my methods of working here.
     - A summary in bullet points of videos about piano technique by Barbara Lister-Sink.  
       Source: https://www.youtube.com/user/BarbaraListerSink/videos.  
 
-- [Score Simplification](score-simplification.md)
+- [Sheet Music Simplification](sheet-music-simplification.md)
 
     - A way to simplify musical score by leaving out details and adding accidentals near notes for instance.

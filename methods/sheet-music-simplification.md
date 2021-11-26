@@ -3,8 +3,8 @@ Piano Playing Docs | Methods
 
 *JJ van Zon, 2021*
 
-Score Simplification
---------------------
+Sheet Music Simplification
+---------------------------
 
 - My mind might trip over all those details.  
 - Scanning and editing score.  
