@@ -26,4 +26,5 @@ TODO
 - [x] Removing 'announcing' clef change and key signatures at ends of lines.
 - [x] Page 4 redundant key signatures
 - [x] Checking with image diff before committing and pushing.
-- [ ] Checking printed PDF
+- [x] Checking printed PDF
+- [ ] Adding natural sign on pge 2 modulation from 4 to 3 sharps.
