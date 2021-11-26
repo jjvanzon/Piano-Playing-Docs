@@ -6,8 +6,7 @@ Pieces to Play
 
 *JJ van Zon, 2021-11*
 
-Studying
---------
+### Studying
 
 - Chopin Ballade II
 - Chopin Mazurka Op. 24, No. 2
@@ -15,8 +14,7 @@ Studying
 - Mozart Sonata "Facile" in C major part 1 (KV 545)
 
 
-Might Like to Play
-------------------
+### Might Like to Play
 
 - Chopin Mazurka Op. 41, No. 1
 - Chopin Etude Op. 25, No. 1 ("Harp Study")
@@ -39,8 +37,7 @@ Might Like to Play
 - ~ Chopin Ballade III
 - ~ Chopin Ballade IV
 
-Once Played
------------
+### Once Played
 
 - Beethoven Für Elise
 - Walter Carroll "Forest Fantasies" (specify songs...)

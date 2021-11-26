@@ -29,6 +29,14 @@ Contents
 
     - An list of a selection of Chopin Mazurkas. that seemed nice and easier than other pieces. This while looking for something easier to play and easy on the ears too.
 
+- [Nord Piano 4](nord-piano-4)
+
+    - Lists some of my favorite sounds for my Nord Piano 4 digital piano. Also has planning notes about how I worked on it.
+
+- [Pieces to Play](pieces-to-play.md)
+
+    - A list of pieces I play / have played / would like to play.
+
 - [Methods](methods)
 
     - You may find some of my methods of working here.
@@ -37,18 +45,10 @@ Contents
 
     - Links to possibly useful information.
 
-- [Pieces to Play](pieces-to-play.md)
-
-    - A list of pieces I play / have played / would like to play.
-
-- [Nord Piano 4](nord-piano-4)
-
-    - Lists some of my favorite sounds for my Nord Piano 4 digital piano. Also has planning notes about how I worked on it.
-
 - [Resources](resources)
 
     - Characters and symbols that might be a helpful aid for music notes and analyses.
 
-- [TODO Roughly](todo-roughly.md)
+- [TODO](todo.md)
 
     - Perhaps some rough plans about what I would like to do today.

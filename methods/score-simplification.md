@@ -20,14 +20,14 @@ Score Simplification
 - Removing expression bows.
 - Removing extension bows (and the repeated note).
 - Removing some rest symbols.
-- Removing repeated clefts.
+- Removing repeated clefs.
 - Simplifying note durations / voicing notation.
 - Adding accidentals (even when part of key) (might take a few hours more).
 - Changing B# => C | Cb => B | E# => F | Fb => E.
 - Adding title (adding the word 'simplified').
 - Adding page numbers (font not too small).
 - Notes small? Try rearranging measures to make notes look bigger.
-- Checking cleft change integrity.
+- Checking clef change integrity.
 - Checking copy-paste errors.
 - Checking by playing the print.
 - Correcting it.

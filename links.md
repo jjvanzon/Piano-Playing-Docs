@@ -6,4 +6,4 @@ Links
 
 Links to possibly useful information.
 
-- [Free Sheet Music](https://michaelkravchuk.com/free-sheet-music/)
+- [Free Sheet Music from Michael Kravchuk](https://michaelkravchuk.com/free-sheet-music/)
