@@ -47,9 +47,10 @@ TODO
 - [x] Change B# => C | Cb => B | E# => F | Fb => E
 - [x] Adding title (adding the word 'simplified')
 - [x] Adding page numbers (font not too small)
-- [x] Checking by playing the print
-- [x] Correcting it
-- [x] Rearranging measures to make notes look bigger.
+- [x] Notes small?
+    - [x] Rearranging measures to make notes look bigger.
 - [x] Checking cleft change integrity
-- [x] Checking copy-past errors.
-- [ ] Checking it again by playing the print
+- [x] Checking copy-paste errors.
+- [x] Checking by playing the print.
+- [x] Correcting it.
+- [x] Keep checking by playing the print, until no more corrections.
