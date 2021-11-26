@@ -20,3 +20,10 @@ TODO
     - [ ] Not sure ♯ looks better than #.
     - [ ] Avoiding small superscript letters?
 - [ ] Chord symbol digitization (full chords)
+
+### 2021-11-26 TODO Sheet Music Simplification
+
+- [x] Removing 'announcing' clef change and key signatures at ends of lines.
+- [x] Page 4 redundant key signatures
+- [x] Checking with image diff before committing and pushing.
+- [ ] Checking printed PDF
