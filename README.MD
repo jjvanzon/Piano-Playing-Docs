@@ -25,14 +25,13 @@ Contents
 
     - An overview scoring myself on the different parts and aspects of the Chopin Ballade II piano piece while studying it.
 
-- [Barbara Lister-Sink's "Freeing the Caged Bird" Videos Summary](barbara-lister-sink-freeing-the-caged-bird-videos-summary.md)
-
-    - A summary in bullet points of videos about piano technique by Barbara Lister-Sink.  
-      Source: https://www.youtube.com/user/BarbaraListerSink/videos.  
-
 - [Chopin Mazurkas Selection](chopin-mazurka-selection.md)
 
     - An list of a selection of Chopin Mazurkas. that seemed nice and easier than other pieces. This while looking for something easier to play and easy on the ears too.
+
+- [Methods](methods)
+
+    - You may find some of my methods of working here.
 
 - [Pieces to Play](pieces-to-play.md)
 
