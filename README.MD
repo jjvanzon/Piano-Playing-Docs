@@ -33,6 +33,10 @@ Contents
 
     - You may find some of my methods of working here.
 
+- [Links](links.md)
+
+    - Links to possibly useful information.
+
 - [Pieces to Play](pieces-to-play.md)
 
     - A list of pieces I play / have played / would like to play.
