@@ -1,7 +1,10 @@
-Pieces to Play
-==============
+Piano Playing Docs
+==================
 
-*2021-11-17, JJ van Zon*
+Pieces to Play
+--------------
+
+*JJ van Zon, 2021-11*
 
 Studying
 --------

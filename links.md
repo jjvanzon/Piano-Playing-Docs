@@ -1,5 +1,8 @@
-Links | Piano Playing Docs
-==========================
+Piano Playing Docs
+==================
+
+Links
+-----
 
 Links to possibly useful information.
 

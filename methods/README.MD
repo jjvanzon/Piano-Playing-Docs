@@ -1,5 +1,8 @@
-Methods | Piano Playing Docs
-============================
+Piano Playing Docs
+==================
+
+Methods
+-------
 
 You may find some of my methods of working here.
 
