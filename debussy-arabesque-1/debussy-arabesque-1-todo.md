@@ -21,10 +21,17 @@ TODO
     - [ ] Avoiding small superscript letters?
 - [ ] Chord symbol digitization (full chords)
 
-### 2021-11-26 TODO Sheet Music Simplification
+### 2021-11-26 TODO Copying Analyses to New Sheet Music
 
-- [x] Removing 'announcing' clef change and key signatures at ends of lines.
-- [x] Page 4 redundant key signatures
-- [x] Checking with image diff before committing and pushing.
-- [x] Checking printed PDF
-- [ ] Adding natural sign on pge 2 modulation from 4 to 3 sharps.
+- [x] Chords
+- [x] Bass line
+- [ ] Fingering
+    - [x] Making numbers bigger.
+    - [x] Might shove over chords to make room.
+    - [x] Extended fingering notation:
+        - [x] Overview of arrows and meaning.
+        - [x] With info about the hand motion.
+    - [ ] Might use a separate print for fingering.
+- [ ] Checking fingering.
+- [ ] Checking chord.
+- [ ] Checking bass line.
