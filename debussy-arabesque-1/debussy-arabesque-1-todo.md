@@ -25,13 +25,10 @@ TODO
 
 - [x] Chords
 - [x] Bass line
-- [ ] Fingering
+- [x] Fingering
     - [x] Making numbers bigger.
     - [x] Might shove over chords to make room.
-    - [x] Extended fingering notation:
-        - [x] Overview of arrows and meaning.
-        - [x] With info about the hand motion.
-    - [ ] Might use a separate print for fingering.
-- [ ] Checking fingering.
+    - [x] Might use a separate print for fingering.
+- [x] Checking fingering.
 - [ ] Checking chord.
 - [ ] Checking bass line.

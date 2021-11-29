@@ -17,12 +17,23 @@ More specific TODO lists may be in other documents.
     - [ ] See specialized [TODO](debussy-arabesque-1/debussy-arabesque-1-todo.md))
 - [ ] Sheet Music Software
     - [ ] Trying "Neuratron AudioScore First" / "Avid Sibelius First"
-- [ ] Technique:
+- [ ] __Technique:__
     - [ ] Rehearsing Barbara Lister-Sink suggestions.
+    - [ ] __'Motion notation' idea.__
+        - [x] Considering Debussy Arabesque 1 motion annotations.
+        - [x] Considering whatever motions comes to mind.
+        - [x] Considering "Piano curriculum" doc "Motorische techniek".
+        - [x] Considering "Piano Technique Ideas" doc.
+        - [x] Considering loose idea docs
+        - [x] Reorganized Piano folder.
+        - [x] Less harsh wording in loose idea docs
+        - [ ] Digitizing what I have.
+        - [ ] Considering left-over things in "Piano Technique Ideas" under "2021-11-27 Brainstorm Motion Notation".
 - [ ] Pieces to play:
     - [ ] List of pieces that I play / have played / would like to play.
     - [x] Using [100 Songs You´ve Heard And Don´t Know The Name](https://www.youtube.com/watch?v=PCx8Xcm9l7U&t=1099s)
     - [ ] Using books in closet
     - [ ] Using books in attic
     - [ ] Using spotify playlists.
+    - [ ] Using MIDI recordings.
 - [ ] Learning a piece by ear.
