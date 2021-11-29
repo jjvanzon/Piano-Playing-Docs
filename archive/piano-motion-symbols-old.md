@@ -40,3 +40,8 @@ Symbols currently out of favor.
 | <img src="images/wrist-move-towards-black-keys-old.png" height="45" />                       | Wrist move (towards black keys)                           |
 | <img src="images/3-fingers-pronounced-outer-fingers-deeper-in-keys-old.png" height="30" />   | 3 fingers (pronounced / outer fingers deeper in keys)     |
 | <img src="images/3-fingers-pronounced-right-finger-deeper-in-keys-old.png" height="30" />    | 3 fingers (pronounced / right finger deeper in keys)      |
+| <img src="images/3-fingers-curved-mid-finger-deeper-in-keys-old.png" height="30" />    | 3 fingers (curved / mid finger deeper in keys / variation 1)    |
+| <img src="images/3-fingers-curved-outer-fingers-deeper-in-keys-old.png" height="30" /> | 3 fingers (curved / outer finger deeper in keys / variation 1)  |
+| <img src="images/3-fingers-curved-right-finger-deeper-in-keys-old.png" height="30" />  | 3 fingers (curved / right finger deeper in keys / variation 1)  |
+| <img src="images/4-fingers-curved-outer-fingers-deeper-in-keys-old.png" height="30" /> | 4 fingers (curved / outer fingers deeper in keys / variation 1) |
+
