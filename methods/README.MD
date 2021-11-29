@@ -15,10 +15,10 @@ You may find some of my methods of working here.
 
     - A way to simplify musical score by leaving out details and adding accidentals near notes for instance.
 
-- [Piano Motion Notation (MarkDown)](piano-motion-notation.md)
+- [Piano Motion Symbols (MarkDown)](piano-motion-symbols.md)
 
   - This is an idea of extending fingering notation from just numbers to additional symbols, indicating the kind of hand movement involved. This is in MarkDown format, more readable like a web site.
   
-- [Piano Motion Notation (PDF)](piano-motion-notation.pdf)
+- [Piano Motion Symbols (PDF)](piano-motion-symbols.pdf)
 
   - This is an idea of extending fingering notation from just numbers to additional symbols, indicating the kind of hand movement involved. This is in PDF format, which may be easier to print. 
