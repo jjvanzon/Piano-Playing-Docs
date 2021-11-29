@@ -3,26 +3,28 @@ Piano Playing Docs | Methods
 
 *JJ van Zon, 2021*
 
-Motion Notation
----------------
+Piano Motion Notation
+---------------------
 
-This is an idea for a notation for that might extend fingering notation from just numbers to additional symbols, 
-indicating how the body might move.
+### Introduction
+
+This is an idea for a notation for that might extend fingering from just numbers to additional symbols, indicating how the hands and body might move.
 
 Piano playing may involve:  
 
-- pressure, stretch, rotation or stationary
+- move, press, stretch, turn or stationary
 - fingers, wrist, arm and torso  
-- in x, y or z direction.
+- in x, y or z directions.
 
-The symbols aim to be a quite literal representation of body and motion, while still schematic and hopefully unambiguous.
+Not all body parts or possible motions seem equally involved.
 
-Depicting things in 3 dimensions, the symbols may be like looking down at the hands.
-The depth dimension is then represented by diagonal lines as though you are looking at it in perspective.
+The symbols aim to be a quite literal representation of body and motion, while still schematic and hopefully not too ambiguous.
+
+Depicting things in 3 dimensions, the symbols may be like looking down at the hands in a sort of perspective projection. To represent depth, diagonal lines might be used.
 
 < Picture >
 
-Rotational directions may then be represented like this:
+Rotational directions may then be represented something like this:
 
 <img src="images/rotation-x-y.png" height="60" />
 <img src="images/rotation-y-z.png" height="60" />
@@ -76,7 +78,7 @@ The move may feel semi-smooth.
 | Symbol                                                            | Name                             | Description
 |:-----------------------------------------------------------------:|----------------------------------|-------------------
 | <img src="images/switch-finger.png" height="30" />                | Switch finger                    | At different times same key with different fingers.
-| <img src="images/switch-finger-in-place.png" height="30" />       | Switch finger (in place)         | Existing notation. Example: 1｜5 
+| <img src="images/switch-finger-in-place.png" height="30" />       | Switch finger (in place)         | Notation exists in fingering notation. Example: 1｜5 
 | <img src="images/3-fingers-flat.png" height="30" />               | 3 fingers (flat)                 |
 | <img src="images/3-fingers-pronounced.png" height="30" />         | 3 fingers (pronounced)           |
 | <img src="images/3-fingers-curved-variation-1.png" height="30" /> | 3 fingers (curved / variation 1) |
