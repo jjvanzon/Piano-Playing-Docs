@@ -13,7 +13,6 @@ Pieces to Play
 - Debussy Arabesque I
 - Mozart Sonata "Facile" in C major part 1 (KV 545)
 
-
 ### Might Like to Play
 
 - Chopin Mazurka Op. 41, No. 1
@@ -24,6 +23,8 @@ Pieces to Play
 - Bach Prelude 1 Well Tempered Clavier
 - Beethoven Sonata Op.27 No.2 Mov. 2 ("Moonlight Sonata")
 - Chopin Prelude Op. 28, No. 4
+- Chopin Prelude Op. 28, No. 17
+- Chopin Prelude Op. 45
 - Debussy Rêverie
 - Liszt Liebestraum No. 3 
 - Beethoven Sonata Pathétique Opus. 13 Mov 2
