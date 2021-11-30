@@ -18,16 +18,16 @@ Piano playing may involve:
 
 Not all body parts or motions seem equally involved.
 
-The symbols aim to be a quite literal representation of body and motion, while still schematic and hopefully not ambiguous.
+These symbols aim to be a quite literal representation of body and motion, while still schematic and hopefully not ambiguous.
 
 Basic elements might be:
 
-|                                                           |              |                                                  |            |                                                  |                           |
-|-----------------------------------------------------------|--------------|--------------------------------------------------|------------|--------------------------------------------------|---------------------------|
-| <img src="images/1-finger-curved-left.png" height="30" /> | Finger       | <img src="images/move-left.png" height="30" />   | Move       | <img src="images/loose.png" height="30" />       | Loose                     |
-| <img src="images/3-fingers-curved.png" height="30" />     | Fingers      | <img src="images/rotate-y-z.png" height="60" />  | Rotate     | <img src="images/tight.png" height="30" />       | Tight                     |
-| <img src="images/wrist-curved.png" height="30" />         | Wrist        | <img src="images/stationary.png" height="30" />  | Stationary | <img src="images/parenthesis.png" height="30" /> | Slightly (between braces) |
-| <img src="images/torso-plus-arms.png" height="30" />      | Torso / arms | <img src="images/press.png" height="45" />       | Press      |                                                  |                           |
+|                                                           |              |                                                  |            |                                                  |                   |
+|-----------------------------------------------------------|--------------|--------------------------------------------------|------------|--------------------------------------------------|-------------------|
+| <img src="images/1-finger-curved-left.png" height="30" /> | Finger       | <img src="images/move-left.png" height="30" />   | Move       | <img src="images/loose.png" height="30" />       | Loose             |
+| <img src="images/3-fingers-curved.png" height="30" />     | Fingers      | <img src="images/rotate-y-z.png" height="60" />  | Rotate     | <img src="images/tight.png" height="30" />       | Tight             |
+| <img src="images/wrist-curved.png" height="30" />         | Wrist        | <img src="images/stationary.png" height="30" />  | Stationary | <img src="images/parenthesis.png" height="30" /> | Slightly (braces) |
+| <img src="images/torso-plus-arms.png" height="30" />      | Torso / arms | <img src="images/press.png" height="45" />       | Press      |                                                  |                   |
 
 Depicting things in 3 dimensions, the symbols may be like looking down at the hands in a sort of perspective projection. To represent depth, diagonal lines might be used. Here is how some things might work in 3 dimensions:
 
@@ -82,7 +82,7 @@ May feel semi-smooth.
 
 ### Fingers
 
-|               | Flat Fingers                                             | Pronounced Fingers                                        | Curved Fingers                                             |
+|               | Flat Fingers                                             | Pronounced Fingers                                        | Curved / High Fingers                                      |
 |---------------|:--------------------------------------------------------:|:---------------------------------------------------------:|:----------------------------------------------------------:|
 | __1 Finger__  | <img src="images/1-finger-flat-left.png" height="30" />  |                                                           | <img src="images/1-finger-curved-left.png" height="30" />  |
 | __1 Finger__  | <img src="images/1-finger-flat-right.png" height="30" /> | <img src="images/1-finger-pronounced.png" height="30" />  | <img src="images/1-finger-curved-right.png" height="30" /> |
