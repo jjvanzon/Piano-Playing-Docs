@@ -60,7 +60,6 @@ Nuance, like press *a little* or move *a lot*, may be written down like this:
 | <img src="images/finger-move-towards-and-away-from-face.png" height="30" /> | Move fingers normally    |
 | <img src="images/finger-move-exaggerated.png" height="40" />                | Move fingers exaggerated |
 
-
 ### Tension & Release
 
 |                                                               |                          |                                                         |
