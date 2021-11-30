@@ -24,6 +24,7 @@ Symbols currently out of favor.
 | <img src="images/controlled-jump-old.png" width="60" />                                      | Controlled jump                                           |
 | <img src="images/wrist-pivot-old.png" height="30" />                                         | Wrist pivot                                               |
 | <img src="images/switch-finger-old.png" height="30" />                                       | Switch finger                                             |
+| <img src="images/1-finger-pronounced.png" height="30" />                                     | 1 finger (pronounced)                                     |
 | <img src="images/3-fingers-old.png" height="30" />                                           | 3 fingers                                                 |
 | <img src="images/3-fingers-pronounced-old.png" height="30" />                                | 3 fingers (pronounced)                                    |
 | <img src="images/3-fingers-curved-old-1.png" height="30" />                                  | 3 fingers (curved / variation 1)                          |
@@ -38,10 +39,13 @@ Symbols currently out of favor.
 | <img src="images/wrist-move-left-old.png" height="30" />                                     | Wrist move (left)                                         |
 | <img src="images/wrist-move-towards-white-keys-old.png" height="45" />                       | Wrist move (towards white keys)                           |
 | <img src="images/wrist-move-towards-black-keys-old.png" height="45" />                       | Wrist move (towards black keys)                           |
+| <img src="images/wrist-move-towards-face-variation-2.png" height="45" />                     | Wrist move<br/>(towards face / variation 2)               |
+| <img src="images/wrist-move-away-from-face-variation-2.png" height="30" />                   | Wrist move<br/>(away from face / variation 2)             | 
+| <img src="images/wrist-move-towards-and-away-from-face-variation-2.png" height="45" />       | Wrist move<br/>(towards and away from face / variation 2) |
 | <img src="images/3-fingers-pronounced-outer-fingers-deeper-in-keys-old.png" height="30" />   | 3 fingers (pronounced / outer fingers deeper in keys)     |
 | <img src="images/3-fingers-pronounced-right-finger-deeper-in-keys-old.png" height="30" />    | 3 fingers (pronounced / right finger deeper in keys)      |
-| <img src="images/3-fingers-curved-mid-finger-deeper-in-keys-old.png" height="30" />    | 3 fingers (curved / mid finger deeper in keys / variation 1)    |
-| <img src="images/3-fingers-curved-outer-fingers-deeper-in-keys-old.png" height="30" /> | 3 fingers (curved / outer finger deeper in keys / variation 1)  |
-| <img src="images/3-fingers-curved-right-finger-deeper-in-keys-old.png" height="30" />  | 3 fingers (curved / right finger deeper in keys / variation 1)  |
-| <img src="images/4-fingers-curved-outer-fingers-deeper-in-keys-old.png" height="30" /> | 4 fingers (curved / outer fingers deeper in keys / variation 1) |
+| <img src="images/3-fingers-curved-mid-finger-deeper-in-keys-old.png" height="30" />          | 3 fingers (curved / mid finger deeper in keys / variation 1)    |
+| <img src="images/3-fingers-curved-outer-fingers-deeper-in-keys-old.png" height="30" />       | 3 fingers (curved / outer finger deeper in keys / variation 1)  |
+| <img src="images/3-fingers-curved-right-finger-deeper-in-keys-old.png" height="30" />        | 3 fingers (curved / right finger deeper in keys / variation 1)  |
+| <img src="images/4-fingers-curved-outer-fingers-deeper-in-keys-old.png" height="30" />       | 4 fingers (curved / outer fingers deeper in keys / variation 1) |
 
