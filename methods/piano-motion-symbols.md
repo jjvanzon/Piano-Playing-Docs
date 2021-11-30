@@ -22,7 +22,7 @@ Not all body parts or motions seem equally involved.
 
 These symbols aim to be a quite literal representation of body and motion, while still schematic and hopefully not ambiguous.
 
-Basic elements might be:
+### Basic Elements
 
 |                                                           |              |                                                               |            |                                                  |                   |
 |-----------------------------------------------------------|--------------|---------------------------------------------------------------|------------|--------------------------------------------------|-------------------|
@@ -30,6 +30,8 @@ Basic elements might be:
 | <img src="images/3-fingers-curved.png" height="30" />     | Fingers      | <img src="images/rotate-y-z.png" height="60" />               | Rotate     | <img src="images/tight.png" height="30" />       | Tight             |
 | <img src="images/wrist-curved.png" height="30" />         | Wrist        | <img src="images/stationary.png" height="30" />               | Stationary | <img src="images/parenthesis.png" height="30" /> | Slightly (braces) |
 | <img src="images/torso-plus-arms.png" height="30" />      | Torso / arms | <img src="images/press.png" height="45" />                    | Press      |                                                  |                   |
+
+### Three Dimensions
 
 Depicting things in 3 dimensions, the symbols may be like looking down at the hands in a sort of perspective projection. To represent depth, diagonal lines might be used. Here is how some things might work in 3 dimensions:
 
@@ -55,10 +57,10 @@ Nuance, like press *a little* or move *a lot*, may be written down like this:
 
 |                                                                             |                          |
 |-----------------------------------------------------------------------------|--------------------------|
-| <img src="images/finger-move-restfully.png" height="30" />                  | Move fingers restfully   |
-| <img src="images/finger-move-slightly.png" height="30" />                   | Move fingers slightly    |
-| <img src="images/finger-move-towards-and-away-from-face.png" height="30" /> | Move fingers normally    |
-| <img src="images/finger-move-exaggerated.png" height="40" />                | Move fingers exaggerated |
+| <img src="images/finger-move-restfully.png" height="45" />                  | Move fingers restfully   |
+| <img src="images/finger-move-slightly.png" height="45" />                   | Move fingers slightly    |
+| <img src="images/finger-move-towards-and-away-from-face.png" height="45" /> | Move fingers normally    |
+| <img src="images/finger-move-exaggerated.png" height="45" />                | Move fingers exaggerated |
 
 ### Tension & Release
 
@@ -105,6 +107,10 @@ May feel semi-smooth.
 
 ### Fingers
 
+A specific amount of fingers might displayed.  
+This might be used to say something specific about a finger in terms of motion, tension or otherwise.  
+There are 3 flavors here: flat fingers, pronounced fingers and high / curved fingers.  
+
 |               | Flat Fingers                                             | Pronounced Fingers                                        | Curved / High Fingers                                      |
 |---------------|:--------------------------------------------------------:|:---------------------------------------------------------:|:----------------------------------------------------------:|
 | __1 Finger__  | <img src="images/1-finger-flat-left.png" height="30" />  |                                                           | <img src="images/1-finger-curved-left.png" height="30" />  |
@@ -126,8 +132,8 @@ May feel semi-smooth.
 |:--------------------------------------------------------------:|-----------------------|:------------------------------------------------------------:|---------------------|:------------------------------------------------------------------:|---------------------------|:------------------------------------------------------------------:|---------------------------|
 | <img src="images/wrist-flat-fingers.png" height="30" />        | With flat fingers     | <img src="images/wrist-pronounced.png" height="30" />        | Pronounced          | <img src="images/wrist-curved.png" height="30" />                  | Curved                    | <img src="images/wrist-high.png" height="45" />                    | High                      |
 | <img src="images/wrist-tilted-flat-fingers.png" height="45" /> | Tilted (flat fingers) | <img src="images/wrist-tilted-pronounced.png" height="45" /> | Tilted (pronounced) | <img src="images/wrist-tilted-curved.png" height="45" />           | Tilted (curved)           | <img src="images/wrist-tilted-high.png" height="45" />             | Tilted (high)             |
-| <img src="images/wrist-move-right.png" height="30" />          | Move (right)          | <img src="images/wrist-move-left.png" height="30" />         | Move (left)         | <img src="images/wrist-move-towards-white-keys.png" height="45" /> | Move (towards white keys) | <img src="images/wrist-move-towards-black-keys.png" height="45" /> | Move (towards black keys) |
-| <img src="images/wrist-pivot.png" height="30" />               | Pivot                 | <img src="images/wrist-pivot-left.png" height="30" />        | Pivot (left)        | <img src="images/wrist-pivot-right.png" height="30" />             | Pivot (right)             | <img src="images/wrist-pivot-left-and-right.png" height="30" />    | Pivot (left and right)    |
+| <img src="images/wrist-move-left.png" height="30" />           | Move (left)           | <img src="images/wrist-move-right.png" height="30" />        | Move (right)        | <img src="images/wrist-move-towards-white-keys.png" height="45" /> | Move (towards white keys) | <img src="images/wrist-move-towards-black-keys.png" height="45" /> | Move (towards black keys) |
+| <img src="images/wrist-pivot-left.png" height="30" />          | Pivot (left)          | <img src="images/wrist-pivot-right.png" height="30" />       | Pivot (right)       | <img src="images/wrist-pivot-left-and-right.png" height="30" />    | Pivot (left and right)    |                                                                    |                           |
 | <img src="images/wrist-flapping-left.png" height="45" />       | Flapping (left)       | <img src="images/wrist-flapping-right.png" height="45" />    | Flapping (right)    | <img src="images/wrist-rotation.png" height="30" />                | Rotation                  |                                                                    |                           |
 
 ### Torso
