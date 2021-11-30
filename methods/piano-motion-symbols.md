@@ -10,6 +10,8 @@ Piano Motion Symbols
 
 This is an idea for a notation for that might extend fingering notation from just numbers to additional symbols, indicating how the hands and body might move.
 
+I hope it might help me become more aware of my body and help with my technique.
+
 Piano playing may involve:  
 
 - move, press, stretch, turn or stationary
@@ -22,12 +24,12 @@ These symbols aim to be a quite literal representation of body and motion, while
 
 Basic elements might be:
 
-|                                                           |              |                                                  |            |                                                  |                   |
-|-----------------------------------------------------------|--------------|--------------------------------------------------|------------|--------------------------------------------------|-------------------|
-| <img src="images/1-finger-curved-left.png" height="30" /> | Finger       | <img src="images/move-left.png" height="30" />   | Move       | <img src="images/loose.png" height="30" />       | Loose             |
-| <img src="images/3-fingers-curved.png" height="30" />     | Fingers      | <img src="images/rotate-y-z.png" height="60" />  | Rotate     | <img src="images/tight.png" height="30" />       | Tight             |
-| <img src="images/wrist-curved.png" height="30" />         | Wrist        | <img src="images/stationary.png" height="30" />  | Stationary | <img src="images/parenthesis.png" height="30" /> | Slightly (braces) |
-| <img src="images/torso-plus-arms.png" height="30" />      | Torso / arms | <img src="images/press.png" height="45" />       | Press      |                                                  |                   |
+|                                                           |              |                                                               |            |                                                  |                   |
+|-----------------------------------------------------------|--------------|---------------------------------------------------------------|------------|--------------------------------------------------|-------------------|
+| <img src="images/1-finger-curved-left.png" height="30" /> | Finger       | <img src="images/move-away-from-face-left.png" height="30" /> | Move       | <img src="images/loose.png" height="30" />       | Loose             |
+| <img src="images/3-fingers-curved.png" height="30" />     | Fingers      | <img src="images/rotate-y-z.png" height="60" />               | Rotate     | <img src="images/tight.png" height="30" />       | Tight             |
+| <img src="images/wrist-curved.png" height="30" />         | Wrist        | <img src="images/stationary.png" height="30" />               | Stationary | <img src="images/parenthesis.png" height="30" /> | Slightly (braces) |
+| <img src="images/torso-plus-arms.png" height="30" />      | Torso / arms | <img src="images/press.png" height="45" />                    | Press      |                                                  |                   |
 
 Depicting things in 3 dimensions, the symbols may be like looking down at the hands in a sort of perspective projection. To represent depth, diagonal lines might be used. Here is how some things might work in 3 dimensions:
 
@@ -38,20 +40,42 @@ Depicting things in 3 dimensions, the symbols may be like looking down at the ha
 | <img src="images/move-toward-face.png" height="30" />     | Move toward face    | <img src="images/rotate-x-z.png" height="30" /> | Rotate X-Z |
 | <img src="images/move-away-from-face.png" height="30" />  | Move away from face |                                                 |            |
 
+### Nuance
+
+Nuance, like press *a little* or move *a lot*, may be written down like this:
+
+|                 | Restfully  | Slightly | Normally | Exaggerated |
+|----------------:|:----------:|:--------:|:--------:|:-----------:|
+|       __Press__ | <img src="images/press-restfully.png" height="30" /> | <img src="images/press-slightly.png" height="30" /> | <img src="images/press.png" height="30" /> | <img src="images/press-exaggerated.png" height="30" /> |
+|        __Move__ | <img src="images/move-restfully.png" height="30" /> | <img src="images/move-slightly.png" height="30" /> | <img src="images/move-away-from-face-left.png" height="30" /> | <img src="images/move-exaggerated.png" height="30" /> |
+| __Tight Wrist__ | <img src="images/wrist-tight-restfully.png" height="30" /> | <img src="images/wrist-tight-slightly.png" height="30" /> | <img src="images/wrist-pronounced-tight.png" height="30" /> | <img src="images/wrist-tight-exaggerated.png" height="20" /> |
+| __Loose Wrist__ | <img src="images/wrist-loose-restfully.png" height="30" /> | <img src="images/wrist-loose-slightly.png" height="30" /> | <img src="images/wrist-curved-loose.png" height="30" /> | <img src="images/wrist-loose-exaggerated.png" height="30" /> |
+
+### Finger Enunciation
+
+|                                                                             |                          |
+|-----------------------------------------------------------------------------|--------------------------|
+| <img src="images/finger-move-restfully.png" height="30" />                  | Move fingers restfully   |
+| <img src="images/finger-move-slightly.png" height="30" />                   | Move fingers slightly    |
+| <img src="images/finger-move-towards-and-away-from-face.png" height="30" /> | Move fingers normally    |
+| <img src="images/finger-move-exaggerated.png" height="40" />                | Move fingers exaggerated |
+
+
 ### Tension & Release
 
 |                                                               |                          |                                                         |
-|:-------------------------------------------------------------:|--------------------------|:-------------------------------------------------------:|
+|:-------------------------------------------------------------:|--------------------------|---------------------------------------------------------|
 | <img src="images/reach-side-ways-right.png" height="30" />    | Reach sideways           | Then let go, move hand back.                            |
 | <img src="images/reach-side-ways-left.png" height="30" />     | Reach sideways           | Then let go, move hand back.                            |
 | <img src="images/stretch-side-ways.png" height="30" />        | Stretch sideways         | Stretching fingers wider. But trying to release soon.   |
 | <img src="images/reach-black-keys.png" height="30" />         | Reach black keys         | If arpeggiated, might prefer crossing over instead.     |
 | <img src="images/reach-white-keys.png" height="30" />         | Reach white keys         | If arpeggiated, might prefer crossing over instead.     |
 | <img src="images/stretch-diagonally.png" height="30" />       | Stretch diagonally       | Composite of stretch sideways and reach for black keys. |
-| <img src="images/resting-on-keys.png" height="30" />          | Resting on keys          |                                                         |
-| <img src="images/finger-move-into-keys.png" height="45" />    | Finger move into keys    | Motion coming out of the fingers.                       |
-| <img src="images/wrist-move-into-keys.png" height="45" />     | Wrist move into keys     | Motion coming out of the wrist.                         |
-| <img src="images/arm-move-into-keys.png" height="45" />       | Arm move into key        | Motion coming out of the arm.                           |
+| <img src="images/finger-move-into-keys.png" height="45" />    | Finger move into keys    | Pressure coming out of the fingers.                     |
+| <img src="images/wrist-move-into-keys.png" height="45" />     | Wrist move into keys     | Pressure coming out of the wrist.                       |
+| <img src="images/arm-move-into-keys.png" height="45" />       | Arm move into key        | Pressure coming out of the arm.                         |
+| <img src="images/hand-resting-on-keys.png" height="30" />     | Hand resting on keys     |                                                         |
+| <img src="images/hand-resting-on-lap.png" height="30" />      | Hand resting on lap      |                                                         |
 | <img src="images/wrist-pronounced-tight.png" height="30" />   | Pronounced wrist tight   |                                                         |
 | <img src="images/wrist-curved-loose.png" height="30" />       | Curved wrist loose       |                                                         |
 | <img src="images/wrist-curved-stationary.png" height="30" />  | Curved wrist stationary  |                                                         |
