@@ -35,6 +35,8 @@ Symbols currently out of favor.
 | <img src="images/wrist-tilted-old.png" height="45" />                                        | Wrist tilted                                              |
 | <img src="images/switch-finger-in-place-old.png" height="30" />                              | Switch finger (in place)                                  |
 | <img src="images/3-fingers-pronounced-mid-finger-deeper-in-keys-old.png" height="30" />      | 3 fingers (pronounced / mid finger deeper in keys)        |
+| <img src="images/wrist-curved-stationary.png" height="30" />                                 | Curved wrist stationary                                   |
+| <img src="images/wrist-pronounced-pressed.png" height="30" />                                | Pronounced wrist pressed                                  |
 | <img src="images/wrist-move-right-old.png" height="30" />                                    | Wrist move (right)                                        |
 | <img src="images/wrist-move-left-old.png" height="30" />                                     | Wrist move (left)                                         |
 | <img src="images/wrist-move-towards-white-keys-old.png" height="45" />                       | Wrist move (towards white keys)                           |

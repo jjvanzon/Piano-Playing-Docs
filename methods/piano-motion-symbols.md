@@ -50,36 +50,23 @@ Nuance, like press *a little* or move *a lot*, may be written down like this:
 |----------------:|:----------------------------------------------------------:|:---------------------------------------------------------:|:--------------------------------------------------------------:|:------------------------------------------------------------:|
 |       __Press__ | <img src="images/press-restfully.png" height="30" />       | <img src="images/press-slightly.png" height="30" />       | <img src="images/press-right.png" height="30" />               | <img src="images/press-exaggerated.png" height="30" />       |
 |        __Move__ | <img src="images/move-restfully.png" height="30" />        | <img src="images/move-slightly.png" height="30" />        | <img src="images/move-into-keys-right.png" height="30" /> | <img src="images/move-exaggerated.png" height="30" />        |
-| __Tight Wrist__ | <img src="images/wrist-tight-restfully.png" height="30" /> | <img src="images/wrist-tight-slightly.png" height="30" /> | <img src="images/wrist-pronounced-tight.png" height="30" />    | <img src="images/wrist-tight-exaggerated.png" height="20" /> |
-| __Loose Wrist__ | <img src="images/wrist-loose-restfully.png" height="30" /> | <img src="images/wrist-loose-slightly.png" height="30" /> | <img src="images/wrist-curved-loose.png" height="30" />        | <img src="images/wrist-loose-exaggerated.png" height="30" /> |
-
-### Finger Enunciation
-
-|                                                                                  |                          |
-|----------------------------------------------------------------------------------|--------------------------|
-| <img src="images/finger-move-restfully-right.png" height="45" />                 | Move fingers restfully   |
-| <img src="images/finger-move-slightly-right.png" height="45" />                  | Move fingers slightly    |
-| <img src="images/finger-move-into-keys-or-towards-face-right.png" height="45" /> | Move fingers normally    |
-| <img src="images/finger-move-exaggerated-right.png" height="45" />               | Move fingers exaggerated |
+| __Tight Wrist__ | <img src="images/wrist-tight-restfully.png" height="30" /> | <img src="images/wrist-tight-slightly.png" height="30" /> | <img src="images/wrist-tight-pronounced.png" height="30" />    | <img src="images/wrist-tight-exaggerated.png" height="20" /> |
+| __Loose Wrist__ | <img src="images/wrist-loose-restfully.png" height="30" /> | <img src="images/wrist-loose-slightly.png" height="30" /> | <img src="images/wrist-loose-curved.png" height="30" />        | <img src="images/wrist-loose-exaggerated.png" height="30" /> |
 
 ### Tension & Release
 
-|                                                                  |                          |                                                         |
-|:----------------------------------------------------------------:|--------------------------|---------------------------------------------------------|
-| <img src="images/reach-side-ways-right.png" height="30" />       | Reach sideways           | Then let go, move hand back.                            |
-| <img src="images/reach-side-ways-left.png" height="30" />        | Reach sideways           | Then let go, move hand back.                            |
-| <img src="images/stretch.png" height="30" />                     | Stretch                  | Stretching fingers wider. But trying to release soon.   |
-| <img src="images/reach-black-keys.png" height="30" />            | Reach black keys         | If arpeggiated, might prefer crossing over instead.     |
-| <img src="images/reach-white-keys.png" height="30" />            | Reach white keys         | If arpeggiated, might prefer crossing over instead.     |
-| <img src="images/stretch-diagonally.png" height="30" />          | Stretch diagonally       | Composite of stretch sideways and reach for black keys. |
-| <img src="images/finger-move-into-keys-right.png" height="45" /> | Finger move into keys    | Pressure coming out of the fingers.                     |
-| <img src="images/arm-move-into-keys-right.png" height="45" />    | Arm move into key        | Pressure coming out of the arm.                         |
-| <img src="images/hand-resting-on-keys.png" height="30" />        | Hand resting on keys     |                                                         |
-| <img src="images/hand-resting-on-lap.png" height="30" />         | Hand resting on lap      |                                                         |
-| <img src="images/wrist-pronounced-tight.png" height="30" />      | Pronounced wrist tight   |                                                         |
-| <img src="images/wrist-curved-loose.png" height="30" />          | Curved wrist loose       |                                                         |
-| <img src="images/wrist-curved-stationary.png" height="30" />     | Curved wrist stationary  |                                                         |
-| <img src="images/wrist-pronounced-pressed.png" height="30" />    | Pronounced wrist pressed |                                                         |
+|                                                                   |                          |                                                         |
+|:-----------------------------------------------------------------:|--------------------------|---------------------------------------------------------|
+| <img src="images/reach-side-ways-right.png" height="30" />        | Reach sideways           | Then let go, move hand back.                            |
+| <img src="images/reach-side-ways-left.png" height="30" />         | Reach sideways           | Then let go, move hand back.                            |
+| <img src="images/stretch.png" height="30" />                      | Stretch                  | Stretching fingers wider. But trying to release soon.   |
+| <img src="images/reach-black-keys.png" height="30" />             | Reach black keys         | If arpeggiated, might prefer crossing over instead.     |
+| <img src="images/reach-white-keys.png" height="30" />             | Reach white keys         | If arpeggiated, might prefer crossing over instead.     |
+| <img src="images/stretch-diagonally.png" height="30" />           | Stretch diagonally       | Composite of stretch sideways and reach for black keys. |
+| <img src="images/finger-press-into-keys-right.png" height="45" /> | Finger move into keys    | Pressure coming out of the fingers.                     |
+| <img src="images/arm-press-into-keys-right.png" height="45" />    | Arm move into key        | Pressure coming out of the arm.                         |
+| <img src="images/hand-resting-on-keys.png" height="30" />         | Hand resting on keys     |                                                         |
+| <img src="images/hand-resting-on-lap.png" height="30" />          | Hand resting on lap      |                                                         |
 
 ### Jumps
 
@@ -105,9 +92,9 @@ May feel semi-smooth.
 
 ### Fingers
 
-A specific amount of fingers might displayed.  
 This might be used to say something specific about a finger in terms of motion, tension or otherwise.  
-There are 3 flavors here: flat fingers, pronounced fingers and high / curved fingers.  
+
+#### Finger Position (Single / Multiple)
 
 |                      | Flat Fingers                                             | Pronounced Fingers                                        | Curved / High Fingers                                      |
 |----------------------|:--------------------------------------------------------:|:---------------------------------------------------------:|:----------------------------------------------------------:|
@@ -118,12 +105,27 @@ There are 3 flavors here: flat fingers, pronounced fingers and high / curved fin
 | __4 Fingers__        | <img src="images/4-fingers-flat.png" height="30" />      | <img src="images/4-fingers-pronounced.png" height="30" /> | <img src="images/4-fingers-curved.png" height="30" />      |
 | __5 Fingers__        | <img src="images/5-fingers-flat.png" height="30" />      | <img src="images/5-fingers-pronounced.png" height="30" /> | <img src="images/5-fingers-curved.png" height="30" />      |
 
+#### Fingers Stationary
+
+#### Finger Enunciation
+
+|                                                                                  |                          |
+|----------------------------------------------------------------------------------|--------------------------|
+| <img src="images/finger-move-restfully-right.png" height="45" />                 | Move fingers restfully   |
+| <img src="images/finger-move-slightly-right.png" height="45" />                  | Move fingers slightly    |
+| <img src="images/finger-move-into-keys-or-towards-face-right.png" height="45" /> | Move fingers normally    |
+| <img src="images/finger-move-exaggerated-right.png" height="45" />               | Move fingers exaggerated |
+
+#### Finger Switch
+
 |                                                                       |                                    |                                                     |
 |:---------------------------------------------------------------------:|------------------------------------|-----------------------------------------------------|
 | <img src="images/switch-finger-in-place.png" height="30" />           | Switch finger (in place)           | Part of existing fingering notation.                |
 | <img src="images/switch-finger-at-different-times.png" height="30" /> | Switch finger (at different times) | At different times same key with different fingers. |
 
 ### Wrist
+
+#### Wrist Position
 
 |                                                                |                             |                                                              |                                             |                                                                    |                                           |                                                                    |                            |
 |:--------------------------------------------------------------:|-----------------------------|:------------------------------------------------------------:|---------------------------------------------|:------------------------------------------------------------------:|-------------------------------------------|:------------------------------------------------------------------:|----------------------------|
@@ -143,7 +145,7 @@ There are 3 flavors here: flat fingers, pronounced fingers and high / curved fin
 | <img src="images/wrist-move-left-variation-1.png" height="30" />   | Wrist move<br/>(left / variation 1) | <img src="images/wrist-move-right-variation-1.png" height="30" />         | Wrist move<br/>(right / variation 1)       | <img src="images/wrist-move-right-and-left-variation-1.png" height="30" />   | Wrist move<br/>(right and left / variation 1) |
 | <img src="images/wrist-move-left-variation-2.png" height="45" />   | Wrist move<br/>(left / variation 2) | <img src="images/wrist-move-right-variation-2.png" height="45" />         | Wrist move<br/>(right / variation 2)       | <img src="images/wrist-move-right-and-left-variation-2.png" height="45" />   | Wrist move<br/>(right and left / variation 2) |
 | <img src="images/wrist-move-into-keys.png" height="30" />          | Wrist move<br/>(into keys)          | <img src="images/wrist-move-into-keys-or-towards-face.png" height="40" /> | Wrist move<br/>(into keys or towards face) | <img src="images/wrist-move-towards-face.png" height="30" />                 | Wrist move<br/>(towards face)                 |
-| <img src="images/wrist-move-towards-black-keys.png" height="45" /> | Wrist Move<br/>(towards black keys) | <img src="images/wrist-move-towards-white-keys.png" height="45" />        | Wrist move<br/>(towards white keys)        | <img src="images/wrist-move-towards-black-and-white-keys.png" height="45" /> | Wrist move<br/>(towards black and white keys) |
+| <img src="images/wrist-move-towards-black-keys.png" height="45" /> | Wrist move<br/>(towards black keys) | <img src="images/wrist-move-towards-white-keys.png" height="45" />        | Wrist move<br/>(towards white keys)        | <img src="images/wrist-move-towards-black-and-white-keys.png" height="45" /> | Wrist move<br/>(towards black and white keys) |
 
 These wrist *moves* may the same as wrist *turning*:
 
@@ -151,8 +153,8 @@ These wrist *moves* may the same as wrist *turning*:
 |:------------------------------------------------------------------------:|---------------------------------------------|:------------------------------------------------------------------------:|---------------------------------------------|:----------------------------------------------------------------------------------:|-------------------------------------------------------|
 | <img src="images/wrist-move-into-keys-left.png" height="30" />           | Wrist move<br/>(into keys / left)           | <img src="images/wrist-move-towards-face-left.png" height="30" />        | Wrist move<br/>(towards face / left)        | <img src="images/wrist-move-into-keys-or-towards-face-left.png" height="30" />     | Wrist move<br/>(into keys or towards face / left)     |
 | <img src="images/wrist-move-into-keys-right.png" height="30" />          | Wrist move<br/>(into keys / right)          | <img src="images/wrist-move-towards-face-right.png" height="30" />       | Wrist move<br/>(towards face / right)       | <img src="images/wrist-move-into-keys-or-towards-face-right.png" height="30" />    | Wrist move<br/>(into keys or towards face / right)    |
-| <img src="images/wrist-move-towards-black-keys-right.png" height="45" /> | Wrist Move<br/>(towards black keys / right) | <img src="images/wrist-move-towards-white-keys-right.png" height="45" /> | Wrist move<br/>(towards white keys / right) | <img src="images/wrist-move-towards-black-and-white-keys-right.png" height="45" /> | Wrist move<br/>(towards black and white keys / right) |
-| <img src="images/wrist-move-towards-black-keys-left.png" height="45" />  | Wrist Move<br/>(towards black keys / left)  | <img src="images/wrist-move-towards-white-keys-left.png" height="45" />  | Wrist move<br/>(towards white keys / left)  | <img src="images/wrist-move-towards-black-and-white-keys-left.png" height="45" />  | Wrist move<br/>(towards black and white keys / left)  |
+| <img src="images/wrist-move-towards-black-keys-right.png" height="45" /> | Wrist move<br/>(towards black keys / right) | <img src="images/wrist-move-towards-white-keys-right.png" height="45" /> | Wrist move<br/>(towards white keys / right) | <img src="images/wrist-move-towards-black-and-white-keys-right.png" height="45" /> | Wrist move<br/>(towards black and white keys / right) |
+| <img src="images/wrist-move-towards-black-keys-left.png" height="45" />  | Wrist move<br/>(towards black keys / left)  | <img src="images/wrist-move-towards-white-keys-left.png" height="45" />  | Wrist move<br/>(towards white keys / left)  | <img src="images/wrist-move-towards-black-and-white-keys-left.png" height="45" />  | Wrist move<br/>(towards black and white keys / left)  |
 
 A composite, to show some flexibility:
 
@@ -171,20 +173,34 @@ Is usually downward, not likely in any other direction.
 
 #### Wrist Turn
 
-|                                                               |                                   |                                                              |                                  |                                                                  |                                       |
-|:-------------------------------------------------------------:|-----------------------------------|:------------------------------------------------------------:|----------------------------------|:----------------------------------------------------------------:|---------------------------------------|
-| <img src="images/wrist-turn-right.png" height="30" />         | Wrist turn (right) / 'pivot'      | <img src="images/wrist-turn-left.png" height="30" />         | Wrist turn (left) / 'pivot'      | <img src="images/wrist-turn-right-and-left.png" height="30" />   | wrist turn (right and left) / 'pivot' |
-| <img src="images/wrist-turn-forward-right.png" height="45" /> | Wrist turn forward (right) / flap | <img src="images/wrist-turn-forward-left.png" height="45" /> | Wrist turn forward (left) / flap | <img src="images/wrist-turn-facing-you-right.png" height="30" /> | wrist turn (facing you / right)       |
+|                                                                            |                                                    |                                                                            |                                                 |                                                                           |                                          |
+|:--------------------------------------------------------------------------:|----------------------------------------------------|:--------------------------------------------------------------------------:|-------------------------------------------------|:-------------------------------------------------------------------------:|------------------------------------------|
+| <img src="images/wrist-turn-right.png" height="30" />                      | Wrist turn (right) / 'pivot'                       | <img src="images/wrist-turn-left.png" height="30" />                       | Wrist turn (left) / 'pivot'                     | <img src="images/wrist-turn-right-and-left.png" height="30" />            | wrist turn (right and left) / 'pivot'    |
+| <img src="images/wrist-turn-facing-you-right.png" height="30" />           | wrist turn (facing you / right)                    | <img src="images/wrist-turn-facing-you-left.png" height="30" />            | wrist turn (facing you / left)                  | <img src="images/wrist-turn-facing-you-right-and-left.png" height="30" /> | wrist turn (facing you / right and left) |
+| <img src="images/wrist-turn-forward-right.png" height="45" />              | Wrist turn (forward / right) / 'flap'              | <img src="images/wrist-turn-forward-left.png" height="45" />               | Wrist turn forward (left) / 'flap'              |                                                                           |                                          |
+| <img src="images/wrist-turn-backward-right.png" height="45" />             | Wrist turn (backward / right) / 'flap'             | <img src="images/wrist-turn-backward-left.png" height="45" />              | Wrist turn backward (left) / 'flap'             |                                                                           |                                          |
+| <img src="images/wrist-turn-forward-and-backward-right.png" height="45" /> | Wrist turn (forward and backward / right) / 'flap' | <img src="images/wrist-turn-forward-and-backward-left.png" height="45" />  | Wrist turn forward and backward (left) / 'flap' |                                                                           |                                          |
+
+#### Wrist Stress
+
+(Combined with wrist positions.)
+
+|                                                               |                            |                                                               |                            |
+|:-------------------------------------------------------------:|----------------------------|:-------------------------------------------------------------:|----------------------------|
+| <img src="images/wrist-tight-flat-fingers.png" height="30" /> | Wrist tight (flat fingers) | <img src="images/wrist-loose-flat-fingers.png" height="30" /> | Wrist loose (flat fingers) |
+| <img src="images/wrist-tight-pronounced.png" height="30" />   | Wrist tight (pronounced)   | <img src="images/wrist-loose-pronounced.png" height="30" />   | Wrist loose (pronounced)   |
+| <img src="images/wrist-tight-curved.png" height="30" />       | Wrist tight (curved)       | <img src="images/wrist-loose-curved.png" height="30" />       | Wrist loose (curved)       |
+| <img src="images/wrist-tight-high.png" height="45" />         | Wrist tight (high)         | <img src="images/wrist-loose-high.png" height="45" />         | Wrist loose (high)         |
 
 ### Torso
 
-|                                                            |                                      |
-|:----------------------------------------------------------:|--------------------------------------|
-| <img src="images/torso-plus-arms.png" height="30" />       | Torso (+ arms)                       |
-| <img src="images/torso-sway-right.png" height="30" />      | Torso sway (right)                   |
-| <img src="images/torso-sway-left.png" height="30" />       | Torso sway (left)                    |
-| <img src="images/torso-tilt-forward.png" height="30" />    | Torso tilt forward                   |
-| <img src="images/torso-tilt-backward.png" height="30" />   | Torso tilt backward                  |
+|                                                           |                                     |
+|:---------------------------------------------------------:|-------------------------------------|
+| <img src="images/torso-plus-arms.png" height="30" />      | Torso (+ arms)                      |
+| <img src="images/torso-sway-right.png" height="30" />     | Torso sway (right)                  |
+| <img src="images/torso-sway-left.png" height="30" />      | Torso sway (left)                   |
+| <img src="images/torso-tilt-forward.png" height="30" />   | Torso tilt forward                  |
+| <img src="images/torso-tilt-backward.png" height="30" />  | Torso tilt backward                 |
 | <img src="images/torso-turn-side-ways.png" height="30" /> | Torso turn sideways (back and legs) |
 
 ### Arm
