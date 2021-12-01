@@ -14,7 +14,7 @@ I hope this might help create awareness of the body and help with piano techniqu
 
 Piano playing may involve:  
 
-- move, stretch, turn, press, stress or stationary
+- position, move, stretch, turn, press, stress or hold stationary
 - fingers, wrist, arm and torso  
 - in x, y or z directions.
 
@@ -73,7 +73,6 @@ Nuance, like press *a little* or move *a lot*, may be written down like this:
 | <img src="images/reach-white-keys.png" height="30" />            | Reach white keys         | If arpeggiated, might prefer crossing over instead.     |
 | <img src="images/stretch-diagonally.png" height="30" />          | Stretch diagonally       | Composite of stretch sideways and reach for black keys. |
 | <img src="images/finger-move-into-keys-right.png" height="45" /> | Finger move into keys    | Pressure coming out of the fingers.                     |
-| <img src="images/wrist-move-into-keys.png" height="45" />        | Wrist move into keys     | Pressure coming out of the wrist.                       |
 | <img src="images/arm-move-into-keys-right.png" height="45" />    | Arm move into key        | Pressure coming out of the arm.                         |
 | <img src="images/hand-resting-on-keys.png" height="30" />        | Hand resting on keys     |                                                         |
 | <img src="images/hand-resting-on-lap.png" height="30" />         | Hand resting on lap      |                                                         |
@@ -206,11 +205,11 @@ Is usually downward, not likely in any other direction.
 
 3 fingers:
 
-|                   | Flat Fingers                                                                     | Pronounced Fingers                                                                     | Curved Fingers                                                                     |
-|-------------------|:--------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------:|
-| __Mid finger__    | <img src="images/3-fingers-flat-mid-finger-deeper-in-keys.png" height="30" />    | <img src="images/3-fingers-pronounced-mid-finger-deeper-in-keys.png" height="30" />    | <img src="images/3-fingers-curved-mid-finger-deeper-in-keys.png" height="30" />    |
-| __Outer fingers__ | <img src="images/3-fingers-flat-outer-fingers-deeper-in-keys.png" height="30" /> | <img src="images/3-fingers-pronounced-outer-fingers-deeper-in-keys.png" height="30" /> | <img src="images/3-fingers-curved-outer-fingers-deeper-in-keys.png" height="30" /> |
-| __Right finger__  | <img src="images/3-fingers-flat-right-finger-deeper-in-keys.png" height="30" />  | <img src="images/3-fingers-pronounced-right-finger-deeper-in-keys.png" height="30" />  | <img src="images/3-fingers-curved-right-finger-deeper-in-keys.png" height="30" />  |
+|                                  | Flat Fingers                                                                     | Pronounced Fingers                                                                     | Curved Fingers                                                                     |
+|---------------------------------:|:--------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------:|
+|    __Mid finger deeper in keys__ | <img src="images/3-fingers-flat-mid-finger-deeper-in-keys.png" height="30" />    | <img src="images/3-fingers-pronounced-mid-finger-deeper-in-keys.png" height="30" />    | <img src="images/3-fingers-curved-mid-finger-deeper-in-keys.png" height="30" />    |
+| __Outer fingers deeper in keys__ | <img src="images/3-fingers-flat-outer-fingers-deeper-in-keys.png" height="30" /> | <img src="images/3-fingers-pronounced-outer-fingers-deeper-in-keys.png" height="30" /> | <img src="images/3-fingers-curved-outer-fingers-deeper-in-keys.png" height="30" /> |
+|  __Right finger deeper in keys__ | <img src="images/3-fingers-flat-right-finger-deeper-in-keys.png" height="30" />  | <img src="images/3-fingers-pronounced-right-finger-deeper-in-keys.png" height="30" />  | <img src="images/3-fingers-curved-right-finger-deeper-in-keys.png" height="30" />  |
 
 4 fingers:
 
