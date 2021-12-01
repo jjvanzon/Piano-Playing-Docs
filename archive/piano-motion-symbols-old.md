@@ -29,6 +29,9 @@ Symbols currently out of favor.
 | <img src="images/3-fingers-pronounced-old.png" height="30" />                                | 3 fingers (pronounced)                                    |
 | <img src="images/3-fingers-curved-old-1.png" height="30" />                                  | 3 fingers (curved / variation 1)                          |
 | <img src="images/3-fingers-curved-old-2.png" height="30" />                                  | 3 fingers (curved / variation 2)                          |
+| <img src="images/3-fingers-flat-old.png" height="30" />                                      | 3 fingers flat                                            |
+| <img src="images/4-fingers-flat-old.png" height="30" />                                      | 4 fingers flat                                            |
+| <img src="images/5-fingers-flat-old.png" height="30" />                                      | 5 fingers flat                                            |
 | <img src="images/wrist-old-a.png" height="30" />                                             | Wrist                                                     |
 | <img src="images/wrist-old-b.png" height="30" />                                             | Wrist (alternative)                                       |
 | <img src="images/wrist-high-old.png" height="45" />                                          | Wrist high                                                |
