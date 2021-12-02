@@ -142,10 +142,10 @@ And different amounts of fingers.
 
 |                                                                           |                          |
 |---------------------------------------------------------------------------|--------------------------|
-| <img src="images/finger-move-restfully-right.png" height="45" />          | Move fingers restfully   |
-| <img src="images/finger-move-slightly-right.png" height="45" />           | Move fingers slightly    |
-| <img src="images/finger-move-in-and-out-of-keys-right.png" height="45" /> | Move fingers normally    |
-| <img src="images/finger-move-exaggerated-right.png" height="45" />        | Move fingers exaggerated |
+| <img src="images/finger-move-restfully-left.png" height="45" />          | Move fingers restfully   |
+| <img src="images/finger-move-slightly-left.png" height="45" />           | Move fingers slightly    |
+| <img src="images/finger-move-in-and-out-of-keys-left-arrows-at-side.png" height="45" /> | Move fingers normally    |
+| <img src="images/finger-move-exaggerated-left.png" height="45" />        | Move fingers exaggerated |
 
 #### Finger Switch
 
