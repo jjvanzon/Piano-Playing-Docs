@@ -33,6 +33,8 @@ Symbols currently out of favor.
 | <img src="images/4-fingers-flat-old.png" height="30" />                                      | 4 fingers flat                                            |
 | <img src="images/5-fingers-flat-old.png" height="30" />                                      | 5 fingers flat                                            |
 | <img src="images/wrist-old-a.png" height="30" />                                             | Wrist                                                     |
+| <img src="images/finger-move-right-3-fingers-left-finger-arrow-on-left.png" height="30" />   | Finger move (right)                                       |
+| <img src="images/finger-move-right-3-fingers-right-finger-arrow-on-right.png" height="30" /> | Finger move (right)                                       |
 | <img src="images/wrist-old-b.png" height="30" />                                             | Wrist (alternative)                                       |
 | <img src="images/wrist-high-old.png" height="45" />                                          | Wrist high                                                |
 | <img src="images/wrist-tilted-old.png" height="45" />                                        | Wrist tilted                                              |
