@@ -180,6 +180,19 @@ And different amounts of fingers.
 | | <img src="images/finger-move-in-and-out-of-keys-3-fingers-middle-finger-right-view-arrows-top.png" height="40" /> | | <img src="images/finger-move-in-and-out-of-keys-3-fingers-middle-finger-right-view-arrows-bottom.png" height="40" /> | | <img src="images/finger-move-in-and-out-of-keys-3-fingers-middle-finger-right-view-arrows-top-and-bottom.png" height="40" /> |
 | | <img src="images/finger-move-in-and-out-of-keys-3-fingers-right-finger-right-view-arrows-top.png" height="40" /> | <img src="images/finger-move-in-and-out-of-keys-3-fingers-right-finger-right-view-arrows-right.png" height="30" /> | <img src="images/finger-move-in-and-out-of-keys-3-fingers-right-finger-right-view-arrows-bottom.png" height="40" /> | | <img src="images/finger-move-in-and-out-of-keys-3-fingers-right-finger-right-view-arrows-top-and-bottom.png" height="40" /> |
 
+#### Finger Press
+
+May be usually downward into the keys, not likely in other directions.
+
+| | | | |
+|-|-|-|-|
+| <img src="images/finger-press-with-number-left-view-arrow-top.png" height="30" /> | <img src="images/finger-press-with-number-left-view-arrow-right.png" height="20" /> | <img src="images/finger-press-with-number-left-view-arrow-bottom.png" height="30" /> | <img src="images/finger-press-with-number-left-view-arrow-left.png" height="20" /> |
+| <img src="images/finger-press-with-number-right-view-arrow-top.png" height="30" /> | <img src="images/finger-press-with-number-right-view-arrow-right.png" height="20" /> | <img src="images/finger-press-with-number-right-view-arrow-bottom.png" height="30" /> | <img src="images/finger-press-with-number-right-view-arrow-left.png" height="20" /> |
+| <img src="images/finger-press-with-symbol-left-view-arrow-top.png" height="30" /> | <img src="images/finger-press-with-symbol-left-view-arrow-right.png" height="20" /> | <img src="images/finger-press-with-symbol-left-view-arrow-bottom.png" height="30" /> | <img src="images/finger-press-with-symbol-left-view-arrow-left.png" height="20" /> |
+| <img src="images/finger-press-with-symbol-right-view-arrow-top.png" height="30" /> | <img src="images/finger-press-with-symbol-right-view-arrow-right.png" height="20" /> | <img src="images/finger-press-with-symbol-right-view-arrow-bottom.png" height="30" /> | <img src="images/finger-press-with-symbol-right-view-arrow-left.png" height="20" /> |
+| <img src="images/finger-press-3-fingers-left-finger-left-view-arrow-top.png" height="30" /> | <img src="images/finger-press-3-fingers-left-finger-left-view-arrow-bottom.png" height="30" /> | <img src="images/finger-press-3-fingers-left-finger-left-view-arrow-left.png" height="20" /> | |
+| <img src="images/finger-press-3-fingers-middle-finger-left-view-arrow-top.png" height="30" /> | <img src="images/finger-press-3-fingers-middle-finger-right-view-arrow-top.png" height="30" /> | <img src="images/finger-press-3-fingers-middle-finger-left-view-arrow-bottom.png" height="30" /> | <img src="images/finger-press-3-fingers-middle-finger-right-view-arrow-bottom.png" height="30" /> |
+| <img src="images/finger-press-3-fingers-right-finger-right-view-arrow-top.png" height="30" /> | <img src="images/finger-press-3-fingers-right-finger-right-view-arrow-right.png" height="20" /> | <img src="images/finger-press-3-fingers-right-finger-right-view-arrow-bottom.png" height="30" /> | |
 
 #### Finger Enunciation
 
@@ -238,7 +251,7 @@ A composite, to show some flexibility:
 
 #### Wrist Press
 
-Is usually downward, not likely in any other direction.
+May be usually downward into the keys, not likely in other directions.
 
 |                                                              |                           |                                                              |                           |
 |--------------------------------------------------------------|---------------------------|--------------------------------------------------------------|---------------------------|
