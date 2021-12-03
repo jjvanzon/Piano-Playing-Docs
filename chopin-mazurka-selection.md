@@ -13,7 +13,7 @@ Looking for something easier to play and easy on the ears too.
 | Op. 17, No. 2 |   min   |     2 |  2min30s |  ✔   |  :-/   | 
 | Op. 17, No. 4 |   min   |     4 |  4min30s | ✔✔  |  :-)   | ?
 | Op. 24, No. 2 |   maj   |     4 |  2min20s | ✔✔  |  :-)   | 1
-| Op. 59, No. 1 |         |       |  4min30s |       |        | ?
+| Op. 59, No. 1 |         |       |  4min30s |  ✔   |        | ?
 | Op. 63, No. 2 | min~maj |     2 |  2min20s |  ✔   |  :-)   | 2
 | Op. 63, No. 3 | min~maj |     2 |  2min30s |  ✔   |  :-)   | 2
 | Op. 67, No. 2 | min/maj |     2 |  2min15s |  ✔   |  :-)   | 2
