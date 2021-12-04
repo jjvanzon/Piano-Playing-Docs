@@ -57,6 +57,20 @@ Depicting things in 3 dimensions, the symbols may be like looking down at the ha
 
 The dashed line may depict it being further away.
 
+#### Turning Arc
+
+<img src="images/turn-facing-you-counter-clock-wise-arc-top-right-to-top-left.png" height="60" /> 
+<img src="images/turn-facing-you-counter-clock-wise-arc-top-to-top-left.png" height="60" /> 
+<img src="images/turn-facing-you-turning-arc-top.png" height="60" /> 
+<img src="images/turn-forward-and-backward-right-view-arc-right-to-top.png" height="60" /> 
+<img src="images/turn-forward-right-view-arc-bottom-right-to-top.png" height="60" /> 
+<img src="images/turn-forward-right-view-arc-right-to-top.png" height="60" /> 
+<img src="images/turn-forward-right-view-arc-right-to-top-left.png" height="60" /> 
+<img src="images/turn-forward-right-view-arc-top-right-to-top-left.png" height="60" /> 
+<img src="images/turn-right-arc-top-to-right.png" height="30" /> 
+
+The beginning might be marked with a *dot* or a *dash*.
+
 ### Nuance
 
 Nuance, like press *a little* or move *a lot*, may be written down like this:
