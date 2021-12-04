@@ -24,23 +24,38 @@ These symbols aim to be a quite literal representation of body and motion, while
 
 ### Basic Elements
 
-|                                                            |              |                                                           |            |                                                  |                   |
-|------------------------------------------------------------|--------------|-----------------------------------------------------------|------------|--------------------------------------------------|-------------------|
-| <img src="images/1-finger-curved-right.png" height="30" /> | Finger       | <img src="images/move-into-keys-right.png" height="30" /> | Move       | <img src="images/press-right.png" height="45" /> | Press             |
-| <img src="images/3-fingers-curved.png" height="30" />      | Fingers      | <img src="images/stretch.png" height="30" />              | Stretch    | <img src="images/loose.png" height="30" />       | Loose             |
-| <img src="images/wrist-curved.png" height="30" />          | Wrist        | <img src="images/turn-y-z.png" height="60" />             | Turn       | <img src="images/tight.png" height="30" />       | Tight             |
-| <img src="images/torso-plus-arms.png" height="30" />       | Torso / arms | <img src="images/stationary.png" height="30" />           | Stationary | <img src="images/parenthesis.png" height="30" /> | Slightly (braces) |
+|                                                            |              |                                                                          |            |                                                  |                   |
+|------------------------------------------------------------|--------------|--------------------------------------------------------------------------|------------|--------------------------------------------------|-------------------|
+| <img src="images/1-finger-curved-right.png" height="30" /> | Finger       | <img src="images/move-into-keys-right.png" height="30" />                | Move       | <img src="images/press-right.png" height="45" /> | Press             |
+| <img src="images/3-fingers-curved.png" height="30" />      | Fingers      | <img src="images/stretch.png" height="30" />                             | Stretch    | <img src="images/loose.png" height="30" />       | Loose             |
+| <img src="images/wrist-curved.png" height="30" />          | Wrist        | <img src="images/turn-forward-right-view-arrow-right.png" height="60" /> | Turn       | <img src="images/tight.png" height="30" />       | Tight             |
+| <img src="images/torso-plus-arms.png" height="30" />       | Torso / arms | <img src="images/stationary.png" height="30" />                          | Stationary | <img src="images/parenthesis.png" height="30" /> | Slightly (braces) |
 
 ### Three Dimensions
 
 Depicting things in 3 dimensions, the symbols may be like looking down at the hands in a sort of perspective projection. To represent depth, diagonal lines might be used. Here is how some things might work in 3 dimensions:
 
-|                                                                      |                                |                                               |                         |
-|:--------------------------------------------------------------------:|--------------------------------|:---------------------------------------------:|-------------------------|
-| <img src="images/move-left-right.png" height="30" />                 | Move left / right              | <img src="images/turn-x-y.png" height="60" /> | Turn facing you         |
-| <img src="images/move-toward-black-or-white-keys.png" height="60" /> | Move toward black / white keys | <img src="images/turn-y-z.png" height="60" /> | Turn forward / backward |
-| <img src="images/move-into-keys.png" height="30" />                  | Move into keys                 | <img src="images/turn-x-z.png" height="30" /> | Turn side to side       |
-| <img src="images/move-out-of-keys.png" height="30" />                | Move out of keys               |                                               |                         |
+|                                                                                                                             |                                |                                                                            |                         |
+|:---------------------------------------------------------------------------------------------------------------------------:|--------------------------------|:--------------------------------------------------------------------------:|-------------------------|
+| <img src="images/move-right.png" height="30" /> <img src="images/move-left.png" height="30" />                              | Move left / right              | <img src="images/turn-facing-you-clock-wise-arrow-left.png" height="60" /> | Turn facing you         |
+| <img src="images/move-toward-black-keys.png" height="30" /><br/><img src="images/move-toward-white-keys.png" height="30" /> | Move toward black / white keys | <img src="images/turn-forward-right-view-arrow-right.png" height="60" />   | Turn forward / backward |
+| <img src="images/move-into-keys-left.png" height="30" /> <img src="images/move-into-keys-right.png" height="30" />          | Move into keys                 | <img src="images/turn-left.png" height="30" />                             | Turn side to side       |
+| <img src="images/move-out-of-keys-left.png" height="30" /> <img src="images/move-out-of-keys-right.png" height="30" />      | Move out of keys               |                                                                            |                         |
+
+### Turning
+
+| | | | | | |
+|-|-|-|-|-|-|
+| Turn facing you<br/>(clockwise) | <img src="images/turn-facing-you-clock-wise-arrow-right.png" height="60" /> | <img src="images/turn-facing-you-clock-wise-arrow-bottom.png" height="60" /> | <img src="images/turn-facing-you-clock-wise-arrow-left.png" height="60" /> | <img src="images/turn-facing-you-clock-wise-arrow-top.png" height="60" /> |
+| Turn facing you<br/>(counter-clockwise) | <img src="images/turn-facing-you-counter-clock-wise-arrow-left.png" height="60" /> | <img src="images/turn-facing-you-counter-clock-wise-arrow-bottom.png" height="60" /> | <img src="images/turn-facing-you-counter-clock-wise-arrow-right.png" height="60" /> | <img src="images/turn-facing-you-counter-clock-wise-arrow-top.png" height="60" /> |
+| Turn right | <img src="images/turn-right-arrow-top-left.png" height="30" /> | <img src="images/turn-right-arrow-top.png" height="30" /> | <img src="images/turn-right-arrow-top-right.png" height="30" /> | <img src="images/turn-right-arrow-bottom-right.png" height="30" /> |
+| Turn left | <img src="images/turn-left-arrow-top-right.png" height="30" /> | <img src="images/turn-left-arrow-top.png" height="30" /> | <img src="images/turn-left-arrow-top-left.png" height="30" /> | <img src="images/turn-left-arrow-bottom-left.png" height="30" /> | 
+| Turn left / right | <img src="images/turn-left-right-arrows-top.png" height="30" /> | <img src="images/turn-left-right-arrows-at-sides.png" height="30" /> | <img src="images/turn-left-right-arrows-bottom.png" height="30" /> |
+| Turn forward | <img src="images/turn-forward-left-view-arrow-left.png" height="60" /> <img src="images/turn-forward-right-view-arrow-right.png" height="60" /> | <img src="images/turn-forward-left-view-arrow-top.png" height="60" /> <img src="images/turn-forward-right-view-arrow-top.png" height="60" /> | <img src="images/turn-forward-left-view-arrow-top-right.png" height="60" /> <img src="images/turn-forward-right-view-arrow-top-left.png" height="60" /> |
+| Turn backward | <img src="images/turn-backward-left-view-arrow-left.png" height="60" /> <img src="images/turn-backward-right-view-arrow-right.png" height="60" /> | <img src="images/turn-backward-left-view-arrow-bottom.png" height="60" /> <img src="images/turn-backward-right-view-arrow-bottom.png" height="60" /> | <img src="images/turn-backward-left-view-arrow-bottom-right.png" height="60" /> <img src="images/turn-backward-right-view-arrow-bottom-left.png" height="60" /> |
+| Turn forward / backward | <img src="images/turn-forward-and-backward-left-view-arrows-left.png" height="60" />  <img src="images/turn-forward-and-backward-right-view-arrows-right.png" height="60" /> | <img src="images/turn-forward-and-backward-left-view-arrows-right.png" height="60" />  <img src="images/turn-forward-and-backward-right-view-arrows-left.png" height="60" /> |
+
+The dashed line may depict it being further away.
 
 ### Nuance
 

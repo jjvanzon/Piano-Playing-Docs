@@ -10,6 +10,10 @@ Symbols currently out of favor.
 
 |                                                                                              |                                                           |
 |:--------------------------------------------------------------------------------------------:|-----------------------------------------------------------|
+| <img src="images/turn-forward-left-view-arrow-bottom-right.png" height="60" />               | Turn forward
+| <img src="images/turn-forward-right-view-arrow-bottom-left.png" height="60" />               | Turn forward
+| <img src="images/turn-forward-left-view-arrow-bottom.png" height="60" />                     | Turn forward
+| <img src="images/turn-forward-right-view-arrow-bottom.png" height="60" />                    | Turn forward
 | <img src="images/gravity-assist-old.png" height="30" />                                      | Gravity assist                                            |
 | <img src="images/gravity-assist-left-old.png" height="30" />                                 | Gravity assist (left)                                     |
 | <img src="images/gravity-assist-right-old.png" height="30" />                                | Gravity assist (right)                                    |
