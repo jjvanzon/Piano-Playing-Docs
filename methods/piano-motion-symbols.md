@@ -377,16 +377,16 @@ May be usually downward into the keys, not likely in other directions.
 | Wrist turn<br/>(forward and backward) / 'flap' | <img src="images/wrist-turn-forward-and-backward-right-view-arrows-top.png" height="45" /> | <img src="images/wrist-turn-forward-and-backward-right-view-arrows-bottom.png" height="45" /> | <img src="images/wrist-turn-forward-and-backward-right-view-arrows-left.png" height="30" /> | <img src="images/wrist-turn-forward-and-backward-right-view-arrows-right.png" height="30" /> | <img src="images/wrist-turn-forward-and-backward-right-view-arrows-around.png" height="45" /> |
 | | <img src="images/wrist-turn-forward-and-backward-left-view-arrows-top.png" height="45" /> | <img src="images/wrist-turn-forward-and-backward-left-view-arrows-bottom.png" height="45" /> | <img src="images/wrist-turn-forward-and-backward-right-view-arrows-left.png" height="30" /> | <img src="images/wrist-turn-forward-and-backward-left-view-arrows-right.png" height="30" /> | <img src="images/wrist-turn-forward-and-backward-left-view-arrows-around.png" height="45" /> |
 
-#### Wrist Turn Implicit Notation
+#### Implicit Wrist Turn
 
 Wrist symbols might be optional for wrist turning.
 
 | | | | | | |
 |-|:-:|-|:-:|-|:-:|
-| Implicit wrist turn<br/>(right) / 'pivot' | <img src="images/wrist-turn-right.png" height="30" /> | Implicit wrist turn<br/>(left) / 'pivot' | <img src="images/wrist-turn-left.png" height="30" /> | Implicit wrist turn<br/>(right and left) / 'pivot' | <img src="images/wrist-turn-right-left.png" height="30" /> |
-| Implicit wrist turn<br/>(clockwise) | <img src="images/wrist-turn-facing-you-right.png" height="30" /> | Implicit wrist turn<br/>(counter-clockwise) | <img src="images/wrist-turn-facing-you-left.png" height="30" /> | Implicit wrist turn<br/>(clockwise and counter-clockwise) | <img src="images/wrist-turn-facing-you-right-left.png" height="30" /> |
-| Implicit wrist turn<br/>(forward) / 'flap' | <img src="images/wrist-turn-forward-right.png" height="45" /> | Implicit wrist turn<br/>(backward) / 'flap' | <img src="images/wrist-turn-backward-right.png" height="45" /> | Implicit wrist turn<br/>(forward & backward) / 'flap' | <img src="images/wrist-turn-forward-and-backward-right.png" height="45" /> |
-| | <img src="images/wrist-turn-forward-left.png" height="45" /> | | <img src="images/wrist-turn-backward-left.png" height="45" /> | | <img src="images/wrist-turn-forward-and-backward-left.png" height="45" /> |
+| Implicit wrist turn<br/>(right) / 'pivot' | <img src="images/implicit-wrist-turn-right.png" height="30" /> | Implicit wrist turn<br/>(left) / 'pivot' | <img src="images/implicit-wrist-turn-left.png" height="30" /> | Implicit wrist turn<br/>(right and left) / 'pivot' | <img src="images/implicit-wrist-turn-right-left.png" height="30" /> |
+| Implicit wrist turn<br/>(clockwise) | <img src="images/implicit-wrist-turn-clock-wise.png" height="30" /> | Implicit wrist turn<br/>(counter-clockwise) | <img src="images/implicit-wrist-turn-counter-clock-wise.png" height="30" /> | Implicit wrist turn<br/>(clockwise and counter-clockwise) | <img src="images/implicit-wrist-turn-clock-wise-and-counter-clock-wise.png" height="30" /> |
+| Implicit wrist turn<br/>(forward) / 'flap' | <img src="images/implicit-wrist-turn-forward-right.png" height="45" /> | Implicit wrist turn<br/>(backward) / 'flap' | <img src="images/implicit-wrist-turn-backward-right.png" height="45" /> | Implicit wrist turn<br/>(forward & backward) / 'flap' | <img src="images/implicit-wrist-turn-forward-and-backward-right.png" height="45" /> |
+| | <img src="images/implicit-wrist-turn-forward-left.png" height="45" /> | | <img src="images/implicit-wrist-turn-backward-left.png" height="45" /> | | <img src="images/implicit-wrist-turn-forward-and-backward-left.png" height="45" /> |
 
 #### Wrist Stress
 
