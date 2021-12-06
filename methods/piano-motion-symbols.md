@@ -59,15 +59,7 @@ The dashed line may depict it being further away.
 
 #### Turning Arc
 
-<img src="images/turn-counter-clock-wise-arc-top-right-to-top-left.png" height="60" /> 
-<img src="images/turn-counter-clock-wise-arc-top-to-top-left.png" height="60" /> 
-<img src="images/turn-turning-arc-top.png" height="60" /> 
-<img src="images/turn-forward-and-backward-right-view-arc-right-to-top.png" height="60" /> 
-<img src="images/turn-forward-right-view-arc-bottom-right-to-top.png" height="60" /> 
-<img src="images/turn-forward-right-view-arc-right-to-top.png" height="60" /> 
-<img src="images/turn-forward-right-view-arc-right-to-top-left.png" height="60" /> 
-<img src="images/turn-forward-right-view-arc-top-right-to-top-left.png" height="60" /> 
-<img src="images/turn-right-arc-top-to-right.png" height="30" /> 
+<img src="images/turn-counter-clock-wise-arc-top-right-to-top-left.png" height="60" /> <img src="images/turn-counter-clock-wise-arc-top-to-top-left.png" height="60" /> <img src="images/turn-turning-arc-top.png" height="60" /> <img src="images/turn-forward-and-backward-right-view-arc-right-to-top.png" height="60" /> <img src="images/turn-forward-right-view-arc-bottom-right-to-top.png" height="60" /> <img src="images/turn-forward-right-view-arc-right-to-top.png" height="60" /> <img src="images/turn-forward-right-view-arc-right-to-top-left.png" height="60" /> <img src="images/turn-forward-right-view-arc-top-right-to-top-left.png" height="60" /> <img src="images/turn-right-arc-top-to-right.png" height="30" /> 
 
 ### Nuance
 
@@ -220,22 +212,6 @@ May be usually downward into the keys, not likely in other directions.
 
 #### Finger Turn
 
-Finger turning may coincide with finger moving,  
-but perhaps more of an emphasis on rotational motion.  
-Finger turning may happen over a pivotal point where the finger is attached.
-
-Fingers may pivot over 2 axes:
-
-- Forward in and out of keys
-- Sideways facing you (finger wagging)
-
-The thumb may pivot over another 3rd axis (depending on orientation):
-
-- Sideways oriented in and out of keys
-
-The fingers might not make full rotations, but partial rotation arcs.  
-Finger wagging may be aided by the friction of the other fingers on the key bed.
-
 | | | | | | | |
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
 | Finger turn<br/>(right /<br/>sideways in & out of keys /<br/>thumb only) | <img src="images/finger-turn-right-with-number-left-thumb-arrow-top.png" height="30" /> | <img src="images/finger-turn-right-with-number-left-thumb-arrow-right.png" height="20" /> | <img src="images/finger-turn-right-with-number-left-thumb-arrow-bottom.png" height="30" /> | <img src="images/finger-turn-right-with-number-left-thumb-arrow-left.png" height="20" /> | <img src="images/finger-turn-right-with-number-left-thumb-arrow-around.png" height="30" /> |
@@ -302,6 +278,23 @@ Finger wagging may be aided by the friction of the other fingers on the key bed.
 | | <img src="images/finger-turn-clock-wise-and-counter-clock-wise-3-fingers-middle-finger-arrows-top.png" height="30" /> | | <img src="images/finger-turn-clock-wise-and-counter-clock-wise-3-fingers-middle-finger-arrows-bottom.png" height="30" /> | |
 | | <img src="images/finger-turn-clock-wise-and-counter-clock-wise-3-fingers-right-finger-arrows-top.png" height="30" /> | <img src="images/finger-turn-clock-wise-and-counter-clock-wise-3-fingers-right-finger-arrows-right.png" height="20" /> | <img src="images/finger-turn-clock-wise-and-counter-clock-wise-3-fingers-right-finger-arrows-bottom.png" height="30" /> | |
 
+##### Finger Turn Comment
+
+Finger turning may coincide with finger moving,  
+but perhaps more of an emphasis on rotational motion.  
+Finger turning may happen over a pivotal point where the finger is attached.
+
+Fingers may pivot over 2 axes:
+
+- Forward in and out of keys
+- Sideways facing you (finger wagging)
+
+The thumb may pivot over another 3rd axis (depending on orientation):
+
+- Sideways oriented in and out of keys
+
+The fingers might not make full rotations, but partial rotation arcs.  
+Finger wagging may be aided by the friction of the other fingers on the key bed.
 
 #### Finger Enunciation
 
@@ -343,7 +336,7 @@ Finger wagging may be aided by the friction of the other fingers on the key bed.
 | <img src="images/wrist-move-into-keys.png" height="30" />         | Wrist move<br/>(into keys)          | <img src="images/wrist-move-in-and-out-of-keys.png" height="40" /> | Wrist move<br/>(in / out of keys)    | <img src="images/wrist-move-out-of-keys.png" height="30" />                 | Wrist move<br/>(out of keys)                  |
 | <img src="images/wrist-move-toward-black-keys.png" height="45" /> | Wrist move<br/>(toward black keys)  | <img src="images/wrist-move-toward-white-keys.png" height="45" />  | Wrist move<br/>(toward white keys)   | <img src="images/wrist-move-toward-black-and-white-keys.png" height="45" /> | Wrist move<br/>(toward black and white keys)  |
 
-(These one-sided wrist *moves* may be similar to wrist *turning*:)
+(These one-sided wrist *moves* may be similar to wrist *turning*: )
 
 |                                                                         |                                            |                                                                         |                                            |                                                                                   |                                                      |
 |:-----------------------------------------------------------------------:|--------------------------------------------|:-----------------------------------------------------------------------:|--------------------------------------------|:---------------------------------------------------------------------------------:|------------------------------------------------------|
@@ -369,13 +362,31 @@ May be usually downward into the keys, not likely in other directions.
 
 #### Wrist Turn
 
-|                                                                            |                                                    |                                                                            |                                                 |                                                                           |                                          |
-|:--------------------------------------------------------------------------:|----------------------------------------------------|:--------------------------------------------------------------------------:|-------------------------------------------------|:-------------------------------------------------------------------------:|------------------------------------------|
-| <img src="images/wrist-turn-right.png" height="30" />                      | Wrist turn (right) / 'pivot'                       | <img src="images/wrist-turn-left.png" height="30" />                       | Wrist turn (left) / 'pivot'                     | <img src="images/wrist-turn-right-left.png" height="30" />            | wrist turn (right and left) / 'pivot'    |
-| <img src="images/wrist-turn-facing-you-right.png" height="30" />           | wrist turn (facing you / right)                    | <img src="images/wrist-turn-facing-you-left.png" height="30" />            | wrist turn (facing you / left)                  | <img src="images/wrist-turn-facing-you-right-left.png" height="30" /> | wrist turn (facing you / right and left) |
-| <img src="images/wrist-turn-forward-right.png" height="45" />              | Wrist turn (forward / right) / 'flap'              | <img src="images/wrist-turn-forward-left.png" height="45" />               | Wrist turn forward (left) / 'flap'              |                                                                           |                                          |
-| <img src="images/wrist-turn-backward-right.png" height="45" />             | Wrist turn (backward / right) / 'flap'             | <img src="images/wrist-turn-backward-left.png" height="45" />              | Wrist turn backward (left) / 'flap'             |                                                                           |                                          |
-| <img src="images/wrist-turn-forward-and-backward-right.png" height="45" /> | Wrist turn (forward and backward / right) / 'flap' | <img src="images/wrist-turn-forward-and-backward-left.png" height="45" />  | Wrist turn forward and backward (left) / 'flap' |                                                                           |                                          |
+| | | | | | |
+|-|:-:|:-:|:-:|:-:|:-:|
+| Wrist turn<br/>(right) / 'pivot' | <img src="images/wrist-turn-right-arrow-top.png" height="30" /> | <img src="images/wrist-turn-right-arrow-bottom.png" height="30" /> | <img src="images/wrist-turn-right-arrow-left.png" height="20" /> | <img src="images/wrist-turn-right-arrow-right.png" height="20" /> | <img src="images/wrist-turn-right-arrow-around.png" height="30" /> |
+| Wrist turn<br/>(left) / 'pivot' | <img src="images/wrist-turn-left-arrow-top.png" height="30" /> | <img src="images/wrist-turn-left-arrow-bottom.png" height="30" /> | <img src="images/wrist-turn-left-arrow-left.png" height="20" /> | <img src="images/wrist-turn-left-arrow-right.png" height="20" /> | <img src="images/wrist-turn-left-arrow-around.png" height="30" /> |
+| wrist turn<br/>(right and left) / 'pivot' | <img src="images/wrist-turn-right-left-arrows-top.png" height="30" /> | <img src="images/wrist-turn-right-left-arrows-bottom.png" height="30" /> | <img src="images/wrist-turn-right-left-arrows-left.png" height="20" /> | <img src="images/wrist-turn-right-left-arrows-right.png" height="20" /> | <img src="images/wrist-turn-right-left-arrows-around.png" height="30" />
+| wrist turn<br/>(clockwise) | <img src="images/wrist-turn-clock-wise-arrow-top.png" height="30" /> | <img src="images/wrist-turn-clock-wise-arrow-bottom.png" height="30" /> | <img src="images/wrist-turn-clock-wise-arrow-left.png" height="20" /> | <img src="images/wrist-turn-clock-wise-arrow-left.png" height="20" /> | <img src="images/wrist-turn-clock-wise-arrow-around.png" height="30" /> |
+| wrist turn<br/>(counter-clockwise) | <img src="images/wrist-turn-counter-clock-wise-arrow-top.png" height="30" /> | <img src="images/wrist-turn-counter-clock-wise-arrow-bottom.png" height="30" /> | <img src="images/wrist-turn-counter-clock-wise-arrow-left.png" height="20" /> | <img src="images/wrist-turn-counter-clock-wise-arrow-left.png" height="20" /> | <img src="images/wrist-turn-counter-clock-wise-arrow-around.png" height="30" /> |
+| wrist turn<br/>(clockwise and counter-clockwise) | <img src="images/wrist-turn-clock-wise-and-counter-clock-wise-arrows-top.png" height="30" /> | <img src="images/wrist-turn-clock-wise-and-counter-clock-wise-arrows-bottom.png" height="30" /> | <img src="images/wrist-turn-clock-wise-and-counter-clock-wise-arrows-left.png" height="20" /> | <img src="images/wrist-turn-clock-wise-and-counter-clock-wise-arrows-left.png" height="20" /> | <img src="images/wrist-turn-clock-wise-and-counter-clock-wise-arrows-around.png" height="30" /> |
+| Wrist turn<br/>(forward) / 'flap' | <img src="images/wrist-turn-forward-right-view-arrow-top.png" height="45" /> | <img src="images/wrist-turn-forward-right-view-arrow-bottom.png" height="45" /> | <img src="images/wrist-turn-forward-right-view-arrow-left.png" height="30" /> | <img src="images/wrist-turn-forward-right-view-arrow-right.png" height="30" /> | <img src="images/wrist-turn-forward-right-view-arrow-around.png" height="45" /> |
+| | <img src="images/wrist-turn-forward-left-view-arrow-top.png" height="45" /> | <img src="images/wrist-turn-forward-left-view-arrow-bottom.png" height="45" /> | <img src="images/wrist-turn-forward-right-view-arrow-left.png" height="30" /> | <img src="images/wrist-turn-forward-left-view-arrow-right.png" height="30" /> | <img src="images/wrist-turn-forward-left-view-arrow-around.png" height="45" /> |
+| Wrist turn<br/>(backward) / 'flap' | <img src="images/wrist-turn-backward-right-view-arrow-top.png" height="45" /> | <img src="images/wrist-turn-backward-right-view-arrow-bottom.png" height="45" /> | <img src="images/wrist-turn-backward-right-view-arrow-left.png" height="30" /> | <img src="images/wrist-turn-backward-right-view-arrow-right.png" height="30" /> | <img src="images/wrist-turn-backward-right-view-arrow-around.png" height="45" /> |
+| | <img src="images/wrist-turn-backward-left-view-arrow-top.png" height="45" /> | <img src="images/wrist-turn-backward-left-view-arrow-bottom.png" height="45" /> | <img src="images/wrist-turn-backward-right-view-arrow-left.png" height="30" /> | <img src="images/wrist-turn-backward-left-view-arrow-right.png" height="30" /> | <img src="images/wrist-turn-backward-left-view-arrow-around.png" height="45" /> |
+| Wrist turn<br/>(forward and backward) / 'flap' | <img src="images/wrist-turn-forward-and-backward-right-view-arrows-top.png" height="45" /> | <img src="images/wrist-turn-forward-and-backward-right-view-arrows-bottom.png" height="45" /> | <img src="images/wrist-turn-forward-and-backward-right-view-arrows-left.png" height="30" /> | <img src="images/wrist-turn-forward-and-backward-right-view-arrows-right.png" height="30" /> | <img src="images/wrist-turn-forward-and-backward-right-view-arrows-around.png" height="45" /> |
+| | <img src="images/wrist-turn-forward-and-backward-left-view-arrows-top.png" height="45" /> | <img src="images/wrist-turn-forward-and-backward-left-view-arrows-bottom.png" height="45" /> | <img src="images/wrist-turn-forward-and-backward-right-view-arrows-left.png" height="30" /> | <img src="images/wrist-turn-forward-and-backward-left-view-arrows-right.png" height="30" /> | <img src="images/wrist-turn-forward-and-backward-left-view-arrows-around.png" height="45" /> |
+
+#### Wrist Turn Implicit Notation
+
+Wrist symbols might be optional for wrist turning.
+
+| | | | | | |
+|-|:-:|-|:-:|-|:-:|
+| Implicit wrist turn<br/>(right) / 'pivot' | <img src="images/wrist-turn-right.png" height="30" /> | Implicit wrist turn<br/>(left) / 'pivot' | <img src="images/wrist-turn-left.png" height="30" /> | Implicit wrist turn<br/>(right and left) / 'pivot' | <img src="images/wrist-turn-right-left.png" height="30" /> |
+| Implicit wrist turn<br/>(clockwise) | <img src="images/wrist-turn-facing-you-right.png" height="30" /> | Implicit wrist turn<br/>(counter-clockwise) | <img src="images/wrist-turn-facing-you-left.png" height="30" /> | Implicit wrist turn<br/>(clockwise and counter-clockwise) | <img src="images/wrist-turn-facing-you-right-left.png" height="30" /> |
+| Implicit wrist turn<br/>(forward) / 'flap' | <img src="images/wrist-turn-forward-right.png" height="45" /> | Implicit wrist turn<br/>(backward) / 'flap' | <img src="images/wrist-turn-backward-right.png" height="45" /> | Implicit wrist turn<br/>(forward & backward) / 'flap' | <img src="images/wrist-turn-forward-and-backward-right.png" height="45" /> |
+| | <img src="images/wrist-turn-forward-left.png" height="45" /> | | <img src="images/wrist-turn-backward-left.png" height="45" /> | | <img src="images/wrist-turn-forward-and-backward-left.png" height="45" /> |
 
 #### Wrist Stress
 
