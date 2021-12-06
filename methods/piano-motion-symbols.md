@@ -343,7 +343,7 @@ Finger wagging may be aided by the friction of the other fingers on the key bed.
 | <img src="images/wrist-move-into-keys.png" height="30" />         | Wrist move<br/>(into keys)          | <img src="images/wrist-move-in-and-out-of-keys.png" height="40" /> | Wrist move<br/>(in / out of keys)    | <img src="images/wrist-move-out-of-keys.png" height="30" />                 | Wrist move<br/>(out of keys)                  |
 | <img src="images/wrist-move-toward-black-keys.png" height="45" /> | Wrist move<br/>(toward black keys)  | <img src="images/wrist-move-toward-white-keys.png" height="45" />  | Wrist move<br/>(toward white keys)   | <img src="images/wrist-move-toward-black-and-white-keys.png" height="45" /> | Wrist move<br/>(toward black and white keys)  |
 
-These wrist *moves* may be similar to wrist *turning*:
+(These one-sided wrist *moves* may be similar to wrist *turning*:)
 
 |                                                                         |                                            |                                                                         |                                            |                                                                                   |                                                      |
 |:-----------------------------------------------------------------------:|--------------------------------------------|:-----------------------------------------------------------------------:|--------------------------------------------|:---------------------------------------------------------------------------------:|------------------------------------------------------|
