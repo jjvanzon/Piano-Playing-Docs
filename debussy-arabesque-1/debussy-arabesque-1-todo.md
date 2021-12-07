@@ -36,7 +36,7 @@ TODO
 - [x] Checking base line again.
 - [x] Checking chords again.
 - [x] Scanning version with simplified notes, chords and bass line.
-- [ ] Cleaning up images
+- [x] Cleaning up images
     - [x] Contrast +19 in paint.NET
     - [x] Cropping
     - [x] Tilting / rotating
@@ -46,7 +46,9 @@ TODO
 - [ ] Preparing for publishing
     - [x] Word doc
     - [x] PDF
-    - [ ] print
+    - [x] Print
+    - [ ] Checking clarity
+        - [ ] Some chords seem a bit faint.
     - [ ] Checking notes
     - [ ] Checking base line
     - [ ] Checking chords
