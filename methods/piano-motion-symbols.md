@@ -82,7 +82,6 @@ Nuance, like press *a little* or move *a lot*, may be written down like this:
 | <img src="images/reach-black-keys.png" height="30" />             | Reach black keys         | If arpeggiated, might prefer crossing over instead.     |
 | <img src="images/reach-white-keys.png" height="30" />             | Reach white keys         | If arpeggiated, might prefer crossing over instead.     |
 | <img src="images/stretch-diagonally.png" height="30" />           | Stretch diagonally       | Composite of stretch sideways and reach for black keys. |
-| <img src="images/finger-press-into-keys-right.png" height="45" /> | Finger move into keys    | Pressure coming out of the fingers.                     |
 | <img src="images/arm-press-into-keys-right.png" height="45" />    | Arm move into key        | Pressure coming out of the arm.                         |
 | <img src="images/hand-resting-on-keys.png" height="30" />         | Hand resting on keys     |                                                         |
 | <img src="images/hand-resting-on-lap.png" height="30" />          | Hand resting on lap      |                                                         |
