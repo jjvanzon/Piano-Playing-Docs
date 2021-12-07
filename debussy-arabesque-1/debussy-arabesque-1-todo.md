@@ -30,5 +30,23 @@ TODO
     - [x] Might shove over chords to make room.
     - [x] Might use a separate print for fingering.
 - [x] Checking fingering.
-- [ ] Checking chord.
-- [ ] Checking bass line.
+- [x] Checking bass line.
+- [x] Checking chords.
+- [x] Nicify hand writing.
+- [x] Checking base line again.
+- [x] Checking chords again.
+- [x] Scanning version with simplified notes, chords and bass line.
+- [ ] Cleaning up images
+    - [x] Contrast +19 in paint.NET
+    - [x] Cropping
+    - [x] Tilting / rotating
+    - [x] Removing part subdivision
+    - [x] Cleaning up the chord writings
+    - [x] Cleaning up smudges
+- [ ] Preparing for publishing
+    - [x] Word doc
+    - [x] PDF
+    - [ ] print
+    - [ ] Checking notes
+    - [ ] Checking base line
+    - [ ] Checking chords
