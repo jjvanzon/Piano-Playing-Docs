@@ -1,11 +1,16 @@
 Debussy Arabesque Ⅰ
 ===================
 
-Notes with Chords & Bass Line
------------------------------
+Notes, Chords & Bass Line
+-------------------------
 
-Visually simpler notes. Accidentals always placed near notes, even when part of the key.  
-Added chords and bass line.
+### Introduction
+
+Visually simpler notes with chords and bass line. Accidentals always placed near notes, even when part of the key. 
+
+### Preview
+
+<img src="debussy-arabesque-1-notes-chords-bass-line-preview.png" height="250" />
 
 ### Contents
 
