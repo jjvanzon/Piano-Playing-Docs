@@ -49,9 +49,12 @@ TODO
     - [x] Print
 - [ ] Checking clarity
     - [ ] Some chords seem a bit faint.
-    - [ ] Brightness contrast? / Brush tool?
+    - [ ] Brightness contrast ~~/ Brush tool?~~
         - [ ] > Brightness / contrast easier
-    - [ ] Some chords? / All chords / whole page?
+        - [ ] Brightness -40 / contrast 40
+    - [ ] ~~Some chords /~~ All chords ~~/ whole page~~
+        - [ ] > All chords seems practical.
+        - [ ] > Whole page may make notes less clear.
     - [ ] Subjective towards my printer?
 - [ ] Preparing for publishing
     - [ ] Checking notes
