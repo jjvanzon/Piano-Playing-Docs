@@ -43,20 +43,19 @@ TODO
     - [x] Cleaning up the chord writings
     - [x] Removing part subdivision
     - [x] Cleaning up smudges
-- [ ] Preparing for publishing
+- [x] Preparing for publishing
     - [x] Word doc
     - [x] PDF
     - [x] Print
-- [ ] Checking clarity
-    - [ ] Some chords seem a bit faint.
-    - [ ] Brightness contrast ~~/ Brush tool?~~
-        - [ ] > Brightness / contrast easier
-        - [ ] Brightness -40 / contrast 40
-    - [ ] ~~Some chords /~~ All chords ~~/ whole page~~
-        - [ ] > All chords seems practical.
-        - [ ] > Whole page may make notes less clear.
-    - [ ] Subjective towards my printer?
-- [ ] Preparing for publishing
-    - [ ] Checking notes
-    - [ ] Checking base line
-    - [ ] Checking chords
+- [x] Checking clarity
+    - [x] Some chords seem a bit faint.
+    - [x] Each chords brightness -40 / contrast 40
+    - [x] Sometimes twice
+    - [x] Rework with brush or curves.
+    - [x] Until black
+- [x] Checking
+    - [x] Checking notes
+    - [x] Checking base line
+    - [x] Checking chords
+- [x] Correction:
+    - [x] Bb seems strange (on 1st page, 2nd last line). A# is used later and might be preferred.
