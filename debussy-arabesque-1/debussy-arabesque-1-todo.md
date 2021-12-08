@@ -40,15 +40,20 @@ TODO
     - [x] Contrast +19 in paint.NET
     - [x] Cropping
     - [x] Tilting / rotating
-    - [x] Removing part subdivision
     - [x] Cleaning up the chord writings
+    - [x] Removing part subdivision
     - [x] Cleaning up smudges
 - [ ] Preparing for publishing
     - [x] Word doc
     - [x] PDF
     - [x] Print
-    - [ ] Checking clarity
-        - [ ] Some chords seem a bit faint.
+- [ ] Checking clarity
+    - [ ] Some chords seem a bit faint.
+    - [ ] Brightness contrast? / Brush tool?
+        - [ ] > Brightness / contrast easier
+    - [ ] Some chords? / All chords / whole page?
+    - [ ] Subjective towards my printer?
+- [ ] Preparing for publishing
     - [ ] Checking notes
     - [ ] Checking base line
     - [ ] Checking chords
