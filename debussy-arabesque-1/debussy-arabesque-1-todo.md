@@ -23,39 +23,5 @@ TODO
 
 ### 2021-11-26 TODO Copying Analyses to New Sheet Music
 
-- [x] Chords
-- [x] Bass line
-- [x] Fingering
-    - [x] Making numbers bigger.
-    - [x] Might shove over chords to make room.
-    - [x] Might use a separate print for fingering.
-- [x] Checking fingering.
-- [x] Checking bass line.
-- [x] Checking chords.
-- [x] Nicify hand writing.
-- [x] Checking base line again.
-- [x] Checking chords again.
-- [x] Scanning version with simplified notes, chords and bass line.
-- [x] Cleaning up images
-    - [x] Contrast +19 in paint.NET
-    - [x] Cropping
-    - [x] Tilting / rotating
-    - [x] Cleaning up the chord writings
-    - [x] Removing part subdivision
-    - [x] Cleaning up smudges
-- [x] Preparing for publishing
-    - [x] Word doc
-    - [x] PDF
-    - [x] Print
-- [x] Checking clarity
-    - [x] Some chords seem a bit faint.
-    - [x] Each chords brightness -40 / contrast 40
-    - [x] Sometimes twice
-    - [x] Rework with brush or curves.
-    - [x] Until black
-- [x] Checking
-    - [x] Checking notes
-    - [x] Checking base line
-    - [x] Checking chords
-- [x] Correction:
-    - [x] Bb seems strange (on 1st page, 2nd last line). A# is used later and might be preferred.
+- [ ] Erase the chords from the sheet music with the original analysis.
+- [ ] I may not have copied all fingering things to a new version.
