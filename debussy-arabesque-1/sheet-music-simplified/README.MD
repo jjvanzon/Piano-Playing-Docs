@@ -4,10 +4,13 @@ Debussy Arabesque Ⅰ
 Sheet Music Simplified
 ----------------------
 
+### Introduction
+
 Visually simpler. Accidentals always placed near notes, even when part of the key.
 
-Derived from:  
-[Michael Kravchuk - Free Piano Sheet Music – First Arabesque – Debussy](https://michaelkravchuk.com/free-piano-sheet-music-first-arabesque-debussy/)
+### Preview
+
+<img src="debussy-arabesque-1-sheet-music-simplified-preview.jpg" height="250" />
 
 ### Contents
 
@@ -19,3 +22,7 @@ Derived from:
 - [Debussy Arabesque Ⅰ Sheet Music Simplified Page 4 (png)](debussy-arabesque-1-sheet-music-simplified-page-4.png)
 - [Debussy Arabesque Ⅰ Sheet Music Simplified Page 5 (png)](debussy-arabesque-1-sheet-music-simplified-page-5.png)
 
+### Original
+
+Derived from:  
+[Michael Kravchuk - Free Piano Sheet Music – First Arabesque – Debussy](https://michaelkravchuk.com/free-piano-sheet-music-first-arabesque-debussy/)
