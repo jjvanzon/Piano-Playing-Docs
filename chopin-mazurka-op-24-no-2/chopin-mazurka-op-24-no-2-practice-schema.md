@@ -4,7 +4,7 @@ Chopin Mazurka Op. 24, No. 2
 Practice Schema
 ---------------
 
-[Method](/methods/practice-schema.md)
+Click [here](/methods/practice-schema.md) for method description.
 
 |  Part   |   Read    | Memorize  | Technique |Expression |
 |:-------:|:---------:|:---------:|:---------:|:---------:|
