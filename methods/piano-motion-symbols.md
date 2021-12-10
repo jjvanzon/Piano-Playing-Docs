@@ -468,16 +468,16 @@ Wrist symbols might be optional for wrist turning.
 
 (Combined with wrist positions.)
 
-| | | | |
-|:-:|-|:-:|-|
-| <img src="images/wrist-tight-flat-fingers-symbols-left-right.png" height="30" /> | Wrist tight (flat fingers) | <img src="images/wrist-loose-flat-fingers-symbols-left-right.png" height="30" /> | Wrist loose (flat fingers) |
-| <img src="images/wrist-tight-flat-fingers-symbols-top-bottom.png" height="45" /> | | <img src="images/wrist-loose-flat-fingers-symbols-top-bottom.png" height="45" /> | |
-| <img src="images/wrist-tight-pronounced-symbols-left-right.png" height="30" /> | Wrist tight (pronounced) | <img src="images/wrist-loose-pronounced-symbols-left-right.png" height="30" /> | Wrist loose (pronounced) |
-| <img src="images/wrist-tight-pronounced-symbols-top-bottom.png" height="45" /> | | <img src="images/wrist-loose-pronounced-symbols-top-bottom.png" height="45" /> | |
-| <img src="images/wrist-tight-curved-symbols-left-right.png" height="30" /> | Wrist tight (curved) | <img src="images/wrist-loose-curved-symbols-left-right.png" height="30" /> | Wrist loose (curved) |
-| <img src="images/wrist-tight-curved-symbols-top-bottom.png" height="30" /> | | <img src="images/wrist-loose-curved-symbols-top-bottom.png" height="30" /> | |
-| <img src="images/wrist-tight-high-symbols-left-right.png" height="45" /> | Wrist tight (high) | <img src="images/wrist-loose-high-symbols-left-right.png" height="45" /> | Wrist loose (high) |
-| <img src="images/wrist-tight-high-symbols-top-bottom.png" height="60" /> | | <img src="images/wrist-loose-high-symbols-top-bottom.png" height="60" /> | |
+| | | |
+|-|:-:|:-:|
+| Wrist tight (flat fingers) | <img src="images/wrist-tight-flat-fingers-symbols-left-right.png" height="30" /> | <img src="images/wrist-tight-flat-fingers-symbols-top-bottom.png" height="45" /> | 
+| Wrist loose (flat fingers) | <img src="images/wrist-loose-flat-fingers-symbols-left-right.png" height="30" /> | <img src="images/wrist-loose-flat-fingers-symbols-top-bottom.png" height="45" /> |
+| Wrist tight (pronounced) | <img src="images/wrist-tight-pronounced-symbols-left-right.png" height="30" /> | <img src="images/wrist-tight-pronounced-symbols-top-bottom.png" height="45" /> |
+| Wrist loose (pronounced) | <img src="images/wrist-loose-pronounced-symbols-left-right.png" height="30" /> | <img src="images/wrist-loose-pronounced-symbols-top-bottom.png" height="45" /> |
+| Wrist tight (curved) | <img src="images/wrist-tight-curved-symbols-left-right.png" height="30" /> | <img src="images/wrist-tight-curved-symbols-top-bottom.png" height="45" /> |
+| Wrist loose (curved) | <img src="images/wrist-loose-curved-symbols-left-right.png" height="30" /> | <img src="images/wrist-loose-curved-symbols-top-bottom.png" height="45" /> |
+| Wrist tight (high) | <img src="images/wrist-tight-high-symbols-left-right.png" height="45" /> | <img src="images/wrist-tight-high-symbols-top-bottom.png" height="60" /> |
+| Wrist loose (high) | <img src="images/wrist-loose-high-symbols-left-right.png" height="45" /> | <img src="images/wrist-loose-high-symbols-top-bottom.png" height="60" /> |
 
 ### Torso
 
