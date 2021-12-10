@@ -19,12 +19,10 @@ You may find some of my methods of working here.
 
     - A methods for keeping overview, scoring progress of different parts and aspects of a musical piece.
 
-- [Piano Motion Symbols (MarkDown)](piano-motion-symbols.md)
+- [Piano Motion Symbols (MarkDown)](piano-motion-symbols.md) `[Draft]`
 
-  - `[Draft]`  
-    This is an idea of extending fingering notation from just numbers to additional symbols, indicating the kind of hand movement involved. This is in MarkDown format, more readable like a web site.
+  - This is an idea of extending fingering notation from just numbers to additional symbols, indicating the kind of hand movement involved. This is in MarkDown format, more readable like a web site.
   
-- [Piano Motion Symbols (PDF)](piano-motion-symbols.pdf)
+- [Piano Motion Symbols (PDF)](piano-motion-symbols.pdf) `[Draft]`
 
-  - `[Draft]`  
-    This is an idea of extending fingering notation from just numbers to additional symbols, indicating the kind of hand movement involved. This is in PDF format, which may be easier to print. 
+  - This is an idea of extending fingering notation from just numbers to additional symbols, indicating the kind of hand movement involved. This is in PDF format, which may be easier to print. 
