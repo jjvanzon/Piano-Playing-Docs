@@ -16,7 +16,7 @@ I hope this might help create awareness of the body and help with piano techniqu
 
 Piano playing may involve:  
 
-- position, move, stretch, turn, press, stress or hold stationary
+- position, move, spread, turn, press, stress or hold stationary
 - fingers, wrist, arm and torso  
 - in x, y or z directions.
 
@@ -29,7 +29,7 @@ These symbols aim to be a quite literal representation of body and motion, while
 |                                                            |              |                                                                          |            |                                                  |                   |
 |------------------------------------------------------------|--------------|--------------------------------------------------------------------------|------------|--------------------------------------------------|-------------------|
 | <img src="images/1-finger-curved-right.png" height="30" /> | Finger       | <img src="images/move-into-keys-right.png" height="30" />                | Move       | <img src="images/press-right.png" height="45" /> | Press             |
-| <img src="images/3-fingers-curved.png" height="30" />      | Fingers      | <img src="images/stretch.png" height="30" />                             | Stretch    | <img src="images/loose.png" height="30" />       | Loose             |
+| <img src="images/3-fingers-curved.png" height="30" />      | Fingers      | <img src="images/spread.png" height="30" />                              | Spread     | <img src="images/loose.png" height="30" />       | Loose             |
 | <img src="images/wrist-curved.png" height="30" />          | Wrist        | <img src="images/turn-forward-right-view-arrow-right.png" height="60" /> | Turn       | <img src="images/tight.png" height="30" />       | Tight             |
 | <img src="images/torso-plus-arms.png" height="30" />       | Torso / arms | <img src="images/stationary.png" height="30" />                          | Stationary | <img src="images/parenthesis.png" height="30" /> | Slightly (braces) |
 
@@ -76,17 +76,17 @@ Nuance, like press *a little* or move *a lot*, may be written down like this:
 
 ### Tension & Release
 
-|                                                                   |                          |                                                         |
-|:-----------------------------------------------------------------:|--------------------------|---------------------------------------------------------|
-| <img src="images/reach-side-ways-right.png" height="30" />        | Reach sideways           | Then let go, move hand back.                            |
-| <img src="images/reach-side-ways-left.png" height="30" />         | Reach sideways           | Then let go, move hand back.                            |
-| <img src="images/stretch.png" height="30" />                      | Stretch                  | Stretching fingers wider. But trying to release soon.   |
-| <img src="images/reach-black-keys.png" height="30" />             | Reach black keys         | If arpeggiated, might prefer crossing over instead.     |
-| <img src="images/reach-white-keys.png" height="30" />             | Reach white keys         | If arpeggiated, might prefer crossing over instead.     |
-| <img src="images/stretch-diagonally.png" height="30" />           | Stretch diagonally       | Composite of stretch sideways and reach for black keys. |
-| <img src="images/arm-press-into-keys-right.png" height="45" />    | Arm move into key        | Pressure coming out of the arm.                         |
-| <img src="images/hand-resting-on-keys.png" height="30" />         | Hand resting on keys     |                                                         |
-| <img src="images/hand-resting-on-lap.png" height="30" />          | Hand resting on lap      |                                                         |
+|                                                                |                      |                                                        |
+|:--------------------------------------------------------------:|----------------------|--------------------------------------------------------|
+| <img src="images/reach-side-ways-right.png" height="30" />     | Reach sideways       | Then let go, move hand back.                           |
+| <img src="images/reach-side-ways-left.png" height="30" />      | Reach sideways       | Then let go, move hand back.                           |
+| <img src="images/spread.png" height="30" />                    | Spread               | Spreading fingers wider. But trying to release soon.   |
+| <img src="images/reach-black-keys.png" height="30" />          | Reach black keys     | If arpeggiated, might prefer crossing over instead.    |
+| <img src="images/reach-white-keys.png" height="30" />          | Reach white keys     | If arpeggiated, might prefer crossing over instead.    |
+| <img src="images/spread-diagonally.png" height="30" />         | Spread diagonally    | Composite of spread sideways and reach for black keys. |
+| <img src="images/arm-press-into-keys-right.png" height="45" /> | Arm move into key    | Pressure coming out of the arm.                        |
+| <img src="images/hand-resting-on-keys.png" height="30" />      | Hand resting on keys |                                                        |
+| <img src="images/hand-resting-on-lap.png" height="30" />       | Hand resting on lap  |                                                        |
 
 ### Jumps
 
@@ -296,6 +296,33 @@ The thumb may pivot over another 3rd axis (depending on orientation):
 
 The fingers might not make full rotations, but partial rotation arcs.  
 Finger wagging may be aided by the friction of the other fingers on the key bed.
+
+#### Finger Spread
+
+Moving fingers wider away from each other stretching.
+
+*Finger spread (with number)*
+
+|   |   |   |   |
+|:-:|:-:|:-:|:-:|
+| <img src="images/finger-spread-with-number-arrows-top.png" height="45" /> | <img src="images/finger-spread-with-number-arrows-right.png" height="30" /> | <img src="images/finger-spread-with-number-arrows-bottom.png" height="45" /> | <img src="images/finger-spread-with-number-arrows-left.png" height="45" /> |
+
+*Finger spread (with symbol)*
+
+|   |   |   |   |
+|:-:|:-:|:-:|:-:|
+| <img src="images/finger-spread-with-symbol-arrows-top.png" height="45" /> | <img src="images/finger-spread-with-symbol-arrows-right.png" height="30" /> | <img src="images/finger-spread-with-symbol-arrows-bottom.png" height="45" /> | <img src="images/finger-spread-with-symbol-arrows-left.png" height="45" /> |
+
+*Finger spread (between finger numbers)*
+
+<img src="images/finger-spread-between-finger-numbers.png" height="30" />
+
+*Finger spread (3 fingers, left finger)*
+
+|   |   |   |
+|:-:|:-:|:-:|
+| <img src="images/finger-spread-3-fingers-flat-flat-curved-left-finger-arrows-top.png" height="30" /> | <img src="images/finger-spread-3-fingers-flat-flat-curved-left-finger-arrows-bottom.png" height="45" /> | <img src="images/finger-spread-3-fingers-flat-flat-curved-left-finger-arrows-left.png" height="30" /> |
+| <img src="images/finger-spread-3-fingers-flat-upward-left-finger-arrows-top.png" height="45" /> | <img src="images/finger-spread-3-fingers-flat-upward-left-finger-arrows-bottom.png" height="45" /> | <img src="images/finger-spread-3-fingers-flat-upward-left-finger-arrows-left.png" height="30" /> |
 
 #### Finger Enunciation
 
