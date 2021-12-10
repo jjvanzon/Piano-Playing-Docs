@@ -25,7 +25,7 @@ Contents
 
     - An overview scoring myself on the different parts and aspects of this piano piece while studying it.
 
-- [Mozart Sonata Facile KV 545 Part 1](mozart-sonata-facile-part-1-practice-schema.md)
+- [Mozart Sonata Facile KV 545 Part 1 Practice Schema](mozart-sonata-facile-part-1-practice-schema.md)
 
     - An overview scoring myself on the different parts and aspects of this piano piece while studying it.
 
