@@ -23,5 +23,5 @@ TODO
 
 ### 2021-11-26 TODO Copying Analyses to New Sheet Music
 
-- [ ] Erase the chords from the sheet music with the original analysis.
+- [x] Erasing the chords from the sheet music with the original analysis.
 - [ ] I may not have copied all fingering things to a new version.

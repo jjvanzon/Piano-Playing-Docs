@@ -1,16 +1,7 @@
 Chopin Mazurka Op. 24, No. 2 Practice
 =====================================
 
-I annotated the musical score, subdividing it into parts.  
-For each part I might score myself 0 / 2 / 5 / 7 / 10 for different aspects: note reading / memorizing / technique / expression.  
-To perhaps focus on things with lower scores.
-
-Memorizing is a bit where it hangs right now.
-Memorizing might at one point include memorizing the chords.
-The note reading aspect might include annotating with mnemonics and cheats.  
-Technique might include fingering.
-
-So the parts below may be repeated and not consecutive.
+[Method](/methods/practice-schema.md)
 
 |  Part   |   Read    | Memorize  | Technique |Expression |
 |:-------:|:---------:|:---------:|:---------:|:---------:|

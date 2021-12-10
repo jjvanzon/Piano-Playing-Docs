@@ -1,18 +1,7 @@
 Chopin Ballade II Practice
 ==========================
 
-*JJ van Zon, 2021-10-08*
-
-Parts
------
-
-I annotated the musical score, subdividing it into parts.  
-For each part I might score myself 0 / 2 / 5 / 8 / 10 for different aspects: note reading / memorizing / technique / expression.  
-To perhaps focus on things with lower scores.
-
-Memorizing is a bit where it hangs right now.
-The note reading aspect might include annotating with mnemonics and cheats.  
-Technique might include fingering.
+[Method](/methods/practice-schema.md)
 
 |  Part   |   Read    | Memorize  | Technique |Expression |
 |:-------:|:---------:|:---------:|:---------:|:---------:|
