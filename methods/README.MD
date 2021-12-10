@@ -15,6 +15,10 @@ You may find some of my methods of working here.
 
     - A way to simplify musical score by leaving out details and adding accidentals near notes for instance.
 
+- [Practice Schema](practice-schema.md)
+
+    - A methods for keeping overview, scoring progress of different parts and aspects of a musical piece.
+
 - [Piano Motion Symbols (MarkDown)](piano-motion-symbols.md)
 
   - This is an idea of extending fingering notation from just numbers to additional symbols, indicating the kind of hand movement involved. This is in MarkDown format, more readable like a web site.

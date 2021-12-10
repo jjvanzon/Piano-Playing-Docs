@@ -1,5 +1,8 @@
-Chopin Ballade II Practice
-==========================
+Chopin Ballade II
+=================
+
+Practice Schema
+---------------
 
 [Method](/methods/practice-schema.md)
 

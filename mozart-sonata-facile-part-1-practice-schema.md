@@ -1,5 +1,8 @@
-Mozart Sonata Facile KV 545 Part 1 Practice
-===========================================
+Mozart Sonata Facile KV 545 Part 1
+==================================
+
+Practice Schema
+---------------
 
 [Method](/methods/practice-schema.md)
 

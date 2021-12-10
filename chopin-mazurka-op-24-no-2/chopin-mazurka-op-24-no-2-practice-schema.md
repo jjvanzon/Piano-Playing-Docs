@@ -1,5 +1,8 @@
-Chopin Mazurka Op. 24, No. 2 Practice
-=====================================
+Chopin Mazurka Op. 24, No. 2
+============================
+
+Practice Schema
+---------------
 
 [Method](/methods/practice-schema.md)
 

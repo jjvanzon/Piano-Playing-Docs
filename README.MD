@@ -21,9 +21,13 @@ Contents
 
     - Chord progression and simplified sheet music for Debussy Arabesque I.
 
-- [Chopin Ballade II Practice](chopin-ballade-2-practice.md)
+- [Chopin Ballade II Practice Schema](chopin-ballade-2-practice-schema.md)
 
-    - An overview scoring myself on the different parts and aspects of the Chopin Ballade II piano piece while studying it.
+    - An overview scoring myself on the different parts and aspects of this piano piece while studying it.
+
+- [Mozart Sonata Facile KV 545 Part 1](mozart-sonata-facile-part-1-practice-schema.md)
+
+    - An overview scoring myself on the different parts and aspects of this piano piece while studying it.
 
 - [Chopin Mazurkas Selection](chopin-mazurka-selection.md)
 
