@@ -315,7 +315,9 @@ Moving fingers wider away from each other stretching.
 
 *Finger spread (between finger numbers)*
 
-<img src="images/finger-spread-between-finger-numbers.png" height="30" />
+|   |
+|:-:|
+| <img src="images/finger-spread-between-finger-numbers.png" height="30" /> |
 
 *Finger spread (3 fingers, left finger)*
 
@@ -323,6 +325,33 @@ Moving fingers wider away from each other stretching.
 |:-:|:-:|:-:|
 | <img src="images/finger-spread-3-fingers-flat-flat-curved-left-finger-arrows-top.png" height="30" /> | <img src="images/finger-spread-3-fingers-flat-flat-curved-left-finger-arrows-bottom.png" height="45" /> | <img src="images/finger-spread-3-fingers-flat-flat-curved-left-finger-arrows-left.png" height="30" /> |
 | <img src="images/finger-spread-3-fingers-flat-upward-left-finger-arrows-top.png" height="45" /> | <img src="images/finger-spread-3-fingers-flat-upward-left-finger-arrows-bottom.png" height="45" /> | <img src="images/finger-spread-3-fingers-flat-upward-left-finger-arrows-left.png" height="30" /> |
+
+*Finger spread (3 finger / between left / middle finger)*
+
+|   |   |   |
+|:-:|:-:|:-:|
+| <img src="images/finger-spread-3-fingers-flat-flat-curved-between-left-and-middle-finger-arrows-top.png" height="30" /> | <img src="images/finger-spread-3-fingers-flat-flat-curved-between-left-and-middle-finger-arrows-bottom.png" height="45" /> | <img src="images/finger-spread-3-fingers-flat-flat-curved-between-left-and-middle-finger-arrows-between.png" height="30" /> |
+| <img src="images/finger-spread-3-fingers-flat-upward-between-left-and-middle-finger-arrows-top.png" height="30" /> | <img src="images/finger-spread-3-fingers-flat-upward-between-left-and-middle-finger-arrows-bottom.png" height="45" /> | <img src="images/finger-spread-3-fingers-flat-upward-between-left-and-middle-finger-arrows-between.png" height="30" /> |
+
+*Finger spread (3 finger / middle finger)*
+
+|   |   |
+|:-:|:-:|
+| <img src="images/finger-spread-3-fingers-flat-downward-middle-finger-arrows-top.png" height="45" /> | <img src="images/finger-spread-3-fingers-flat-downward-middle-finger-arrows-bottom.png" height="45" /> |
+| <img src="images/finger-spread-3-fingers-flat-upward-middle-finger-arrows-top.png" height="45" /> | <img src="images/finger-spread-3-fingers-flat-upward-middle-finger-arrows-bottom.png" height="45" /> |
+
+*Finger spread (3 fingers / between middle / right finger)*
+
+|   |   |   |
+|:-:|:-:|:-:|
+| <img src="images/finger-spread-3-fingers-curved-flat-flat-between-middle-and-right-finger-arrows-top.png" height="30" /> | <img src="images/finger-spread-3-fingers-curved-flat-flat-between-middle-and-right-finger-arrows-bottom.png" height="30" /> | <img src="images/finger-spread-3-fingers-curved-flat-flat-between-middle-and-right-finger-arrows-between.png" height="30" /> |
+| <img src="images/finger-spread-3-fingers-flat-upward-between-middle-and-right-finger-arrows-top.png" height="30" /> | <img src="images/finger-spread-3-fingers-flat-upward-between-middle-and-right-finger-arrows-bottom.png" height="30" /> | <img src="images/finger-spread-3-fingers-flat-upward-between-middle-and-right-finger-arrows-between.png" height="30" /> |
+
+*Finger spread (3 fingers / right finger)*
+
+|   |   |   |
+|:-:|:-:|:-:|
+| <img src="images/finger-spread-3-fingers-curved-flat-flat-right-finger-arrows-top.png" height="30" /> | <img src="images/finger-spread-3-fingers-curved-flat-flat-right-finger-arrows-right.png" height="30" /> | <img src="images/finger-spread-3-fingers-curved-flat-flat-right-finger-arrows-bottom.png" height="30" /> |
 
 #### Finger Enunciation
 
