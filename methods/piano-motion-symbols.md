@@ -353,6 +353,24 @@ Moving fingers wider away from each other stretching.
 |:-:|:-:|:-:|
 | <img src="images/finger-spread-3-fingers-curved-flat-flat-right-finger-arrows-top.png" height="30" /> | <img src="images/finger-spread-3-fingers-curved-flat-flat-right-finger-arrows-right.png" height="30" /> | <img src="images/finger-spread-3-fingers-curved-flat-flat-right-finger-arrows-bottom.png" height="30" /> |
 
+#### Finger Stress
+
+Tense all around, keeping stationary with force.
+
+| Tight Finger | Loose Finger |
+|:------------:|:------------:|
+| <img src="images/finger-tight-with-number-symbols-left-right.png" height="30" /> | <img src="images/finger-loose-with-number-symbols-left-right.png" height="30" /> |
+| <img src="images/finger-tight-with-number-symbols-top-bottom.png" height="45" /> | <img src="images/finger-loose-with-number-symbols-top-bottom.png" height="45" /> |
+| <img src="images/finger-tight-with-symbol-symbols-left-right.png" height="30" /> | <img src="images/finger-loose-with-symbol-symbols-left-right.png" height="30" /> |
+| <img src="images/finger-tight-with-symbol-symbols-top-bottom.png" height="45" /> | <img src="images/finger-loose-with-symbol-symbols-top-bottom.png" height="45" /> |
+| <img src="images/finger-tight-3-fingers-left-finger-symbols-left-right.png" height="30" /> <img src="images/finger-tight-3-fingers-left-finger-symbols-top-bottom.png" height="40" /> | <img src="images/finger-loose-3-fingers-left-finger-symbols-left-right.png" height="30" /> <img src="images/finger-loose-3-fingers-left-finger-symbols-top-bottom.png" height="40" /> |
+| <img src="images/finger-tight-3-fingers-middle-finger-symbols-left-right.png" height="30" />  <img src="images/finger-tight-3-fingers-middle-finger-symbols-top-bottom.png" height="40" /> | <img src="images/finger-loose-3-fingers-middle-finger-symbols-left-right.png" height="30" /> <img src="images/finger-loose-3-fingers-middle-finger-symbols-top-bottom.png" height="40" /> |
+| <img src="images/finger-tight-3-fingers-right-finger-symbols-left-right.png" height="30" /> <img src="images/finger-tight-3-fingers-right-finger-symbols-top-bottom.png" height="40" /> | <img src="images/finger-loose-3-fingers-right-finger-symbols-left-right.png" height="30" /> <img src="images/finger-loose-3-fingers-right-finger-symbols-top-bottom.png" height="40" /> |
+
+Composite examples:
+
+<img src="images/finger-tight-3-fingers-outer-fingers-symbols-left-right.png" height="30" /> <img src="images/finger-stress-3-fingers-left-finger-tight-middle-finger-loose-right-finger-loose.png" height="30" />
+
 #### Finger Enunciation
 
 |                                                                                                       |                          |
