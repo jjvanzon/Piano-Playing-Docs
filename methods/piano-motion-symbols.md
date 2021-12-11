@@ -210,15 +210,11 @@ And different amounts of fingers.
 
 May be usually downward into the keys, not likely in other directions.
 
-| | | | |
-|-|-|-|-|
-| <img src="images/finger-press-with-number-left-view-arrow-top.png" height="30" /> | <img src="images/finger-press-with-number-left-view-arrow-right.png" height="20" /> | <img src="images/finger-press-with-number-left-view-arrow-bottom.png" height="30" /> | <img src="images/finger-press-with-number-left-view-arrow-left.png" height="20" /> |
-| <img src="images/finger-press-with-number-right-view-arrow-top.png" height="30" /> | <img src="images/finger-press-with-number-right-view-arrow-right.png" height="20" /> | <img src="images/finger-press-with-number-right-view-arrow-bottom.png" height="30" /> | <img src="images/finger-press-with-number-right-view-arrow-left.png" height="20" /> |
-| <img src="images/finger-press-with-symbol-left-view-arrow-top.png" height="30" /> | <img src="images/finger-press-with-symbol-left-view-arrow-right.png" height="20" /> | <img src="images/finger-press-with-symbol-left-view-arrow-bottom.png" height="30" /> | <img src="images/finger-press-with-symbol-left-view-arrow-left.png" height="20" /> |
-| <img src="images/finger-press-with-symbol-right-view-arrow-top.png" height="30" /> | <img src="images/finger-press-with-symbol-right-view-arrow-right.png" height="20" /> | <img src="images/finger-press-with-symbol-right-view-arrow-bottom.png" height="30" /> | <img src="images/finger-press-with-symbol-right-view-arrow-left.png" height="20" /> |
-| <img src="images/finger-press-3-fingers-left-finger-left-view-arrow-top.png" height="30" /> | <img src="images/finger-press-3-fingers-left-finger-left-view-arrow-bottom.png" height="30" /> | <img src="images/finger-press-3-fingers-left-finger-left-view-arrow-left.png" height="20" /> | |
-| <img src="images/finger-press-3-fingers-middle-finger-left-view-arrow-top.png" height="30" /> | <img src="images/finger-press-3-fingers-middle-finger-right-view-arrow-top.png" height="30" /> | <img src="images/finger-press-3-fingers-middle-finger-left-view-arrow-bottom.png" height="30" /> | <img src="images/finger-press-3-fingers-middle-finger-right-view-arrow-bottom.png" height="30" /> |
-| <img src="images/finger-press-3-fingers-right-finger-right-view-arrow-top.png" height="30" /> | <img src="images/finger-press-3-fingers-right-finger-right-view-arrow-right.png" height="20" /> | <img src="images/finger-press-3-fingers-right-finger-right-view-arrow-bottom.png" height="30" /> | |
+| | | | | | | | | | |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| <img src="images/finger-press-with-number-left-view-arrow-top.png" height="30" /> | <img src="images/finger-press-with-number-left-view-arrow-right.png" height="20" /> | <img src="images/finger-press-with-number-left-view-arrow-bottom.png" height="30" /> | <img src="images/finger-press-with-number-left-view-arrow-left.png" height="20" /> | <img src="images/finger-press-with-number-right-view-arrow-top.png" height="30" /> | <img src="images/finger-press-with-number-right-view-arrow-right.png" height="20" /> | <img src="images/finger-press-with-number-right-view-arrow-bottom.png" height="30" /> | <img src="images/finger-press-with-number-right-view-arrow-left.png" height="20" /> |
+| <img src="images/finger-press-with-symbol-left-view-arrow-top.png" height="30" /> | <img src="images/finger-press-with-symbol-left-view-arrow-right.png" height="20" /> | <img src="images/finger-press-with-symbol-left-view-arrow-bottom.png" height="30" /> | <img src="images/finger-press-with-symbol-left-view-arrow-left.png" height="20" /> | <img src="images/finger-press-with-symbol-right-view-arrow-top.png" height="30" /> | <img src="images/finger-press-with-symbol-right-view-arrow-right.png" height="20" /> | <img src="images/finger-press-with-symbol-right-view-arrow-bottom.png" height="30" /> | <img src="images/finger-press-with-symbol-right-view-arrow-left.png" height="20" /> |
+| <img src="images/finger-press-3-fingers-left-finger-left-view-arrow-top.png" height="30" /> | <img src="images/finger-press-3-fingers-left-finger-left-view-arrow-bottom.png" height="30" /> | <img src="images/finger-press-3-fingers-left-finger-left-view-arrow-left.png" height="20" /> | <img src="images/finger-press-3-fingers-middle-finger-left-view-arrow-top.png" height="30" /> | <img src="images/finger-press-3-fingers-middle-finger-right-view-arrow-top.png" height="30" /> | <img src="images/finger-press-3-fingers-middle-finger-left-view-arrow-bottom.png" height="30" /> | <img src="images/finger-press-3-fingers-middle-finger-right-view-arrow-bottom.png" height="30" /> | <img src="images/finger-press-3-fingers-right-finger-right-view-arrow-top.png" height="30" /> | <img src="images/finger-press-3-fingers-right-finger-right-view-arrow-right.png" height="20" /> | <img src="images/finger-press-3-fingers-right-finger-right-view-arrow-bottom.png" height="30" /> |
 
 #### Finger Turn
 
@@ -540,7 +536,7 @@ Wrist symbols might be optional for wrist turning.
 | <img src="images/4-fingers-curved-outer-fingers-deeper-in-keys.png" height="30" />     | Curved / outer fingers deeper in keys |
 | <img src="images/4-fingers-curved-3rd-finger-deeper-in-keys.png" height="30" />        | Curved / 3rd finger deeper in keys    |
 
-### Composites
+### Composite Examples
 
 To demonstrate some possibilities for flexibility.
 
