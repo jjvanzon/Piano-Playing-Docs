@@ -67,12 +67,12 @@ The dashed line may depict it being further away.
 
 Nuance, like press *a little* or move *a lot*, may be written down like this:
 
-|                 | Restfully                                                  | Slightly                                                  | Normally                                                       | Exaggerated                                                  |
-|----------------:|:----------------------------------------------------------:|:---------------------------------------------------------:|:--------------------------------------------------------------:|:------------------------------------------------------------:|
-|       __Press__ | <img src="images/press-restfully.png" height="30" />       | <img src="images/press-slightly.png" height="30" />       | <img src="images/press-right.png" height="30" />               | <img src="images/press-exaggerated.png" height="30" />       |
-|        __Move__ | <img src="images/move-restfully.png" height="30" />        | <img src="images/move-slightly.png" height="30" />        | <img src="images/move-into-keys-right.png" height="30" />      | <img src="images/move-exaggerated.png" height="30" />        |
-| __Tight Wrist__ | <img src="images/wrist-tight-restfully.png" height="30" /> | <img src="images/wrist-tight-slightly.png" height="30" /> | <img src="images/wrist-tight-pronounced.png" height="30" />    | <img src="images/wrist-tight-exaggerated.png" height="20" /> |
-| __Loose Wrist__ | <img src="images/wrist-loose-restfully.png" height="30" /> | <img src="images/wrist-loose-slightly.png" height="30" /> | <img src="images/wrist-loose-curved.png" height="30" />        | <img src="images/wrist-loose-exaggerated.png" height="30" /> |
+|                 | Restfully | Slightly | Normally | Exaggerated |
+|----------------:|:---------:|:--------:|:--------:|:-----------:|
+|       __Press__ | <img src="images/press-restfully.png" height="30" /> | <img src="images/press-slightly.png" height="30" /> | <img src="images/press-right.png" height="30" /> | <img src="images/press-exaggerated.png" height="30" /> |
+|        __Move__ | <img src="images/move-restfully.png" height="30" /> | <img src="images/move-slightly.png" height="30" /> | <img src="images/move-into-keys-right.png" height="30" /> | <img src="images/move-exaggerated.png" height="30" /> |
+| __Tight Wrist__ | <img src="images/wrist-tight-restfully.png" height="30" /> | <img src="images/wrist-tight-slightly.png" height="30" /> | <img src="images/wrist-tight-pronounced.png" height="30" /> | <img src="images/wrist-tight-exaggerated.png" height="20" /> |
+| __Loose Wrist__ | <img src="images/wrist-loose-restfully.png" height="30" /> | <img src="images/wrist-loose-slightly.png" height="30" /> | <img src="images/wrist-loose-curved.png" height="30" /> | <img src="images/wrist-loose-exaggerated.png" height="30" /> |
 
 ### Tension & Release
 
