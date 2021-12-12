@@ -112,11 +112,7 @@ May feel semi-smooth.
 
 ### Fingers
 
-This might be used to say something specific about a finger in terms of motion, tension or otherwise.  
-
 #### Finger Position
-
-And different amounts of fingers.
 
 |                      | Curved / High Fingers                                     | Pronounced Fingers                                               | Flat Fingers (Upward)                                      | Flat Fingers (Downward)                                      |
 |----------------------|:---------------------------------------------------------:|:----------------------------------------------------------------:|:----------------------------------------------------------:|:------------------------------------------------------------:|
@@ -383,7 +379,7 @@ Tense all around, keeping stationary with force.
 
 Composite examples:
 
-<img src="images/finger-tight-3-fingers-outer-fingers-symbols-left-right.png" height="30" /> <img src="images/finger-stress-3-fingers-left-finger-tight-middle-finger-loose-right-finger-loose.png" height="30" />
+<img src="images/finger-tight-3-fingers-outer-fingers-symbols-left-right.png" height="30" /> <img src="images/finger-stress-3-fingers-left-finger-tight-middle-finger-loose-right-finger-loose.png" height="45" />
 
 #### Finger Enunciation
 
@@ -510,15 +506,18 @@ Wrist symbols might be optional for wrist turning.
 
 |   | |
 |:-:|-|
-| <img src="images/arm-position-diagonal-outward-left-arm.png" height="30" /> | Arm outward (left) |
-| <img src="images/arm-position-diagonal-inward-left-arm.png" height="30" /> | Arm inward (left) |
-| <img src="images/arm-position-diagonal-torso-in-front-of-hand-right-arm.png" height="30" /> | Arm placing torso in front of right hand |
-
-### Elbow
-
-|   | |
-|:-:|-|
-| <img src="images/arm-position-left-arm-diagonal-inward-elbow-out.png" height="30" /> | Elbow sideways |
+| <img src="images/arm-position-upper-arm-down-lower-arm-forward.png" height="30" /> |  Arm position (upper arm down, lower arm forward) |
+| <img src="images/left-arm-position-upper-arm-down-lower-arm-left-forward.png" height="30" /> <img src="images/right-arm-position-upper-arm-down-lower-arm-right-forward.png" height="30" /> |  Arm position (upper arm down, lower arm diagonal outward) |
+| <img src="images/left-arm-position-upper-arm-down-lower-arm-right-forward.png" height="30" /> <img src="images/right-arm-position-upper-arm-down-lower-arm-left-forward.png" height="30" /> | Arm position (upper arm down, lower arm diagonal inward) |
+| <img src="images/right-arm-position-upper-arm-down-lower-arm-left-forward-torso-in-front-of-hand.png" height="30" /> | Arm position (upper arm down, lower arm inward / torso in front of right hand)
+| <img src="images/right-arm-position-upper-arm-down-lower-arm-left-forward-far-reaching.png" height="30" /> | Arm position (upper arm down, lower arm inward / far reaching)
+| <img src="images/right-arm-position-upper-arm-down-lower-arm-up-forward.png" height="30" /> | Arm position (upper arm down, lower arm reaching upward)
+| <img src="images/right-arm-position-upper-arm-down-lower-arm-down-forward.png" height="30" /> | Arm position (upper arm down, lower arm slanting)
+| <img src="images/right-arm-position-upper-arm-right-forward-lower-arm-left-forward.png" height="30" /> | Arm position (diagonal / elbow out)
+| <img src="images/right-arm-position-upper-arm-right-forward-lower-arm-forward.png" height="30" /> | Arm position (forward / elbow out)
+| <img src="images/right-arm-position-upper-arm-down-lower-arm-forward-elbow-tucked-in.png" height="30" /> | Arm position (elbow tucked in)
+| <img src="images/right-arm-position-upper-arm-forward-lower-arm-left.png" height="30" /> | Arm position (rather unusual / upper arm forward, lower arm left)
+| <img src="images/right-arm-position-upper-arm-forward-lower-arm-left-backward.png" height="30" /> | Arm position (rather unusual / upper arm forward, lower arm left-backward)
 
 ### Some Fingers Deeper In Keys
 
