@@ -489,6 +489,25 @@ Wrist symbols might be optional for wrist turning.
 | Wrist tight (high) | <img src="images/wrist-tight-high-symbols-left-right.png" height="45" /> | <img src="images/wrist-tight-high-symbols-top-bottom.png" height="60" /> |
 | Wrist loose (high) | <img src="images/wrist-loose-high-symbols-left-right.png" height="45" /> | <img src="images/wrist-loose-high-symbols-top-bottom.png" height="60" /> |
 
+### Arm
+
+#### Arm Position
+
+|   | |
+|:-:|-|
+| <img src="images/arm-position-upper-arm-down-lower-arm-forward.png" height="30" /> | Arm position (forward) |
+| <img src="images/left-arm-position-upper-arm-down-lower-arm-left-forward.png" height="30" /> <img src="images/right-arm-position-upper-arm-down-lower-arm-right-forward.png" height="30" /> |  Arm position (diagonal outward) |
+| <img src="images/left-arm-position-upper-arm-down-lower-arm-right-forward.png" height="30" /> <img src="images/right-arm-position-upper-arm-down-lower-arm-left-forward.png" height="30" /> | Arm position (diagonal inward) |
+| <img src="images/right-arm-position-upper-arm-down-lower-arm-left-forward-torso-in-front-of-hand.png" height="30" /> | Arm position (diagonal inward / torso in front of right hand)
+| <img src="images/right-arm-position-upper-arm-down-lower-arm-left-forward-far-reaching.png" height="30" /> | Arm position (diagonal inward / far reaching)
+| <img src="images/right-arm-position-upper-arm-down-lower-arm-up-forward.png" height="30" /> | Arm position (reaching upward)
+| <img src="images/right-arm-position-upper-arm-down-lower-arm-down-forward.png" height="30" /> | Arm position (slanting)
+| <img src="images/right-arm-position-upper-arm-right-forward-lower-arm-left-forward.png" height="30" /> | Arm position (inward / elbow out)
+| <img src="images/right-arm-position-upper-arm-right-forward-lower-arm-forward.png" height="30" /> | Arm position (forward / elbow out)
+| <img src="images/right-arm-position-upper-arm-down-lower-arm-forward-elbow-tucked-in.png" height="30" /> | Arm position (forward / elbow tucked in)
+| <img src="images/right-arm-position-upper-arm-forward-lower-arm-left.png" height="30" /> | Arm position (rather unusual / upper arm forward, lower arm straight inward)
+| <img src="images/right-arm-position-upper-arm-forward-lower-arm-left-backward.png" height="30" /> | Arm position (rather unusual / upper arm forward, lower arm inward / backward)
+
 ### Torso
 
 |                                                           |                                     |
@@ -499,25 +518,6 @@ Wrist symbols might be optional for wrist turning.
 | <img src="images/torso-tilt-forward.png" height="30" />   | Torso tilt forward                  |
 | <img src="images/torso-tilt-backward.png" height="30" />  | Torso tilt backward                 |
 | <img src="images/torso-turn-side-ways.png" height="30" /> | Torso turn sideways (back and legs) |
-
-### Arm
-
-#### Arm Position
-
-|   | |
-|:-:|-|
-| <img src="images/arm-position-upper-arm-down-lower-arm-forward.png" height="30" /> |  Arm position (upper arm down, lower arm forward) |
-| <img src="images/left-arm-position-upper-arm-down-lower-arm-left-forward.png" height="30" /> <img src="images/right-arm-position-upper-arm-down-lower-arm-right-forward.png" height="30" /> |  Arm position (upper arm down, lower arm diagonal outward) |
-| <img src="images/left-arm-position-upper-arm-down-lower-arm-right-forward.png" height="30" /> <img src="images/right-arm-position-upper-arm-down-lower-arm-left-forward.png" height="30" /> | Arm position (upper arm down, lower arm diagonal inward) |
-| <img src="images/right-arm-position-upper-arm-down-lower-arm-left-forward-torso-in-front-of-hand.png" height="30" /> | Arm position (upper arm down, lower arm inward / torso in front of right hand)
-| <img src="images/right-arm-position-upper-arm-down-lower-arm-left-forward-far-reaching.png" height="30" /> | Arm position (upper arm down, lower arm inward / far reaching)
-| <img src="images/right-arm-position-upper-arm-down-lower-arm-up-forward.png" height="30" /> | Arm position (upper arm down, lower arm reaching upward)
-| <img src="images/right-arm-position-upper-arm-down-lower-arm-down-forward.png" height="30" /> | Arm position (upper arm down, lower arm slanting)
-| <img src="images/right-arm-position-upper-arm-right-forward-lower-arm-left-forward.png" height="30" /> | Arm position (diagonal / elbow out)
-| <img src="images/right-arm-position-upper-arm-right-forward-lower-arm-forward.png" height="30" /> | Arm position (forward / elbow out)
-| <img src="images/right-arm-position-upper-arm-down-lower-arm-forward-elbow-tucked-in.png" height="30" /> | Arm position (elbow tucked in)
-| <img src="images/right-arm-position-upper-arm-forward-lower-arm-left.png" height="30" /> | Arm position (rather unusual / upper arm forward, lower arm left)
-| <img src="images/right-arm-position-upper-arm-forward-lower-arm-left-backward.png" height="30" /> | Arm position (rather unusual / upper arm forward, lower arm left-backward)
 
 ### Some Fingers Deeper In Keys
 
