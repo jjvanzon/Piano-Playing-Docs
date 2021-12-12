@@ -27,7 +27,7 @@ These symbols aim to be a quite literal representation of body and motion, while
 ### Basic Elements
 
 | | | | | | |
-|------------------------------------------------------------|--------------|--------------------------------------------------------------------------|------------|--------------------------------------------------|-------------------|
+|-|-|-|-|-|-|
 | <img src="images/1-finger-curved-right.png" height="30" /> | Finger | <img src="images/move-down-right-view.png" height="30" /> | Move | <img src="images/press-right.png" height="45" /> | Press |
 | <img src="images/3-fingers-curved.png" height="30" /> | Fingers | <img src="images/spread.png" height="30" /> | Spread | <img src="images/loose.png" height="30" /> | Loose |
 | <img src="images/wrist-curved.png" height="30" /> | Wrist | <img src="images/turn-forward-right-view-arrow-right.png" height="60" /> | Turn | <img src="images/tight.png" height="30" /> | Tight |
@@ -37,8 +37,8 @@ These symbols aim to be a quite literal representation of body and motion, while
 
 Depicting things in 3 dimensions, the symbols may be like looking down at the hands in a sort of perspective projection. To represent depth, diagonal lines might be used. Here is how some things might work in 3 dimensions:
 
-| | | | |
-|:---------------------------------------------------------------------------------------------------------------------------:|--------------------------------|:--------------------------------------------------------------------------:|-------------------------|
+|   | |   | |
+|:-:|-|:-:|-|
 | <img src="images/move-right.png" height="30" /> <img src="images/move-left.png" height="30" /> | Move left / right | <img src="images/turn-right-looking-down-arrow-left.png" height="60" /> | Turn right & left / looking down |
 | <img src="images/move-forward.png" height="30" /><br/><img src="images/move-backward.png" height="30" /> | Move forward / backward | <img src="images/turn-forward-right-view-arrow-right.png" height="60" /> | Turn forward / backward |
 | <img src="images/move-down-left-view.png" height="30" /> <img src="images/move-down-right-view.png" height="30" /> | Move down | <img src="images/turn-left-looking-forward.png" height="30" /> | Turn right & left / looking forward |
@@ -90,8 +90,8 @@ Nuance, like press *a little* or move *a lot*, may be written down like this:
 
 ### Jumps
 
-| | | |
-|:----------------------------------------------------------------------:|-----------------------------------|---------------------------------|
+|   | | |
+|:-:|-|-|
 | <img src="images/hand-upward-right-view.png" height="45" /> | Hand upward (right view) | |
 | <img src="images/hand-upward-left-view.png" height="45" /> | Hand upward (left view) | |
 | <img src="images/gravity-assist-right-view.png" height="45" /> | Gravity assist (right view) | Falling down with gravity. |
@@ -506,17 +506,19 @@ Wrist symbols might be optional for wrist turning.
 
 ### Arm
 
-|                                                                               |                                                  |
-|:-----------------------------------------------------------------------------:|--------------------------------------------------|
-| <img src="images/arm-outward-left.png" height="30" />                         | Arm outward (left)                               |
-| <img src="images/arm-inward-left.png" height="30" />                          | Arm inward (left)                                |
-| <img src="images/arm-placing-torso-in-front-of-right-hand.png" height="30" /> | Arm placing torso in front of right hand         |
+#### Arm Position
+
+|   | |
+|:-:|-|
+| <img src="images/arm-position-diagonal-outward-left-arm.png" height="30" /> | Arm outward (left) |
+| <img src="images/arm-position-diagonal-inward-left-arm.png" height="30" /> | Arm inward (left) |
+| <img src="images/arm-position-diagonal-torso-in-front-of-hand-right-arm.png" height="30" /> | Arm placing torso in front of right hand |
 
 ### Elbow
 
-|                                                          |                |
-|:--------------------------------------------------------:|----------------|
-| <img src="images/arm-elbow-side-ways.png" height="30" /> | Elbow sideways |
+|   | |
+|:-:|-|
+| <img src="images/arm-position-left-arm-diagonal-inward-elbow-out.png" height="30" /> | Elbow sideways |
 
 ### Some Fingers Deeper In Keys
 
