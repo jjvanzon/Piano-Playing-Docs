@@ -6,15 +6,10 @@ Piano Playing Docs | Methods
 Practice Schema
 ---------------
 
-I may annotate musical score, subdividing it into parts. Some parts may be repeated and not consecutive.
+I may annotate musical score, subdividing it into parts.
 
 For each part I might score myself 0 / 2 / 5 / 8 / 10 for different aspects: note reading / memorizing / technique / expression.  
 To perhaps focus on things with lower scores.
-
-- Memorizing is a bit where it hangs right now.  
-- Memorizing might at one point include memorizing the chords.  
-- The note reading aspect might include annotating with mnemonics and cheats.  
-- Technique might include fingering.
 
 ### Example Schema
 
@@ -32,13 +27,9 @@ To perhaps focus on things with lower scores.
 | __8a__  | - - - 8 - | - - 5 - - | - - - 8 - | - - 5 - - |
 | __9a__  | - - 5 - - | - 2 - - - | - - 5 - - | - 2 - - - |
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+### Details 
+
+- Memorizing is a bit where it hangs right now.  
+- Memorizing might at one point include memorizing the chords.  
+- The note reading aspect might include annotating with mnemonics and cheats.  
+- Technique might include fingering.
