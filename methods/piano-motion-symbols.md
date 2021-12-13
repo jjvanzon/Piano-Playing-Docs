@@ -76,18 +76,17 @@ Nuance, like press *a little* or move *a lot*, may be written down like this:
 
 ### Tension & Release
 
-|                                                                |                      |                                                        |
-|:--------------------------------------------------------------:|----------------------|--------------------------------------------------------|
-| <img src="images/reach-side-ways-right.png" height="30" />     | Reach sideways       | Then let go, move hand back.                           |
-| <img src="images/reach-side-ways-left.png" height="30" />      | Reach sideways       | Then let go, move hand back.                           |
-| <img src="images/spread.png" height="30" />                    | Spread               | Spreading fingers wider. But trying to release soon.   |
-| <img src="images/reach-forward.png" height="30" />          | Reach forward     | If arpeggiated, might prefer crossing over instead.    |
-| <img src="images/reach-backward.png" height="30" />          | Reach backward     | If arpeggiated, might prefer crossing over instead.    |
-| <img src="images/spread-diagonally.png" height="30" />         | Spread diagonally    | Composite of spread sideways and reach forward. |
-| <img src="images/arm-press-down-right-arm.png" height="45" /> | Arm press down    | Pressure coming out of the arm.                        |
-| <img src="images/hand-resting-on-keys.png" height="30" />      | Hand resting on keys |                                                        |
-| <img src="images/hand-resting-on-lap.png" height="30" />       | Hand resting on lap  |                                                        |
-
+| | | |
+|:-:|-|-|
+| <img src="images/reach-side-ways-right.png" height="30" /> | Reach sideways | Then let go, move hand back. |
+| <img src="images/reach-side-ways-left.png" height="30" /> | Reach sideways | Then let go, move hand back. |
+| <img src="images/spread.png" height="30" /> | Spread | Spreading fingers wider. But trying to release soon. |
+| <img src="images/reach-forward.png" height="30" /> | Reach forward | If arpeggiated, might prefer crossing over instead. |
+| <img src="images/reach-backward.png" height="30" /> | Reach backward | If arpeggiated, might prefer crossing over instead. |
+| <img src="images/spread-diagonally.png" height="30" /> | Spread diagonally | Composite of spread sideways and reach forward. |
+| <img src="images/right-arm-press.png" height="45" /> | Arm press down | Pressure coming out of the arm. |
+| <img src="images/hand-resting-on-keys.png" height="30" /> | Hand resting on keys | |
+| <img src="images/hand-resting-on-lap.png" height="30" /> | Hand resting on lap | |
 ### Jumps
 
 |   | | |
@@ -491,22 +490,34 @@ Wrist symbols might be optional for wrist turning.
 
 ### Arm
 
-#### Arm Position
+#### Arm Position Suggestions
 
 |   | |
 |:-:|-|
-| <img src="images/arm-position-upper-arm-down-lower-arm-forward.png" height="30" /> | Arm position (forward) |
-| <img src="images/left-arm-position-upper-arm-down-lower-arm-left-forward.png" height="30" /> <img src="images/right-arm-position-upper-arm-down-lower-arm-right-forward.png" height="30" /> |  Arm position (diagonal outward) |
-| <img src="images/left-arm-position-upper-arm-down-lower-arm-right-forward.png" height="30" /> <img src="images/right-arm-position-upper-arm-down-lower-arm-left-forward.png" height="30" /> | Arm position (diagonal inward) |
-| <img src="images/right-arm-position-upper-arm-down-lower-arm-left-forward-torso-in-front-of-hand.png" height="30" /> | Arm position (diagonal inward / torso in front of right hand)
-| <img src="images/right-arm-position-upper-arm-down-lower-arm-left-forward-far-reaching.png" height="30" /> | Arm position (diagonal inward / far reaching)
-| <img src="images/right-arm-position-upper-arm-down-lower-arm-up-forward.png" height="30" /> | Arm position (reaching upward)
-| <img src="images/right-arm-position-upper-arm-down-lower-arm-down-forward.png" height="30" /> | Arm position (slanting)
+| <img src="images/lower-arm-position-forward.png" height="30" /> | Arm position (forward) |
+| <img src="images/left-lower-arm-position-left-forward.png" height="30" /> <img src="images/right-lower-arm-position-right-forward.png" height="30" /> |  Arm position (diagonal outward) |
+| <img src="images/left-lower-arm-position-right-forward.png" height="30" /> <img src="images/right-lower-arm-position-left-forward.png" height="30" /> | Arm position (diagonal inward) |
+| <img src="images/right-lower-arm-position-left-forward-torso-in-front-of-hand.png" height="30" /> | Arm position (diagonal inward / torso in front of right hand)
+| <img src="images/right-lower-arm-position-left-forward-far-reaching.png" height="30" /> | Arm position (diagonal inward / far reaching)
+| <img src="images/right-lower-arm-position-up-forward.png" height="30" /> | Arm position (reaching upward)
+| <img src="images/right-lower-arm-position-down-forward.png" height="30" /> | Arm position (slanting)
+| <img src="images/right-lower-arm-position-forward-elbow-tucked-in.png" height="30" /> | Arm position (forward / elbow tucked in)
 | <img src="images/right-arm-position-upper-arm-right-forward-lower-arm-left-forward.png" height="30" /> | Arm position (inward / elbow out)
 | <img src="images/right-arm-position-upper-arm-right-forward-lower-arm-forward.png" height="30" /> | Arm position (forward / elbow out)
-| <img src="images/right-arm-position-upper-arm-down-lower-arm-forward-elbow-tucked-in.png" height="30" /> | Arm position (forward / elbow tucked in)
 | <img src="images/right-arm-position-upper-arm-forward-lower-arm-left.png" height="30" /> | Arm position (rather unusual / upper arm forward, lower arm straight inward)
 | <img src="images/right-arm-position-upper-arm-forward-lower-arm-left-backward.png" height="30" /> | Arm position (rather unusual / upper arm forward, lower arm inward / backward)
+
+#### Up / Down With Curled Lines
+
+Diagonal directions seem to matter for arm positions. In that case diagonal lines might not be available for up/down directions. Instead bent lines might be used for up and down. It may represent the curve, that the arm appears to have in those positions.
+
+|   | |
+|:-:|-|
+| <img src="images/up-curled-outward-left-view.png" height="30" /> <img src="images/up-curled-outward-right-view.png" height="30" /> | Up = curled outward |
+| <img src="images/down-curled-inward-left-view.png" height="30" /> <img src="images/down-curled-inward-right-view.png" height="30" /> | Down = curled inward |
+| <img src="images/right-lower-arm-position-up.png" height="30" /> | Small curl = 1D direction (up / down) |
+| <img src="images/right-lower-arm-position-up-forward.png" height="30" /> | ½ curl = 2D diagonal (up-forward) |
+| <img src="images/right-lower-arm-position-up-right-forward.png" height="30" /> | ¼ curl = 3D diagonal (up-left-forward) |
 
 ### Torso
 
