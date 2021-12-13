@@ -44,6 +44,18 @@ Depicting things in 3 dimensions, the symbols may be like looking down at the ha
 | <img src="images/move-down-left-view.png" height="30" /> <img src="images/move-down-right-view.png" height="30" /> | Move down | <img src="images/turn-left-looking-forward.png" height="30" /> | Turn right & left / looking forward |
 | <img src="images/move-up-left.png" height="30" /> <img src="images/move-up-right-view.png" height="30" /> | Move up | | |
 
+#### Up / Down With Curled Lines
+
+Diagonal directions seem to matter for arm positions. In that case diagonal lines might not be available for up/down directions. Instead bent lines might be used for up and down. It may represent the curve, that the arm appears to have in those positions.
+
+|   | |
+|:-:|-|
+| <img src="images/up-curled-outward-left-view.png" height="30" /> <img src="images/up-curled-outward-right-view.png" height="30" /> | Up = curled outward |
+| <img src="images/down-curled-inward-left-view.png" height="30" /> <img src="images/down-curled-inward-right-view.png" height="30" /> | Down = curled inward |
+| <img src="images/right-lower-arm-position-up.png" height="30" /> | Small curl = 1D direction (up / down) |
+| <img src="images/right-lower-arm-position-up-forward.png" height="30" /> | ½ curl = 2D diagonal (up-forward) |
+| <img src="images/right-lower-arm-position-up-outward-forward.png" height="30" /> | ¼ curl = 3D diagonal (up-outward-forward) |
+
 ### Turning
 
 | | | | | | |
@@ -490,34 +502,22 @@ Wrist symbols might be optional for wrist turning.
 
 ### Arm
 
-#### Up / Down With Curled Lines
-
-Diagonal directions seem to matter for arm positions. In that case diagonal lines might not be available for up/down directions. Instead bent lines might be used for up and down. It may represent the curve, that the arm appears to have in those positions.
-
-|   | |
-|:-:|-|
-| <img src="images/up-curled-outward-left-view.png" height="30" /> <img src="images/up-curled-outward-right-view.png" height="30" /> | Up = curled outward |
-| <img src="images/down-curled-inward-left-view.png" height="30" /> <img src="images/down-curled-inward-right-view.png" height="30" /> | Down = curled inward |
-| <img src="images/right-lower-arm-position-up.png" height="30" /> | Small curl = 1D direction (up / down) |
-| <img src="images/right-lower-arm-position-up-forward.png" height="30" /> | ½ curl = 2D diagonal (up-forward) |
-| <img src="images/right-lower-arm-position-up-right-forward.png" height="30" /> | ¼ curl = 3D diagonal (up-left-forward) |
-
 #### Arm Position Suggestions
 
 |   | |
 |:-:|-|
 | <img src="images/lower-arm-position-forward.png" height="30" /> | Arm position (forward) |
-| <img src="images/left-lower-arm-position-left-forward.png" height="30" /> <img src="images/right-lower-arm-position-right-forward.png" height="30" /> |  Arm position (diagonal outward) |
-| <img src="images/left-lower-arm-position-right-forward.png" height="30" /> <img src="images/right-lower-arm-position-left-forward.png" height="30" /> | Arm position (diagonal inward) |
-| <img src="images/right-lower-arm-position-left-forward-torso-in-front-of-hand.png" height="30" /> | Arm position (diagonal inward / torso in front of right hand)
-| <img src="images/right-lower-arm-position-left-forward-far-reaching.png" height="30" /> | Arm position (diagonal inward / far reaching)
+| <img src="images/left-lower-arm-position-outward-forward.png" height="30" /> <img src="images/right-lower-arm-position-outward-forward.png" height="30" /> |  Arm position (diagonal outward) |
+| <img src="images/left-lower-arm-position-inward-forward.png" height="30" /> <img src="images/right-lower-arm-position-inward-forward.png" height="30" /> | Arm position (diagonal inward) |
+| <img src="images/right-lower-arm-position-inward-forward-torso-in-front-of-hand.png" height="30" /> | Arm position (diagonal inward / torso in front of right hand)
+| <img src="images/right-lower-arm-position-inward-forward-far-reaching.png" height="30" /> | Arm position (diagonal inward / far reaching)
 | <img src="images/right-lower-arm-position-up-forward.png" height="30" /> | Arm position (reaching upward)
 | <img src="images/right-lower-arm-position-down-forward.png" height="30" /> | Arm position (slanting)
 | <img src="images/right-lower-arm-position-forward-elbow-tucked-in.png" height="30" /> | Arm position (forward / elbow tucked in)
-| <img src="images/right-arm-position-upper-arm-right-forward-lower-arm-left-forward.png" height="30" /> | Arm position (inward / elbow out)
-| <img src="images/right-arm-position-upper-arm-right-forward-lower-arm-forward.png" height="30" /> | Arm position (forward / elbow out)
-| <img src="images/right-arm-position-upper-arm-forward-lower-arm-left.png" height="30" /> | Arm position (rather unusual / upper arm forward, lower arm straight inward)
-| <img src="images/right-arm-position-upper-arm-forward-lower-arm-left-backward.png" height="30" /> | Arm position (rather unusual / upper arm forward, lower arm inward / backward)
+| <img src="images/right-arm-position-upper-arm-outward-forward-lower-arm-inward-forward.png" height="30" /> | Arm position (inward / elbow out)
+| <img src="images/right-arm-position-upper-arm-outward-forward-lower-arm-forward.png" height="30" /> | Arm position (forward / elbow out)
+| <img src="images/right-arm-position-upper-arm-forward-lower-arm-inward.png" height="30" /> | Arm position (rather unusual / upper arm forward, lower arm straight inward)
+| <img src="images/right-arm-position-upper-arm-forward-lower-arm-inward-backward.png" height="30" /> | Arm position (rather unusual / upper arm forward, lower arm inward / backward)
 
 ### Lower Arm
 
@@ -528,7 +528,7 @@ The *upper* arm is assumed to be hanging downward here.
 | |   | |   |
 |-|:-:|-|:-:|
 | Lower arm position<br/>(up) | <img src="images/right-lower-arm-position-up.png" height="30" /> <img src="images/left-lower-arm-position-up.png" height="30" /> | Lower arm position<br/>(down) | <img src="images/right-lower-arm-position-down.png" height="30" /> <img src="images/left-lower-arm-position-down.png" height="30" /> |
-| Lower arm position<br/>(left) | <img src="images/right-lower-arm-position-left.png" height="30" /> <img src="images/left-lower-arm-position-left.png" height="30" /> | Lower arm position<br/>(right) | <img src="images/right-lower-arm-position-right.png" height="30" /> <img src="images/left-lower-arm-position-right.png" height="30" /> |
+| Lower arm position<br/>(left) | <img src="images/right-lower-arm-position-inward.png" height="30" /> <img src="images/left-lower-arm-position-outward.png" height="30" /> | Lower arm position<br/>(right) | <img src="images/right-lower-arm-position-outward.png" height="30" /> <img src="images/left-lower-arm-position-inward.png" height="30" /> |
 
 ### Torso
 
