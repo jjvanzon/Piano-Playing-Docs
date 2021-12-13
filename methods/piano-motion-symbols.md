@@ -52,9 +52,9 @@ Diagonal directions seem to matter for arm positions. In that case diagonal line
 |:-:|-|
 | <img src="images/up-curled-outward.png" height="30" /> | Up = curled outward |
 | <img src="images/down-curled-inward.png" height="30" /> | Down = curled inward |
-| <img src="images/right-lower-arm-position-up.png" height="30" /> | Small curl = 1D direction (up / down) |
-| <img src="images/right-lower-arm-position-forward-up.png" height="30" /> | ½ curl = 2D diagonal (forward-up) |
-| <img src="images/right-lower-arm-position-forward-up-outward.png" height="30" /> | ¼ curl = 3D diagonal (forward-up-outward) |
+| <img src="images/right-fore-arm-position-up.png" height="30" /> | Small curl = 1D direction (up / down) |
+| <img src="images/right-fore-arm-position-forward-up.png" height="30" /> | ½ curl = 2D diagonal (forward-up) |
+| <img src="images/right-fore-arm-position-forward-up-outward.png" height="30" /> | ¼ curl = 3D diagonal (forward-up-outward) |
 
 ### Turning
 
@@ -507,58 +507,58 @@ Wrist symbols might be optional for wrist turning.
 
 |   | |
 |:-:|-|
-| <img src="images/lower-arm-position-forward.png" height="30" /> | Arm position (forward) |
-| <img src="images/left-lower-arm-position-forward-outward.png" height="30" /> <img src="images/right-lower-arm-position-forward-outward.png" height="30" /> |  Arm position (diagonal outward) |
-| <img src="images/left-lower-arm-position-forward-inward.png" height="30" /> <img src="images/right-lower-arm-position-forward-inward.png" height="30" /> | Arm position (diagonal inward) |
-| <img src="images/right-lower-arm-position-forward-inward-torso-in-front-of-hand.png" height="30" /> | Arm position (diagonal inward / torso in front of right hand)
-| <img src="images/right-lower-arm-position-forward-inward-far-reaching.png" height="30" /> | Arm position (diagonal inward / far reaching)
-| <img src="images/right-lower-arm-position-forward-up.png" height="30" /> | Arm position (reaching upward)
-| <img src="images/right-lower-arm-position-forward-down.png" height="30" /> | Arm position (slanting)
-| <img src="images/right-lower-arm-position-forward-elbow-tucked-in.png" height="30" /> | Arm position (forward / elbow tucked in)
-| <img src="images/right-arm-position-upper-arm-forward-outward-lower-arm-forward-inward.png" height="30" /> | Arm position (inward / elbow out)
-| <img src="images/right-arm-position-upper-arm-forward-outward-lower-arm-forward.png" height="30" /> | Arm position (forward / elbow out)
-| <img src="images/right-arm-position-upper-arm-forward-lower-arm-inward.png" height="30" /> | Arm position (rather unusual / upper arm forward, lower arm straight inward)
-| <img src="images/right-arm-position-upper-arm-forward-lower-arm-backward-inward.png" height="30" /> | Arm position (rather unusual / upper arm forward, lower arm inward / backward)
+| <img src="images/fore-arm-position-forward.png" height="30" /> | Arm position (forward) |
+| <img src="images/left-fore-arm-position-forward-outward.png" height="30" /> <img src="images/right-fore-arm-position-forward-outward.png" height="30" /> |  Arm position (diagonal outward) |
+| <img src="images/left-fore-arm-position-forward-inward.png" height="30" /> <img src="images/right-fore-arm-position-forward-inward.png" height="30" /> | Arm position (diagonal inward) |
+| <img src="images/right-fore-arm-position-forward-inward-torso-in-front-of-hand.png" height="30" /> | Arm position (diagonal inward / torso in front of right hand)
+| <img src="images/right-fore-arm-position-forward-inward-far-reaching.png" height="30" /> | Arm position (diagonal inward / far reaching)
+| <img src="images/right-fore-arm-position-forward-up.png" height="30" /> | Arm position (reaching upward)
+| <img src="images/right-fore-arm-position-forward-down.png" height="30" /> | Arm position (slanting)
+| <img src="images/right-fore-arm-position-forward-elbow-tucked-in.png" height="30" /> | Arm position (forward / elbow tucked in)
+| <img src="images/right-arm-position-upper-arm-forward-outward-fore-arm-forward-inward.png" height="30" /> | Arm position (inward / elbow out)
+| <img src="images/right-arm-position-upper-arm-forward-outward-fore-arm-forward.png" height="30" /> | Arm position (forward / elbow out)
+| <img src="images/right-arm-position-upper-arm-forward-fore-arm-inward.png" height="30" /> | Arm position (rather unusual / upper arm forward, fore arm straight inward)
+| <img src="images/right-arm-position-upper-arm-forward-fore-arm-backward-inward.png" height="30" /> | Arm position (rather unusual / upper arm forward, fore arm inward / backward)
 
-### Lower Arm
+### Forearm
 
-#### Lower Arm Position
+#### Forearm Position
 
 The *upper* arm is assumed to be hanging downward.
 
-*Lower arm 1D directions:*
+*Forearm 1D directions:*
 
 | |   | |   |
 |-|:-:|-|:-:|
-| Lower arm position<br/>(forward) | <img src="images/lower-arm-position-forward.png" height="20" /> | | |
-| Lower arm position<br/>(up) | <img src="images/left-lower-arm-position-up.png" height="20" /> <img src="images/lower-arm-position-up.png" height="20" /> <img src="images/right-lower-arm-position-up.png" height="20" /> | Lower arm position<br/>(down) | <img src="images/left-lower-arm-position-down.png" height="20" /> <img src="images/lower-arm-position-down.png" height="20" /> <img src="images/right-lower-arm-position-down.png" height="20" /> |
-| Lower arm position<br/>(inward) | <img src="images/left-lower-arm-position-inward.png" height="20" /> <img src="images/lower-arm-position-inward.png" height="15" /> <img src="images/right-lower-arm-position-inward.png" height="20" /> | Lower arm position<br/>(outward) | <img src="images/left-lower-arm-position-outward.png" height="20" />  <img src="images/lower-arm-position-outward.png" height="15" /> <img src="images/right-lower-arm-position-outward.png" height="20" /> |
+| Forearm position<br/>(forward) | <img src="images/fore-arm-position-forward.png" height="20" /> | | |
+| Forearm position<br/>(up) | <img src="images/left-fore-arm-position-up.png" height="20" /> <img src="images/fore-arm-position-up.png" height="20" /> <img src="images/right-fore-arm-position-up.png" height="20" /> | Forearm position<br/>(down) | <img src="images/left-fore-arm-position-down.png" height="20" /> <img src="images/fore-arm-position-down.png" height="20" /> <img src="images/right-fore-arm-position-down.png" height="20" /> |
+| Forearm position<br/>(inward) | <img src="images/left-fore-arm-position-inward.png" height="20" /> <img src="images/fore-arm-position-inward.png" height="15" /> <img src="images/right-fore-arm-position-inward.png" height="20" /> | Forearm position<br/>(outward) | <img src="images/left-fore-arm-position-outward.png" height="20" />  <img src="images/fore-arm-position-outward.png" height="15" /> <img src="images/right-fore-arm-position-outward.png" height="20" /> |
 
-*Lower arm 2D-diagonals:*
-
-| |   | |   |
-|-|:-:|-|:-:|
-| Lower arm position<br/>(forward-up) | <img src="images/left-lower-arm-position-forward-up.png" height="20" /> <img src="images/lower-arm-position-forward-up.png" height="20" /> <img src="images/right-lower-arm-position-forward-up.png" height="20" /> | Lower arm position<br/>(forward-down) | <img src="images/left-lower-arm-position-forward-down.png" height="20" /> <img src="images/lower-arm-position-forward-down.png" height="20" /> <img src="images/right-lower-arm-position-forward-down.png" height="20" /> | 
-| Lower arm position<br/>(forward-inward) | <img src="images/left-lower-arm-position-forward-inward.png" height="20" /> <img src="images/lower-arm-position-forward-inward.png" height="20" /> <img src="images/right-lower-arm-position-forward-inward.png" height="20" /> | Lower arm position<br/>(forward-outward) | <img src="images/left-lower-arm-position-forward-outward.png" height="20" /> <img src="images/lower-arm-position-forward-outward.png" height="20" /> <img src="images/right-lower-arm-position-forward-outward.png" height="20" /> |
-| Lower arm position<br/>(up-inward) | <img src="images/left-lower-arm-position-up-inward.png" height="20" /> <img src="images/lower-arm-position-up-inward.png" height="15" /> <img src="images/right-lower-arm-position-up-inward.png" height="20" /> | Lower arm position<br/>(down-inward) | <img src="images/left-lower-arm-position-down-inward.png" height="20" /> <img src="images/lower-arm-position-down-inward.png" height="15" /> <img src="images/right-lower-arm-position-down-inward.png" height="20" /> |
-| Lower arm position<br/>(up-outward) | <img src="images/left-lower-arm-position-up-outward.png" height="20" /> <img src="images/lower-arm-position-up-outward.png" height="15" /> <img src="images/right-lower-arm-position-up-outward.png" height="20" /> | Lower arm position<br/>(down-outward) | <img src="images/left-lower-arm-position-down-outward.png" height="20" /> <img src="images/lower-arm-position-down-outward.png" height="15" /> <img src="images/right-lower-arm-position-down-outward.png" height="20" /> |
-
-*Lower arm 3D-diagonals:*
+*Forearm 2D-diagonals:*
 
 | |   | |   |
 |-|:-:|-|:-:|
-| Lower arm position<br/>(forward-up-inward) | <img src="images/left-lower-arm-position-forward-up-inward.png" height="20" /> <img src="images/lower-arm-position-forward-up-inward.png" height="20" /> <img src="images/right-lower-arm-position-forward-up-inward.png" height="20" /> | Lower arm position<br/>(forward-up-outward) | <img src="images/left-lower-arm-position-forward-up-outward.png" height="20" /> <img src="images/lower-arm-position-forward-up-outward.png" height="20" /> <img src="images/right-lower-arm-position-forward-up-outward.png" height="20" /> |
-| Lower arm position<br/>(forward-down-inward) | <img src="images/left-lower-arm-position-forward-down-inward.png" height="20" /> <img src="images/lower-arm-position-forward-down-inward.png" height="20" /> <img src="images/right-lower-arm-position-forward-down-inward.png" height="20" /> | Lower arm position<br/>(forward-down-outward) | <img src="images/left-lower-arm-position-forward-down-outward.png" height="20" /> <img src="images/lower-arm-position-forward-down-outward.png" height="20" /> <img src="images/right-lower-arm-position-forward-down-outward.png" height="20" /> |
+| Forearm position<br/>(forward-up) | <img src="images/left-fore-arm-position-forward-up.png" height="20" /> <img src="images/fore-arm-position-forward-up.png" height="20" /> <img src="images/right-fore-arm-position-forward-up.png" height="20" /> | Forearm position<br/>(forward-down) | <img src="images/left-fore-arm-position-forward-down.png" height="20" /> <img src="images/fore-arm-position-forward-down.png" height="20" /> <img src="images/right-fore-arm-position-forward-down.png" height="20" /> | 
+| Forearm position<br/>(forward-inward) | <img src="images/left-fore-arm-position-forward-inward.png" height="20" /> <img src="images/fore-arm-position-forward-inward.png" height="20" /> <img src="images/right-fore-arm-position-forward-inward.png" height="20" /> | Forearm position<br/>(forward-outward) | <img src="images/left-fore-arm-position-forward-outward.png" height="20" /> <img src="images/fore-arm-position-forward-outward.png" height="20" /> <img src="images/right-fore-arm-position-forward-outward.png" height="20" /> |
+| Forearm position<br/>(up-inward) | <img src="images/left-fore-arm-position-up-inward.png" height="20" /> <img src="images/fore-arm-position-up-inward.png" height="15" /> <img src="images/right-fore-arm-position-up-inward.png" height="20" /> | Forearm position<br/>(down-inward) | <img src="images/left-fore-arm-position-down-inward.png" height="20" /> <img src="images/fore-arm-position-down-inward.png" height="15" /> <img src="images/right-fore-arm-position-down-inward.png" height="20" /> |
+| Forearm position<br/>(up-outward) | <img src="images/left-fore-arm-position-up-outward.png" height="20" /> <img src="images/fore-arm-position-up-outward.png" height="15" /> <img src="images/right-fore-arm-position-up-outward.png" height="20" /> | Forearm position<br/>(down-outward) | <img src="images/left-fore-arm-position-down-outward.png" height="20" /> <img src="images/fore-arm-position-down-outward.png" height="15" /> <img src="images/right-fore-arm-position-down-outward.png" height="20" /> |
 
-*Lower arm backward:*
+*Forearm 3D-diagonals:*
 
 | |   | |   |
 |-|:-:|-|:-:|
-| Lower arm position<br/>backward | <img src="images/left-lower-arm-position-backward.png" height="30" /> <img src="images/lower-arm-position-backward.png" height="20" /> <img src="images/right-lower-arm-position-backward.png" height="30" /> | | |
-| Lower arm position<br/>(backward-outward) | <img src="images/left-lower-arm-position-backward-outward.png" height="20" /> <img src="images/lower-arm-position-backward-outward.png" height="15" /> <img src="images/right-lower-arm-position-backward-outward.png" height="20" /> | Lower arm position<br/>(backward-inward) | <img src="images/left-lower-arm-position-backward-inward.png" height="20" /> <img src="images/lower-arm-position-backward-inward.png" height="15" /> <img src="images/right-lower-arm-position-backward-inward.png" height="20" /> |
-| Lower arm position<br/>(backward-down) | <img src="images/left-lower-arm-position-backward-down.png" height="30" /> <img src="images/lower-arm-position-backward-down.png" height="20" /> <img src="images/right-lower-arm-position-backward-down.png" height="30" /> | Lower arm position<br/>(backward-up) | <img src="images/left-lower-arm-position-backward-up.png" height="30" /> <img src="images/lower-arm-position-backward-up.png" height="20" /> <img src="images/right-lower-arm-position-backward-up.png" height="30" /> |
-| Lower arm position<br/>(backward-down-outward) | <img src="images/left-lower-arm-position-backward-down-outward.png" height="30" /> <img src="images/lower-arm-position-backward-down-outward.png" height="20" /> <img src="images/right-lower-arm-position-backward-down-outward.png" height="30" /> | Lower arm position<br/>(backward-down-inward) | <img src="images/left-lower-arm-position-backward-down-inward.png" height="30" /> <img src="images/lower-arm-position-backward-down-inward.png" height="20" /> <img src="images/right-lower-arm-position-backward-down-inward.png" height="30" /> |
-| Lower arm position<br/>(backward-up-outward) | <img src="images/left-lower-arm-position-backward-up-outward.png" height="30" /> <img src="images/lower-arm-position-backward-up-outward.png" height="20" /> <img src="images/right-lower-arm-position-backward-up-outward.png" height="30" /> | Lower arm position<br/>(backward-up-inward) | <img src="images/left-lower-arm-position-backward-up-inward.png" height="30" /> <img src="images/lower-arm-position-backward-up-inward.png" height="20" /> <img src="images/right-lower-arm-position-backward-up-inward.png" height="30" /> |
+| Forearm position<br/>(forward-up-inward) | <img src="images/left-fore-arm-position-forward-up-inward.png" height="20" /> <img src="images/fore-arm-position-forward-up-inward.png" height="20" /> <img src="images/right-fore-arm-position-forward-up-inward.png" height="20" /> | Forearm position<br/>(forward-up-outward) | <img src="images/left-fore-arm-position-forward-up-outward.png" height="20" /> <img src="images/fore-arm-position-forward-up-outward.png" height="20" /> <img src="images/right-fore-arm-position-forward-up-outward.png" height="20" /> |
+| Forearm position<br/>(forward-down-inward) | <img src="images/left-fore-arm-position-forward-down-inward.png" height="20" /> <img src="images/fore-arm-position-forward-down-inward.png" height="20" /> <img src="images/right-fore-arm-position-forward-down-inward.png" height="20" /> | Forearm position<br/>(forward-down-outward) | <img src="images/left-fore-arm-position-forward-down-outward.png" height="20" /> <img src="images/fore-arm-position-forward-down-outward.png" height="20" /> <img src="images/right-fore-arm-position-forward-down-outward.png" height="20" /> |
+
+*Forearm backward:*
+
+| |   | |   |
+|-|:-:|-|:-:|
+| Forearm position<br/>backward | <img src="images/left-fore-arm-position-backward.png" height="30" /> <img src="images/fore-arm-position-backward.png" height="20" /> <img src="images/right-fore-arm-position-backward.png" height="30" /> | | |
+| Forearm position<br/>(backward-outward) | <img src="images/left-fore-arm-position-backward-outward.png" height="20" /> <img src="images/fore-arm-position-backward-outward.png" height="15" /> <img src="images/right-fore-arm-position-backward-outward.png" height="20" /> | Forearm position<br/>(backward-inward) | <img src="images/left-fore-arm-position-backward-inward.png" height="20" /> <img src="images/fore-arm-position-backward-inward.png" height="15" /> <img src="images/right-fore-arm-position-backward-inward.png" height="20" /> |
+| Forearm position<br/>(backward-down) | <img src="images/left-fore-arm-position-backward-down.png" height="30" /> <img src="images/fore-arm-position-backward-down.png" height="20" /> <img src="images/right-fore-arm-position-backward-down.png" height="30" /> | Forearm position<br/>(backward-up) | <img src="images/left-fore-arm-position-backward-up.png" height="30" /> <img src="images/fore-arm-position-backward-up.png" height="20" /> <img src="images/right-fore-arm-position-backward-up.png" height="30" /> |
+| Forearm position<br/>(backward-down-outward) | <img src="images/left-fore-arm-position-backward-down-outward.png" height="30" /> <img src="images/fore-arm-position-backward-down-outward.png" height="20" /> <img src="images/right-fore-arm-position-backward-down-outward.png" height="30" /> | Forearm position<br/>(backward-down-inward) | <img src="images/left-fore-arm-position-backward-down-inward.png" height="30" /> <img src="images/fore-arm-position-backward-down-inward.png" height="20" /> <img src="images/right-fore-arm-position-backward-down-inward.png" height="30" /> |
+| Forearm position<br/>(backward-up-outward) | <img src="images/left-fore-arm-position-backward-up-outward.png" height="30" /> <img src="images/fore-arm-position-backward-up-outward.png" height="20" /> <img src="images/right-fore-arm-position-backward-up-outward.png" height="30" /> | Forearm position<br/>(backward-up-inward) | <img src="images/left-fore-arm-position-backward-up-inward.png" height="30" /> <img src="images/fore-arm-position-backward-up-inward.png" height="20" /> <img src="images/right-fore-arm-position-backward-up-inward.png" height="30" /> |
 
 ### Torso
 
