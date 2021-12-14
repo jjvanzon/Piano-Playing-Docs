@@ -6,7 +6,9 @@ Links
 
 Links to possibly useful information.
 
-- [Free Sheet Music from Michael Kravchuk](https://michaelkravchuk.com/free-sheet-music/)
+- [Free Sheet Music from Michael Kravchuk](https://michaelkravchuk.com/free-sheet-music/) (public domain)
+- [Free Sheet Music on Musescore](https://musescore.com/)
+- [Free Sheet Music Chopin Ballade II on Musescore](https://musescore.com/hmscomp/chopin-ballade-no-2-piano-solo)
 - [Piano Fingering Tips](https://www.onlinepianocoach.com/piano-fingering.html)
 - [Image Diff (Inspecting Difference Between Picture Files)](https://online-image-comparison.com)
 - [Integrated Music Theory](https://intmus.github.io/inttheory21-22/) (nice collection of topics)
