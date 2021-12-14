@@ -57,22 +57,3 @@ Symbols currently out of favor.
 | <img src="images/3-fingers-curved-outer-fingers-deeper-in-keys-old.png" height="30" />       | 3 fingers (curved / outer finger deeper in keys / variation 1)  |
 | <img src="images/3-fingers-curved-right-finger-deeper-in-keys-old.png" height="30" />        | 3 fingers (curved / right finger deeper in keys / variation 1)  |
 | <img src="images/4-fingers-curved-outer-fingers-deeper-in-keys-old.png" height="30" />       | 4 fingers (curved / outer fingers deeper in keys / variation 1) |
-
-*Forearm 2D-diagonals:*
-
-These seemed less practical:
-
-| |   | |   |
-|-|:-:|-|:-:|
-| Forearm position<br/>(up-outward) | <img src="images/left-fore-arm-position-up-outward.png" height="20" /> <img src="images/fore-arm-position-up-outward.png" height="15" /> <img src="images/right-fore-arm-position-up-outward.png" height="20" /> | Forearm position<br/>(down-outward) | <img src="images/left-fore-arm-position-down-outward.png" height="20" /> <img src="images/fore-arm-position-down-outward.png" height="15" /> <img src="images/right-fore-arm-position-down-outward.png" height="20" /> |
-| Forearm position<br/>(up-inward) | <img src="images/left-fore-arm-position-up-inward.png" height="20" /> <img src="images/fore-arm-position-up-inward.png" height="15" /> <img src="images/right-fore-arm-position-up-inward.png" height="20" /> | Forearm position<br/>(down-inward) | <img src="images/left-fore-arm-position-down-inward.png" height="20" /> <img src="images/fore-arm-position-down-inward.png" height="15" /> <img src="images/right-fore-arm-position-down-inward.png" height="20" /> |
-
-*Forearm backward:*
-
-| |   | |   |
-|-|:-:|-|:-:|
-| Forearm position<br/>backward | <img src="images/left-fore-arm-position-backward.png" height="30" /> <img src="images/fore-arm-position-backward.png" height="20" /> <img src="images/right-fore-arm-position-backward.png" height="30" /> | | |
-| Forearm position<br/>(backward-outward) | <img src="images/left-fore-arm-position-backward-outward.png" height="20" /> <img src="images/fore-arm-position-backward-outward.png" height="15" /> <img src="images/right-fore-arm-position-backward-outward.png" height="20" /> | Forearm position<br/>(backward-inward) | <img src="images/left-fore-arm-position-backward-inward.png" height="20" /> <img src="images/fore-arm-position-backward-inward.png" height="15" /> <img src="images/right-fore-arm-position-backward-inward.png" height="20" /> |
-| Forearm position<br/>(backward-down) | <img src="images/left-fore-arm-position-backward-down.png" height="30" /> <img src="images/fore-arm-position-backward-down.png" height="20" /> <img src="images/right-fore-arm-position-backward-down.png" height="30" /> | Forearm position<br/>(backward-up) | <img src="images/left-fore-arm-position-backward-up.png" height="30" /> <img src="images/fore-arm-position-backward-up.png" height="20" /> <img src="images/right-fore-arm-position-backward-up.png" height="30" /> |
-| Forearm position<br/>(backward-down-outward) | <img src="images/left-fore-arm-position-backward-down-outward.png" height="30" /> <img src="images/fore-arm-position-backward-down-outward.png" height="20" /> <img src="images/right-fore-arm-position-backward-down-outward.png" height="30" /> | Forearm position<br/>(backward-down-inward) | <img src="images/left-fore-arm-position-backward-down-inward.png" height="30" /> <img src="images/fore-arm-position-backward-down-inward.png" height="20" /> <img src="images/right-fore-arm-position-backward-down-inward.png" height="30" /> |
-| Forearm position<br/>(backward-up-outward) | <img src="images/left-fore-arm-position-backward-up-outward.png" height="30" /> <img src="images/fore-arm-position-backward-up-outward.png" height="20" /> <img src="images/right-fore-arm-position-backward-up-outward.png" height="30" /> | Forearm position<br/>(backward-up-inward) | <img src="images/left-fore-arm-position-backward-up-inward.png" height="30" /> <img src="images/fore-arm-position-backward-up-inward.png" height="20" /> <img src="images/right-fore-arm-position-backward-up-inward.png" height="30" /> |
