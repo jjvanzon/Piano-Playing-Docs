@@ -50,6 +50,14 @@ d
 
 Base notes correspond to the chord's fundamental note.
 
+#### Part 3b
+
+A suffix of the chorus (part __3__).  
+Just a C note and G note, but different combinations of different octaves at different times.  
+Bit hard to remember.
+The first 2 measures *increase* in numbers of tones at the same time.
+The 2nd 2 measures go from *little* to *many* to *less* notes at the same time.
+
 ### Part 4: Intermezzo 1
 
 Repeating the same chord progression 4 times.  
