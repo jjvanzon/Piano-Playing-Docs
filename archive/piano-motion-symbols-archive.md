@@ -58,6 +58,14 @@ Symbols currently out of favor.
 | <img src="images/3-fingers-curved-right-finger-deeper-in-keys-old.png" height="30" />        | 3 fingers (curved / right finger deeper in keys / variation 1)  |
 | <img src="images/4-fingers-curved-outer-fingers-deeper-in-keys-old.png" height="30" />       | 4 fingers (curved / outer fingers deeper in keys / variation 1) |
 
+*Forearm 2D-diagonals:*
+
+These seemed less practical:
+
+| |   | |   |
+|-|:-:|-|:-:|
+| Forearm position<br/>(up-outward) | <img src="images/left-fore-arm-position-up-outward.png" height="20" /> <img src="images/fore-arm-position-up-outward.png" height="15" /> <img src="images/right-fore-arm-position-up-outward.png" height="20" /> | Forearm position<br/>(down-outward) | <img src="images/left-fore-arm-position-down-outward.png" height="20" /> <img src="images/fore-arm-position-down-outward.png" height="15" /> <img src="images/right-fore-arm-position-down-outward.png" height="20" /> |
+| Forearm position<br/>(up-inward) | <img src="images/left-fore-arm-position-up-inward.png" height="20" /> <img src="images/fore-arm-position-up-inward.png" height="15" /> <img src="images/right-fore-arm-position-up-inward.png" height="20" /> | Forearm position<br/>(down-inward) | <img src="images/left-fore-arm-position-down-inward.png" height="20" /> <img src="images/fore-arm-position-down-inward.png" height="15" /> <img src="images/right-fore-arm-position-down-inward.png" height="20" /> |
 
 *Forearm backward:*
 
