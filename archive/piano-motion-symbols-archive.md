@@ -3,8 +3,8 @@ Piano Playing Docs | Methods
 
 *JJ van Zon, 2021*
 
-Piano Motion Symbols | Older Suggestions
------------------------------------------
+Piano Motion Symbols | Archive
+------------------------------
 
 Symbols currently out of favor.
 
