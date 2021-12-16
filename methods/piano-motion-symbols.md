@@ -507,16 +507,10 @@ Wrist symbols might be optional for wrist turning.
 
 |   | |
 |:-:|-|
-| <img src="images/lower-arm-position-forward.png" height="30" /> | Arm position (forward) |
-| <img src="images/left-lower-arm-position-forward-out.png" height="30" /> <img src="images/right-lower-arm-position-forward-out.png" height="30" /> |  Arm position (diagonal out) |
-| <img src="images/left-lower-arm-position-forward-in.png" height="30" /> <img src="images/right-lower-arm-position-forward-in.png" height="30" /> | Arm position (diagonal in) |
 | <img src="images/right-lower-arm-position-forward-in-torso-in-front-of-hand.png" height="30" /> | Arm position (diagonal in / torso in front of right hand)
 | <img src="images/right-lower-arm-position-forward-in-far-reaching.png" height="30" /> | Arm position (diagonal in / far reaching)
-| <img src="images/right-lower-arm-position-forward-up.png" height="30" /> | Arm position (reaching upward)
-| <img src="images/right-lower-arm-position-forward-down.png" height="30" /> | Arm position (slanting)
 | <img src="images/right-lower-arm-position-forward-elbow-tucked-in.png" height="30" /> | Arm position (forward / elbow tucked in)
 | <img src="images/right-arm-position-upper-arm-forward-out-lower-arm-forward-in.png" height="30" /> | Arm position (in / elbow out)
-| <img src="images/right-arm-position-upper-arm-forward-out-lower-arm-forward.png" height="30" /> | Arm position (forward / elbow out)
 | <img src="images/right-arm-position-upper-arm-forward-lower-arm-in.png" height="30" /> | Arm position (rather unusual / upper arm forward, fore arm straight in)
 | <img src="images/right-arm-position-upper-arm-forward-lower-arm-backward-in.png" height="30" /> | Arm position (rather unusual / upper arm forward, fore arm in / backward)
 
