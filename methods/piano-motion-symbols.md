@@ -574,6 +574,13 @@ The *upper* arm is assumed to be hanging downward.
 | Upper arm *forward*<br/>(lower arm forward) | <img src="images/left-arm-position-upper-arm-forward-lower-arm-forward.png" height="30" /> <img src="images/arm-position-upper-arm-forward-lower-arm-forward.png" height="30" /> <img src="images/right-arm-position-upper-arm-forward-lower-arm-forward.png" height="30" /> | Upper arm *backward*<br/>(lower arm down) | <img src="images/left-arm-position-upper-arm-backward-lower-arm-down.png" height="30" /> <img src="images/arm-position-upper-arm-backward-lower-arm-down.png" height="30" /> <img src="images/right-arm-position-upper-arm-backward-lower-arm-down.png" height="30" />
 | (lower arm backward) | <img src="images/left-arm-position-upper-arm-backward-lower-arm-backward.png" height="30" /> <img src="images/arm-position-upper-arm-backward-lower-arm-backward.png" height="30" /> <img src="images/right-arm-position-upper-arm-backward-lower-arm-backward.png" height="30" /> | | |
 
+*Upper arm 2D-diagonals:*
+
+| |   | |   |
+|-|:-:|-|:-:|
+| Upper arm *up-outward*<br/>(lower arm up-outward) |  <img src="images/left-arm-position-upper-arm-up-outward-lower-arm-up-outward.png" height="20" /> <img src="images/arm-position-upper-arm-up-outward-lower-arm-up-outward.png" height="20" /> <img src="images/right-arm-position-upper-arm-up-outward-lower-arm-up-outward.png" height="20" /> | (lower arm down-outward) |  <img src="images/left-arm-position-upper-arm-up-outward-lower-arm-down-outward.png" height="20" /> <img src="images/arm-position-upper-arm-up-outward-lower-arm-down-outward.png" height="20" /> <img src="images/right-arm-position-upper-arm-up-outward-lower-arm-down-outward.png" height="20" /> |
+| Upper arm *up-inward*<br/>(lower arm up-inward) |  <img src="images/left-arm-position-upper-arm-up-inward-lower-arm-up-inward.png" height="20" /> <img src="images/arm-position-upper-arm-up-inward-lower-arm-up-inward.png" height="20" /> <img src="images/right-arm-position-upper-arm-up-inward-lower-arm-up-inward.png" height="20" /> | (lower arm inward) |  <img src="images/left-arm-position-upper-arm-up-inward-lower-arm-inward.png" height="20" /> <img src="images/arm-position-upper-arm-up-inward-lower-arm-inward.png" height="20" /> <img src="images/right-arm-position-upper-arm-up-inward-lower-arm-inward.png" height="20" /> |
+
 ...
 
 ### Torso
