@@ -57,3 +57,10 @@ Symbols currently out of favor.
 | <img src="images/3-fingers-curved-outer-fingers-deeper-in-keys-old.png" height="30" />       | 3 fingers (curved / outer finger deeper in keys / variation 1)  |
 | <img src="images/3-fingers-curved-right-finger-deeper-in-keys-old.png" height="30" />        | 3 fingers (curved / right finger deeper in keys / variation 1)  |
 | <img src="images/4-fingers-curved-outer-fingers-deeper-in-keys-old.png" height="30" />       | 4 fingers (curved / outer fingers deeper in keys / variation 1) |
+
+*Finger spread (3 finger / middle finger)*
+
+|   |   |
+|:-:|:-:|
+| <img src="images/finger-spread-3-fingers-flat-downward-middle-finger-arrows-top.png" height="30" /> | <img src="images/finger-spread-3-fingers-flat-downward-middle-finger-arrows-bottom.png" height="30" /> |
+| <img src="images/finger-spread-3-fingers-flat-upward-middle-finger-arrows-top.png" height="30" /> | <img src="images/finger-spread-3-fingers-flat-upward-middle-finger-arrows-bottom.png" height="30" /> |
