@@ -13,6 +13,10 @@ I try to support these goals with the content found here.
 Contents
 --------
 
+- [Goals](goals.md)
+
+    - Some possible goals I might have with my piano playing hobby.
+
 - [Chopin Mazurka Op. 24, No. 2](chopin-mazurka-op-24-no-2)
 
     - Notes and analyses studying Chopin Mazurka Op. 24, No. 2. May include chord progression, harmonic analysis, phrase structure and an overview scoring myself on the different parts and aspects of the piece.
