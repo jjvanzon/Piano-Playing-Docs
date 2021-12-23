@@ -29,7 +29,15 @@ To perhaps focus on things with lower scores.
 
 ### Details 
 
-- Memorizing is a bit where it hangs right now.  
-- Memorizing might at one point include memorizing the chords.  
-- The note reading aspect might include annotating with mnemonics and cheats.  
-- Technique might include fingering.
+- Reading:
+    - Note reading might not matter much when already memorized.
+    - Might include annotating with mnemonics and cheats.  
+    - May include my making simplified musical score or chord progressions.
+- Memorizing:
+    - Memorizing is a bit where it hangs right now.  
+    - Memorizing might at one point include memorizing the chords.  
+    - Analyzing phrase and repetition structure may help.
+- Technique:
+    - Might include fingering.
+    - Annotating the musical score with arrows/symbols how to move.
+    - Figuring out tricks for the harder parts.
