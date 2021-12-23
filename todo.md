@@ -30,7 +30,7 @@ More specific TODO lists may be in other documents.
         - [x] Digitizing what I have.
         - [ ] __Considering left-over things__ in "Piano Technique Ideas" under "2021-11-27 Brainstorm Motion Notation".
 - [ ] Pieces to play:
-    - [ ] List of pieces that I play / have played / would like to play.
+    - [ ] Listing of pieces that I play / have played / would like to play.
     - [x] Using [100 Songs You´ve Heard And Don´t Know The Name](https://www.youtube.com/watch?v=PCx8Xcm9l7U&t=1099s)
     - [ ] Using books in closet
     - [ ] Using books in attic

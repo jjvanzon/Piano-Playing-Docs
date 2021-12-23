@@ -4,8 +4,6 @@ Chopin Ballade II
 Practice Schema
 ---------------
 
-Click [here](/methods/practice-schema.md) for method description.
-
 |  Part   |   Read    | Memorize  | Technique |Expression |
 |:-------:|:---------:|:---------:|:---------:|:---------:|
 | __1a__  | - - - 8 - | - - 5 - - | - - - 8 - | - - 5 - - |
@@ -43,6 +41,9 @@ Click [here](/methods/practice-schema.md) for method description.
 | __1c__  | - - - 8 - | - - 5 - - | - - - 8 - | - - 5 - - |
 | __19__  | - - 5 - - | - 2 - - - | - - 5 - - | - 2 - - - |
 
+__WAS AT: 15b practicing for memory.__
+
+Click [here](/methods/practice-schema.md) for method description.
 
 Part 1a Structure
 -----------------
