@@ -19,3 +19,8 @@ About harmonic function:
 - [Open Music Theory, Harmonic functions](http://openmusictheory.com/harmonicFunctions.html)
 - [Principles of Notation for Harmonic Analysis](https://www.brianedwardjarvis.com/TheoryTopics/notation_principles_harmonic_analysis.html)
 - Some people trying to make sense of harmonic function: [The representation of harmonic structure in music: hierarchies of stability as a function of context, J Bharucha, C L Krumhansl](http://music.psych.cornell.edu/articles/tonality/HierarchicalRepresentationOfHarmonicStructure.pdf)
+
+About technique:
+
+- [Barbara Lister-Sink's "Freeing the Caged Bird" Videos](https://www.youtube.com/user/BarbaraListerSink/videos)
+- [Fundamentals of Piano Practice](https://fundamentals-of-piano-practice.readthedocs.io/chapter1/index.html)
