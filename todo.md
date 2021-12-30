@@ -15,11 +15,13 @@ More specific TODO lists may be in other documents.
 - [ ] Debussy Arabesque I
     - [ ] __Chords & sheet music__
     - [ ] See specialized [TODO](debussy-arabesque-1/debussy-arabesque-1-todo.md))
+- [ ] Mozart Sonata Facile KV 545 Part 1 
+    - [ ] Simplified sheet music rework
 - [ ] Sheet Music Software
     - [ ] Trying "Neuratron AudioScore First" / "Avid Sibelius First"
 - [ ] __Technique:__
     - [ ] Rehearsing Barbara Lister-Sink suggestions.
-    - [ ] __'Motion notation' idea.__
+    - [ ] __Piano Motion Symbols idea__
         - [x] Considering Debussy Arabesque 1 motion annotations.
         - [x] Considering whatever motions comes to mind.
         - [x] Considering "Piano curriculum" doc "Motorische techniek".
@@ -28,7 +30,8 @@ More specific TODO lists may be in other documents.
         - [x] Reorganized Piano folder.
         - [x] Less harsh wording in loose idea docs
         - [x] Digitizing what I have.
-        - [ ] __Considering left-over things__ in "Piano Technique Ideas" under "2021-11-27 Brainstorm Motion Notation".
+        - [ ] __Systemizing more details.__
+        - [ ] Considering left-over things in "Piano Technique Ideas" under "2021-11-27 Brainstorm Motion Notation".
 - [ ] Pieces to play:
     - [ ] Listing of pieces that I play / have played / would like to play.
     - [x] Using [100 Songs You´ve Heard And Don´t Know The Name](https://www.youtube.com/watch?v=PCx8Xcm9l7U&t=1099s)
