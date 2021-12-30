@@ -17,6 +17,7 @@ More specific TODO lists may be in other documents.
     - [ ] See specialized [TODO](debussy-arabesque-1/debussy-arabesque-1-todo.md))
 - [ ] Mozart Sonata Facile KV 545 Part 1 
     - [ ] Simplified sheet music rework
+    - [ ] May redo simplified sheet music with non-copyrighted version.
 - [ ] Sheet Music Software
     - [ ] Trying "Neuratron AudioScore First" / "Avid Sibelius First"
 - [ ] __Technique:__
