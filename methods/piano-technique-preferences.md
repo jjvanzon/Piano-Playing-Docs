@@ -22,9 +22,7 @@ My body type is:
 - Back hunched or straight
 - Back not curved inward.
 
-Rather than bad posture, maybe accept this as my body type. Even a physical therapist had to conclude, that my back is just not curved inward. It's been that way at least since puberty.
-
-It may not affect my piano playing positively. I try to compensate my posture, at the same time accepting my body as it is.
+Rather than bad posture, maybe accept this as my body type. Even a physical therapist had to conclude, that my back is just not curved that way. It's been that way since late childhood. It may not affect my piano playing positively. I try to compensate my posture, at the same time accepting my body as it is.
 
 ### Lower Arm
 
@@ -42,17 +40,18 @@ It may not affect my piano playing positively. I try to compensate my posture, a
 This way, as the fingers rest on the keyboard,  
 they seem to want to fall closer to the body.  
 This seems to make the *weight* on the fingers come from the *torso* more passively,  
-instead of *actively* from the lower or upper arm and wrist. 
+instead of *actively* from the (lower) arms and wrist. 
 
 ### Shoulders
 
-- I appear to have not much problem letting my shoulders hang down, as some might find advantageous.
-- Mine hang down  forward.
+- The general suggestion seems to be to let the shoulders hang down.
+- I appear to have not much problem with that.
+- Mine hang down forward.
 - That appears to be my body type.
 
 ### Seating
 
-- To help maintain this position.
+- To help maintain this position:
 - Bench at quite a high setting.
 - Wearing shoes, so I still reach the floor naturally.
 - At moderate distance from piano.  
@@ -66,9 +65,9 @@ instead of *actively* from the lower or upper arm and wrist.
 
 ### Torso
 
+- This posture may make *force* come from the *torso*.
 - Swaying torso for support.
 - Positioning at average distance between the keys pressed.
-- This posture may make *force* come from the *torso*.
 
 ### Fingers & Wrist
 
@@ -82,10 +81,9 @@ instead of *actively* from the lower or upper arm and wrist.
 
 ### Chords / Jumps
 
-- For chords I seem to sit similarly.
-- But perhaps slightly more tilted forward.
-- Force might need to come from the arms a bit more for chords.
-- With more lifting of the wrist / lower arm.
+- For chords I may sit slightly more tilted forward.
+- Force might need to come from the arms a bit more.
+- With more lifting of the wrist and lower arm.
 
 ### Experiment
 
