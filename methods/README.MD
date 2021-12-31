@@ -19,6 +19,14 @@ You may find some of my methods of working here.
 
     - A methods for keeping overview, scoring progress of different parts and aspects of a musical piece.
 
+- [Finger Numbers](finger-numbers.md)
+
+    - These might be personal preferences for writing finger numbers in musical score.
+
+- [Piano Technique Preferences](piano-technique-preferences.md)
+
+    - Some personal preferences for piano technique. The focus appears to be general posture for now.
+
 - [Piano Motion Symbols (MarkDown)](piano-motion-symbols.md) `[Draft]`
 
   - This is an idea of extending fingering notation from just numbers to additional symbols, indicating the kind of hand movement involved. This is in MarkDown format, more readable like a web site.
