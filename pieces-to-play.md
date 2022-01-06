@@ -19,14 +19,14 @@ Pieces to Play
 
 ### Might Like to Play
 
-| Name                                                    | Mood             | Difficulty | Niceness | Pages    | Duration   | Link 
-|---------------------------------------------------------|------------------|------------|----------|----------|------------|-----
-| Chopin Mazurka Op. 41, No. 1                            | Melancholic      |            |          |          |             |
-| Chopin Etude Op. 25, No. 1 ("Harp Study")               | Atmospheric      |            |          |          |             |
-| Chopin Etude Op. 10, No. 3 in E ("Tristesse")           | Atmospheric      |            |          |          |             |
-| Chopin Etude Op. 25, No. 12 ("Ocean")                   | Heavy            |            |          |          |             |
-| Chopin Nocturne Op. 32, No. 2                           | Atmospheric      |            |          |          |             |
-| Chopin Nocturne Op. 9, No. 3                            | Atmospheric      |            |          | 10 pages |             |
+| Name                                                    | Mood             | Difficulty | Niceness | Pages    | Duration    | Link 
+|---------------------------------------------------------|------------------|------------|----------|----------|-------------|-----
+| Chopin Mazurka Op. 41, No. 1                            | Melancholic      | Medium     |          |          | 2 min 30 s  | [YouTube](https://www.youtube.com/watch?v=rr4_MijijFk)
+| Chopin Etude Op. 25, No. 1 ("Harp Study")               | Atmospheric      | Difficult  |          |          | 2 min       | [YouTube](https://www.youtube.com/watch?v=OKokquds2_M)
+| Chopin Etude Op. 10, No. 3 in E ("Tristesse")           | Atmospheric      | Medium     |          |          | 4 min 30 s  | [YouTube](https://www.youtube.com/watch?v=efUpNxQPLMU)
+| Chopin Etude Op. 25, No. 12 ("Ocean")                   | Heavy            | Difficult  |          |          | 2 min 30 s  | [YouTube](https://www.youtube.com/watch?v=pRlHKQXjzZY)
+| Chopin Nocturne Op. 32, No. 2                           | Atmospheric      | Medium     |          |          | 7 min       | [YouTube](https://www.youtube.com/watch?v=my5OSmQZjns)
+| Chopin Nocturne Op. 9, No. 3                            | Atmospheric      | Medium     |          | 10 pages | 7 min       | [YouTube](https://www.youtube.com/watch?v=O3Apq41rrFc)
 | Bach Prelude in C Major, BWV 846                        | Atmospheric      | Easier     |          |          | 2 min 20 s  | [Spotify](https://open.spotify.com/track/211zXouX3GROvKvaoasR6V?si=0b2dfeb0b4614f66)
 | Beethoven Sonata Op.27 No.2 Mov. 2 ("Moonlight Sonata") | Melancholic      | Easier     |          |          | 5 min 25 s  | [Spotify](https://open.spotify.com/track/1UNzT19U7L0sC6d03L7MwT?si=0bf09cebe7a24dfe)
 | Chopin Prelude Op. 28, No. 4                            | Melancholic      | Easier     |          |          | 2 min 45 s  | [Spotify](https://open.spotify.com/track/3XwL5sEvTzT6yzlFFsQCEl?si=a2714069d3fd4c71)
