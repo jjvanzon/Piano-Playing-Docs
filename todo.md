@@ -22,6 +22,13 @@ More specific TODO lists may be in other documents.
     - [ ] Trying "Neuratron AudioScore First" / "Avid Sibelius First"
 - [ ] __Technique:__
     - [ ] Rehearsing Barbara Lister-Sink suggestions.
+    - [ ] There may be instructional videos from Barbara Lister-Sink:
+        - [ ] [Basic Stroke](https://www.youtube.com/watch?v=OjSWu8ZADzI)
+        - [ ] Might still want to summarize that and add to:
+        - [ ] [Barbara Lister-Sink's "Freeing the Caged Bird" Videos Summary](methods/barbara-lister-sink-freeing-the-caged-bird-videos-summary.md)
+        - [ ] [DVD Contents / Ordering](https://www.lister-sinkinstitute.org/freeing-the-caged-bird-dvd/#1508990586220-02706448-751f)\
+        - [ ] [More Preview Videos](https://www.lister-sinkinstitute.org/freeing-the-caged-bird-dvd/#1508992509585-4388e2b5-8df3)
+        - [ ] I guess you'd really just have to buy the DVD.
     - [ ] __Piano Motion Symbols idea__
         - [x] Considering Debussy Arabesque 1 motion annotations.
         - [x] Considering whatever motions comes to mind.
