@@ -20,6 +20,10 @@ Chord progressions of Debussy Arabesque I.
     - Visually simpler notes. Accidentals always placed near notes, even when part of the key.  
     - Added chords and bass line.
 
+- [Debussy Arabesque I Practice Schema](debussy-arabesque-1-practice-schema.md)
+
+    - An overview for scoring myself on the different parts and aspects of this piano piece.
+
 - [Debussy Arabesque I TODO](debussy-arabesque-1-todo.md)
 
     - Some notes on where to go next on my studying the Debussy Arabesque I piano piece.

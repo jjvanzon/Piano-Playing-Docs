@@ -42,8 +42,3 @@ Practice Schema
 | __14__   | - - - - - | - - - - - | - - - - - | - - - - - |
 
 Click [here](/methods/practice-schema.md) for method description.
-
-### Details
-
-- Part 6a and 6b seem harder to read. Perhaps arpeggios more on one staff might help.
-- For technique I added finger numbers. Might also add motion symbols.
