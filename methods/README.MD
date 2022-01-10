@@ -23,6 +23,10 @@ You may find some of my methods of working here.
 
     - These might be personal preferences for writing finger numbers in musical score.
 
+- [Analyses](analyses.md)
+
+    - I might do several analyses or derived works from musical score, like figuring out chords or phrase structure. Not sure yet which might be most useful.
+
 - [Piano Technique Preferences](piano-technique-preferences.md)
 
     - Some personal preferences for piano technique. The focus appears to be general posture for now.
