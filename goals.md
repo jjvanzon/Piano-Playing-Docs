@@ -25,6 +25,7 @@ Sub-Goals / Means
 - ***Technique:***
     - Studying ***motion*** of the ***body*** in detail.
     - Studying ***arpeggios*** and ***scales*** and such.
+    - Technique good enough to not just ***churn*** through a piece, but also ***feel well*** and have the ***control*** to add ***expression***.
 - ***Expression:***
     - Studying ***'color palette'*** of piano sound.
     - ***Respecting*** any note / chord / sound / way of playing as welcome.
