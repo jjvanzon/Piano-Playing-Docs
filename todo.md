@@ -8,6 +8,7 @@ More specific TODO lists may be in other documents.
 
 ### 2021-11-16 TODO
 
+- [ ] Updating readme index links.
 - [ ] Chopin Mazurka Op. 24, No. 2
     - [ ] Phrase structure intermezzo 1 more detailed.
     - [ ] Memorizing chords
