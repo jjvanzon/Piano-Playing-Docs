@@ -24,6 +24,8 @@ Not all body parts or motions seem equally involved.
 
 These symbols aim to be a quite literal representation of body and motion, while still schematic and hopefully not ambiguous.
 
+Not all positions and motions might be equally useful for piano technique. This exposition may make less assumptions about what is best. It might be a more neutral display of what is possible with the body, for enhanced awareness of the body, rather than what is best for piano technique.
+
 ### Basic Elements
 
 These might be some of the basic elements used in this proposed notation. Combinations of basic elements may form specific meaning.
