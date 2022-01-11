@@ -18,14 +18,14 @@ There is a melody, base notes, unbroken chords/intervals, subtle contretemps.
 |  __verse - chorus__   | 2 - 3a      |
 |      __suffix__       | 1b          |
 
-### Part 1: Prefix & Suffix
+### Fragment 1: Prefix & Suffix
 
-In the beginning, part __1a__ is shorter.  
-In the end part __1b__ is more elaborate, longer.  
+In the beginning, fragment __1a__ is shorter.  
+In the end fragment __1b__ is more elaborate, longer.  
 
 It is mostly alternating intervals: 3rd - 6th - 3rd - 6th.
 
-### Part 2: Verse
+### Fragment 2: Verse
 
 Repeated 3 times in the song.  
 Has 2 similar halves.  
@@ -38,27 +38,27 @@ a'' - b - a' - b'
 
 Base notes sometimes differ from the chord's fundamental note.
 
-### Part 3: Chorus
+### Fragment 3: Chorus
 
-The verse (part __2__) is always followed by a chorus (part __3__).  
+The verse (fragment __2__) is always followed by a chorus (fragment __3__).  
 Repeated 3 times in the song.  
 Structure:  
 a - a - b - c  
 a - a'- b - c  
-The 2nd time with an extension (called part __3b__):  
+The 2nd time with an extension (called fragment __3b__):  
 d
 
 Base notes correspond to the chord's fundamental note.
 
-#### Part 3b
+#### Fragment 3b
 
-A suffix of the chorus (part __3__).  
+A suffix of the chorus (fragment __3__).  
 Just a C note and G note, but different combinations of different octaves at different times.  
 Bit hard to remember.
 The first 2 measures *increase* in numbers of tones at the same time.
 The 2nd 2 measures go from *little* to *many* to *less* notes at the same time.
 
-### Part 4: Intermezzo 1
+### Fragment 4: Intermezzo 1
 
 Repeating the same chord progression 4 times.  
 Structure:  
@@ -77,19 +77,19 @@ Trying to capture the structure of each melody variation:
 
 There are slight variations even still, not mentioned, but the above may help memorize things.
 
-### Part 5: Intermezzo 2
+### Fragment 5: Intermezzo 2
 
 Moves from C major to Dᵇ major (5 flats).  
 It is structured rather regularly:  
 a - b - a - c  
 a - b - a a' - c'  
-The a' and c' at the melody goes to the left hand (called part __5b__).
+The a' and c' at the melody goes to the left hand (called fragment __5b__).
 
 The base notes are the fundamentals of the chords.
 
-### Part 6: Intermezzo 3
+### Fragment 6: Intermezzo 3
 
-Intermezzo part __5__ is directly followed by intermezzo part __6__.  
+Intermezzo fragment __5__ is directly followed by intermezzo fragment __6__.  
 It goes to minor.  
 Melody in left hand.  
 It basically repeats a theme 4 times.  

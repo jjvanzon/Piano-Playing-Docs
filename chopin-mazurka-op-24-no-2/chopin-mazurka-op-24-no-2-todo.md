@@ -4,10 +4,10 @@ Chopin Mazurka Op. 24, No. 2
 TODO
 ----
 
-### 2021-11-16 TODO Part 4 Memorizing and Phrase Structure
+### 2021-11-16 TODO Fragment 4 Memorizing and Phrase Structure
 
-- [ ] I have some difficulty memorizing part 4.
-- [ ] Might extend the phrase structure analysis for part 4.
+- [ ] I have some difficulty memorizing fragment 4.
+- [ ] Might extend the phrase structure analysis for fragment 4.
 - [ ] Perhaps splitting up in more pieces, and more specific how they repeat and recombine.
 - [ ] (Rather than saying: 4 playful variations a1, a2, a3 and a4.)
 - [ ] Maybe remove harmonic info from prase structure analysis, since that may be already captured by the chord progression.

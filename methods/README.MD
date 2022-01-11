@@ -17,7 +17,7 @@ You may find some of my methods of working here.
 
 - [Practice Schema](practice-schema.md)
 
-    - A methods for keeping overview, scoring progress of different parts and aspects of a musical piece.
+    - A methods for keeping overview, scoring progress of different fragments and aspects of a musical piece.
 
 - [Finger Numbers](finger-numbers.md)
 

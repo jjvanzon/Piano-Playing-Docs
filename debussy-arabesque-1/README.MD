@@ -22,7 +22,7 @@ Chord progressions of Debussy Arabesque I.
 
 - [Debussy Arabesque I Practice Schema](debussy-arabesque-1-practice-schema.md)
 
-    - An overview for scoring myself on the different parts and aspects of this piano piece.
+    - An overview for scoring myself on different fragments and aspects of this piano piece.
 
 - [Debussy Arabesque I TODO](debussy-arabesque-1-todo.md)
 

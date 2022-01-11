@@ -21,19 +21,19 @@ Notes and analyses studying Chopin Mazurka Op. 24, No. 2 piano piece.
 
 - [Chopin Mazurka Op. 24, No. 2 Phrase Structure (MarkDown)](chopin-mazurka-op-24-no-2-phrase-structure.md)
 
-    - Attempts to split up the Chopin Mazurka Op. 24, No. 2 piano piece in parts and analyses its phrase structure, like sentences in the music piece, and what things repeat and how. This is in MarkDown format, more readable like a web site.
+    - Attempts to split up the Chopin Mazurka Op. 24, No. 2 piano piece in fragments and analyses its phrase structure, like sentences in the music piece, and what things repeat and how. This is in MarkDown format, more readable like a web site.
 
 - [Chopin Mazurka Op. 24, No. 2 Phrase Structure (PDF)](chopin-mazurka-op-24-no-2-phrase-structure.pdf)
 
-    - Attempts to split up the Chopin Mazurka Op. 24, No. 2 piano piece in parts and analyses its phrase structure, like sentences in the music piece, and what things repeat and how. This is in PDF format, which may be easier to print.
+    - Attempts to split up the Chopin Mazurka Op. 24, No. 2 piano piece in fragments and analyses its phrase structure, like sentences in the music piece, and what things repeat and how. This is in PDF format, which may be easier to print.
 
 - [Chopin Mazurka Op. 24, No. 2 Practice Schema (MarkDown)](chopin-mazurka-op-24-no-2-practice-schema.md)
     
-    - An overview scoring myself on the different parts and aspects of this piano piece. This is in MarkDown format, more readable like a web site.
+    - An overview scoring myself on different fragments and aspects of this piano piece. This is in MarkDown format, more readable like a web site.
 
 - [Chopin Mazurka Op. 24, No. 2 Practice Schema (PDF)](chopin-mazurka-op-24-no-2-practice-schema.pdf)
     
-    - An overview scoring myself on the different parts and aspects of this piano piece. This is in PDF format, which may be easier to print.
+    - An overview scoring myself on the different fragments and aspects of this piano piece. This is in PDF format, which may be easier to print.
 
 - [Chopin Mazurka Op. 24, No. 2 TODO](chopin-mazurka-op-24-no-2-todo.md)
 
