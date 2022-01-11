@@ -15,6 +15,10 @@ Chord progressions of Debussy Arabesque I.
 
     - Simplified sheet music for Debussy Arabesque I.
 
+- [Debussy Arabesque I Notes & Fragment Subdivision](notes-fragment-subdivision)
+
+    - Subdivision into fragments of simplified sheet music for Debussy Arabesque I. Individual memorization or attention to technique may be desired for each fragment when studying it.
+
 - [Debussy Arabesque I Notes, Chords & Bass Line](notes-chords-bass-line)
 
     - Visually simpler notes. Accidentals always placed near notes, even when part of the key.  
