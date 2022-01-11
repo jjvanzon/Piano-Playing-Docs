@@ -8,10 +8,10 @@ I might do several analyses or derived works from musical score.
 Not sure yet which might be most useful.
 
 - [Sheet music __simplification__](sheet-music-simplification.md)
-- Subdividing into __parts__ (for a [practice schema](practice-schema.md))
+- Subdividing into __fragments__ (for a [practice schema](practice-schema.md))
 - __Phrase__ structure analysis
 - Notes / [__finger numbers__](finger-numbers.md)
-- Notes / finger numbers / [__piano motion symbols__](piano-motion-symbols.md)
+- Notes / finger numbers / [__piano motion symbols__](piano-motion-symbols.md)?
 ----
 - Notes / __chords__ / bass line
 - Notes / chords (__without base line__)
