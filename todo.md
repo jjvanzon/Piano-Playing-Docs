@@ -51,5 +51,7 @@ More specific TODO lists may be in other documents.
     - [ ] Using books in attic
     - [ ] Using spotify playlists.
     - [ ] Using MIDI recordings.
+    - [ ] Making links handier (HTML-style, open in separate tab?)
 - [ ] Learning a piece by ear.
 - [ ] [Nord Piano Sound Selections](nord-piano-4/nord-piano-4-sound-selection-notes.md)
+    - [ ] Might become more relevant once I might improvise more.
