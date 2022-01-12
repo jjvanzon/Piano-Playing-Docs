@@ -47,6 +47,6 @@ You may find some of my methods of working here.
 
   - Symbols for only lower arm positions from the [Piano Motion Symbols](piano-motion-symbols.md) document. This is an idea of extending fingering notation from just numbers to additional symbols, indicating the kind of body movement involved. This is in MarkDown format, more readable like a web site.
  
-- [Piano Motion Symbols, Lower Arm Position, Single Page  (PDF)](piano-motion-symbols.pdf) `[Draft]`
+- [Piano Motion Symbols, Lower Arm Position, Single Page  (PDF)](piano-motion-symbols-lower-arm-position-single-page.pdf) `[Draft]`
 
   - Symbols for only lower arm positions from the [Piano Motion Symbols](piano-motion-symbols.pdf) document. This is an idea of extending fingering notation from just numbers to additional symbols, indicating the kind of body movement involved. This is in PDF format, which may be easier to print. 
