@@ -10,7 +10,7 @@ Subdivision into fragments of simplified sheet music for Debussy Arabesque Ⅰ. 
 
 ### Preview
 
-<img src="debussy-arabesque-1-notes-fragment-subdivision-preview.png" height="250" />
+<img src="debussy-arabesque-1-notes-fragment-subdivision-preview.png" height="300" />
 
 ### Contents
 
