@@ -1,4 +1,6 @@
 theme: jekyll-theme-slate
+title: JJ van Zon's Piano Playing Docs
+description: Sharing documents I make while practicing the piano.
 plugins:
   - jekyll-relative-links
 relative_links:
