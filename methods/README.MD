@@ -15,6 +15,10 @@ You may find some of my methods of working here.
 
     - A way to simplify musical score by leaving out details and adding accidentals near notes for instance.
 
+- [Fragment Subdivision](fragment-subdivision.md)
+
+    - A way to annotate sheet music to denote subdivision into fragments. Individual memorization or attention to technique may be desired for each fragment when studying it.
+
 - [Practice Schema (MarkDown)](practice-schema.md)
 
     - A method for keeping overview, scoring progress of different fragments and aspects of a musical piece. This is in MarkDown format, more readable like a web site.
