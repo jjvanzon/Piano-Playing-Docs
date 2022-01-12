@@ -6,12 +6,12 @@ Piano Playing Docs | Methods
 Finger Numbers
 --------------
 
-These might be personal preferences for writing finger numbers in musical score.
+These might be some personal preferences for writing finger numbers in musical score.
 
 - Finger numbers with *most* notes.
 - Written down in *straight* lines.
 - Above or below the *bar*: with a bit of consistency.
-- *walks* of continuous notes:
+- *Walks* of continuous notes:
     - Might leave out certain finger numbers, except:
     - At a *start* of a walk.
     - At the *end* of a walk.

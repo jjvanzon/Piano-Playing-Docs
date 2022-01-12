@@ -15,13 +15,17 @@ You may find some of my methods of working here.
 
     - A way to simplify musical score by leaving out details and adding accidentals near notes for instance.
 
-- [Practice Schema](practice-schema.md)
+- [Practice Schema (MarkDown)](practice-schema.md)
 
-    - A methods for keeping overview, scoring progress of different fragments and aspects of a musical piece.
+    - A method for keeping overview, scoring progress of different fragments and aspects of a musical piece. This is in MarkDown format, more readable like a web site.
+
+- [Practice Schema (PDF)](practice-schema.pdf)
+
+    - A method for keeping overview, scoring progress of different fragments and aspects of a musical piece. This is in PDF format, which may be easier to print.
 
 - [Finger Numbers](finger-numbers.md)
 
-    - These might be personal preferences for writing finger numbers in musical score.
+    - These might be some personal preferences for writing finger numbers in musical score.
 
 - [Analyses](analyses.md)
 
@@ -38,3 +42,11 @@ You may find some of my methods of working here.
 - [Piano Motion Symbols (PDF)](piano-motion-symbols.pdf) `[Draft]`
 
   - This is an idea of extending fingering notation from just numbers to additional symbols, indicating the kind of hand movement involved. This is in PDF format, which may be easier to print. 
+
+- [Piano Motion Symbols, Lower Arm Position, Single Page (MarkDown)](piano-motion-symbols-lower-arm-position-single-page.md) `[Draft]`
+
+  - Symbols for only lower arm positions from the [Piano Motion Symbols](piano-motion-symbols.md) document. This is an idea of extending fingering notation from just numbers to additional symbols, indicating the kind of body movement involved. This is in MarkDown format, more readable like a web site.
+ 
+- [Piano Motion Symbols, Lower Arm Position, Single Page  (PDF)](piano-motion-symbols.pdf) `[Draft]`
+
+  - Symbols for only lower arm positions from the [Piano Motion Symbols](piano-motion-symbols.pdf) document. This is an idea of extending fingering notation from just numbers to additional symbols, indicating the kind of body movement involved. This is in PDF format, which may be easier to print. 

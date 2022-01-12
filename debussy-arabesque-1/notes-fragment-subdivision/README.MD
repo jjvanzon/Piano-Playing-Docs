@@ -21,6 +21,8 @@ Subdivision into fragments of simplified sheet music for Debussy Arabesque Ⅰ. 
 - [Debussy Arabesque Ⅰ Notes& Fragment Subdivision Page 3 (png)](debussy-arabesque-1-notes-fragment-subdivision-page-3.png)
 - [Debussy Arabesque Ⅰ Notes& Fragment Subdivision Page 4 (png)](debussy-arabesque-1-notes-fragment-subdivision-page-4.png)
 - [Debussy Arabesque Ⅰ Notes& Fragment Subdivision Page 5 (png)](debussy-arabesque-1-notes-fragment-subdivision-page-5.png)
+- [Debussy Arabesque Ⅰ Notes& Fragment Subdivision Preview](debussy-arabesque-1-notes-fragment-subdivision-preview.png)
+- [Debussy Arabesque Ⅰ Notes& Fragment Subdivision Preview (Darker)](debussy-arabesque-1-notes-fragment-subdivision-preview-darker.png)
 
 ### Original
 

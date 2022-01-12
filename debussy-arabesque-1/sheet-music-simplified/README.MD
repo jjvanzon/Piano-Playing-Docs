@@ -21,6 +21,7 @@ Visually simpler. Accidentals always placed near notes, even when part of the ke
 - [Debussy Arabesque Ⅰ Sheet Music Simplified Page 3 (png)](debussy-arabesque-1-sheet-music-simplified-page-3.png)
 - [Debussy Arabesque Ⅰ Sheet Music Simplified Page 4 (png)](debussy-arabesque-1-sheet-music-simplified-page-4.png)
 - [Debussy Arabesque Ⅰ Sheet Music Simplified Page 5 (png)](debussy-arabesque-1-sheet-music-simplified-page-5.png)
+- [Debussy Arabesque Ⅰ Sheet Music Simplified Preview](debussy-arabesque-1-sheet-music-simplified-preview.jpg)
 
 ### Original
 

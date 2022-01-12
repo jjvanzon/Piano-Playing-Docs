@@ -41,13 +41,17 @@ Contents
 
     - A list of pieces I play / have played / would like to play.
 
+- [Methods](methods)
+
+    - You may find some of my methods of working here.
+
 - [Nord Piano 4](nord-piano-4)
 
     - Lists some of my favorite sounds for my Nord Piano 4 digital piano. Also has planning notes about how I worked on it.
 
-- [Methods](methods)
+- [TODO](todo.md)
 
-    - You may find some of my methods of working here.
+    - Perhaps some rough plans about what I would like to do today.
 
 - [Links](links.md)
 
@@ -56,10 +60,6 @@ Contents
 - [Resources](resources)
 
     - Characters and symbols that might be a helpful aid for music notes and analyses.
-
-- [TODO](todo.md)
-
-    - Perhaps some rough plans about what I would like to do today.
 
 - [Archive](archive)
 

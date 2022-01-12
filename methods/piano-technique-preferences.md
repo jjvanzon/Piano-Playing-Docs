@@ -26,11 +26,11 @@ Rather than bad posture, maybe accept this as my body type. Even a physical ther
 
 ### Lower Arm
 
-- quite a bit *slanted* downward.
+- Quite a bit *slanted* downward.
 
 ### Upper Arm
 
-- at a bit of a a *forward-down* diagonal.
+- At a bit of a *forward-down* diagonal.
  
 ### Back
 

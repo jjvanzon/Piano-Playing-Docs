@@ -8,7 +8,9 @@ More specific TODO lists may be in other documents.
 
 ### 2021-11-16 TODO
 
-- [ ] Updating readme index links.
+- [ ] Publishing:
+    - [ ] Updating readme index links.
+    - [ ] Googled "convert markdown github to web page": https://dev.to/bolajiayodeji/how-to-convert-github-markdown-files-to-a-simple-website-4e14
 - [ ] Chopin Mazurka Op. 24, No. 2
     - [ ] Phrase structure intermezzo 1 more detailed.
     - [ ] Memorizing chords
@@ -50,3 +52,4 @@ More specific TODO lists may be in other documents.
     - [ ] Using spotify playlists.
     - [ ] Using MIDI recordings.
 - [ ] Learning a piece by ear.
+- [ ] [Nord Piano Sound Selections](nord-piano-4/nord-piano-4-sound-selection-notes.md)

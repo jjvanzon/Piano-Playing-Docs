@@ -37,6 +37,7 @@ To perhaps focus on things with lower scores.
     - Once memorized, I might do the rest of the scoring in my head. Typing it in, may seem a bit laborious then.
     - A trick might be to score __everything__ with an __8__. Then selectively lower that score to __5__ for the fragments that desire some attention.
 - Acceptance:
+    - A score of 8 might be enough to move on.
     - When scores will not go up anymore, perhaps accept this as the end result.
     - Preventing perfectionism / frustration.
     - Depends how high you set the bar.
