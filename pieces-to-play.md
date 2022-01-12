@@ -22,7 +22,7 @@ Pieces to Play
 | Name                                                    | Mood             | Difficulty | Niceness | Pages    | Duration    | Link 
 |---------------------------------------------------------|------------------|------------|----------|----------|-------------|-----
 | Brahms Waltz Op. 39, No. 15 in A flat major             | Easy listening   | Easier     |          |          | 1 min 30 s  | [Spotify](https://open.spotify.com/track/7ouW02587AzIaGnK0gh8St?si=b243a945bfee45f6)
-| Bach Prelude in C Major, BWV 846                        | Atmospheric      | Easier     |          |          | 2 min 20 s  | [Spotify](https://open.spotify.com/track/211zXouX3GROvKvaoasR6V?si=0b2dfeb0b4614f66)
+| Bach Prelude in C Major, BWV 846                        | Atmospheric      | Easier     |          |          | 2 min 20 s  | [Spotify](https://open.spotify.com/track/4N7Bd7LlQtWuI1AVhmpbgn?si=2e371200ebad46e3)
 | Beethoven Sonata Pathétique Opus. 13 Mov 2              | Atmospheric      | Easier     |          |          | 5 min       | [Spotify](https://open.spotify.com/track/1kfdzVK4npK6QNZdwlZoku?si=628cfb58a0354d50)
 | Beethoven Sonata Op.27 No.2 Mov. 2 ("Moonlight Sonata") | Melancholic      | Easier     |          |          | 5 min 25 s  | [Spotify](https://open.spotify.com/track/1UNzT19U7L0sC6d03L7MwT?si=0bf09cebe7a24dfe)
 | Chopin Prelude Op. 28, No. 4                            | Melancholic      | Easier     |          |          | 2 min 45 s  | [Spotify](https://open.spotify.com/track/3XwL5sEvTzT6yzlFFsQCEl?si=a2714069d3fd4c71)
