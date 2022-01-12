@@ -21,3 +21,8 @@ Subdivision into fragments of simplified sheet music for Debussy Arabesque Ⅰ. 
 - [Debussy Arabesque Ⅰ Notes& Fragment Subdivision Page 3 (png)](debussy-arabesque-1-notes-fragment-subdivision-page-3.png)
 - [Debussy Arabesque Ⅰ Notes& Fragment Subdivision Page 4 (png)](debussy-arabesque-1-notes-fragment-subdivision-page-4.png)
 - [Debussy Arabesque Ⅰ Notes& Fragment Subdivision Page 5 (png)](debussy-arabesque-1-notes-fragment-subdivision-page-5.png)
+
+### Original
+
+Derived from:  
+[Michael Kravchuk - Free Piano Sheet Music – First Arabesque – Debussy](https://michaelkravchuk.com/free-piano-sheet-music-first-arabesque-debussy/)
