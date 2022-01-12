@@ -17,7 +17,7 @@ Links to possibly useful information.
 
 - [Free Sheet Music from Michael Kravchuk](https://michaelkravchuk.com/free-sheet-music/) (public domain)
 - [Free Sheet Music on Musescore](https://musescore.com/)
-- [Free Sheet Music Chopin Ballade II on Musescore](https://musescore.com/hmscomp/chopin-ballade-no-2-piano-solo)
+- [Free Sheet Music Chopin Ballade Ⅱ on Musescore](https://musescore.com/hmscomp/chopin-ballade-no-2-piano-solo)
 
 ### Links about Harmonic Function
 

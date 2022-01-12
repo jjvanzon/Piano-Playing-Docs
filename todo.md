@@ -15,7 +15,7 @@ More specific TODO lists may be in other documents.
     - [ ] Phrase structure intermezzo 1 more detailed.
     - [ ] Memorizing chords
     - [ ] See specialized [TODO](chopin-mazurka-op-24-no-2/chopin-mazurka-op-24-no-2-todo.md)
-- [ ] Debussy Arabesque I
+- [ ] Debussy Arabesque Ⅰ
     - [ ] __Chords & sheet music__
     - [ ] See specialized [TODO](debussy-arabesque-1/debussy-arabesque-1-todo.md))
 - [ ] Mozart Sonata Facile KV 545 Part 1 

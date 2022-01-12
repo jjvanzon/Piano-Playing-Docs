@@ -1,33 +1,33 @@
-Debussy Arabesque I
+Debussy Arabesque Ⅰ
 ===================
 
-Chord progressions of Debussy Arabesque I.
+Chord progressions of Debussy Arabesque Ⅰ.
 
-- [Debussy Arabesque I Chords (triads only) (MarkDown)](debussy-arabesque-1-chords-triads-only.md) `[Draft]`
+- [Debussy Arabesque Ⅰ Chords (triads only) (MarkDown)](debussy-arabesque-1-chords-triads-only.md) `[Draft]`
 
-    - Chord progression of Debussy Arabesque I in chords with 3 notes only. This is in MarkDown format, more readable like a web site.
+    - Chord progression of Debussy Arabesque Ⅰ in chords with 3 notes only. This is in MarkDown format, more readable like a web site.
 
-- [Debussy Arabesque I Chords (triads only) (PDF)](debussy-arabesque-1-chords-triads-only.pdf) `[Draft]`
+- [Debussy Arabesque Ⅰ Chords (triads only) (PDF)](debussy-arabesque-1-chords-triads-only.pdf) `[Draft]`
 
-    - Chord progression of Debussy Arabesque I in chords with 3 notes only. This is in PDF format, which may be easier to print.
+    - Chord progression of Debussy Arabesque Ⅰ in chords with 3 notes only. This is in PDF format, which may be easier to print.
 
-- [Debussy Arabesque I Sheet Music Simplified](sheet-music-simplified)
+- [Debussy Arabesque Ⅰ Sheet Music Simplified](sheet-music-simplified)
 
-    - Simplified sheet music for Debussy Arabesque I.
+    - Simplified sheet music for Debussy Arabesque Ⅰ.
 
-- [Debussy Arabesque I Notes & Fragment Subdivision](notes-fragment-subdivision)
+- [Debussy Arabesque Ⅰ Notes & Fragment Subdivision](notes-fragment-subdivision)
 
-    - Subdivision into fragments of simplified sheet music for Debussy Arabesque I. Individual memorization or attention to technique may be desired for each fragment when studying it.
+    - Subdivision into fragments of simplified sheet music for Debussy Arabesque Ⅰ. Individual memorization or attention to technique may be desired for each fragment when studying it.
 
-- [Debussy Arabesque I Notes, Chords & Bass Line](notes-chords-bass-line)
+- [Debussy Arabesque Ⅰ Notes, Chords & Bass Line](notes-chords-bass-line)
 
     - Visually simpler notes. Accidentals always placed near notes, even when part of the key.  
     - Added chords and bass line.
 
-- [Debussy Arabesque I Practice Schema](debussy-arabesque-1-practice-schema.md)
+- [Debussy Arabesque Ⅰ Practice Schema](debussy-arabesque-1-practice-schema.md)
 
     - An overview for scoring myself on different fragments and aspects of this piano piece.
 
-- [Debussy Arabesque I TODO](debussy-arabesque-1-todo.md)
+- [Debussy Arabesque Ⅰ TODO](debussy-arabesque-1-todo.md)
 
-    - Some notes on where to go next on my studying the Debussy Arabesque I piano piece.
+    - Some notes on where to go next on my studying the Debussy Arabesque Ⅰ piano piece.

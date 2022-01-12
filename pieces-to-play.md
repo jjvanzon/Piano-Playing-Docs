@@ -12,9 +12,9 @@ Pieces to Play
 
 | Name                                              | Mood           | Difficulty | Pages
 |---------------------------------------------------|----------------|------------|------
-| Chopin Ballade II                                 | Heavy          | Difficult  | 9
+| Chopin Ballade Ⅱ                                  | Heavy          | Difficult  | 9
 | Chopin Mazurka Op. 24, No. 2                      | Easy listening | Medium     | 4
-| Debussy Arabesque I                               | Atmospheric    | Medium     | 5
+| Debussy Arabesque Ⅰ                               | Atmospheric    | Medium     | 5
 | Mozart Sonata "Facile" in C major part 1 (KV 545) | Easy listening | Medium     | 5
 
 ### Might Like to Play
@@ -43,8 +43,8 @@ Pieces to Play
 | ~ Beethoven Sonata Pathétique Opus. 13 Mov 1            | Heavy            | Difficult  |          |          | 8 min 30 s  | [YouTube](https://www.youtube.com/watch?v=XuldgIR02dY)
 | ~ Chopin Etude Op. 25, No. 11 ("Winter Wind")           | Heavy            | Difficult  |          |          | 4 min       | [YouTube](https://www.youtube.com/watch?v=gZjdAWgjLx8)
 | ~ Chopin Ballade I                                      | Heavy            | Difficult  |          |          | 9 min 45 s  | [YouTube](https://www.youtube.com/watch?v=Zj_psrTUW_w)
-| ~ Chopin Ballade III                                    | Heavy            | Difficult  |          |          | 7 min       | [YouTube](https://www.youtube.com/watch?v=BkPLDoZXlHQ)
-| ~ Chopin Ballade IV                                     | Heavy            | Difficult  |          |          | 11 min 30 s | [YouTube](https://www.youtube.com/watch?v=3F5glYefwio)
+| ~ Chopin Ballade Ⅲ                                     | Heavy            | Difficult  |          |          | 7 min       | [YouTube](https://www.youtube.com/watch?v=BkPLDoZXlHQ)
+| ~ Chopin Ballade Ⅳ                                     | Heavy            | Difficult  |          |          | 11 min 30 s | [YouTube](https://www.youtube.com/watch?v=3F5glYefwio)
 | ~ [Chopin Mazurkas](chopin-mazurka-selection.md)        | 
 
 ### Might Once Have Played
@@ -79,7 +79,7 @@ Pieces to Play
 | Mozart Sonata "Facile" in C major part 2 (KV 545)
 | Mozart Sonata "Facile" in C major part 3 (KV 545)
 | Chopin Prelude 6, lento assai in B minor
-| Chopin Sonata II Op. 35 Part 3 "Funeral March"
+| Chopin Sonata Ⅱ Op. 35 Part 3 "Funeral March"
 | Chopin Nocturne Op. post.72., No. 1
 | Chopin Mazurka Op. 6, No. 1
 | Chopin Mazurka Op. 6, No. 2
