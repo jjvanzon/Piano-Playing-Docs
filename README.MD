@@ -51,7 +51,7 @@ Contents
 
 - [TODO](todo.md)
 
-    - Perhaps some rough plans about what I would like to do today.
+    - Perhaps some rough plans about what I would like to do.
 
 - [Links](links.md)
 
