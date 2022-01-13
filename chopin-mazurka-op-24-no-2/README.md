@@ -1,7 +1,7 @@
 Chopin Mazurka Op. 24, No. 2
 ============================
 
-Notes and analyses studying Chopin Mazurka Op. 24, No. 2 piano piece.
+Notes and analyses studying the Chopin Mazurka Op. 24, No. 2 piano piece.
 
 - [Chopin Mazurka Op. 24, No. 2 Chords (MarkDown)](chopin-mazurka-op-24-no-2-chords.md)
 
