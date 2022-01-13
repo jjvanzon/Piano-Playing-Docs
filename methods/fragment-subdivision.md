@@ -13,12 +13,16 @@ Adding annotations to sheet music to denote subdivision into fragments. Individu
 ### Guidelines
 
 - Fragments numbers:
-    - Might be numbered `1`, `2`, `3`, `4`, etc.
+    - Might be numbered:
+    - `1`, `2`, `3`, `4`
 - Sub-fragments:
-    - Might use a dot (`.`) notation: `1.1`, `1.2`, `1.3`.
+    - Might use a dot (`.`) notation:
+    - `1.1`, `1.2`, `1.3`.
 - Fragment variations:
-    - When fragments are variations on previous fragments, an apostrophe (`'`) might be used: `1`, `1'`, `2`, `2'`.
-    - Additional variations, more apostrophes might stack up: `2`, `2'`, `2''`, `2'''`.
+    - When fragments are variations on previous fragments, an apostrophe (`'`) might be used:
+    - `1`, `1'`, `2`, `2'`.
+    - Additional variations, more apostrophes might stack up:
+    - `2`, `2'`, `2''`, `2'''`.
 - Larger parts:
     - Might be denoted in a [practice schema](practice-schema.md) with horizontal lines, separating groups of fragments.
 
@@ -38,7 +42,7 @@ Fragment numbers might look like this:
 | __3.2__  |
 | __3.3__  |
 | __1.1'__ |
-| -------- |
+|`--------`|
 | __4__    |
 | __5.1__  |
 | __5.2__  |
@@ -50,7 +54,7 @@ Fragment numbers might look like this:
 | __8__    |
 | __7.1'__ |
 | __7.2'__ |
-| -------- |
+|`--------`|
 | __1.1'__ |
 | __1.2__  |
 | __1.3__  |
