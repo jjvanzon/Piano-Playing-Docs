@@ -1,6 +1,8 @@
 Piano Playing Docs
 ==================
 
+*JJ van Zon, 2022*
+
 TODO
 ----
 
@@ -8,9 +10,30 @@ More specific TODO lists may be in other documents.
 
 ### 2021-11-16 TODO
 
+- [ ] Changing fragment numbering for:
+    - [ ] Chopin Ballade Ⅱ
+    - [ ] Chopin Mazurka Op. 24, No. 2
 - [ ] Publishing:
-    - [ ] Updating readme index links.
-    - [ ] Googled "convert markdown github to web page": https://dev.to/bolajiayodeji/how-to-convert-github-markdown-files-to-a-simple-website-4e14
+    - [x] Googling ["convert markdown github to web page"](https://dev.to/bolajiayodeji/how-to-convert-github-markdown-files-to-a-simple-website-4e14)
+    - [x] GitHub pages did not work yet. Waiting a while to see if it starts up automatically.
+    - [x] Renaming root README to have lower case extension .md helped.
+    - [x] Links to folders do not seem to work. Maybe also change the file extension to lower case for those readme's.
+    - [x] Automatic links do not seem to work here:
+        - [x] [Barbara Lister-Sink’s “Freeing the Caged Bird” Videos Summary](https://jjvanzon.github.io/Piano-Playing-Docs/methods/barbara-lister-sink-freeing-the-caged-bird-videos-summary.html)    
+    - [x] Link to Archive seems to not work: [Piano Playing Docs](https://jjvanzon.github.io/Piano-Playing-Docs/)
+    - [ ] Perhaps add name and date to articles, now that it is in web site form it may be useful. Or perhaps only the date or only the month or year.
+    - [ ] Table layout seems applied inappropriately for the "Changing B# => C" part in: [Sheet Music Simplification](https://jjvanzon.github.io/Piano-Playing-Docs/methods/sheet-music-simplification.html)
+    - [ ] This might get prettier layout: [Fragment Subdivision](https://jjvanzon.github.io/Piano-Playing-Docs/methods/fragment-subdivision.html)
+    - [ ] Grid rows with dashes seem skipped, e.g.:
+        - [ ] [Practice Schema](https://jjvanzon.github.io/Piano-Playing-Docs/methods/practice-schema.html)
+        - [ ] And other specific practice schemas.
+    - [ ] Horizontal line `-----` seems interpreted as headings in: 
+        - [ ] [Practice Schema](https://jjvanzon.github.io/Piano-Playing-Docs/methods/practice-schema.html)
+        - [ ] [Analyses](https://jjvanzon.github.io/Piano-Playing-Docs/methods/analyses.html)
+    - [ ] Link to /methods/practice-schema.md does not seem to translate well.
+    - [ ] These analyses in MarkDown seems to not translate well:
+        - [ ] [chopin-mazurka-op-24-no-2-harmonic-analysis](https://jjvanzon.github.io/Piano-Playing-Docs/chopin-mazurka-op-24-no-2/chopin-mazurka-op-24-no-2-harmonic-analysis.html)
+        - [ ] [debussy-arabesque-1-chords-triads-only](https://jjvanzon.github.io/Piano-Playing-Docs/debussy-arabesque-1/debussy-arabesque-1-chords-triads-only.html)
 - [ ] Chopin Mazurka Op. 24, No. 2
     - [ ] Phrase structure intermezzo 1 more detailed.
     - [ ] Memorizing chords
@@ -51,6 +74,7 @@ More specific TODO lists may be in other documents.
     - [ ] Using books in attic
     - [ ] Using spotify playlists.
     - [ ] Using MIDI recordings.
+    - [ ] Adding links to performances.
     - [ ] Making links handier (HTML-style, open in separate tab?)
 - [ ] Learning a piece by ear.
 - [ ] [Nord Piano Sound Selections](nord-piano-4/nord-piano-4-sound-selection-notes.md)
