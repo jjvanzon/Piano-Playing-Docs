@@ -75,7 +75,7 @@ Here are some I like better:
 | Soft          | NP8 Nefertiti
 | Soft          | Wurlitzer 2
 | Bright        | Clavinet D6
-| ---           | ---
+|`---`          |`---`
 | Mid           | Electric Grand 3 Amped
 | Bright        | French Harpsichord 1D Lo8 Lo4
 
