@@ -1,7 +1,9 @@
 Debussy Arabesque Ⅰ
 ===================
 
-Chord progressions of Debussy Arabesque Ⅰ.
+*JJ van Zon, 2022*
+
+Notes and analyses studying the Debussy Arabesque Ⅰ piano piece.
 
 - [Debussy Arabesque Ⅰ Chords (triads only) (MarkDown)](debussy-arabesque-1-chords-triads-only.md) `[Draft]`
 
