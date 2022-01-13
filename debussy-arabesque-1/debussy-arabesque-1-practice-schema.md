@@ -1,6 +1,8 @@
 Debussy Arabesque Ⅰ
 ===================
 
+*JJ van Zon, 2022*
+
 Practice Schema
 ---------------
 
@@ -45,4 +47,4 @@ Practice Schema
 | __13__   | - - - 8 - | - - - 8 - | - - - - - | - - - - - |
 | __14__   | - - - 8 - | - - - 8 - | - - - - - | - - - - - |
 
-Click [here](/methods/practice-schema.md) for method description.
+Links: [method description](/methods/practice-schema.md) | [notes with fragment subdivision](notes-fragment-subdivision)

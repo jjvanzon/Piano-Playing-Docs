@@ -1,6 +1,8 @@
 Nord Piano 4
 ============
-    
+
+*JJ van Zon, 2021*
+
 - [Nord Piano 4 Sound Selection](nord-piano-4-sound-selection.md)
 
     - Lists some of my favorite sounds for my Nord Piano 4 digital piano. 

@@ -1,6 +1,8 @@
 Chopin Ballade Ⅱ
 ================
 
+*JJ van Zon, 2022*
+
 - [Chopin Ballade Ⅱ Practice Schema](chopin-ballade-2-practice-schema.md)
 
     - An overview scoring myself on different fragments and aspects of this piano piece while studying it.

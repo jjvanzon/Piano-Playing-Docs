@@ -3,6 +3,8 @@ Chopin Ballade Ⅱ
 
 `[ Partial ]`
 
+*JJ van Zon, 2022*
+
 Phrase Structure
 ----------------
 

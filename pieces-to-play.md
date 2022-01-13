@@ -1,10 +1,10 @@
 Piano Playing Docs
 ==================
 
+*JJ van Zon, 2022*
+
 Pieces to Play
 --------------
-
-*JJ van Zon, 2021-11*
 
 (Links to performances are NOT ME.)
 

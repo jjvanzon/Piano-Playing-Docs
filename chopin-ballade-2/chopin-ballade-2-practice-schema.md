@@ -1,6 +1,8 @@
 Chopin Ballade Ⅱ
 =================
 
+*JJ van Zon, 2022*
+
 Practice Schema
 ---------------
 
@@ -46,4 +48,3 @@ Practice Schema
 | __19__   | - - 5 - - | - - 5 - - | - - 5 - - | - 2 - - - |
 
 Click [here](/methods/practice-schema.md) for method description.
-
