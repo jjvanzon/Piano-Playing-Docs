@@ -17,6 +17,10 @@ Contents
 
     - Some possible goals I might have with my piano playing hobby.
 
+- [Pieces to Play](pieces-to-play.md)
+
+    - A list of pieces I play / have played / would like to play.
+
 - [Chopin Mazurka Op. 24, No. 2](chopin-mazurka-op-24-no-2)
 
     - Notes and analyses studying Chopin Mazurka Op. 24, No. 2. May include chord progression, harmonic analysis, phrase structure and an overview scoring myself on the different fragments and aspects of the piece.
@@ -36,10 +40,6 @@ Contents
 - [Chopin Mazurkas Selection](chopin-mazurka-selection.md)
 
     - An list of a selection of Chopin Mazurkas. that seemed nice and easier than other pieces. This while looking for something easier to play and easy on the ears too.
-
-- [Pieces to Play](pieces-to-play.md)
-
-    - A list of pieces I play / have played / would like to play.
 
 - [Methods](methods)
 
