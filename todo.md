@@ -10,33 +10,23 @@ More specific TODO lists may be in other documents.
 
 ### 2022-01-13 TODO GitHub Pages
 
-- [x] Googling ["convert markdown github to web page"](https://dev.to/bolajiayodeji/how-to-convert-github-markdown-files-to-a-simple-website-4e14)
+- [x] Googling "convert markdown github to web page" leads to [How to convert GitHub Markdown files to a simple website](https://dev.to/bolajiayodeji/how-to-convert-github-markdown-files-to-a-simple-website-4e14)
 - [x] GitHub pages did not work yet. Waiting a while to see if it starts up automatically.
 - [x] Renaming root README to have lower case extension .md helped.
 - [x] Links to folders do not seem to work. Maybe also change the file extension to lower case for those readme's.
-- [x] Automatic links do not seem to work here:
-    - [x] [Barbara Lister-Sink’s “Freeing the Caged Bird” Videos Summary](https://jjvanzon.github.io/Piano-Playing-Docs/methods/barbara-lister-sink-freeing-the-caged-bird-videos-summary.html)
+- [x] Automatic links do not seem to work. Using the syntax `[Description](https:\\my-url)` may help.
 - [x] Link to Archive seems to not work: [Piano Playing Docs](https://jjvanzon.github.io/Piano-Playing-Docs/). Adding a README.md to that folder helped.
 - [x] Perhaps adding name and date to articles, now that it is in web site form it may be useful. Or perhaps only the date or only the month or year.
 - [x] Horizontal lines:
-    - [x] Grid rows with dashes seem skipped, e.g.:
-        - [ ] [Practice Schema](https://jjvanzon.github.io/Piano-Playing-Docs/methods/practice-schema.html)
-        - [ ] And other specific practice schemas.
-    - [x] Horizontal line `-----` seems interpreted as headings in: 
-        - [x] [Practice Schema](https://jjvanzon.github.io/Piano-Playing-Docs/methods/practice-schema.html)
-        - [x] [Analyses](https://jjvanzon.github.io/Piano-Playing-Docs/methods/analyses.html)
-    - [x] ~~[This](https://gist.github.com/roachhd/779fa77e9b90fe945b0c) suggests to use four dashes ----.~~
+    - [x] Grid rows with only dashes in it seemed to not render.
+    - [x] Horizontal line `-----` seems interpreted as headings in bullet pointed lists.
     - [x] `<br/><br/>` seems an alternative for horizontal space in lists.
     - [x] `-----` formatted as inline code seems to help inside table rows.
-    - [x] Correcting dashes inside table rows in [nord-piano-4-sound-selection](https://jjvanzon.github.io/Piano-Playing-Docs/nord-piano-4/nord-piano-4-sound-selection.html)
-- [x] This might get prettier layout: [Fragment Subdivision](https://jjvanzon.github.io/Piano-Playing-Docs/methods/fragment-subdivision.html)
-- [x] Table layout seems applied inappropriately for the "Changing B# => C" part in: [Sheet Music Simplification](https://jjvanzon.github.io/Piano-Playing-Docs/methods/sheet-music-simplification.html)
-- [x] These analyses in MarkDown seems to not translate well:
-    - [x] [chopin-mazurka-op-24-no-2-harmonic-analysis](https://jjvanzon.github.io/Piano-Playing-Docs/chopin-mazurka-op-24-no-2/chopin-mazurka-op-24-no-2-harmonic-analysis.html)
-    - [x] [debussy-arabesque-1-chords-triads-only](https://jjvanzon.github.io/Piano-Playing-Docs/debussy-arabesque-1/debussy-arabesque-1-chords-triads-only.html)
-    - [x] ~~Trying a trick `<td markdown="span">` from [here](https://idratherbewriting.com/documentation-theme-jekyll/mydoc_tables.html)~~
-    - [x] Trying a trick `<td markdown="1">` from [here](https://stackoverflow.com/questions/15917463/embedding-markdown-in-jekyll-html)
-- [ ] Link to /methods/practice-schema.md does not seem to translate well.
+- [x] Table layout seems applied inappropriately when using `|` in a bullet point's text. Replaced with commas `,`.
+- [x] MarkDown (tables) nested in HTML tables showed the MarkDown literally inside the rendered page.
+    - [x] Trying a trick `<td markdown="1">` from [here](https://stackoverflow.com/questions/15917463/embedding-markdown-in-jekyll-html) helped.
+- [ ] Links that start with slash, seem to use the wrong base URL and makes links break
+    - [ ] E.g. link to "/methods/practice-schema.md" does not seem to work.
 
 ### 2021-11-16 TODO
 
