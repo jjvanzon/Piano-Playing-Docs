@@ -1,7 +1,7 @@
 Piano Playing Docs
 ==================
 
-*2021-11-16 JJ van Zon*
+*JJ van Zon, 2022*
 
 Piano playing is a hobby of mine. Here I try to organize my thoughts about it. And share documents I may make.
 
