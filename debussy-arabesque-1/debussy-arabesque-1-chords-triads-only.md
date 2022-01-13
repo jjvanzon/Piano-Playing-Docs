@@ -6,7 +6,7 @@ Arabesque Ⅰ - Claude Debussy
 Chords (triads only)
 --------------------
 
-<table><tr><td>
+<table><tr><td markdown="1">
 
 ### Fragment 1a
 
@@ -41,7 +41,7 @@ Chords (triads only)
 | G♯ F♯ᵐ | G♯ Bᵐ | E Bᵐ |  E  |
 
 </td>
-<td>
+<td markdown="1">
 
 ### Fragment 3
 
@@ -85,7 +85,7 @@ Chords (triads only)
 
 </td></tr></table>
 <br/><br/><br/><br/><br/>
-<table><tr><td>
+<table><tr><td markdown="1">
 
 ### Fragment 5
 
@@ -120,7 +120,7 @@ Chords (triads only)
 | A G♯ᵐ | F♯ᵐ E |
 
 </td>
-<td>
+<td markdown="1">
 
 ### Fragment 6
 

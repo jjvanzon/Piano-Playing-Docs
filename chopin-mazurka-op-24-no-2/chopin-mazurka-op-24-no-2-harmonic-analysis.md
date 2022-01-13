@@ -176,7 +176,7 @@ Harmonic Analysis
 
 <br/><br/><br/><br/>
 
-<table><tr><td markdown="span">
+<table><tr><td markdown="1">
 
 ### 2: Verse
 
@@ -220,7 +220,7 @@ Harmonic Analysis
 |  (C:) Ⅰ Ⅴ Ⅰ  |  Ⅴ Ⅰ Ⅴ  |  Ⅰ Ⅴ Ⅰ   |  Ⅴ  |
 |       T D T  |  D T D  |  T D T  |  D  |
 
-</td><td markdown="span">
+</td><td markdown="1">
 
 |                   |         |         |                  |
 |------------------:|:-------:|:-------:|------------------|
