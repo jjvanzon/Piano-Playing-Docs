@@ -308,12 +308,8 @@ Stopped this. Returning the Nord Piano 5, because it is not compatible with Nord
     - [x] I am guessing more manual work then.
     - [x] Nord Sample Library 3.0 seems not compatible with Nord Piano 5.
     - [x] This might be a deal breaker then.
-    - [x] Forums:
-        - [x] https://www.norduserforum.com/general-nord-forum-f29/new-nord-sample-library-t21025-60.html
-        - [x] https://www.norduserforum.com/nord-user-samples-nsmp-samples-f14/nord-sample-editor-3-12-available-t20998.html
     - [x] Nord Sample Editor 4
-        - [x] Might it be able to convert?
-        - [x] https://www.nordkeyboards.com/downloads/software-tools/nord-sample-editor-4
+        - [x] ~~Might it be able to convert?~~
     - [x] No there seems no way.
 - [x] ~~Storage space low~~
     - [x] ~~The bundles folder is getting huge ("Nord Piano 5 Factory Defaults\Programs").~~

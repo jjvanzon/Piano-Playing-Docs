@@ -1,11 +1,13 @@
 Barbara Lister-Sink's "Freeing the Caged Bird" Videos Summary
 =============================================================
 
-*2021-10-11, JJ van Zon*
+*JJ van Zon, 2022*
 
 Summary in bullet points of videos about piano technique by Barbara Lister-Sink.  
-Source: https://www.youtube.com/user/BarbaraListerSink/videos.  
-Playlist: https://www.youtube.com/playlist?list=PLPp_Is9dOPCYGiRMaca2CAH-B663uEbkQ
+
+Source: [https://www.youtube.com/user/BarbaraListerSink/videos](https://www.youtube.com/user/BarbaraListerSink/videos)
+
+Playlist: [https://www.youtube.com/playlist?list=PLPp_Is9dOPCYGiRMaca2CAH-B663uEbkQ](https://www.youtube.com/playlist?list=PLPp_Is9dOPCYGiRMaca2CAH-B663uEbkQ)
 
 - General intros skipped here.
 - Eliminate Chronic Muscle Tension:
