@@ -4,7 +4,7 @@ Chopin Mazurka Op. 24, No. 2
 Harmonic Analysis
 -----------------
 
-<table><tr><td markdown="span">
+<table><tr><td markdown="1">
 
 ### 1a: Prefix
 
@@ -43,7 +43,7 @@ Harmonic Analysis
 |  D ' S   |  D ' S   |   S ' D   |  T  |
 
 </td>
-<td markdown="span">
+<td markdown="1">
 
 ### 4: Intermezzo 1
 
@@ -86,7 +86,7 @@ Harmonic Analysis
 |   T  S  '  |    D  ' T  |      S      |   D  ' T   |
 
 </td></tr></table>
-<table><tr><td markdown="span">
+<table><tr><td markdown="1">
 
 ### 3a: Chorus
 
@@ -130,7 +130,7 @@ Harmonic Analysis
 |  (Dᵇ:) Ⅴ⁷  |  Ⅰ   |  Ⅳ   |  Ⅰ   |
 |      D     |  T   |  S    |  T   |
 
-</td><td markdown="span">
+</td><td markdown="1">
 
 |       |
 |:-----:|
