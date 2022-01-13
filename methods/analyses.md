@@ -14,7 +14,7 @@ Not sure yet which might be most useful.
 - __Phrase__ structure analysis
 - Notes / [__finger numbers__](finger-numbers.md)
 - Notes / finger numbers / [__piano motion symbols__](piano-motion-symbols.md)?
----
+<br/><br/>
 - Notes / __chords__ / bass line
 - Notes / chords (__without base line__)
 - Notes / chords (__triads only__)
@@ -22,7 +22,7 @@ Not sure yet which might be most useful.
 - Notes / chords / bass line / roman numerals / __harmonic function__
 - Notes / chords / bass line / harmonic function
 - Notes / roman numerals / harmonic function
----
+<br/><br/>
 - __Chords__ / bass line
 - Chords (__without bass line__)
 - Chords (__triads only__)
@@ -30,7 +30,7 @@ Not sure yet which might be most useful.
 - Chords / bass line / roman numerals / __harmonic function__
 - Chords / bass line / harmonic function
 - Roman numerals / harmonic function
----
+<br/><br/>
 - Melody / __chords__ / bass line
 - Melody / chords (__without bass line__)
 - Melody / chords (__triads only__)
