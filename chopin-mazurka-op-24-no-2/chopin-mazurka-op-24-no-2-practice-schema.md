@@ -1,10 +1,10 @@
 Chopin Mazurka Op. 24, No. 2
 ============================
 
+*JJ van Zon, 2021*
+
 Practice Schema
 ---------------
-
-Click [here](/methods/practice-schema.md) for method description.
 
 | Fragment |   Read    | Memorize  | Technique |Expression |
 |:--------:|:---------:|:---------:|:---------:|:---------:|
@@ -20,3 +20,5 @@ Click [here](/methods/practice-schema.md) for method description.
 | __2__    | - - - 7 - | - - - - 10| - - - 7 - | - - - 7 - |
 | __3a__   | - - - - 10| - - - - 10| - - 5 - - | - - 5 - - |
 | __1b__   | - - - 7 - | - - - - 10| - - 5 - - | - - 5 - - |
+
+Click [here](/methods/practice-schema.md) for method description.
