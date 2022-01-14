@@ -40,6 +40,7 @@ More specific TODO lists may be in other documents.
 - [x] "(MarkDown)" with a link does not seem to mean much on the GitHub Pages. Perhaps leave it call it "Web Page" instead.
 - [x] Extra title "Piano Playing Docs" might be a bit redundant.
 - [ ] External links to open in new tab using `<a>` tags.
+- [ ] More images at top of pages?
 
 2021-11-16 TODO
 ---------------
