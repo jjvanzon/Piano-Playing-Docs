@@ -31,4 +31,4 @@ Visually simpler notes with chords and bass line. Accidentals always placed near
 ### Original
 
 Originally derived from:  
-[Michael Kravchuk - Free Piano Sheet Music – First Arabesque – Debussy](https://michaelkravchuk.com/free-piano-sheet-music-first-arabesque-debussy/)
+<a href="https://michaelkravchuk.com/free-piano-sheet-music-first-arabesque-debussy/" target="_blank">Michael Kravchuk - Free Piano Sheet Music – First Arabesque – Debussy</a>

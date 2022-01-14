@@ -30,4 +30,4 @@ Visually simpler. Accidentals always placed near notes, even when part of the ke
 ### Original
 
 Derived from:  
-[Michael Kravchuk - Free Piano Sheet Music – First Arabesque – Debussy](https://michaelkravchuk.com/free-piano-sheet-music-first-arabesque-debussy/)
+<a href="https://michaelkravchuk.com/free-piano-sheet-music-first-arabesque-debussy/" target="_blank">Michael Kravchuk - Free Piano Sheet Music – First Arabesque – Debussy</a>

@@ -7,27 +7,27 @@ Links
 
 Links to possibly useful information.
 
-- [Image Diff (Inspecting Difference Between Picture Files)](https://online-image-comparison.com)
+- <a href="https://online-image-comparison.com" target="_blank">Image Diff (Inspecting Difference Between Picture Files)</a>
 
 ### Links to Music Theory
 
-- [Integrated Music Theory](https://intmus.github.io/inttheory21-22/) (nice collection of topics)
-- [Open Music Theory](http://openmusictheory.com)
+- <a href="https://intmus.github.io/inttheory21-22/" target="_blank">Integrated Music Theory</a> (nice collection of topics)
+- <a href="http://openmusictheory.com" target="_blank">Open Music Theory</a>
 
 ### Links to Sheet Music
 
-- [Free Sheet Music from Michael Kravchuk](https://michaelkravchuk.com/free-sheet-music/) (public domain)
-- [Free Sheet Music on Musescore](https://musescore.com/)
-- [Free Sheet Music Chopin Ballade Ⅱ on Musescore](https://musescore.com/hmscomp/chopin-ballade-no-2-piano-solo)
+- <a href="https://michaelkravchuk.com/free-sheet-music/" target="_blank">Free Sheet Music from Michael Kravchuk</a> (public domain)
+- <a href="https://musescore.com/" target="_blank">Free Sheet Music on Musescore</a>
+- <a href="https://musescore.com/hmscomp/chopin-ballade-no-2-piano-solo" target="_blank">Free Sheet Music Chopin Ballade Ⅱ on Musescore</a>
 
 ### Links about Harmonic Function
 
-- [Open Music Theory, Harmonic functions](http://openmusictheory.com/harmonicFunctions.html)
-- [Principles of Notation for Harmonic Analysis](https://www.brianedwardjarvis.com/TheoryTopics/notation_principles_harmonic_analysis.html)
-- Some people trying to make sense of harmonic function: [The representation of harmonic structure in music: hierarchies of stability as a function of context, J Bharucha, C L Krumhansl](http://music.psych.cornell.edu/articles/tonality/HierarchicalRepresentationOfHarmonicStructure.pdf)
+- <a href="http://openmusictheory.com/harmonicFunctions.html" target="_blank">Open Music Theory, Harmonic functions</a>
+- <a href="https://www.brianedwardjarvis.com/TheoryTopics/notation_principles_harmonic_analysis.html" target="_blank">Principles of Notation for Harmonic Analysis</a>
+- Some people trying to make sense of harmonic function: <a href="http://music.psych.cornell.edu/articles/tonality/HierarchicalRepresentationOfHarmonicStructure.pdf" target="_blank">The representation of harmonic structure in music: hierarchies of stability as a function of context, J Bharucha, C L Krumhansl</a>
 
 ### Links about Technique
 
-- [Barbara Lister-Sink's "Freeing the Caged Bird" Videos](https://www.youtube.com/user/BarbaraListerSink/videos)
-- [Fundamentals of Piano Practice](https://fundamentals-of-piano-practice.readthedocs.io/chapter1/index.html)
-- [Piano Fingering Tips](https://www.onlinepianocoach.com/piano-fingering.html)
+- <a href="https://www.youtube.com/user/BarbaraListerSink/videos" target="_blank">Barbara Lister-Sink's "Freeing the Caged Bird" Videos</a>
+- <a href="https://fundamentals-of-piano-practice.readthedocs.io/chapter1/index.html" target="_blank">Fundamentals of Piano Practice</a>
+- <a href="https://www.onlinepianocoach.com/piano-fingering.html" target="_blank">Piano Fingering Tips</a>

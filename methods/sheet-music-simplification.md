@@ -36,4 +36,4 @@ Sheet Music Simplification
 - Checking by playing the print.
 - Correcting it.
 - Keep checking by playing the print, until no more corrections.
-- Might check with [image diff](https://online-image-comparison.com) before uploading.
+- Might check with <a href="https://online-image-comparison.com" target="blank">image diff</a> before uploading.

@@ -10,12 +10,12 @@ More specific TODO lists may be in other documents.
 2022-01-13 TODO GitHub Pages
 ----------------------------
 
-- [x] Googling "convert markdown github to web page" leads to [How to convert GitHub Markdown files to a simple website](https://dev.to/bolajiayodeji/how-to-convert-github-markdown-files-to-a-simple-website-4e14)
+- [x] Googling "convert markdown github to web page" leads to <a href="https://dev.to/bolajiayodeji/how-to-convert-github-markdown-files-to-a-simple-website-4e14" target="_blank">How to convert GitHub Markdown files to a simple website</a>
 - [x] GitHub pages did not work yet. Waiting a while to see if it starts up automatically.
 - [x] Renaming root README to have lower case extension .md helped.
 - [x] Links to folders do not seem to work. Maybe also change the file extension to lower case for those readme's.
 - [x] Automatic links do not seem to work. Using the syntax `[Description](https:\\my-url)` may help.
-- [x] Link to Archive seems to not work: [Piano Playing Docs](https://jjvanzon.github.io/Piano-Playing-Docs/). Adding a README.md to that folder helped.
+- [x] Link to Archive seemed to not work: [Piano Playing Docs](https://jjvanzon.github.io/Piano-Playing-Docs/). Adding a README.md to that folder helped.
 - [x] Perhaps adding name and date to articles, now that it is in web site form it may be useful. Or perhaps only the date or only the month or year.
 - [x] Horizontal lines:
     - [x] Grid rows with only dashes in it seemed to not render.
@@ -24,7 +24,7 @@ More specific TODO lists may be in other documents.
     - [x] `-----` formatted as inline code seems to help inside table rows.
 - [x] Table layout seems applied inappropriately when using `|` in a bullet point's text. Replaced with commas `,`.
 - [x] MarkDown (tables) nested in HTML tables showed the MarkDown literally inside the rendered page.
-    - [x] Trying a trick `<td markdown="1">` from [here](https://stackoverflow.com/questions/15917463/embedding-markdown-in-jekyll-html) helped.
+    - [x] Trying a trick `<td markdown="1">` from <a href="https://stackoverflow.com/questions/15917463/embedding-markdown-in-jekyll-html" target="_blank">here</a> helped.
 - [x] Links that start with slash, seem to use the wrong base URL and makes links break
     - [x] E.g. link to "/methods/practice-schema.md" does not seem to work.
     - [x] ~~baseurl in _config.yml did not help.~~
@@ -38,7 +38,7 @@ More specific TODO lists may be in other documents.
     - [x] Adding everywhere.
     - [x] Testing
 - [x] "(MarkDown)" with a link does not seem to mean much on the GitHub Pages. Perhaps leave it call it "Web Page" instead.
-- [ ] Extra title "Piano Playing Docs" might be a bit redundant.
+- [x] Extra title "Piano Playing Docs" might be a bit redundant.
 - [ ] External links to open in new tab using `<a>` tags.
 
 2021-11-16 TODO
@@ -53,7 +53,7 @@ More specific TODO lists may be in other documents.
     - [ ] See specialized [TODO](chopin-mazurka-op-24-no-2/chopin-mazurka-op-24-no-2-todo.md)
 - [ ] Debussy Arabesque Ⅰ
     - [ ] __Chords & sheet music__
-    - [ ] See specialized [TODO](debussy-arabesque-1/debussy-arabesque-1-todo.md))
+    - [ ] See specialized [TODO](debussy-arabesque-1/debussy-arabesque-1-todo.md)
 - [ ] Mozart Sonata Facile KV 545 Part 1 
     - [ ] Simplified sheet music rework
     - [ ] May redo simplified sheet music with non-copyrighted version.
@@ -63,11 +63,11 @@ More specific TODO lists may be in other documents.
 - [ ] __Technique:__
     - [ ] Rehearsing Barbara Lister-Sink suggestions.
     - [ ] There may be more instructional videos from Barbara Lister-Sink:
-        - [ ] [Basic Stroke](https://www.youtube.com/watch?v=OjSWu8ZADzI)
+        - [ ] <a href="https://www.youtube.com/watch?v=OjSWu8ZADzI" target="_blank">Basic Stroke</a>
         - [ ] Might still want to summarize that and add to:
         - [ ] [Barbara Lister-Sink's "Freeing the Caged Bird" Videos Summary](methods/barbara-lister-sink-freeing-the-caged-bird-videos-summary.md)
-        - [ ] [DVD Contents / Ordering](https://www.lister-sinkinstitute.org/freeing-the-caged-bird-dvd/#1508990586220-02706448-751f)
-        - [ ] [More Preview Videos](https://www.lister-sinkinstitute.org/freeing-the-caged-bird-dvd/#1508992509585-4388e2b5-8df3)
+        - [ ] <a href="https://www.lister-sinkinstitute.org/freeing-the-caged-bird-dvd/#1508990586220-02706448-751f" target="_blank">DVD Contents / Ordering]
+        - [ ] <a href="https://www.lister-sinkinstitute.org/freeing-the-caged-bird-dvd/#1508992509585-4388e2b5-8df3" target="_blank">More Preview Videos]
         - [ ] I guess you'd really just have to buy the DVD.
     - [ ] Wire in the way: might not improve technique without replacing it
     - [ ] __Piano Motion Symbols idea__
@@ -83,7 +83,7 @@ More specific TODO lists may be in other documents.
         - [ ] Considering left-over things in "Piano Technique Ideas" under "2021-11-27 Brainstorm Motion Notation".
 - [ ] Pieces to play:
     - [ ] Listing of pieces that I play / have played / would like to play.
-    - [x] Using [100 Songs You´ve Heard And Don´t Know The Name](https://www.youtube.com/watch?v=PCx8Xcm9l7U&t=1099s)
+    - [x] Using <a href="https://www.youtube.com/watch?v=PCx8Xcm9l7U&t=1099s" target="_blank">100 Songs You´ve Heard And Don´t Know The Name</a>
     - [ ] Using books in closet
     - [ ] Using books in attic
     - [ ] Using spotify playlists.
