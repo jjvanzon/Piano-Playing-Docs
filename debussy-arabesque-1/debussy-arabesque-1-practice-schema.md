@@ -47,4 +47,4 @@ Practice Schema
 | __13__   | - - - 8 - | - - - 8 - | - - - - - | - - - - - |
 | __14__   | - - - 8 - | - - - 8 - | - - - - - | - - - - - |
 
-Links: [method description](/methods/practice-schema.md), [notes with fragment subdivision](notes-fragment-subdivision)
+Links: [method description](https://jjvanzon.github.io/Piano-Playing-Docs/methods/practice-schema.html), [notes with fragment subdivision](notes-fragment-subdivision)

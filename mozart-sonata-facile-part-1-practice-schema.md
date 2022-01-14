@@ -38,7 +38,7 @@ Practice Schema
 | __9'''__| - - 5 - - | - - - - 10| - - - 8 - | - - - - - |
 | __10'__ | - - 5 - - | - - - 8 - | - - - 8 - | - - - - - |
 
-Click [here](/methods/practice-schema.md) for method description.
+Click [here](https://jjvanzon.github.io/Piano-Playing-Docs/methods/practice-schema.html) for method description.
 
 ### Details
 

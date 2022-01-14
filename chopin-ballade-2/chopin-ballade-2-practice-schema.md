@@ -47,4 +47,4 @@ Practice Schema
 | __1c__   | - - - 8 - | - - 5 - - | - - - 8 - | - - 5 - - |
 | __19__   | - - 5 - - | - - 5 - - | - - 5 - - | - 2 - - - |
 
-Click [here](/methods/practice-schema.md) for method description.
+Click [here](https://jjvanzon.github.io/Piano-Playing-Docs/methods/practice-schema.html) for method description.
