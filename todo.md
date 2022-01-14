@@ -67,8 +67,8 @@ More specific TODO lists may be in other documents.
         - [ ] <a href="https://www.youtube.com/watch?v=OjSWu8ZADzI" target="_blank">Basic Stroke</a>
         - [ ] Might still want to summarize that and add to:
         - [ ] [Barbara Lister-Sink's "Freeing the Caged Bird" Videos Summary](methods/barbara-lister-sink-freeing-the-caged-bird-videos-summary.md)
-        - [ ] <a href="https://www.lister-sinkinstitute.org/freeing-the-caged-bird-dvd/#1508990586220-02706448-751f" target="_blank">DVD Contents / Ordering]
-        - [ ] <a href="https://www.lister-sinkinstitute.org/freeing-the-caged-bird-dvd/#1508992509585-4388e2b5-8df3" target="_blank">More Preview Videos]
+        - [ ] <a href="https://www.lister-sinkinstitute.org/freeing-the-caged-bird-dvd/#1508990586220-02706448-751f" target="_blank">DVD Contents / Ordering
+        - [ ] <a href="https://www.lister-sinkinstitute.org/freeing-the-caged-bird-dvd/#1508992509585-4388e2b5-8df3" target="_blank">More Preview Videos
         - [ ] I guess you'd really just have to buy the DVD.
     - [ ] Wire in the way: might not improve technique without replacing it
     - [ ] __Piano Motion Symbols idea__
