@@ -5,6 +5,8 @@ Piano Playing Docs | Methods
 
 *JJ van Zon, 2021*
 
+[back](./)
+
 Piano Motion Symbols
 --------------------
 

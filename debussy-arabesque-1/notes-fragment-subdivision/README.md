@@ -1,7 +1,9 @@
-Debussy Arabesque Ⅰ
-===================
+Piano Playing Docs | Debussy Arabesque Ⅰ
+========================================
 
 *JJ van Zon, 2022*
+
+[back](..)
 
 Notes & Fragment Subdivision
 ----------------------------

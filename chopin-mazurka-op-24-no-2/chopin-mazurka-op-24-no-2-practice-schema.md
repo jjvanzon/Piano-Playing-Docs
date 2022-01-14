@@ -1,7 +1,9 @@
-Chopin Mazurka Op. 24, No. 2
-============================
+Piano Playing Docs | Chopin Mazurka Op. 24, No. 2
+=================================================
 
 *JJ van Zon, 2021*
+
+[back](./)
 
 Practice Schema
 ---------------

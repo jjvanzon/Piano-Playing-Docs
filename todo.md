@@ -3,6 +3,8 @@ Piano Playing Docs
 
 *JJ van Zon, 2022*
 
+[back](./)
+
 TODO
 ----
 
@@ -25,10 +27,20 @@ More specific TODO lists may be in other documents.
 - [x] Table layout seems applied inappropriately when using `|` in a bullet point's text. Replaced with commas `,`.
 - [x] MarkDown (tables) nested in HTML tables showed the MarkDown literally inside the rendered page.
     - [x] Trying a trick `<td markdown="1">` from [here](https://stackoverflow.com/questions/15917463/embedding-markdown-in-jekyll-html) helped.
-- [ ] Links that start with slash, seem to use the wrong base URL and makes links break
-    - [ ] E.g. link to "/methods/practice-schema.md" does not seem to work.
+- [x] Links that start with slash, seem to use the wrong base URL and makes links break
+    - [x] E.g. link to "/methods/practice-schema.md" does not seem to work.
+    - [x] ~~baseurl in _config.yml did not help.~~
+    - [x] ~~prefixing URL with {{ site.baseurl }} made link break in places other than GitHub Pages and GitHub pages would link to the .md instead of .html.~~
+    - [x] Using absolute paths to the GitHub pages html page instead as a work-around.
 - [ ] No home link, like clicking on the logo.
+    - [x] Back buttons instead
+    - [x] Like `<a href="./">back<a>`
+    - [x] Or [back](./) in a document
+    - [x] And [back](..) in a folder or README.md.
+    - [ ] __Adding everywhere.__
+    - [ ] Testing
 - [ ] External links to open in new tab using `<a>` tags.
+- [ ] "(MarkDown)" with a link does not seem to mean much on the GitHub Pages. Perhaps leave it out, while still marking "(PDF)" with the PDF link.
 
 ### 2021-11-16 TODO
 

@@ -1,7 +1,12 @@
-Chopin Mazurka Selection
-========================
+Piano Playing Docs
+==================
 
 *JJ van Zon, 2021-09*
+
+[back](./)
+
+Chopin Mazurka Selection
+------------------------
 
 Looking for something easier to play and easy on the ears too.
 

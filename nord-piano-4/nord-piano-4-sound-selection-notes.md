@@ -1,7 +1,12 @@
-Nord Piano 4 Sound Selection Notes
-==================================
+Piano Playing Docs | Nord Piano 4 Sound Selection Notes 
+=======================================================
 
 *JJ van Zon, 2021-09*
+
+[back](./)
+
+Introduction
+------------
 
 I want to try and perfect the sound selections on my Nord Piano 4 digital piano.
 

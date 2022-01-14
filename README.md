@@ -3,6 +3,9 @@ Piano Playing Docs
 
 *JJ van Zon, 2022*
 
+Introduction
+------------
+
 Piano playing is a hobby of mine. Here I try to organize my thoughts about it. And share documents I may make.
 
 I may have difficulty reading notes, memorizing pieces, finding a good technique and motor control.  

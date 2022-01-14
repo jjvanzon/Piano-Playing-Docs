@@ -1,7 +1,12 @@
-Barbara Lister-Sink's "Freeing the Caged Bird" Videos Summary
-=============================================================
+Piano Playing Docs | Methods
+============================
 
 *JJ van Zon, 2022*
+
+[back](./)
+
+Barbara Lister-Sink's "Freeing the Caged Bird" Videos Summary
+-------------------------------------------------------------
 
 Summary in bullet points of videos about piano technique by Barbara Lister-Sink.  
 
@@ -42,8 +47,7 @@ Playlist: [https://www.youtube.com/playlist?list=PLPp_Is9dOPCYGiRMaca2CAH-B663uE
     - Body alignment is continually optimal.
     - The right muscles are used with the right amount of effort at the right time.
 
-Notes
------
+### Notes
 
 - With more leaps it looks like fluid bows of arm motion.
 - Going to a different position quickly, may be more controlled, heading off faster and arriving slower. Maybe that's what she's doing. Her 'fluidity' still seems to show some redundant motion and some 'jerkiness' in that aspect.

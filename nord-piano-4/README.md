@@ -1,7 +1,12 @@
-Nord Piano 4
-============
+Piano Playing Docs
+==================
 
 *JJ van Zon, 2021*
+
+[back](..)
+
+Nord Piano 4
+------------
 
 - [Nord Piano 4 Sound Selection](nord-piano-4-sound-selection.md)
 
