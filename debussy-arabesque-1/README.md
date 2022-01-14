@@ -10,9 +10,9 @@ Debussy Arabesque Ⅰ
 
 Notes and analyses studying the Debussy Arabesque Ⅰ piano piece.
 
-- [Debussy Arabesque Ⅰ Chords (triads only) (MarkDown)](debussy-arabesque-1-chords-triads-only.md) `[Draft]`
+- [Debussy Arabesque Ⅰ Chords (triads only) (Web Page)](debussy-arabesque-1-chords-triads-only.md) `[Draft]`
 
-    - Chord progression of Debussy Arabesque Ⅰ in chords with 3 notes only. This is in MarkDown format, more readable like a web site.
+    - Chord progression of Debussy Arabesque Ⅰ in chords with 3 notes only. This version displays as a web page.
 
 - [Debussy Arabesque Ⅰ Chords (triads only) (PDF)](debussy-arabesque-1-chords-triads-only.pdf) `[Draft]`
 

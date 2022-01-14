@@ -23,9 +23,9 @@ You may find some of my methods of working here.
 
     - A way to annotate sheet music to denote subdivision into fragments. Individual memorization or attention to technique may be desired for each fragment when studying it.
 
-- [Practice Schema (MarkDown)](practice-schema.md)
+- [Practice Schema (Web Page)](practice-schema.md)
 
-    - A method for keeping overview, scoring progress of different fragments and aspects of a musical piece. This is in MarkDown format, more readable like a web site.
+    - A method for keeping overview, scoring progress of different fragments and aspects of a musical piece. This version displays as a web page.
 
 - [Practice Schema (PDF)](practice-schema.pdf)
 
@@ -43,17 +43,17 @@ You may find some of my methods of working here.
 
     - Some personal preferences for piano technique. The focus appears to be general posture for now.
 
-- [Piano Motion Symbols (MarkDown)](piano-motion-symbols.md) `[Draft]`
+- [Piano Motion Symbols (Web Page)](piano-motion-symbols.md) `[Draft]`
 
-  - This is an idea of extending fingering notation from just numbers to additional symbols, indicating the kind of hand movement involved. This is in MarkDown format, more readable like a web site.
+  - This is an idea of extending fingering notation from just numbers to additional symbols, indicating the kind of hand movement involved. This version displays as a web page.
   
 - [Piano Motion Symbols (PDF)](piano-motion-symbols.pdf) `[Draft]`
 
   - This is an idea of extending fingering notation from just numbers to additional symbols, indicating the kind of hand movement involved. This is in PDF format, which may be easier to print. 
 
-- [Piano Motion Symbols, Lower Arm Position, Single Page (MarkDown)](piano-motion-symbols-lower-arm-position-single-page.md) `[Draft]`
+- [Piano Motion Symbols, Lower Arm Position, Single Page (Web Page)](piano-motion-symbols-lower-arm-position-single-page.md) `[Draft]`
 
-  - Symbols for only lower arm positions from the [Piano Motion Symbols](piano-motion-symbols.md) document. This is an idea of extending fingering notation from just numbers to additional symbols, indicating the kind of body movement involved. This is in MarkDown format, more readable like a web site.
+  - Symbols for only lower arm positions from the [Piano Motion Symbols](piano-motion-symbols.md) document. This is an idea of extending fingering notation from just numbers to additional symbols, indicating the kind of body movement involved. This version displays as a web page.
  
 - [Piano Motion Symbols, Lower Arm Position, Single Page  (PDF)](piano-motion-symbols-lower-arm-position-single-page.pdf) `[Draft]`
 
