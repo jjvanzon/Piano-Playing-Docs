@@ -38,21 +38,21 @@ To perhaps focus on things with lower scores.
     - Once *memorization* scores are up, scores for *note reading* might matter less.
     - Once memorized, I might do the rest of the scoring in my head. Typing it in, may seem a bit laborious then.
     - A trick might be to score __everything__ with an __8__. Then selectively lower that score to __5__ for the fragments that desire some attention.
-- Acceptance:
+- __Acceptance__:
     - A score of 8 might be enough to move on.
     - When scores will not go up anymore, perhaps accept this as the end result.
     - Preventing perfectionism / frustration.
     - Depends how high you set the bar.
-<br/><br/>
-- Reading:
+    <br/><br/>
+- __Reading__:
     - Might include annotating with mnemonics and cheats.  
     - May include my making simplified musical score or chord progressions.
-- Memorizing:
+- __Memorizing__:
     - Analyzing phrase and repetition structure may help.
     - Memorizing might at one point include memorizing the chords.  
-- Technique:
+- __Technique__:
     - Might include fingering.
     - Annotating the musical score with arrows/symbols how to move.
     - Figuring out tricks for the harder fragments.
-- Expression:
+- __Expression__:
     - It may be a bit difficult to judge the expression without hearing back a recording.
