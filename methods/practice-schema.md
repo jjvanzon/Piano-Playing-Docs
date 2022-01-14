@@ -43,7 +43,7 @@ To perhaps focus on things with lower scores.
     - When scores will not go up anymore, perhaps accept this as the end result.
     - Preventing perfectionism / frustration.
     - Depends how high you set the bar.
------
+<br/><br/>
 - Reading:
     - Might include annotating with mnemonics and cheats.  
     - May include my making simplified musical score or chord progressions.
