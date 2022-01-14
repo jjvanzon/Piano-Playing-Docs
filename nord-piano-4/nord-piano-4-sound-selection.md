@@ -1,4 +1,4 @@
-Piano Playing Docs | Nord Piano 4 Sound Selection
+Nord Piano 4 Sound Selection
 ============================
 
 *JJ van Zon, 2021-09*

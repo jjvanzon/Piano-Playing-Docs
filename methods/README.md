@@ -1,12 +1,9 @@
-Piano Playing Docs
-==================
+Methods
+=======
 
 *JJ van Zon, 2022*
 
 [back](..)
-
-Methods
--------
 
 You may find some of my methods of working here.
 

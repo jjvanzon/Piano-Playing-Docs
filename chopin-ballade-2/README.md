@@ -1,12 +1,9 @@
-Piano Playing Docs
-==================
+Chopin Ballade Ⅱ
+================
 
 *JJ van Zon, 2022*
 
 [back](..)
-
-Chopin Ballade Ⅱ
------------------
 
 - [Chopin Ballade Ⅱ Practice Schema](chopin-ballade-2-practice-schema.md)
 

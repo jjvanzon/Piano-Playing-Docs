@@ -1,12 +1,9 @@
-Piano Playing Docs
-==================
+Debussy Arabesque Ⅰ
+===================
 
 *JJ van Zon, 2022*
 
 [back](..)
-
-Debussy Arabesque Ⅰ
--------------------
 
 Notes and analyses studying the Debussy Arabesque Ⅰ piano piece.
 

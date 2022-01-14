@@ -1,16 +1,14 @@
-Piano Playing Docs
-==================
+Pieces to Play
+==============
 
 *JJ van Zon, 2022*
 
 [back](./)
 
-Pieces to Play
---------------
-
 (Links to performances are not me.)
 
-### Studying
+Studying
+--------
 
 | Name                                              | Mood           | Diffic | Nice | Pages | Durat | Media
 |---------------------------------------------------|----------------|--------|------|-------|-------|------
@@ -19,7 +17,8 @@ Pieces to Play
 | Debussy Arabesque Ⅰ                               | Atmospheric    | Medium | 👍   | 5     | 6:00  | [Spotify, Axel Gillison](https://open.spotify.com/track/3jN9cfOSZtfDQLhmaOcNt8?si=a47ae324b5ec4060)
 | Mozart Sonata "Facile" in C major part 1 (KV 545) | Easy listening | Medium | 👍   | 5     | 5:20 | [YouTube, Rousseau](https://www.youtube.com/watch?v=qjk-YRuQZDE)
 
-### Might Like to Play
+Might Like to Play
+------------------
 
 | Name                                                    | Mood             | Diffic | Nice | Pages | Durat | Media 
 |---------------------------------------------------------|------------------|--------|------|-------|------:|-----
@@ -49,7 +48,8 @@ Pieces to Play
 | ~ Chopin Ballade Ⅳ                                     | Heavy            | Hard   |      |       | 11:30| [YouTube](https://www.youtube.com/watch?v=3F5glYefwio)
 | ~ [Chopin Mazurkas](chopin-mazurka-selection.md)        | 
 
-### Might Once Have Played
+May Once Have Played
+--------------------
 
 | Name                                                        | Mood           | Diffic | Nice | Pages | Dur. | Link
 |-------------------------------------------------------------|----------------|--------|------|-------|------|------

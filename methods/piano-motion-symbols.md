@@ -1,5 +1,5 @@
-Piano Playing Docs | Methods
-============================
+Methods
+=======
 
 `[ Draft ]`
 

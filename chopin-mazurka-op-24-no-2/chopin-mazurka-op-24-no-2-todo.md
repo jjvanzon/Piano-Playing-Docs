@@ -1,5 +1,5 @@
-Piano Playing Docs | Chopin Mazurka Op. 24, No. 2
-=================================================
+Chopin Mazurka Op. 24, No. 2
+============================
 
 *JJ van Zon, 2022*
 

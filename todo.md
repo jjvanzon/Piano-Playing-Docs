@@ -1,16 +1,14 @@
-Piano Playing Docs
-==================
+TODO
+====
 
 *JJ van Zon, 2022*
 
 [back](./)
 
-TODO
-----
-
 More specific TODO lists may be in other documents.
 
-### 2022-01-13 TODO GitHub Pages
+2022-01-13 TODO GitHub Pages
+----------------------------
 
 - [x] Googling "convert markdown github to web page" leads to [How to convert GitHub Markdown files to a simple website](https://dev.to/bolajiayodeji/how-to-convert-github-markdown-files-to-a-simple-website-4e14)
 - [x] GitHub pages did not work yet. Waiting a while to see if it starts up automatically.
@@ -37,12 +35,14 @@ More specific TODO lists may be in other documents.
     - [x] Like `<a href="./">back<a>`
     - [x] Or [back](./) in a document
     - [x] And [back](..) in a folder or README.md.
-    - [ ] __Adding everywhere.__
-    - [ ] Testing
+    - [x] Adding everywhere.
+    - [x] Testing
+- [x] "(MarkDown)" with a link does not seem to mean much on the GitHub Pages. Perhaps leave it call it "Web Page" instead.
+- [ ] Extra title "Piano Playing Docs" might be a bit redundant.
 - [ ] External links to open in new tab using `<a>` tags.
-- [ ] "(MarkDown)" with a link does not seem to mean much on the GitHub Pages. Perhaps leave it out, while still marking "(PDF)" with the PDF link.
 
-### 2021-11-16 TODO
+2021-11-16 TODO
+---------------
 
 - [ ] Changing fragment numbering for:
     - [ ] Chopin Ballade Ⅱ

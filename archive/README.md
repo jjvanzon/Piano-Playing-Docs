@@ -1,12 +1,9 @@
-Piano Playing Docs
-==================
+Archive
+=======
 
 *JJ van Zon, 2022*
 
 [back](..)
-
-Archive
--------
 
 Older but somehow difficult to delete content.
 

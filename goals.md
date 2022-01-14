@@ -1,12 +1,9 @@
-Piano Playing Docs
-==================
+Goals
+=====
 
 *JJ van Zon, 2022*
 
 [back](./)
-
-Goals
------
 
 - My goal might not be to play the piano ***perfectly***, but more to be able 'to ***save myself*** out a situation'.
     - On any aspect: note reading / memorizing / technique / motor skills / expression / listening / performing.

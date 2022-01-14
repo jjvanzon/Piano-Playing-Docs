@@ -1,5 +1,5 @@
-Piano Playing Docs | Chopin Ballade Ⅱ
-=====================================
+Chopin Ballade Ⅱ
+================
 
 *JJ van Zon, 2022*
 

@@ -1,5 +1,5 @@
-Piano Playing Docs | Debussy Arabesque Ⅰ
-========================================
+Debussy Arabesque Ⅰ
+===================
 
 *JJ van Zon, 2021*
 

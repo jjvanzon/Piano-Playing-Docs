@@ -1,12 +1,9 @@
-Piano Playing Docs
-==================
+Links
+=====
 
 *JJ van Zon, 2021*
 
 [back](./)
-
-Links
------
 
 Links to possibly useful information.
 
