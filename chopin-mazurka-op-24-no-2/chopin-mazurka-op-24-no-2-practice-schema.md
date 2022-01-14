@@ -21,4 +21,4 @@ Practice Schema
 | __3a__   | - - - - 10| - - - - 10| - - 5 - - | - - 5 - - |
 | __1b__   | - - - 7 - | - - - - 10| - - 5 - - | - - 5 - - |
 
-Click [here](/methods/practice-schema.md) for method description.
+Click [here]({{ site.baseurl }}/methods/practice-schema.md) for method description.
