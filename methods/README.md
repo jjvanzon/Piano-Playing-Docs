@@ -1,7 +1,7 @@
-[back](..)
-
 Piano Playing Docs
 ==================
+
+[back](..)
 
 Methods
 -------

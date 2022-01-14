@@ -1,7 +1,7 @@
-[back](./)
-
 Piano Playing Docs | Methods
 ============================
+
+[back](./)
 
 *JJ van Zon, 2021*
 
