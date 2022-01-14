@@ -27,6 +27,8 @@ More specific TODO lists may be in other documents.
     - [x] Trying a trick `<td markdown="1">` from [here](https://stackoverflow.com/questions/15917463/embedding-markdown-in-jekyll-html) helped.
 - [ ] Links that start with slash, seem to use the wrong base URL and makes links break
     - [ ] E.g. link to "/methods/practice-schema.md" does not seem to work.
+- [ ] No home link, like clicking on the logo.
+- [ ] External links to open in new tab using `<a>` tags.
 
 ### 2021-11-16 TODO
 
@@ -48,13 +50,14 @@ More specific TODO lists may be in other documents.
     - [ ] Trying "Neuratron AudioScore First" / "Avid Sibelius First"
 - [ ] __Technique:__
     - [ ] Rehearsing Barbara Lister-Sink suggestions.
-    - [ ] There may be instructional videos from Barbara Lister-Sink:
+    - [ ] There may be more instructional videos from Barbara Lister-Sink:
         - [ ] [Basic Stroke](https://www.youtube.com/watch?v=OjSWu8ZADzI)
         - [ ] Might still want to summarize that and add to:
         - [ ] [Barbara Lister-Sink's "Freeing the Caged Bird" Videos Summary](methods/barbara-lister-sink-freeing-the-caged-bird-videos-summary.md)
         - [ ] [DVD Contents / Ordering](https://www.lister-sinkinstitute.org/freeing-the-caged-bird-dvd/#1508990586220-02706448-751f)
         - [ ] [More Preview Videos](https://www.lister-sinkinstitute.org/freeing-the-caged-bird-dvd/#1508992509585-4388e2b5-8df3)
         - [ ] I guess you'd really just have to buy the DVD.
+    - [ ] Wire in the way: might not improve technique without replacing it
     - [ ] __Piano Motion Symbols idea__
         - [x] Considering Debussy Arabesque 1 motion annotations.
         - [x] Considering whatever motions comes to mind.
@@ -73,7 +76,7 @@ More specific TODO lists may be in other documents.
     - [ ] Using books in attic
     - [ ] Using spotify playlists.
     - [ ] Using MIDI recordings.
-    - [ ] Adding links to performances.
+    - [ ] __Adding links to performances.__
     - [ ] Making links handier (HTML-style, open in separate tab?)
 - [ ] Learning a piece by ear.
 - [ ] [Nord Piano Sound Selections](nord-piano-4/nord-piano-4-sound-selection-notes.md)
