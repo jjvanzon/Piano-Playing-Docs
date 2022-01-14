@@ -20,32 +20,32 @@ Studying
 Might Like to Play
 ------------------
 
-| Name                                                    | Mood             | Difficulty | Nice | Pages | Durat | Media 
-|---------------------------------------------------------|------------------|------------|:----:|:-----:|------:|-----
-| Brahms Waltz Op. 39, No. 15 in A flat major             | Easy listening   | Easier     |      |       |  1:30 | <a href="https://open.spotify.com/track/7ouW02587AzIaGnK0gh8St?si=b243a945bfee45f6" target="_blank">Spotify</a>
-| Bach Prelude in C Major, BWV 846                        | Atmospheric      | Easier     |      |       |  2:20 | <a href="https://open.spotify.com/track/4N7Bd7LlQtWuI1AVhmpbgn?si=2e371200ebad46e3" target="_blank">Spotify</a>
-| Beethoven Sonata Pathétique Opus. 13 Mov 2              | Atmospheric      | Easier     |      |       |  5:00 | <a href="https://open.spotify.com/track/1kfdzVK4npK6QNZdwlZoku?si=628cfb58a0354d50" target="_blank">Spotify</a>
-| Beethoven Sonata Op.27 No.2 Mov. 1 ("Moonlight Sonata") | Melancholic      | Easier     |      |       |  5:25 | <a href="https://open.spotify.com/track/1UNzT19U7L0sC6d03L7MwT?si=0bf09cebe7a24dfe" target="_blank">Spotify</a>
-| Chopin Prelude Op. 28, No. 4                            | Melancholic      | Easier     |      |       |  2:45 | <a href="https://open.spotify.com/track/3XwL5sEvTzT6yzlFFsQCEl?si=a2714069d3fd4c71" target="_blank">Spotify</a>
-| Chopin Prelude Op. 28, No. 17                           | Easy listening   | Medium     | 👍   |       |  3:20 | <a href="https://open.spotify.com/track/31RR1orCjQp0nrl3bOHrZL?si=efacf06c03ec49ab" target="_blank">Spotify</a>
-| Chopin Etude Op. 10, No. 3 in E ("Tristesse")           | Atmospheric      | Medium     |      |       |  4:30 | <a href="https://www.youtube.com/watch?v=efUpNxQPLMU" target="_blank">YouTube</a>
-| Chopin Nocturne Op. 32, No. 2                           | Atmospheric      | Medium     |      |       |  7:00 | <a href="https://www.youtube.com/watch?v=my5OSmQZjns" target="_blank">YouTube</a>
-| Chopin Nocturne Op. 9, No. 3                            | Atmospheric      | Medium     |      | 10    |  7:00 | <a href="https://www.youtube.com/watch?v=O3Apq41rrFc" target="_blank">YouTube</a>
-| Debussy Rêverie                                         | Atmospheric      | Medium     |      |       |  5:00 | <a href="https://www.youtube.com/watch?v=3cYMvB3rgzQ" target="_blank">YouTube</a>
-| Schubert/Liszt Ave Maria                                | Atmospheric      | Medium     | 💔   |       |  5:00 | <a href="https://www.youtube.com/watch?v=RCucnn-95nY" target="_blank">YouTube</a><br/><a href="https://open.spotify.com/track/2GeAvEElKwEgy4PA13SGvH?si=81b468e082f54ed6" target="_blank">Spotify</a>
-| Chopin Prelude Op. 45                                   | ~ Melancholic    | Medium     |      |       |  5:45 | <a href="https://open.spotify.com/track/7MBnLWnRoUCRTl57d2pn47?si=43be25c851384df9" target="_blank">Spotify</a>
-| Chopin Mazurka Op. 41, No. 1                            | Melancholic      | Medium     |      |       |  2:30 | <a href="https://www.youtube.com/watch?v=rr4_MijijFk" target="_blank">YouTube</a>
-| Chopin Grand Polonaise Brillante Op. 22                 | ~ Easy listening | Hard       |      |       |  9:00 | <a href="https://www.youtube.com/watch?v=IDmCkUMO9f4" target="_blank">YouTube</a>
-| Chopin Etude Op. 25, No. 1 ("Harp Study")               | Atmospheric      | Hard       |      |       |  2:00 | <a href="https://www.youtube.com/watch?v=OKokquds2_M" target="_blank">YouTube</a>
-| Liszt Liebestraum No. 3                                 | Atmospheric      | Hard       | ❤   |       |  4:30 | <a href="https://www.youtube.com/watch?v=FNu3bkFi_IY" target="_blank">YouTube</a>
-| Chopin Etude Op. 25, No. 12 ("Ocean")                   | Heavy            | Hard       |      |       |  2:30 | <a href="https://www.youtube.com/watch?v=pRlHKQXjzZY" target="_blank">YouTube</a>
-| Chopin Scherzo Op. 31, No. 2                            | Heavy            | Hard       |      |       | 10:00 | <a href="https://www.youtube.com/watch?v=OCUSalQf-jY" target="_blank">YouTube</a>
-| ~ Chopin Polonaise in E flat minor Op.26, No.2          | Heavy            | Hard       | 💔   |       |  8:00 | <a href="https://www.youtube.com/watch?v=GLElxJ_tdW0" target="_blank">YouTube</a><br/><a href="https://www.youtube.com/watch?v=LsBKfIB8HOk" target="_blank">YouTube, Anastasia Huppmann</a>
-| ~ Beethoven Sonata Pathétique Opus. 13 Mov 1            | Heavy            | Hard       |      |       |  8:30 | <a href="https://www.youtube.com/watch?v=XuldgIR02dY" target="_blank">YouTube</a>
-| ~ Chopin Etude Op. 25, No. 11 ("Winter Wind")           | Heavy            | Hard       |      |       |  4:00 | <a href="https://www.youtube.com/watch?v=gZjdAWgjLx8" target="_blank">YouTube</a>
-| ~ Chopin Ballade I                                      | Heavy            | Hard       |      |       |  9:45 | <a href="https://www.youtube.com/watch?v=Zj_psrTUW_w" target="_blank">YouTube</a>
-| ~ Chopin Ballade Ⅲ                                     | Heavy            | Hard       |      |       |  7:00 | <a href="https://www.youtube.com/watch?v=BkPLDoZXlHQ" target="_blank">YouTube</a>
-| ~ Chopin Ballade Ⅳ                                     | Heavy            | Hard       |      |       | 11:30| <a href="https://www.youtube.com/watch?v=3F5glYefwio" target="_blank">YouTube</a>
+| Name                                                    | Mood           | Difficulty | Nice | Pages | Durat | Media 
+|---------------------------------------------------------|----------------|------------|:----:|:-----:|------:|-----
+| Brahms Waltz Op. 39, No. 15 in A flat major             | Easy listening | Easier     |      |       |  1:30 | <a href="https://open.spotify.com/track/7ouW02587AzIaGnK0gh8St?si=b243a945bfee45f6" target="_blank">Spotify</a>
+| Bach Prelude in C Major, BWV 846                        | Atmospheric    | Easier     |      |       |  2:20 | <a href="https://open.spotify.com/track/4N7Bd7LlQtWuI1AVhmpbgn?si=2e371200ebad46e3" target="_blank">Spotify</a>
+| Beethoven Sonata Pathétique Opus. 13 Mov 2              | Atmospheric    | Easier     |      |       |  5:00 | <a href="https://open.spotify.com/track/1kfdzVK4npK6QNZdwlZoku?si=628cfb58a0354d50" target="_blank">Spotify</a>
+| Beethoven Sonata Op.27 No.2 Mov. 1 ("Moonlight Sonata") | Melancholic    | Easier     |      |       |  5:25 | <a href="https://open.spotify.com/track/1UNzT19U7L0sC6d03L7MwT?si=0bf09cebe7a24dfe" target="_blank">Spotify</a>
+| Chopin Prelude Op. 28, No. 4                            | Melancholic    | Easier     |      |       |  2:45 | <a href="https://open.spotify.com/track/3XwL5sEvTzT6yzlFFsQCEl?si=a2714069d3fd4c71" target="_blank">Spotify</a>
+| Chopin Prelude Op. 28, No. 17                           | Easy listening | Medium     | 👍   |       |  3:20 | <a href="https://open.spotify.com/track/31RR1orCjQp0nrl3bOHrZL?si=efacf06c03ec49ab" target="_blank">Spotify</a>
+| Chopin Etude Op. 10, No. 3 in E ("Tristesse")           | Atmospheric    | Medium     |      |       |  4:30 | <a href="https://www.youtube.com/watch?v=efUpNxQPLMU" target="_blank">YouTube</a>
+| Chopin Nocturne Op. 32, No. 2                           | Atmospheric    | Medium     |      |       |  7:00 | <a href="https://www.youtube.com/watch?v=my5OSmQZjns" target="_blank">YouTube</a>
+| Chopin Nocturne Op. 9, No. 3                            | Atmospheric    | Medium     |      | 10    |  7:00 | <a href="https://www.youtube.com/watch?v=O3Apq41rrFc" target="_blank">YouTube</a>
+| Debussy Rêverie                                         | Atmospheric    | Medium     |      |       |  5:00 | <a href="https://www.youtube.com/watch?v=3cYMvB3rgzQ" target="_blank">YouTube</a>
+| Schubert/Liszt Ave Maria                                | Atmospheric    | Medium     | 💔   |       |  5:00 | <a href="https://www.youtube.com/watch?v=RCucnn-95nY" target="_blank">YouTube</a><br/><a href="https://open.spotify.com/track/2GeAvEElKwEgy4PA13SGvH?si=81b468e082f54ed6" target="_blank">Spotify</a>
+| Chopin Prelude Op. 45                                   | Melancholic    | Medium     |      |       |  5:45 | <a href="https://open.spotify.com/track/7MBnLWnRoUCRTl57d2pn47?si=43be25c851384df9" target="_blank">Spotify</a>
+| Chopin Mazurka Op. 41, No. 1                            | Melancholic    | Medium     |      |       |  2:30 | <a href="https://www.youtube.com/watch?v=rr4_MijijFk" target="_blank">YouTube</a>
+| Chopin Grand Polonaise Brillante Op. 22                 | Easy listening | Hard       |      |       |  9:00 | <a href="https://www.youtube.com/watch?v=IDmCkUMO9f4" target="_blank">YouTube</a>
+| Chopin Etude Op. 25, No. 1 ("Harp Study")               | Atmospheric    | Hard       |      |       |  2:00 | <a href="https://www.youtube.com/watch?v=OKokquds2_M" target="_blank">YouTube</a>
+| Liszt Liebestraum No. 3                                 | Atmospheric    | Hard       | ❤   |       |  4:30 | <a href="https://www.youtube.com/watch?v=FNu3bkFi_IY" target="_blank">YouTube</a>
+| Chopin Etude Op. 25, No. 12 ("Ocean")                   | Heavy          | Hard       |      |       |  2:30 | <a href="https://www.youtube.com/watch?v=pRlHKQXjzZY" target="_blank">YouTube</a>
+| Chopin Scherzo Op. 31, No. 2                            | Heavy          | Hard       |      |       | 10:00 | <a href="https://www.youtube.com/watch?v=OCUSalQf-jY" target="_blank">YouTube</a>
+| Chopin Polonaise in E flat minor Op.26, No.2            | Heavy          | Hard       | 💔   |       |  8:00 | <a href="https://www.youtube.com/watch?v=GLElxJ_tdW0" target="_blank">YouTube</a><br/><a href="https://www.youtube.com/watch?v=LsBKfIB8HOk" target="_blank">YouTube, Anastasia Huppmann</a>
+| ~ Beethoven Sonata Pathétique Opus. 13 Mov 1            | Heavy          | Hard       |      |       |  8:30 | <a href="https://www.youtube.com/watch?v=XuldgIR02dY" target="_blank">YouTube</a>
+| ~ Chopin Etude Op. 25, No. 11 ("Winter Wind")           | Heavy          | Hard       |      |       |  4:00 | <a href="https://www.youtube.com/watch?v=gZjdAWgjLx8" target="_blank">YouTube</a>
+| ~ Chopin Ballade I                                      | Heavy          | Hard       |      |       |  9:45 | <a href="https://www.youtube.com/watch?v=Zj_psrTUW_w" target="_blank">YouTube</a>
+| ~ Chopin Ballade Ⅲ                                     | Heavy          | Hard       |      |       |  7:00 | <a href="https://www.youtube.com/watch?v=BkPLDoZXlHQ" target="_blank">YouTube</a>
+| ~ Chopin Ballade Ⅳ                                     | Heavy          | Hard       |      |       | 11:30| <a href="https://www.youtube.com/watch?v=3F5glYefwio" target="_blank">YouTube</a>
 | ~ [Chopin Mazurkas](chopin-mazurka-selection.md)        | 
 
 May Once Have Played
