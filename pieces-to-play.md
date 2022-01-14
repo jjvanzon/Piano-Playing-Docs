@@ -71,9 +71,9 @@ Pieces to Play
 | Chopin Waltz Op. 70, No. 3                                  | Easy listening | Medium | 🆗  |       | 3:00 | [YouTube, Paul Barton](https://www.youtube.com/watch?v=lK2w9x_2DcM)
 | Chopin Nocturne Op. post., BI 49                            | Melancholic    | Medium | 👍   |      | 4:30 | [YouTube, Rousseau](https://www.youtube.com/watch?v=DqpPRj6UZqc)
 | Chopin Nocturne Op. 37, No. 1                               | Atmospheric    | Medium | 🆗   |      | 7:00 | [YouTube, Yoonie Han](https://www.youtube.com/watch?v=uiDtZHdwIpc)
-| Bartok Rumänische Volkstänze: Der Tanz mit dem Stabe
-| Bartok Rumänische Volkstänze: Brâul
-| Bartok Rumänische Volkstänze: Der Stampfer
+| Bartok Rumänische Volkstänze: Der Tanz mit dem Stabe        | Atmospheric    | Medium | 👍   |      | 1:10 | [YouTube, Das Ohrwürmchen](https://www.youtube.com/watch?v=ClMik2Bf8SY)
+| Bartok Rumänische Volkstänze: Brâul                         | Atmospheric    | Medium | 🆗   |      | 0:30 | [YouTube, Mario Fernandez](https://www.youtube.com/watch?v=Ax89RBLoo7g)
+| Bartok Rumänische Volkstänze: Der Stampfer                  | Atmospheric    | Easier | 👍   |       | 1:15 | [YouTube, Ipek Bozkurt](https://www.youtube.com/watch?v=Mn1F67ndic0)
 | Bartok Rumänische Volkstänze: Tanz aus Butschum
 | Mozart Sonata in C, Allegro (part 1), KV 279 (189d)
 | Mozart Sonata "Facile" in C major part 2 (KV 545)
