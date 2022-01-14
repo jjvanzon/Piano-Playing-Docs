@@ -1,5 +1,5 @@
 theme: jekyll-theme-midnight
-title: JJ van Zon's Piano Playing Docs
+title: JJ's Piano Playing Docs
 description: Sharing documents I make while practicing the piano.
 plugins:
   - jekyll-relative-links
