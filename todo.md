@@ -33,8 +33,8 @@ More specific TODO lists may be in other documents.
 - [ ] No home link, like clicking on the logo.
     - [x] Back buttons instead
     - [x] Like `<a href="./">back<a>`
-    - [x] Or [back](./) in a document
-    - [x] And [back](..) in a folder or README.md.
+    - [x] Or `[back](./)` in a document
+    - [x] And `[back](..)` in a folder or README.md.
     - [x] Adding everywhere.
     - [x] Testing
 - [x] "(MarkDown)" with a link does not seem to mean much on the GitHub Pages. Perhaps leave it call it "Web Page" instead.
