@@ -5,16 +5,16 @@ Pieces to Play
 
 [back](./)
 
-(Links to performances are not me.)
+A list of pieces I play / have played / would like to play. Links to performances are not me. Some data are just guesses or opinion.
 
 Studying
 --------
 
 | Name                                              | Mood           | Difficulty | Nice | Pages | Durat | Media
 |---------------------------------------------------|----------------|------------|:----:|:-----:|------:|------
-| Chopin Ballade Ⅱ                                  | Heavy          | Hard       | 👍   | 9     | 7:30  | <a href="https://open.spotify.com/track/6sNr7Fr9JTnK2lbRGd9Jem?si=6a45287bbca24c1a" target="_blank">Spotify, Yundi</a>
-| Chopin Mazurka Op. 24, No. 2                      | Easy listening | Medium     | 👍   | 4     | 2:15  | <a href="https://open.spotify.com/track/7CWKqmNX02HdI6C7i1naOb?si=d0328f7a6ff14755" target="_blank">Spotify, Idil Biret</a>
-| Debussy Arabesque Ⅰ                               | Atmospheric    | Medium     | 👍   | 5     | 6:00  | <a href="https://open.spotify.com/track/3jN9cfOSZtfDQLhmaOcNt8?si=a47ae324b5ec4060" target="_blank">Spotify, Axel Gillison</a>
+| Chopin Ballade Ⅱ                                  | Heavy          | Hard       | 👍   | 9     | 7:30  | <a href="https://open.spotify.com/track/6sNr7Fr9JTnK2lbRGd9Jem?si=6a45287bbca24c1a" target="_blank">Spotify Yundi</a>
+| Chopin Mazurka Op. 24, No. 2                      | Easy listening | Medium     | 👍   | 4     | 2:15  | <a href="https://open.spotify.com/track/7CWKqmNX02HdI6C7i1naOb?si=d0328f7a6ff14755" target="_blank">Spotify Idil Biret</a>
+| Debussy Arabesque Ⅰ                               | Atmospheric    | Medium     | 👍   | 5     | 6:00  | <a href="https://open.spotify.com/track/3jN9cfOSZtfDQLhmaOcNt8?si=a47ae324b5ec4060" target="_blank">Spotify Axel Gillison</a>
 | Mozart Sonata "Facile" in C major part 1 (KV 545) | Easy listening | Medium     | 👍   | 5     | 5:20 | <a href="https://www.youtube.com/watch?v=qjk-YRuQZDE" target="_blank">YouTube Rousseau</a>
 
 Might Like to Play
@@ -22,12 +22,12 @@ Might Like to Play
 
 | Name                                                    | Mood           | Difficulty | Nice | Pages | Durat | Media 
 |---------------------------------------------------------|----------------|------------|:----:|:-----:|------:|-----
-| Brahms Waltz Op. 39, No. 15 in A flat major             | Easy listening | Easier     |      |       |  1:30 | <a href="https://open.spotify.com/track/7ouW02587AzIaGnK0gh8St?si=b243a945bfee45f6" target="_blank">Spotify</a>
-| Bach Prelude in C Major, BWV 846                        | Atmospheric    | Easier     |      |       |  2:20 | <a href="https://open.spotify.com/track/4N7Bd7LlQtWuI1AVhmpbgn?si=2e371200ebad46e3" target="_blank">Spotify</a>
-| Beethoven Sonata Pathétique Opus. 13 Mov 2              | Atmospheric    | Easier     |      |       |  5:00 | <a href="https://open.spotify.com/track/1kfdzVK4npK6QNZdwlZoku?si=628cfb58a0354d50" target="_blank">Spotify</a>
-| Beethoven Sonata Op.27 No.2 Mov. 1 ("Moonlight Sonata") | Melancholic    | Easier     |      |       |  5:25 | <a href="https://open.spotify.com/track/1UNzT19U7L0sC6d03L7MwT?si=0bf09cebe7a24dfe" target="_blank">Spotify</a>
-| Chopin Prelude Op. 28, No. 4                            | Melancholic    | Easier     |      |       |  2:45 | <a href="https://open.spotify.com/track/3XwL5sEvTzT6yzlFFsQCEl?si=a2714069d3fd4c71" target="_blank">Spotify</a>
-| Chopin Prelude Op. 28, No. 17                           | Easy listening | Medium     | 👍   |       |  3:20 | <a href="https://open.spotify.com/track/31RR1orCjQp0nrl3bOHrZL?si=efacf06c03ec49ab" target="_blank">Spotify</a>
+| Brahms Waltz Op. 39, No. 15 in A flat major             | Easy listening | Easier     |      |       |  1:30 | <a href="https://open.spotify.com/track/7ouW02587AzIaGnK0gh8St?si=b243a945bfee45f6" target="_blank">Spotify Idil Biret</a>
+| Bach Prelude in C Major, BWV 846                        | Atmospheric    | Easier     |      |       |  2:20 | <a href="https://open.spotify.com/track/4N7Bd7LlQtWuI1AVhmpbgn?si=2e371200ebad46e3" target="_blank">Spotify Hélène Grimaud</a>
+| Beethoven Sonata Pathétique Opus. 13 Mov 2              | Atmospheric    | Easier     |      |       |  5:00 | <a href="https://open.spotify.com/track/1kfdzVK4npK6QNZdwlZoku?si=628cfb58a0354d50" target="_blank">Spotify Valentina Lisitsa</a>
+| Beethoven Sonata Op.27 No.2 Mov. 1 ("Moonlight Sonata") | Melancholic    | Easier     |      |       |  5:25 | <a href="https://open.spotify.com/track/1UNzT19U7L0sC6d03L7MwT?si=0bf09cebe7a24dfe" target="_blank">Spotify Hélène Grimaud</a>
+| Chopin Prelude Op. 28, No. 4                            | Melancholic    | Easier     |      |       |  2:45 | <a href="https://open.spotify.com/track/3XwL5sEvTzT6yzlFFsQCEl?si=a2714069d3fd4c71" target="_blank">Spotify Khatia Buniatishvili</a>
+| Chopin Prelude Op. 28, No. 17                           | Easy listening | Medium     | 👍   |       |  3:20 | <a href="https://open.spotify.com/track/31RR1orCjQp0nrl3bOHrZL?si=efacf06c03ec49ab" target="_blank">Spotify Yundi</a>
 | Chopin Etude Op. 10, No. 3 in E ("Tristesse")           | Atmospheric    | Medium     |      |       |  4:30 | <a href="https://www.youtube.com/watch?v=efUpNxQPLMU" target="_blank">YouTube</a>
 | Chopin Nocturne Op. 32, No. 2                           | Atmospheric    | Medium     |      |       |  7:00 | <a href="https://www.youtube.com/watch?v=my5OSmQZjns" target="_blank">YouTube</a>
 | Chopin Nocturne Op. 9, No. 3                            | Atmospheric    | Medium     |      | 10    |  7:00 | <a href="https://www.youtube.com/watch?v=O3Apq41rrFc" target="_blank">YouTube</a>
@@ -37,7 +37,7 @@ Might Like to Play
 | Chopin Mazurka Op. 41, No. 1                            | Melancholic    | Medium     |      |       |  2:30 | <a href="https://www.youtube.com/watch?v=rr4_MijijFk" target="_blank">YouTube</a>
 | Chopin Grand Polonaise Brillante Op. 22                 | Easy listening | Hard       |      |       |  9:00 | <a href="https://www.youtube.com/watch?v=IDmCkUMO9f4" target="_blank">YouTube</a>
 | Chopin Etude Op. 25, No. 1 ("Harp Study")               | Atmospheric    | Hard       |      |       |  2:00 | <a href="https://www.youtube.com/watch?v=OKokquds2_M" target="_blank">YouTube</a>
-| Liszt Liebestraum No. 3                                 | Atmospheric    | Hard       | ❤   |       |  4:30 | <a href="https://www.youtube.com/watch?v=FNu3bkFi_IY" target="_blank">YouTube</a>
+| Liszt Liebestraum No. 3                                 | Atmospheric    | Hard       | 🧡   |       |  4:30 | <a href="https://www.youtube.com/watch?v=FNu3bkFi_IY" target="_blank">YouTube</a>
 | Chopin Etude Op. 25, No. 12 ("Ocean")                   | Heavy          | Hard       |      |       |  2:30 | <a href="https://www.youtube.com/watch?v=pRlHKQXjzZY" target="_blank">YouTube</a>
 | Chopin Scherzo Op. 31, No. 2                            | Heavy          | Hard       |      |       | 10:00 | <a href="https://www.youtube.com/watch?v=OCUSalQf-jY" target="_blank">YouTube</a>
 | Chopin Polonaise in E flat minor Op.26, No.2            | Heavy          | Hard       | 💔   |       |  8:00 | <a href="https://www.youtube.com/watch?v=GLElxJ_tdW0" target="_blank">YouTube</a><br/><a href="https://www.youtube.com/watch?v=LsBKfIB8HOk" target="_blank">YouTube Anastasia Huppmann</a>
@@ -86,13 +86,13 @@ May Once Have Played
 | Chopin Mazurka Op. 6, No. 1                                 | Atmospheric    | Medium     | 👍   |       | 3:00 | <a href="https://www.youtube.com/watch?v=lv09_85GT6A" target="_blank">YouTube Arsenii Mun</a>
 | Chopin Mazurka Op. 6, No. 2                                 | Atmospheric    | Medium     | 🆗   |       | 2:15 | <a href="https://www.youtube.com/watch?v=zm2SG1uqHx4" target="_blank">YouTube Joel Ross</a>
 | Chopin Mazurka Op. 6, No. 3                                 | Easy listening | Medium     |      |       | 2:00 | <a href="https://www.youtube.com/watch?v=hpkQh5nUCvg" target="_blank">YouTube Piantho</a>
-| Chopin Nocturne Op. 27, No. 1
-| Chopin Nocturne Op. 15, No. 2
-| Chopin Fantaisie Impromptu
-| Debussy Clair de Lune
-| Brahms Intermezzo 118.2
-| Bach Invention No. 13
-| Bach Invention No. 8
+| Chopin Nocturne Op. 27, No. 1                               | Melancholic    | Hard       | 🧡   |       | 5:30 | <a href="https://www.youtube.com/watch?v=b3NUBDxlijc" target="_blank">YouTube Garrick Ohlsson</a>
+| Chopin Nocturne Op. 15, No. 2                               | Atmospheric    | Medium     |      |       | 4:00 | <a href="https://www.youtube.com/watch?v=5imxGRV0qoQ" target="_blank">YouTube Garrick Ohlsson</a>
+| Chopin Fantaisie Impromptu                                  | Atmospheric    | Hard       |      |       | 5:00 | <a href="https://www.youtube.com/watch?v=qdqC4ZPlwA8" target="_blank">YouTube Pavel Kolesnikov</a>
+| Debussy Clair de Lune                                       | Atmospheric    | Medium     |      |       | 6:45 | <a href="https://www.youtube.com/watch?v=fZrm9h3JRGs" target="_blank">YouTube Lang Lang<a>
+| Brahms Intermezzo 118.2                                     | Atmospheric    | Medium     |      |       | 6:20 | <a href="https://www.youtube.com/watch?v=7Wo4IPNMzWQ" target="_blank">YouTube Arthur Jussen<a>
+| Bach Invention No. 13                                       | Atmospheric    | Hard       |      |       | 1:00 | <a href="https://www.youtube.com/watch?v=mXBQ57em24A" target="_blank">YouTube Marcin Dąbrowski</a>
+| Bach Invention No. 8                                        | Easy listening | Hard       |      |       | 1:15 | <a href="https://www.youtube.com/watch?v=Zx1ytT5D5b4" target="_blank">YouTube Marcin Dąbrowski</a>
 | Walter Carroll "Forest Fantasies" (specify songs...)
 | Duvernois (specify songs...)
 | Burgmüller (specify songs...)
