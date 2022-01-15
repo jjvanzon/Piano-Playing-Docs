@@ -1,5 +1,8 @@
 
+![](resources/photo-jjs-piano-laptop-sheet-music-analysis-wide.jpg)
+<!--
 <img src="resources/photo-jjs-piano-laptop-sheet-music-analysis-wide.jpg" height="400" />
+-->
 
 
 Introduction
