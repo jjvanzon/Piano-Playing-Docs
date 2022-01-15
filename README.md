@@ -1,3 +1,7 @@
+
+<img src="resources/photo-jjs-piano-laptop-sheet-music-analysis-wide.jpg" height="400" />
+
+
 Introduction
 ============
 
@@ -47,11 +51,11 @@ Contents
 
 - [Nord Piano 4](nord-piano-4)
 
-    - Lists some of my favorite sounds for my Nord Piano 4 digital piano. Also has planning notes about how I worked on it.
+    - Lists some of my favorite sounds for my Nord Piano 4 digital piano. Also has planning notes about how I worked on selecting them.
 
 - [TODO](todo.md)
 
-    - Perhaps some rough plans about what I would like to do.
+    - Perhaps some rough plans about what I might like to do next.
 
 - [Links](links.md)
 
@@ -59,7 +63,7 @@ Contents
 
 - [Resources](resources)
 
-    - Characters and symbols that might be a helpful aid for music notes and analyses.
+    - Pictures and also characters and symbols that might be a helpful aid for music notes and analyses.
 
 - [Archive](archive)
 

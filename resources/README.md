@@ -10,8 +10,20 @@ Resources
 - [Sharp Symbol](sharp-symbol.png)
 - [Natural Symbol](natural-symbol.png)
 
-Previews for Social Media
--------------------------
+Images
+------
+
+### [Photo JJ's Piano Laptop Sheet Music Analysis](photo-jjs-piano-laptop-sheet-music-analysis.jpg)
+
+![Photo JJ's Piano Laptop Sheet Music Analysis](photo-jjs-piano-laptop-sheet-music-analysis.jpg)
+
+### [Photo JJ's Piano Laptop Sheet Music Analysis Cropped](photo-jjs-piano-laptop-sheet-music-analysis-cropped.jpg)
+
+![Photo JJ's Piano Laptop Sheet Music Analysis Cropped](photo-jjs-piano-laptop-sheet-music-analysis-cropped.jpg)
+
+### [Photo JJ's Piano Laptop Sheet Music Analysis Wide](photo-jjs-piano-laptop-sheet-music-analysis-wide.jpg)
+
+![Photo JJ's Piano Laptop Sheet Music Analysis Wide](photo-jjs-piano-laptop-sheet-music-analysis-wide.jpg)
 
 ### [Preview Piano Motion Symbols, Arm Motion Pictures](preview-piano-motion-symbols-arm-motion-pictures.png)
 
