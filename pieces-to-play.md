@@ -79,13 +79,13 @@ May Once Have Played
 | Bartok Rumänische Volkstänze: Tanz aus Butschum             | Atmospheric    | Easier     |      |       | 0:40 | <a href="https://www.youtube.com/watch?v=2BkHdWTM2Vg" target="_blank">YouTube Konrad Roman Salwa</a>
 | Mozart Sonata in C, Allegro (part 1), KV 279 (189d)         | Easy listening | Medium     |      |       | 7:00 | <a href="https://www.youtube.com/watch?v=_8BZNgm3Zys" target="_blank">YouTube Poudredepapier</a>
 | Mozart Sonata "Facile" in C major part 2 (KV 545)           | Atmospheric    | Medium     |      |       | 6:30 | <a href="https://www.youtube.com/watch?v=Gj4LjyTOmD0" target="_blank">YouTube Mitsuko Uchida</a>
-| Mozart Sonata "Facile" in C major part 3 (KV 545)
-| Chopin Prelude 6, lento assai in B minor
-| Chopin Sonata Ⅱ Op. 35 Part 3 "Funeral March"
-| Chopin Nocturne Op. post.72., No. 1
-| Chopin Mazurka Op. 6, No. 1
-| Chopin Mazurka Op. 6, No. 2
-| Chopin Mazurka Op. 6, No. 3
+| Mozart Sonata "Facile" in C major part 3 (KV 545)           | Easy listening | Medium     |      |       | 2:00 | <a href="https://www.youtube.com/watch?v=3LQT_1eEr6s" target="_blank">YouTube Mitsuko Uchida</a>
+| Chopin Prelude 6, lento assai in B minor                    | Melancholic    | Medium     |      |       | 2:30 | <a href="https://www.youtube.com/watch?v=_FiZ5zvAITs" target="_blank">YouTube Rousseau</a>
+| Chopin Sonata Ⅱ Op. 35 Part 3 "Funeral March"               | Melancholic    | Medium     |      |       | 9:10 | <a href="https://www.youtube.com/watch?v=7-9wXQpzESo" target="_blank">YouTube Rousseau</a>
+| Chopin Nocturne Op. post.72., No. 1                         | Melancholic    | Medium     | 💔   |       | 4:00 | <a href="https://www.youtube.com/watch?v=Wx0jkZdQwN8" target="_blank">YouTube Takagi Ryoma</a>
+| Chopin Mazurka Op. 6, No. 1                                 | Atmospheric    | Medium     | 👍   |       | 3:00 | <a href="https://www.youtube.com/watch?v=lv09_85GT6A" target="_blank">YouTube Arsenii Mun</a>
+| Chopin Mazurka Op. 6, No. 2                                 | Atmospheric    | Medium     | 🆗   |       | 2:15 | <a href="https://www.youtube.com/watch?v=zm2SG1uqHx4" target="_blank">YouTube Joel Ross</a>
+| Chopin Mazurka Op. 6, No. 3                                 | Easy listening | Medium     |      |       | 2:00 | <a href="https://www.youtube.com/watch?v=hpkQh5nUCvg" target="_blank">YouTube Piantho</a>
 | Chopin Nocturne Op. 27, No. 1
 | Chopin Nocturne Op. 15, No. 2
 | Chopin Fantaisie Impromptu
