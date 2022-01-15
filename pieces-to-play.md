@@ -103,11 +103,11 @@ May Once Have Played
 | ~ Burgmüller Etude "Discomfort" Op. 100, No. 18             | Melancholic    | Easier     |      |   1   | 1:00 | <a href="https://www.youtube.com/watch?v=jJF6mTlrLz4" target="_blank">YouTube Cory Hall</a>
 | ~ Burgmüller Etude "The Swallow" Op. 100, No. 24            | Easy listening | Easier     |      |   2   | 1:00 | <a href="https://www.youtube.com/watch?v=Jeg0VE2MwsE" target="_blank">YouTube Cory Hall</a>
 | Duvernoy Op. 176, No. 1                                     | Easy listening | Easier     |      |   1   | 0:50 | <a href="https://www.youtube.com/watch?v=_oUNZ8oZEUg" target="_blank">YouTube Celia Tsai</a>
-| Duvernoy Op. 176, No. 2                                     | Easy listening | Easier     |      |   1   | 0:50 | <a href="https://www.youtube.com/watch?v=W1lCsNExHOs" target="_blank">YouTube Celia Tsai</a>
+| Duvernoy Op. 176, No. 2                                     | Atmospheric    | Easier     |      |   1   | 0:50 | <a href="https://www.youtube.com/watch?v=W1lCsNExHOs" target="_blank">YouTube Celia Tsai</a>
 | Duvernoy Op. 176, No. 3                                     | Easy listening | Easier     |      |   1   | 0:50 | <a href="https://www.youtube.com/watch?v=qvCfVPvPo4M" target="_blank">YouTube Celia Tsai</a>
-| Duvernoy Op. 176, No. 4                                     | Easy listening | Easier     |      |   1+  | 0:50 | <a href="https://www.youtube.com/watch?v=GdipONC1tI4" target="_blank">YouTube Celia Tsai</a>
+| Duvernoy Op. 176, No. 4                                     | Atmospheric    | Easier     |      |   1+  | 0:50 | <a href="https://www.youtube.com/watch?v=GdipONC1tI4" target="_blank">YouTube Celia Tsai</a>
 | Duvernoy Op. 176, No. 5                                     | Easy listening | Easier     |      |   1-  | 0:30 | <a href="https://www.youtube.com/watch?v=bFRtvnPjX8k" target="_blank">YouTube Celia Tsai</a>
-| Duvernoy Op. 176, No. 6                                     | Easy listening | Easier     |      |   1-  | 0:40 | <a href="https://www.youtube.com/watch?v=gfQFLrDQQdU" target="_blank">YouTube Celia Tsai</a>
+| Duvernoy Op. 176, No. 6                                     | Atmospheric    | Easier     |      |   1-  | 0:40 | <a href="https://www.youtube.com/watch?v=gfQFLrDQQdU" target="_blank">YouTube Celia Tsai</a>
 | Duvernoy Op. 176, No. 7                                     | Easy listening | Easier     |      |   1½  | 1:15 | <a href="https://www.youtube.com/watch?v=SrPktSRuotg" target="_blank">YouTube Celia Tsai</a>
 | Duvernoy Op. 176, No. 8                                     | Easy listening | Easier     |      |   1   | 1:15 | <a href="https://www.youtube.com/watch?v=HW4rUkzs1Wk" target="_blank">YouTube Celia Tsai</a>
 | Duvernoy Op. 176, No. 9                                     | Easy listening | Easier     |      |   1   | 0:35 | <a href="https://www.youtube.com/watch?v=kjgbwIOiStY" target="_blank">YouTube Celia Tsai</a>
