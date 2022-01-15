@@ -90,9 +90,18 @@ May Once Have Played
 | Chopin Fantaisie Impromptu                                  | Atmospheric    | Hard       |      |       | 5:00 | <a href="https://www.youtube.com/watch?v=qdqC4ZPlwA8" target="_blank">YouTube Pavel Kolesnikov</a>
 | Debussy Clair de Lune                                       | Atmospheric    | Medium     |      |       | 6:45 | <a href="https://www.youtube.com/watch?v=fZrm9h3JRGs" target="_blank">YouTube Lang Lang<a>
 | Brahms Intermezzo 118.2                                     | Atmospheric    | Medium     |      |       | 6:20 | <a href="https://www.youtube.com/watch?v=7Wo4IPNMzWQ" target="_blank">YouTube Arthur Jussen<a>
-| Bach Invention No. 13                                       | Atmospheric    | Hard       |      |       | 1:00 | <a href="https://www.youtube.com/watch?v=mXBQ57em24A" target="_blank">YouTube Marcin Dąbrowski</a>
-| Bach Invention No. 8                                        | Easy listening | Hard       |      |       | 1:15 | <a href="https://www.youtube.com/watch?v=Zx1ytT5D5b4" target="_blank">YouTube Marcin Dąbrowski</a>
+| Bach Invention No. 8                                        | Easy listening | Hard       |      |   2   | 1:15 | <a href="https://www.youtube.com/watch?v=Zx1ytT5D5b4" target="_blank">YouTube Marcin Dąbrowski</a>
+| Bach Invention No. 13                                       | Atmospheric    | Hard       |      |   2   | 1:00 | <a href="https://www.youtube.com/watch?v=mXBQ57em24A" target="_blank">YouTube Marcin Dąbrowski</a>
+| Burgmüller Etude Op. 100, No. 1 "La Candeur"                | Easy listening | Easier     |      |   1   | 1:30 | <a href="https://www.youtube.com/watch?v=0CatFeRJ1gg" target="_blank">YouTube Cory Hall</a>
+| Burgmüller Etude Op. 100, No. 2 "Arabesque"                 | Atmospheric    | Easier     |      |   1   | 1:00 | <a href="https://www.youtube.com/watch?v=RXs6qoLCuiw" target="_blank">YouTube Cory Hall</a>
+| Burgmüller Etude Op. 100, No. 4 "The Little Party"          | Easy listening | Easier     |      |   1   | 1:30 | <a href="https://www.youtube.com/watch?v=VnH4b-eYQDc" target="_blank">YouTube Cory Hall</a>
+| Burgmüller Etude Op. 100, No. 5 "Innocence"                 | Atmospheric    | Easier     |      |   1   | 1:00 | <a href="https://www.youtube.com/watch?v=xABePGOK_Ag" target="_blank">YouTube Cory Hall</a>
+| Burgmüller Etude Op. 100, No. 6 "Progress"                  | Easy listening | Easier     |      |   1   | 1:00 | <a href="https://www.youtube.com/watch?v=EY5nAmC0QW8" target="_blank">YouTube Cory Hall</a>
+| Burgmüller Etude Op. 100, No. 11 "The Wagtail"              | Easy listening | Easier     |      |   1   | 1:00 | <a href="https://www.youtube.com/watch?v=vbglL3Uj1OA" target="_blank">YouTube Cory Hall</a>
+| Burgmüller Etude Op. 100, No. 12 "Farewell"                 | Melancholic    | Easier     |      |   2   | 1:00 | <a href="https://www.youtube.com/watch?v=B1QnC7RVJyw" target="_blank">YouTube Cory Hall</a>
+| Burgmüller Etude Op. 100, No. 15 "Ballade"                  | Heavy          | Easier     |      |   2   | 1:30 | <a href="https://www.youtube.com/watch?v=H_ULVnp5mt0" target="_blank">YouTube Cory Hall</a>
+| ~ Burgmüller Etude Op. 100, No. 18 "Discomfort"             | Melancholic    | Easier     |      |   1   | 1:00 | <a href="https://www.youtube.com/watch?v=jJF6mTlrLz4" target="_blank">YouTube Cory Hall</a>
+| ~ Burgmüller Etude Op. 100, No. 24 "The Swallow"            | Easy listening | Easier     |      |   2   | 1:00 | <a href="https://www.youtube.com/watch?v=Jeg0VE2MwsE" target="_blank">YouTube Cory Hall</a>
 | Walter Carroll "Forest Fantasies" (specify songs...)
 | Duvernois (specify songs...)
-| Burgmüller (specify songs...)
 | Czerny (specify which...)
