@@ -92,16 +92,25 @@ May Once Have Played
 | Brahms Intermezzo 118.2                                     | Atmospheric    | Medium     |      |       | 6:20 | <a href="https://www.youtube.com/watch?v=7Wo4IPNMzWQ" target="_blank">YouTube Arthur Jussen<a>
 | Bach Invention No. 8                                        | Easy listening | Hard       |      |   2   | 1:15 | <a href="https://www.youtube.com/watch?v=Zx1ytT5D5b4" target="_blank">YouTube Marcin Dąbrowski</a>
 | Bach Invention No. 13                                       | Atmospheric    | Hard       |      |   2   | 1:00 | <a href="https://www.youtube.com/watch?v=mXBQ57em24A" target="_blank">YouTube Marcin Dąbrowski</a>
-| Burgmüller Etude Op. 100, No. 1 "La Candeur"                | Easy listening | Easier     |      |   1   | 1:30 | <a href="https://www.youtube.com/watch?v=0CatFeRJ1gg" target="_blank">YouTube Cory Hall</a>
-| Burgmüller Etude Op. 100, No. 2 "Arabesque"                 | Atmospheric    | Easier     |      |   1   | 1:00 | <a href="https://www.youtube.com/watch?v=RXs6qoLCuiw" target="_blank">YouTube Cory Hall</a>
-| Burgmüller Etude Op. 100, No. 4 "The Little Party"          | Easy listening | Easier     |      |   1   | 1:30 | <a href="https://www.youtube.com/watch?v=VnH4b-eYQDc" target="_blank">YouTube Cory Hall</a>
-| Burgmüller Etude Op. 100, No. 5 "Innocence"                 | Atmospheric    | Easier     |      |   1   | 1:00 | <a href="https://www.youtube.com/watch?v=xABePGOK_Ag" target="_blank">YouTube Cory Hall</a>
-| Burgmüller Etude Op. 100, No. 6 "Progress"                  | Easy listening | Easier     |      |   1   | 1:00 | <a href="https://www.youtube.com/watch?v=EY5nAmC0QW8" target="_blank">YouTube Cory Hall</a>
-| Burgmüller Etude Op. 100, No. 11 "The Wagtail"              | Easy listening | Easier     |      |   1   | 1:00 | <a href="https://www.youtube.com/watch?v=vbglL3Uj1OA" target="_blank">YouTube Cory Hall</a>
-| Burgmüller Etude Op. 100, No. 12 "Farewell"                 | Melancholic    | Easier     |      |   2   | 1:00 | <a href="https://www.youtube.com/watch?v=B1QnC7RVJyw" target="_blank">YouTube Cory Hall</a>
-| Burgmüller Etude Op. 100, No. 15 "Ballade"                  | Heavy          | Easier     |      |   2   | 1:30 | <a href="https://www.youtube.com/watch?v=H_ULVnp5mt0" target="_blank">YouTube Cory Hall</a>
-| ~ Burgmüller Etude Op. 100, No. 18 "Discomfort"             | Melancholic    | Easier     |      |   1   | 1:00 | <a href="https://www.youtube.com/watch?v=jJF6mTlrLz4" target="_blank">YouTube Cory Hall</a>
-| ~ Burgmüller Etude Op. 100, No. 24 "The Swallow"            | Easy listening | Easier     |      |   2   | 1:00 | <a href="https://www.youtube.com/watch?v=Jeg0VE2MwsE" target="_blank">YouTube Cory Hall</a>
+| Burgmüller Etude "La Candeur" Op. 100, No. 1                | Easy listening | Easier     |      |   1   | 1:30 | <a href="https://www.youtube.com/watch?v=0CatFeRJ1gg" target="_blank">YouTube Cory Hall</a>
+| Burgmüller Etude "Arabesque" Op. 100, No. 2                 | Atmospheric    | Easier     |      |   1   | 1:00 | <a href="https://www.youtube.com/watch?v=RXs6qoLCuiw" target="_blank">YouTube Cory Hall</a>
+| Burgmüller Etude "The Little Party" Op. 100, No. 4          | Easy listening | Easier     |      |   1   | 1:30 | <a href="https://www.youtube.com/watch?v=VnH4b-eYQDc" target="_blank">YouTube Cory Hall</a>
+| Burgmüller Etude "Innocence" Op. 100, No. 5                 | Atmospheric    | Easier     |      |   1   | 1:00 | <a href="https://www.youtube.com/watch?v=xABePGOK_Ag" target="_blank">YouTube Cory Hall</a>
+| Burgmüller Etude "Progress" Op. 100, No. 6                  | Easy listening | Easier     |      |   1   | 1:00 | <a href="https://www.youtube.com/watch?v=EY5nAmC0QW8" target="_blank">YouTube Cory Hall</a>
+| Burgmüller Etude "The Wagtail" Op. 100, No. 11              | Easy listening | Easier     |      |   1   | 1:00 | <a href="https://www.youtube.com/watch?v=vbglL3Uj1OA" target="_blank">YouTube Cory Hall</a>
+| Burgmüller Etude "Farewell" Op. 100, No. 12                 | Melancholic    | Easier     |      |   2   | 1:00 | <a href="https://www.youtube.com/watch?v=B1QnC7RVJyw" target="_blank">YouTube Cory Hall</a>
+| Burgmüller Etude "Ballade" Op. 100, No. 15                  | Heavy          | Easier     |      |   2   | 1:30 | <a href="https://www.youtube.com/watch?v=H_ULVnp5mt0" target="_blank">YouTube Cory Hall</a>
+| ~ Burgmüller Etude "Discomfort" Op. 100, No. 18             | Melancholic    | Easier     |      |   1   | 1:00 | <a href="https://www.youtube.com/watch?v=jJF6mTlrLz4" target="_blank">YouTube Cory Hall</a>
+| ~ Burgmüller Etude "The Swallow" Op. 100, No. 24            | Easy listening | Easier     |      |   2   | 1:00 | <a href="https://www.youtube.com/watch?v=Jeg0VE2MwsE" target="_blank">YouTube Cory Hall</a>
+| Duvernoy Op. 176, No. 1                                     | Easy listening | Easier     |      |   1   | 0:50 | <a href="https://www.youtube.com/watch?v=_oUNZ8oZEUg" target="_blank">YouTube Celia Tsai</a>
+| Duvernoy Op. 176, No. 2                                     | Easy listening | Easier     |      |   1   | 0:50 | <a href="https://www.youtube.com/watch?v=W1lCsNExHOs" target="_blank">YouTube Celia Tsai</a>
+| Duvernoy Op. 176, No. 3                                     | Easy listening | Easier     |      |   1   | 0:50 | <a href="https://www.youtube.com/watch?v=qvCfVPvPo4M" target="_blank">YouTube Celia Tsai</a>
+| Duvernoy Op. 176, No. 4                                     | Easy listening | Easier     |      |   1+  | 0:50 | <a href="https://www.youtube.com/watch?v=GdipONC1tI4" target="_blank">YouTube Celia Tsai</a>
+| Duvernoy Op. 176, No. 5                                     | Easy listening | Easier     |      |   1-  | 0:30 | <a href="https://www.youtube.com/watch?v=bFRtvnPjX8k" target="_blank">YouTube Celia Tsai</a>
+| Duvernoy Op. 176, No. 6                                     | Easy listening | Easier     |      |   1-  | 0:40 | <a href="https://www.youtube.com/watch?v=gfQFLrDQQdU" target="_blank">YouTube Celia Tsai</a>
+| Duvernoy Op. 176, No. 7                                     | Easy listening | Easier     |      |   1½  | 1:15 | <a href="https://www.youtube.com/watch?v=SrPktSRuotg" target="_blank">YouTube Celia Tsai</a>
+| Duvernoy Op. 176, No. 8                                     | Easy listening | Easier     |      |   1   | 1:15 | <a href="https://www.youtube.com/watch?v=HW4rUkzs1Wk" target="_blank">YouTube Celia Tsai</a>
+| Duvernoy Op. 176, No. 9                                     | Easy listening | Easier     |      |   1   | 0:35 | <a href="https://www.youtube.com/watch?v=kjgbwIOiStY" target="_blank">YouTube Celia Tsai</a>
+| Duvernoy Op. 176, No. 18                                    | Atmospheric    | Easier     |      |   2   | 1:15 | <a href="https://www.youtube.com/watch?v=LuygTDpV8RI" target="_blank">YouTube Celia Tsai</a>
 | Walter Carroll "Forest Fantasies" (specify songs...)
-| Duvernois (specify songs...)
 | Czerny (specify which...)
