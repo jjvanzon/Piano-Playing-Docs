@@ -8,7 +8,8 @@ Goals
 - My goal might not be to play the piano ***perfectly***, but more to be able 'to ***save myself*** out a situation'.
     - On any aspect: note reading / memorizing / technique / motor skills / expression / listening / performing.
     - Things may go wrong in any area, but it would be nice if I would have tools to get myself out of a pickle.
-- An intermediate goal could be to perform ***one piece*** moderately at a local ***get-together*** I have in mind.
+- An intermediate goal could be to perform ***one piece*** moderately 
+    - And doing it at a local ***get-together*** I have in mind.
 - Another intermediate goal might be to try and learn ***four classical piano pieces*** of different sorts and levels.
 - A futher goal might be to be able to fill an ***hour*** playing moderately entertaining classical piano music.
     - Along the same direction I would like to perform that hour of piano music at an ***event*** I have in mind.
@@ -24,7 +25,7 @@ Sub-Goals / Means
 - ***Technique:***
     - Studying ***motion*** of the ***body*** in detail.
     - Studying ***arpeggios*** and ***scales*** and such.
-    - Technique good enough to not just ***churn*** through a piece, but also ***feel well*** and have the ***control*** to add ***expression***.
+    - Technique good enough to not just ***churn*** through a piece, but also ***feeling well*** and having the ***control*** to add ***expression***.
 - ***Expression:***
     - Studying ***'color palette'*** of piano sound.
     - ***Respecting*** any note / chord / sound / way of playing as welcome.
@@ -38,7 +39,8 @@ Sub-Goals / Means
     - For reflection.
     - To put online, perhaps.
     - For entertainment purposes, hopefully.
-- ***Sharing*** most of the things I produce, including chords and simplified sheet music and other analyses, and possibly in the future recordings too.
+- ***Sharing***:
+    - Most of the things I produce I might put online, including chords and simplified sheet music and other analyses, and possibly in the future recordings too.
 
 Background
 ----------
