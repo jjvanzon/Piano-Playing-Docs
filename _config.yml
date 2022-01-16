@@ -3,10 +3,9 @@ title: JJ's Piano Playing Docs
 description: Sharing documents I make while practicing the piano.
 plugins:
   - jekyll-relative-links
+  - jekyll-sitemap
 relative_links:
   enabled: true
   collections: true
 include:
   - README.md
-
-  
