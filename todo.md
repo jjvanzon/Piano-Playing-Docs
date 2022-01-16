@@ -63,13 +63,18 @@ More specific TODO lists may be in other documents.
     - [ ] Trying "Neuratron AudioScore First" / "Avid Sibelius First"
 - [ ] __Technique:__
     - [ ] Rehearsing Barbara Lister-Sink suggestions.
-    - [ ] There may be more instructional videos from Barbara Lister-Sink:
+    - [ ] Barbara Lister-Sink Basic Stroke:
         - [ ] <a href="https://www.youtube.com/watch?v=OjSWu8ZADzI" target="_blank">Basic Stroke</a>
         - [ ] Might still want to summarize that and add to:
         - [ ] [Barbara Lister-Sink's "Freeing the Caged Bird" Videos Summary](methods/barbara-lister-sink-freeing-the-caged-bird-videos-summary.md)
         - [ ] <a href="https://www.lister-sinkinstitute.org/freeing-the-caged-bird-dvd/#1508990586220-02706448-751f" target="_blank">DVD Contents / Ordering
-        - [ ] <a href="https://www.lister-sinkinstitute.org/freeing-the-caged-bird-dvd/#1508992509585-4388e2b5-8df3" target="_blank">More Preview Videos
-        - [ ] I guess you'd really just have to buy the DVD.
+        - [ ] I guess you'd really just have to buy the DVD for the entire thing (+/- 2.5 hours)
+    - [ ] Lower arm tension:
+        - [ ] Tension in lower arm seems my pitfall.
+        - [ ] I have tension in lower arm seemingly regardless of posture.
+        - [ ] But of a few postures / motions seem to relieve the tension.
+        - [ ] Other postures cramp up my forearm.
+        - [ ] I would like to crack this puzzle.
     - [ ] Wire in the way: might not improve technique without replacing it
     - [ ] __Piano Motion Symbols idea__
         - [x] Considering Debussy Arabesque 1 motion annotations.
@@ -82,15 +87,23 @@ More specific TODO lists may be in other documents.
         - [x] Digitizing what I have.
         - [ ] __Systemizing more details.__
         - [ ] Considering left-over things in "Piano Technique Ideas" under "2021-11-27 Brainstorm Motion Notation".
+    - [ ] Burgmüller Etudes for technique.
+        - [ ] With those I show tension.
+        - [ ] Perhaps it can be used to practice technique regarding tension.
+        - [ ] But then in a slightly lighter setting.
 - [ ] Pieces to play:
     - [ ] Listing of pieces that I play / have played / would like to play.
     - [x] Using <a href="https://www.youtube.com/watch?v=PCx8Xcm9l7U&t=1099s" target="_blank">100 Songs You´ve Heard And Don´t Know The Name</a>
     - [x] Making links handier (HTML-style, open in separate tab).
-    - [ ] Using books in closet.
+    - [ ] __Using books in closet.__
     - [ ] Using books in attic.
     - [ ] Using spotify playlists.
     - [ ] Using MIDI recordings.
-    - [ ] __Adding links to media.__
+    - [ ] Media:
+        - [ ] Adding links to media.
+        - [ ] Would like the YouTube media to show hands.
+        - [ ] Would like the Spotify media to be nice to listen to.
+        - [ ] Perhaps make playlists eventually and link to them.
 - [ ] Learning a piece by ear.
 - [ ] [Nord Piano Sound Selections](nord-piano-4/nord-piano-4-sound-selection-notes.md)
     - [ ] Might become more relevant once I might improvise more.
