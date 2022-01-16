@@ -9,7 +9,7 @@ Goals
     - On any aspect: note reading / memorizing / technique / motor skills / expression / listening / performing.
     - Things may go wrong in any area, but it would be nice if I would have tools to get myself out of a pickle.
 - An intermediate goal could be to perform ***one piece*** moderately 
-    - And doing it at a local ***get-together*** I have in mind.
+    - And performing it at a local ***get-together*** I have in mind.
 - Another intermediate goal might be to try and learn ***four classical piano pieces*** of different sorts and levels.
 - A futher goal might be to be able to fill an ***hour*** playing moderately entertaining classical piano music.
     - Along the same direction I would like to perform that hour of piano music at an ***event*** I have in mind.
