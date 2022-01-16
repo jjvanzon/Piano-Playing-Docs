@@ -5,10 +5,10 @@ Chopin Ballade Ⅱ
 
 [back](..)
 
-- [Chopin Ballade Ⅱ Practice Schema](chopin-ballade-2-practice-schema.md)
+- [Practice Schema](chopin-ballade-2-practice-schema.md)
 
     - An overview scoring myself on different fragments and aspects of this piano piece while studying it.
 
-- [Chopin Ballade Ⅱ Phrase Structure](chopin-ballade-2-phrase-structure.md) `[Partial]`
+- [Phrase Structure](chopin-ballade-2-phrase-structure.md) `[Partial]`
 
     - A partially worked out phrase / repetition structure.
