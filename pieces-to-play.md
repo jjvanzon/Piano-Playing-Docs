@@ -125,10 +125,10 @@ May Once Have Played
 | Duvernoy Op. 176, No. 18                                          | Atmospheric    | Easier     |      |  2 pg | 1:15 | <a href="https://youtu.be/LuygTDpV8RI" target="_blank">YouTube Celia Tsai</a>
 | Czerny "School of Velocity" Op. 299 No. 1                         | Easy listening | Hard       |      | 1½ pg | 0:40 | <a href="https://youtu.be/eSnQfz9C-0E" target="_blank">YouTube Kawaz</a>
 | Czerny "School of Velocity" Op. 299 No. 2                         | Easy listening | Hard       |      | 1+ pg | 0:40 | <a href="https://youtu.be/GtW4bElQ6nU" target="_blank">YouTube Kawaz</a>
-| Czerny "School of Velocity" Op. 299 No. 3
-| Czerny "School of Velocity" Op. 299 No. 4
-| Czerny "School of Velocity" Op. 299 No. 5
-| Czerny "School of Velocity" Op. 299 No. 6
-| Czerny "School of Velocity" Op. 299 No. 7
-| Czerny "School of Velocity" Op. 299 No. 8
-| Czerny "School of Velocity" Op. 299 No. 11
+| Czerny "School of Velocity" Op. 299 No. 3                         | Easy listening | Hard       |      | 1½ pg | 0:45 | <a href="https://youtu.be/o2y2cDT_BdY" target="_blank">YouTube Kawaz</a>
+| Czerny "School of Velocity" Op. 299 No. 4                         | Easy listening | Hard       |      | 1½ pg | 0:35 | <a href="https://youtu.be/m8HPA0zJgdg" target="_blank">YouTube Kawaz</a>
+| Czerny "School of Velocity" Op. 299 No. 5                         | Easy listening | Hard       |      | 2½ pg | 1:30 | <a href="https://youtu.be/1OYz2_JqhzQ" target="_blank">YouTube Kawaz</a>
+| Czerny "School of Velocity" Op. 299 No. 6                         | Easy listening | Hard       |      |  2 pg | 1:00 | <a href="https://youtu.be/WCaGY9w8_-c" target="_blank">YouTube Kawaz</a>
+| Czerny "School of Velocity" Op. 299 No. 7                         | Easy listening | Hard       |      |  2 pg | 1:20 | <a href="https://youtu.be/tmf-e9dfNjo" target="_blank">YouTube Kawaz</a>
+| Czerny "School of Velocity" Op. 299 No. 8 (partly)                | Easy listening | Hard       |      |  4 pg | 1:40 | <a href="https://youtu.be/wI1h-7-IZ6I" target="_blank">YouTube Kawaz</a>
+| Czerny "School of Velocity" Op. 299 No. 11                        | Easy listening | Hard       |      |  2 pg | 1:00 | <a href="https://youtu.be/uMFhN4G2LAk" target="_blank">YouTube Kawaz</a>
