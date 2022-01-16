@@ -8,7 +8,7 @@ Goals
 - My goal might not be to play the piano ***perfectly***, but more to be able 'to ***save myself*** out a situation'.
     - On any aspect: note reading / memorizing / technique / motor skills / expression / listening / performing.
     - Things may go wrong in any area, but it would be nice if I would have tools to get myself out of a pickle.
-- An intermediate goal could be to perform ***one piece*** moderately 
+- An intermediate goal could be to learn to play ***one piece*** moderately.
     - And performing it at a local ***get-together*** I have in mind.
 - Another intermediate goal might be to try and learn ***four classical piano pieces*** of different sorts and levels.
 - A futher goal might be to be able to fill an ***hour*** playing moderately entertaining classical piano music.
@@ -35,7 +35,8 @@ Sub-Goals / Means
         - For better memorization.
         - To improvise myself out of a mistake.
         - To improvise for entertainment purposes.
-- ***Recording*** my playing:
+- ***Recording***:
+    - Might record my playing.
     - For reflection.
     - To put online, perhaps.
     - For entertainment purposes, hopefully.
