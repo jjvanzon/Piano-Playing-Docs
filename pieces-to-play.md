@@ -28,7 +28,7 @@ Might Like to Play
 | Beethoven Sonata Op.27 No.2 Mov. 1 ("Moonlight Sonata") | Melancholic    | Easier     |      |       |  5:25 | <a href="https://open.spotify.com/track/1UNzT19U7L0sC6d03L7MwT?si=0bf09cebe7a24dfe" target="_blank">Spotify Hélène Grimaud</a>
 | Chopin Prelude Op. 28, No. 4                            | Melancholic    | Easier     |      |       |  2:45 | <a href="https://open.spotify.com/track/3XwL5sEvTzT6yzlFFsQCEl?si=a2714069d3fd4c71" target="_blank">Spotify Khatia Buniatishvili</a>
 | Chopin Waltz BI 46                                      | Easy listening | Easier     | 👍   | 3 pg  |  2:40 | <a href="https://open.spotify.com/track/5GOZTE8cNUGdpmCJvcFR3P?si=b9ae7665e95a4df2" target="_blank">Spotify Abbey Simon</a>
-| `--------`                                              | `--------`     | `-----`    | `-`  | `--`  | `--`  | `--------`
+| `--------`                                              |                |            |      |       |       | `--------`
 | Chopin Prelude Op. 28, No. 17                           | Easy listening | Medium     | 👍   |       |  3:20 | <a href="https://open.spotify.com/track/31RR1orCjQp0nrl3bOHrZL?si=efacf06c03ec49ab" target="_blank">Spotify Yundi</a>
 | Chopin Etude Op. 10, No. 3 in E ("Tristesse")           | Atmospheric    | Medium     |      |       |  4:30 | <a href="https://youtu.be/efUpNxQPLMU" target="_blank">YouTube Mei-Ting Sun</a>
 | Chopin Nocturne Op. 32, No. 2                           | Atmospheric    | Medium     |      |       |  7:00 | <a href="https://youtu.be/my5OSmQZjns" target="_blank">YouTube Arthur Rubinstein</a>
@@ -37,7 +37,7 @@ Might Like to Play
 | Schubert/Liszt Ave Maria                                | Atmospheric    | Medium     | 💔   |       |  5:00 | <a href="https://youtu.be/RCucnn-95nY" target="_blank">YouTube Valentina Lisitsa</a><br/><a href="https://open.spotify.com/track/2GeAvEElKwEgy4PA13SGvH?si=81b468e082f54ed6" target="_blank">Spotify Idil Biret</a>
 | Chopin Prelude Op. 45                                   | Melancholic    | Medium     |      |       |  5:45 | <a href="https://open.spotify.com/track/7MBnLWnRoUCRTl57d2pn47?si=43be25c851384df9" target="_blank">Spotify Joaquín Achúcarro</a>
 | Chopin Mazurka Op. 41, No. 1                            | Melancholic    | Medium     |      |       |  2:30 | <a href="https://youtu.be/rr4_MijijFk" target="_blank">YouTube Arthur Greene</a>
-| `--------`                                              | `--------`     | `-----`    | `-`  | `--`  | `--`  | `--------`
+| `--------`                                              |                |            |      |       |       | `--------`
 | Chopin Grand Polonaise Brillante Op. 22                 | Easy listening | Hard       |      |       |  9:00 | <a href="https://youtu.be/IDmCkUMO9f4" target="_blank">YouTube Charles Richard-Hamelin</a>
 | Chopin Etude Op. 25, No. 1 ("Harp Study")               | Atmospheric    | Hard       |      |       |  2:00 | <a href="https://youtu.be/OKokquds2_M" target="_blank">YouTube Totothoven</a>
 | Liszt Liebestraum No. 3                                 | Atmospheric    | Hard       | 🧡   |       |  4:30 | <a href="https://youtu.be/FNu3bkFi_IY" target="_blank">YouTube Piano Sandbox</a>
