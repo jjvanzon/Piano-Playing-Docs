@@ -12,7 +12,7 @@ Goals
     - And performing it at a local ***get-together*** I have in mind.
 - Another intermediate goal might be to try and learn ***four classical piano pieces*** of different sorts and levels.
 - A futher goal might be to be able to fill an ***hour*** playing moderately entertaining classical piano music.
-    - Along the same direction I would like to perform that hour of piano music at an ***event*** I have in mind.
+    - I might like to perform that hour of piano music at an ***event*** I have in mind.
 - Playing in a ***band*** might be a goal for the futher future, because that is not something I am likely to handle health-wise any time soon.
 
 Sub-Goals / Means
