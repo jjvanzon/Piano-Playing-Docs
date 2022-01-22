@@ -7,41 +7,6 @@ TODO
 
 More specific TODO lists may be in other documents.
 
-2022-01-13 TODO GitHub Pages
-----------------------------
-
-- [x] Googling "convert markdown github to web page" leads to <a href="https://dev.to/bolajiayodeji/how-to-convert-github-markdown-files-to-a-simple-website-4e14" target="_blank">How to convert GitHub Markdown files to a simple website</a>
-- [x] GitHub pages did not work yet. Waiting a while to see if it starts up automatically.
-- [x] Renaming root README to have lower case extension .md helped.
-- [x] Links to folders do not seem to work. Maybe also change the file extension to lower case for those readme's.
-- [x] Automatic links do not seem to work. Using the syntax `[Description](https:\\my-url)` may help.
-- [x] Link to Archive seemed to not work: [Piano Playing Docs](https://jjvanzon.github.io/Piano-Playing-Docs/). Adding a README.md to that folder helped.
-- [x] Perhaps adding name and date to articles, now that it is in web site form it may be useful. Or perhaps only the date or only the month or year.
-- [x] Horizontal lines:
-    - [x] Grid rows with only dashes in it seemed to not render.
-    - [x] Horizontal line `-----` seems interpreted as headings in bullet pointed lists.
-    - [x] `<br/><br/>` seems an alternative for horizontal space in lists.
-    - [x] `-----` formatted as inline code seems to help inside table rows.
-- [x] Table layout seems applied inappropriately when using `|` in a bullet point's text. Replaced with commas `,`.
-- [x] MarkDown (tables) nested in HTML tables showed the MarkDown literally inside the rendered page.
-    - [x] Trying a trick `<td markdown="1">` from <a href="https://stackoverflow.com/questions/15917463/embedding-markdown-in-jekyll-html" target="_blank">here</a> helped.
-- [x] Links that start with slash, seem to use the wrong base URL and makes links break
-    - [x] E.g. link to "/methods/practice-schema.md" does not seem to work.
-    - [x] ~~baseurl in _config.yml did not help.~~
-    - [x] ~~prefixing URL with {{ site.baseurl }} made link break in places other than GitHub Pages and GitHub pages would link to the .md instead of .html.~~
-    - [x] Using absolute paths to the GitHub pages html page instead as a work-around.
-- [ ] No home link, like clicking on the logo.
-    - [x] Back buttons instead
-    - [x] Like `<a href="./">back<a>`
-    - [x] Or `[back](./)` in a document
-    - [x] And `[back](..)` in a folder or README.md.
-    - [x] Adding everywhere.
-    - [x] Testing
-- [x] "(MarkDown)" with a link does not seem to mean much on the GitHub Pages. Perhaps leave it call it "Web Page" instead.
-- [x] Extra title "Piano Playing Docs" might be a bit redundant.
-- [x] External links to open in new tab using `<a>` tags.
-- [ ] More images at top of pages?
-
 2021-11-16 TODO
 ---------------
 
@@ -107,3 +72,35 @@ More specific TODO lists may be in other documents.
 - [ ] Learning a piece by ear.
 - [ ] [Nord Piano Sound Selections](nord-piano-4/nord-piano-4-sound-selection-notes.md)
     - [ ] Might become more relevant once I might improvise more.
+
+2022-01-13 Done GitHub Pages
+----------------------------
+
+- [x] Googling "convert markdown github to web page" leads to <a href="https://dev.to/bolajiayodeji/how-to-convert-github-markdown-files-to-a-simple-website-4e14" target="_blank">How to convert GitHub Markdown files to a simple website</a>
+- [x] GitHub pages did not work yet. Waiting a while to see if it starts up automatically.
+- [x] Renaming root README to have lower case extension .md helped.
+- [x] Links to folders do not seem to work. Maybe also changing the file extension to lower case for those readme's.
+- [x] Automatic links do not seem to work. Using the syntax `[Description](https:\\my-url)` may help.
+- [x] Link to Archive seemed to not work: [Piano Playing Docs](https://jjvanzon.github.io/Piano-Playing-Docs/). Adding a README.md to that folder helped.
+- [x] Perhaps adding author name and date to articles. It may be useful now that it is in web site form. Or perhaps only the date or only the month or year.
+- [x] Horizontal lines:
+    - [x] Grid rows with only dashes in it seemed to not render.
+    - [x] Horizontal line `-----` seems interpreted as headings in bullet pointed lists.
+    - [x] `<br/><br/>` seems an alternative for horizontal space in lists.
+    - [x] `-----` formatted as inline code seems to help inside table rows.
+- [x] Table layout seems applied inappropriately when using `|` in a bullet point's text. Replaced with commas `,`.
+- [x] MarkDown (tables) nested in HTML tables showed the MarkDown literally inside the rendered page.
+    - [x] Trying a trick `<td markdown="1">` from <a href="https://stackoverflow.com/questions/15917463/embedding-markdown-in-jekyll-html" target="_blank">here</a> helped.
+- [x] Links that start with slash, seem to use the wrong base URL and makes links break
+    - [x] E.g. link to "/methods/practice-schema.md" does not seem to work.
+    - [x] ~~baseurl in _config.yml did not help.~~
+    - [x] ~~prefixing URL with {{ site.baseurl }} made link break in places other than GitHub Pages and GitHub pages would link to the .md instead of .html.~~
+    - [x] Using absolute paths to the GitHub pages html page instead as a work-around.
+- [x] No home link, like clicking on the logo.
+    - [x] Back buttons instead.
+    - [x] Adding `[back](./)` in a document
+    - [x] And `[back](..)` in a folder or README.md.
+- [x] "(MarkDown)" with a link does not seem to mean much on the GitHub Pages. Perhaps calling it "(Web Page)" instead.
+- [x] Extra title "Piano Playing Docs" might be a bit redundant.
+- [x] External links to open in new tab using `<a>` tags.
+- [x] ~ More images at top of pages
