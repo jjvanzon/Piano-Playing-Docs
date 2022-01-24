@@ -10,7 +10,12 @@ Goals
     - Things may go wrong in any area, but it would be nice if I would have tools to get myself out of a pickle.
 - An intermediate goal could be to learn to play ***one piece*** moderately.
     - And performing it at a local ***get-together*** I have in mind.
-- Another intermediate goal might be to try and learn ***four classical piano pieces*** of different sorts and levels.
+    - Specifically [Chopin Mazurka Op. 24, No. 2](chopin-mazurka-op-24-no-2)
+- Another intermediate goal might be to try and learn ***four classical piano pieces*** of different sorts and levels:
+    - [Chopin Mazurka Op. 24, No. 2](chopin-mazurka-op-24-no-2)
+    - [Debussy Arabesque Ⅰ](debussy-arabesque-1)
+    - [Mozart Sonata "Facile" Part 1](mozart-sonata-facile-part-1-practice-schema.md)
+    - [Chopin Ballade Ⅱ](chopin-ballade-2)
 - A futher goal might be to be able to fill an ***hour*** playing moderately entertaining classical piano music.
     - I might like to perform that hour of piano music at an ***event*** I have in mind.
 - Playing in a ***band*** might be a goal for the futher future, because that is not something I am likely to handle health-wise any time soon.
