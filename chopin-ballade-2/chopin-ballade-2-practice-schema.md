@@ -90,15 +90,15 @@ Sometimes I 'need' to focus my eyes on one part e.g. octave melody in left hand 
 
 Other times I might be better off keeping my eyes still *evenly* on the entire piano keyboard (fragments 17a and 17b).
 
+#### Eyes
+
+Eye position seems part of technique here. I have often ignored that, but separate focus on *senses* in piano technique seems appropriate.
+
 #### Other Senses
 
 There relying on other senses seems hard, but needed.  
 If there are black keys near this may even increase success of accuracy, because tactile sense can help.  
 I think I have a fragment here, where eyes cannot look at keys litteraly, but also tactile sense is not helped much by differences in key sensation.
-
-#### Eyes
-
-Eye position seems part of technique here. I have often ignored that, but separate focus on *senses* in piano technique seems appropriate.
 
 #### Loud
 
