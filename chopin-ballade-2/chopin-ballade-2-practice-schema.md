@@ -54,7 +54,7 @@ Click [here](https://jjvanzon.github.io/Piano-Playing-Docs/methods/practice-sche
 
 ### Fragment 2 'Roll Downward' Technique
 
-Some variations the control / memory of notes seem less than desirable.
+- Some variations the control / memory of notes seem less than desirable.
 
 ### Fragment 3 'Arpeggios' Technique
 
@@ -70,36 +70,37 @@ Some variations the control / memory of notes seem less than desirable.
 
 ### Fragment 11 'Trill-Like' Technique
 
-Both memory and execution of the right hand lower trill like structure is less than ideal yet.  
-The control over the trills at the end deserve some attention.
+- Both memory and execution of the right hand lower trill like structure is less than ideal yet.
+- The control over the trills at the end deserve some attention.
 
 ### Fragments 12 - 14 'Before the End' Memory
 
-Just a little bit of memory problem here. Not a lot. Just a bit.
+- Just a little bit of memory problem here. Not a lot. Just a bit.
 
 ### Fragments 16a - 18 'Coda' Technique
 
-Eye movement seems to matter. That it is loud can influence accuracy.
-Awareness of where my body is seems weakened.  
+- Eye movement seems to matter.
+- That it is loud can influence accuracy.
+- Awareness of where my body is seems weakened.  
 
 #### Eyes 'Following'
 
-Sometimes I 'need' to focus my eyes on one part e.g. octave melody in left hand to hit them accurately.
+- Sometimes I 'need' to focus my eyes on one part e.g. octave melody in left hand to hit them accurately.
 
 #### Eyes 'Still'
 
-Other times I might be better off keeping my eyes still *evenly* on the entire piano keyboard (fragments 17a and 17b).
+- Other times I might be better off keeping my eyes still *evenly* on the entire piano keyboard (fragments 17a and 17b).
 
 #### Eyes
 
-Eye position seems part of technique here. I have often ignored that, but separate focus on *senses* in piano technique seems appropriate.
+- Eye position seems part of technique here. I have often ignored that, but separate focus on *senses* in piano technique seems appropriate.
 
 #### Other Senses
 
-There relying on other senses seems hard, but needed.  
-If there are black keys near this may even increase success of accuracy, because tactile sense can help.  
-I think I have a fragment here, where eyes cannot look at keys litteraly, but also tactile sense is not helped much by differences in key sensation.
+- There relying on other senses seems hard, but needed.  
+- If there are black keys near, this may even increase success of accuracy, because tactile sense can help.  
+- I think I have a fragment here, where eyes cannot look at keys litteraly, but also tactile sense is not helped much by differences in key sensation.
 
 #### Loud
 
-That it is loud can influence accuracy. Maybe try to pretend it's soft. Trying not try to be loud with *emotion* (that usually fails with me), but loud using dry *pressure* or *velocity*. Emotion being added to the wish to hear something. So taking away emotion's influence on body motion seems to matter a bit more when it is loud, and with these particular fragments.
+- That it is loud can influence accuracy. Maybe try to pretend it's soft. Trying not try to be loud with *emotion* (that usually fails with me), but loud using dry *pressure* or *velocity*. Emotion being added to the wish to hear something. So taking away emotion's influence on body motion seems to matter a bit more when it is loud, and with these particular fragments.
