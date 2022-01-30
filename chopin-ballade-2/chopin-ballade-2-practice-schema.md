@@ -52,32 +52,32 @@ Click [here](https://jjvanzon.github.io/Piano-Playing-Docs/methods/practice-sche
 | __1c__   | - - - 8 - | - - - 8 - | - - - 8 - | - - 5 - - |
 | __19__   | - - 5 - - | - - - 8 - | - - - 8 - | - 2 - - - |
 
-### Fragment 2 Technique 'Roll Downward'
+### Fragment 2 'Roll Downward' Technique
 
 Some variations the control / memory of notes seem less than desirable.
 
-### Fragment 3 Technique 'Arpeggios'
+### Fragment 3 'Arpeggios' Technique
 
 - Quick left hand melodic passages bit a of a problem.  
 - Perhaps apply 'join point' trick.  
 - And try mirroring a cross-over motion as the right hand would do it.
 
-### Fragments 7 Technique 'Chords Upward'
+### Fragments 7 'Chords Upward' Technique
 
 - Right hand trouble, might try :
 - More mental awareness, less motor memory.
 - Not too fast or loud everywhere.
 
-### Fragment 11 Technique 'Trill-Like'
+### Fragment 11 'Trill-Like' Technique
 
 Both memory and execution of the right hand lower trill like structure is less than ideal yet.  
 The control over the trills at the end deserve some attention.
 
-### Fragments 12 - 14 Memory 'Before the End'
+### Fragments 12 - 14 'Before the End' Memory
 
 Just a little bit of memory problem here. Not a lot. Just a bit.
 
-### Fragments 16a - 18 Technique 'Coda'
+### Fragments 16a - 18 'Coda' Technique
 
 Eye movement seems to matter. That it is loud can influence accuracy.
 Awareness of where my body is seems weakened.  
