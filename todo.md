@@ -7,8 +7,10 @@ TODO
 
 More specific TODO lists may be in other documents.
 
-2021-11-16 TODO
----------------
+TODO
+----
+
+### 2021-11-16 TODO
 
 - [ ] Changing fragment numbering for:
     - [ ] Chopin Ballade Ⅱ
@@ -26,55 +28,61 @@ More specific TODO lists may be in other documents.
     - [ ] Might add motion symbols to finger numbers.
 - [ ] Sheet Music Software
     - [ ] Trying "Neuratron AudioScore First" / "Avid Sibelius First"
-- [ ] __Technique:__
-    - [ ] Rehearsing Barbara Lister-Sink suggestions.
-    - [ ] Barbara Lister-Sink Basic Stroke:
-        - [ ] <a href="https://www.youtube.com/watch?v=OjSWu8ZADzI" target="_blank">Basic Stroke</a>
-        - [ ] Might still want to summarize that and add to:
-        - [ ] [Barbara Lister-Sink's "Freeing the Caged Bird" Videos Summary](methods/barbara-lister-sink-freeing-the-caged-bird-videos-summary.md)
-        - [ ] <a href="https://www.lister-sinkinstitute.org/freeing-the-caged-bird-dvd/#1508990586220-02706448-751f" target="_blank">DVD Contents / Ordering
-        - [ ] I guess you'd really just have to buy the DVD for the entire thing (+/- 2.5 hours)
-    - [ ] Lower arm tension:
-        - [ ] Tension in lower arm seems my pitfall.
-        - [ ] I have tension in lower arm seemingly regardless of posture.
-        - [ ] But of a few postures / motions seem to relieve the tension.
-        - [ ] Other postures cramp up my forearm.
-        - [ ] I would like to crack this puzzle.
-    - [ ] Wire in the way: might not improve technique without replacing it
-    - [ ] __Piano Motion Symbols idea__
-        - [x] Considering Debussy Arabesque 1 motion annotations.
-        - [x] Considering whatever motions comes to mind.
-        - [x] Considering "Piano curriculum" doc "Motorische techniek".
-        - [x] Considering "Piano Technique Ideas" doc.
-        - [x] Considering loose idea docs
-        - [x] Reorganized Piano folder.
-        - [x] Less harsh wording in loose idea docs
-        - [x] Digitizing what I have.
-        - [ ] __Systemizing more details.__
-        - [ ] Considering left-over things in "Piano Technique Ideas" under "2021-11-27 Brainstorm Motion Notation".
-    - [ ] Burgmüller Etudes for technique.
-        - [ ] With those I show tension.
-        - [ ] Perhaps it can be used to practice technique regarding tension.
-        - [ ] But then in a slightly lighter setting.
-- [ ] Pieces to play:
-    - [ ] Listing of pieces that I play / have played / would like to play.
-    - [x] Using <a href="https://www.youtube.com/watch?v=PCx8Xcm9l7U&t=1099s" target="_blank">100 Songs You´ve Heard And Don´t Know The Name</a>
-    - [x] Making links handier (HTML-style, open in separate tab).
-    - [ ] __Using books in closet.__
-    - [ ] Using books in attic.
-    - [ ] Using spotify playlists.
-    - [ ] Using MIDI recordings.
-    - [ ] Media:
-        - [ ] Adding links to media.
-        - [ ] Would like the YouTube media to show hands.
-        - [ ] Would like the Spotify media to be nice to listen to.
-        - [ ] Perhaps make playlists eventually and link to them.
 - [ ] Learning a piece by ear.
 - [ ] [Nord Piano Sound Selections](nord-piano-4/nord-piano-4-sound-selection-notes.md)
     - [ ] Might become more relevant once I might improvise more.
 
-2022-01-13 Done GitHub Pages
-----------------------------
+### 2021-11-16 TODO List of Pieces to Play
+
+- [ ] Listing of pieces that I play / have played / would like to play.
+- [x] Using <a href="https://www.youtube.com/watch?v=PCx8Xcm9l7U&t=1099s" target="_blank">100 Songs You´ve Heard And Don´t Know The Name</a>
+- [x] Making links handier (HTML-style, open in separate tab).
+- [ ] __Using books in closet.__
+- [ ] Using books in attic.
+- [ ] Using spotify playlists.
+- [ ] Using MIDI recordings.
+- [ ] Media:
+    - [ ] Adding links to media.
+    - [ ] Would like the YouTube media to show hands.
+    - [ ] Would like the Spotify media to be nice to listen to.
+    - [ ] Perhaps make playlists eventually and link to them.
+
+### 2021-11-16 TODO Technique
+
+- [ ] Rehearsing Barbara Lister-Sink suggestions.
+- [ ] Barbara Lister-Sink Basic Stroke:
+    - [ ] <a href="https://www.youtube.com/watch?v=OjSWu8ZADzI" target="_blank">Basic Stroke</a>
+    - [ ] Might still want to summarize that and add to:
+    - [ ] [Barbara Lister-Sink's "Freeing the Caged Bird" Videos Summary](methods/barbara-lister-sink-freeing-the-caged-bird-videos-summary.md)
+    - [ ] <a href="https://www.lister-sinkinstitute.org/freeing-the-caged-bird-dvd/#1508990586220-02706448-751f" target="_blank">DVD Contents / Ordering
+    - [ ] I guess you'd really just have to buy the DVD for the entire thing (+/- 2.5 hours)
+- [ ] Lower arm tension:
+    - [ ] Tension in lower arm seems my pitfall.
+    - [ ] I have tension in lower arm seemingly regardless of posture.
+    - [ ] But of a few postures / motions seem to relieve the tension.
+    - [ ] Other postures cramp up my forearm.
+    - [ ] I would like to crack this puzzle.
+- [ ] Wire in the way: might not improve technique without replacing it
+- [ ] __Piano Motion Symbols idea__
+    - [x] Considering Debussy Arabesque 1 motion annotations.
+    - [x] Considering whatever motions comes to mind.
+    - [x] Considering "Piano curriculum" doc "Motorische techniek".
+    - [x] Considering "Piano Technique Ideas" doc.
+    - [x] Considering loose idea docs
+    - [x] Reorganized Piano folder.
+    - [x] Less harsh wording in loose idea docs
+    - [x] Digitizing what I have.
+    - [ ] __Systemizing more details.__
+    - [ ] Considering left-over things in "Piano Technique Ideas" under "2021-11-27 Brainstorm Motion Notation".
+- [ ] Burgmüller Etudes for technique.
+    - [ ] With those I show tension.
+    - [ ] Perhaps it can be used to practice technique regarding tension.
+    - [ ] But then in a slightly lighter setting.
+
+Done
+----
+
+### 2022-01-13 Done GitHub Pages
 
 - [x] Googling "convert markdown github to web page" leads to <a href="https://dev.to/bolajiayodeji/how-to-convert-github-markdown-files-to-a-simple-website-4e14" target="_blank">How to convert GitHub Markdown files to a simple website</a>
 - [x] GitHub pages did not work yet. Waiting a while to see if it starts up automatically.
