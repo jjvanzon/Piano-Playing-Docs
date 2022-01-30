@@ -79,9 +79,9 @@ Click [here](https://jjvanzon.github.io/Piano-Playing-Docs/methods/practice-sche
 
 ### Fragments 16a - 18 'Coda' Technique
 
-- Eye movement seems to matter.
-- That it is loud can influence accuracy.
-- Awareness of where my body is seems weakened.  
+- Eye movement matters.
+- Loud influences accuracy.
+- Awareness of body weakened.  
 
 #### Eyes 'Following'
 
@@ -89,7 +89,7 @@ Click [here](https://jjvanzon.github.io/Piano-Playing-Docs/methods/practice-sche
 
 #### Eyes 'Still'
 
-- Other times I might be better off keeping my eyes still *evenly* on the entire piano keyboard (fragments 17a and 17b).
+- Other times I might be better off keeping my eyes still *evenly* on the entire piano keyboard to avoid confusion (fragments 17a and 17b).
 
 #### Eyes
 
@@ -97,10 +97,10 @@ Click [here](https://jjvanzon.github.io/Piano-Playing-Docs/methods/practice-sche
 
 #### Other Senses
 
-- There relying on other senses seems hard, but needed.  
+- Relying on other senses seems hard in these fragments, but needed.  
 - If there are black keys near, this may even increase success of accuracy, because tactile sense can help.  
 - I think I have a fragment here, where eyes cannot look at keys litteraly, but also tactile sense is not helped much by differences in key sensation.
 
 #### Loud
 
-- That it is loud can influence accuracy. Maybe try to pretend it's soft. Trying not try to be loud with *emotion* (that usually fails with me), but loud using dry *pressure* or *velocity*. Emotion being added to the wish to hear something. So taking away emotion's influence on body motion seems to matter a bit more when it is loud, and with these particular fragments.
+- That it is loud can influence accuracy. Maybe try to pretend it's soft. Trying not try to be loud with *emotion* (that usually fails me), but loud using dry *pressure* or *velocity*. Emotion being added to the wish to hear something. So taking away emotion's influence on body motion seems to matter a bit more when it is loud, in particular with with these fragments.
