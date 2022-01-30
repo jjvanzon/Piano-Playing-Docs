@@ -30,6 +30,7 @@ Might Like to Play
 | Chopin Waltz BI 46                                      | Easy listening | Easier     | 👍   | 3 pg  |  2:40 | <a href="https://open.spotify.com/track/5GOZTE8cNUGdpmCJvcFR3P?si=b9ae7665e95a4df2" target="_blank">Spotify Abbey Simon</a>
 | `--------`                                              |                |            |      |       |       | `--------`
 | Chopin Prelude Op. 28, No. 17                           | Easy listening | Medium     | 👍   |       |  3:20 | <a href="https://open.spotify.com/track/31RR1orCjQp0nrl3bOHrZL?si=efacf06c03ec49ab" target="_blank">Spotify Yundi</a>
+| Chopin Waltz in A flat major Op.34, No.1                | Easy listening | Medium     | 👍   |       |  5:00 | <a href="https://youtu.be/MS5pov3xu94" target="_blank">YouTube Ingolf Wunder</a>
 | Chopin Etude Op. 10, No. 3 in E ("Tristesse")           | Atmospheric    | Medium     |      |       |  4:30 | <a href="https://youtu.be/efUpNxQPLMU" target="_blank">YouTube Mei-Ting Sun</a>
 | Chopin Nocturne Op. 9, No. 3                            | Atmospheric    | Medium     |      | 10 pg |  7:00 | <a href="https://youtu.be/O3Apq41rrFc" target="_blank">YouTube Arthur Rubinstein</a>
 | Chopin Nocturne Op. 32, No. 2                           | Atmospheric    | Medium     |      | 6 pg  |  7:00 | <a href="https://youtu.be/my5OSmQZjns" target="_blank">YouTube Arthur Rubinstein</a>
