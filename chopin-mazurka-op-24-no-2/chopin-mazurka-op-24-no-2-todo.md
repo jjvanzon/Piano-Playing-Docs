@@ -20,3 +20,5 @@ TODO
 
 - [ ] I may want to memorize the *chords* too.
 - [ ] (And after that, maybe even the *harmonic functions* (tonic, dominant, subdominant).
+
+[back](./)

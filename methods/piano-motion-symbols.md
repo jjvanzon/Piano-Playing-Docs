@@ -718,3 +718,5 @@ To demonstrate some possibilities for flexibility.
 | <img src="images/composite-3-fingers-flat-pronounced-curved.png" height="30" />         | 3 fingers: flat, pronounced and curved    |
 | <img src="images/composite-curved-wrist-flapping-mid-finger-pressed.png" height="60" /> | Curved wrist flapping, mid finger pressed |
 | <img src="images/composite-arpeggio-hopping-wrist-etc.png" height="120" />              | Curved wrist hopping. 1st and last note pressed. Middle note moved forward, pressed with 3rd finger. |
+
+[back](./)

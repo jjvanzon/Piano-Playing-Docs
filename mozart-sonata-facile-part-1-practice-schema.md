@@ -45,3 +45,5 @@ Click [here](https://jjvanzon.github.io/Piano-Playing-Docs/methods/practice-sche
 ### Details
 
 - Fragment 6 and 6' seem harder to read. Perhaps arpeggios more on one staff might help.
+
+[back](./)

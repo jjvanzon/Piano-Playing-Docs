@@ -107,3 +107,5 @@ a - a - a' - a''
 
 The base notes sometimes divert to a different tone than the fundamental of the chord.  
 But basically because it is the melody.
+
+[back](./)

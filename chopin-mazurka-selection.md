@@ -5,7 +5,6 @@ Chopin Mazurka Selection
 
 [back](./)
 
-
 Looking for something easier to play and easy on the ears too.
 
 | Op., No.      | Min/maj | Pages | Duration | Nicer | Easier | Priority
@@ -24,3 +23,5 @@ Looking for something easier to play and easy on the ears too.
 | Op. 67, No. 4 | min~maj |     2 |  2min45s |  ➖  |  :-)   |
 | Op. 68, No. 3 |   maj   |     2 |     2min |  ✔   |  :-)   | 2
 | Op. 68, No. 4 |   min   |     2 |  2min30s |  ✔   |  :-/   |
+
+[back](./)

@@ -95,3 +95,5 @@ instead of *actively* from the (lower) arms and wrist.
 - and getting a musical effect from it.
 - Perhaps regard any variation on distribution of weight as welcome,  
 - as well as the playing style that results from it.
+
+[back](./)

@@ -59,3 +59,5 @@ I have had this piano playing hobby for quite some years since youth. I have had
 I have autism and health problems both physical and mentally. That may limit what I might achieve. Things may work differently for me. I might adapt the way I approach things, to what seems to work better for me.
 
 The music hobby may be a way to therapeutically train (cognitive) capabilities that have diminished.
+
+[back](./)

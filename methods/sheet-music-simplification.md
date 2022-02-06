@@ -37,3 +37,5 @@ Sheet Music Simplification
 - Correcting it.
 - Keep checking by playing the print, until no more corrections.
 - Might check with <a href="https://online-image-comparison.com" target="blank">image diff</a> before uploading.
+
+[back](./)

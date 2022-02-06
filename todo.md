@@ -111,3 +111,5 @@ Done
 - [x] Extra title "Piano Playing Docs" might be a bit redundant.
 - [x] External links to open in new tab using `<a>` tags.
 - [x] ~ More images at top of pages
+
+[back](./)

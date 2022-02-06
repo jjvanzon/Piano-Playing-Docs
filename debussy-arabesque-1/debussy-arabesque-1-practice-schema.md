@@ -50,3 +50,5 @@ Practice Schema
 | __14__   | - - - 8 - | - - - 8 - | - - - 8 - | - - - - - |
 
 Links: [method description](https://jjvanzon.github.io/Piano-Playing-Docs/methods/practice-schema.html), [notes with fragment subdivision](notes-fragment-subdivision)
+
+[back](./)

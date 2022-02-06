@@ -329,3 +329,5 @@ Stopped this. Returning the Nord Piano 5, because it is not compatible with Nord
     - [x] ~~Selecting Nord Piano __5__ factory defaults one by one.~~
     - [x] ~~Adding Nord Sample Library 3.0 Sound Collections sounds.~~
     - [x] ~~Upgrading piano sounds.~~
+
+[back](./)

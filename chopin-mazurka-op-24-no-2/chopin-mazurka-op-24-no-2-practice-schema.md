@@ -24,3 +24,5 @@ Practice Schema
 | __1b__   | - - - 8 - | - - - - 10| - - - - 9 | - - - 8 - |
 
 Click [here](https://jjvanzon.github.io/Piano-Playing-Docs/methods/practice-schema.html) for method description.
+
+[back](./)
