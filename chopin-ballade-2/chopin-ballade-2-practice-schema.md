@@ -54,18 +54,18 @@ Click [here](https://jjvanzon.github.io/Piano-Playing-Docs/methods/practice-sche
 
 ### Fragment 2 'Roll Downward' Technique
 
-- Some variations the control / memory of notes seem less than desirable.
+- Some variations, the control / memory of notes seem less than desirable.
 
 ### Fragment 3 'Arpeggios' Technique
 
 - Quick left hand melodic passages bit a of a problem.  
 - Perhaps apply 'join point' trick.  
-- And try mirroring a cross-over motion as the right hand would do it.
+- And try mirroring a cross-over motion, as the right hand would do it.
 
 ### Fragments 7 'Chords Upward' Technique
 
-- Right hand trouble, might try :
-- More mental awareness, less motor memory.
+- Right hand trouble, might try:
+- More mental awareness of notes, less motor memory.
 - Not too fast or loud everywhere.
 
 ### Fragment 11 'Trill-Like' Technique
@@ -73,7 +73,7 @@ Click [here](https://jjvanzon.github.io/Piano-Playing-Docs/methods/practice-sche
 - Both memory and execution of the right hand lower trill like structure is less than ideal yet.
 - The control over the trills at the end deserve some attention.
 
-### Fragments 12 - 14 'Before the End' Memory
+### Fragments 12 - 14 'Before the End' Memorization
 
 - Just a little bit of memory problem here. Not a lot. Just a bit.
 
@@ -99,7 +99,7 @@ Click [here](https://jjvanzon.github.io/Piano-Playing-Docs/methods/practice-sche
 
 - Relying on other senses seems hard in these fragments, but needed.  
 - If there are black keys near, this may even increase success of accuracy, because tactile sense can help.  
-- I think I have a fragment here, where eyes cannot look at keys litteraly, but also tactile sense is not helped much by differences in key sensation.
+- I think I have a fragment here, where eyes cannot look at keys literally, but also tactile sense is not helped much by differences in key sensation.
 
 #### Loud
 
