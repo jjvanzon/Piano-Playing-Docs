@@ -18,9 +18,9 @@ Goals
     - [Debussy Arabesque Ⅰ](debussy-arabesque-1)
     - [Mozart Sonata "Facile" Part 1](mozart-sonata-facile-part-1-practice-schema.md)
     - [Chopin Ballade Ⅱ](chopin-ballade-2)
-- A further goal: fill an ***hour*** playing moderately entertaining classical piano music.
+- Filling an ***hour*** playing moderately entertaining classical piano music.
     - I might like to perform that hour of piano music at an ***event*** I have in mind.
-- Goal for the further future: Playing in a ***band***?
+- Further future: Playing in a ***band***?
     - Not something I am likely to handle health-wise any time soon.
 
 Sub-Goals / Means
