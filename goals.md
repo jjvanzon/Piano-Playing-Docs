@@ -7,20 +7,20 @@ Goals
 
 - My goal might not be to play the piano ***perfectly***, but more to be able 'to ***save myself*** out a situation'.
     - On any aspect: note reading / memorizing / technique / motor skills / expression / listening / performing.
-    - Things *will* go wrong, unfortunately quite frequently.
+    - Things may go wrong, perhaps quite frequently.
     - I would like to learn skills to get myself out of a situation.
     - That might be helped by knowing the ***chords*** and harmonic insight.
-- ✔ Learned ***one piece*** moderately.
+- ✔ Learned ***1 piece*** moderately.
     - And performed it at a local ***get-together***.
     - [Chopin Mazurka Op. 24, No. 2](chopin-mazurka-op-24-no-2)
-- Learning ***four classical piano pieces*** of different sorts and levels:
+- Learning ***4 classical piano pieces*** of different sorts and levels:
     - [Chopin Mazurka Op. 24, No. 2](chopin-mazurka-op-24-no-2)
     - [Debussy Arabesque Ⅰ](debussy-arabesque-1)
     - [Mozart Sonata "Facile" Part 1](mozart-sonata-facile-part-1-practice-schema.md)
     - [Chopin Ballade Ⅱ](chopin-ballade-2)
 - A further goal: fill an ***hour*** playing moderately entertaining classical piano music.
     - I might like to perform that hour of piano music at an ***event*** I have in mind.
-- Goal for the further future: Playing in a ***band***
+- Goal for the further future: Playing in a ***band***?
     - Not something I am likely to handle health-wise any time soon.
 
 Sub-Goals / Means
