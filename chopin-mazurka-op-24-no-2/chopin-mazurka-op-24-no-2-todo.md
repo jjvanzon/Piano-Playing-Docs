@@ -14,19 +14,9 @@ TODO
 - [ ] Might extend the phrase structure analysis for fragment 4.
 - [ ] Perhaps splitting up in more pieces, and more specific how they repeat and recombine.
 - [ ] (Rather than saying: 4 playful variations a1, a2, a3 and a4.)
-- [ ] Maybe remove harmonic info from prase structure analysis, since that may be already captured by the chord progression.
+- [ ] Maybe remove harmonic info from phrase structure analysis, since that may be already captured by the chord progression.
 
 ### 2021-11-16 TODO Memorizing
 
-- [ ] I nearly memorized the *notes*.
 - [ ] I may want to memorize the *chords* too.
 - [ ] (And after that, maybe even the *harmonic functions* (tonic, dominant, subdominant).
-
-### 2021-11-16 TODO Technique
-
-- [ ] I was feeling more fluent motion.
-- [ ] But then I was missing notes.
-- [ ] Trying to regain control,
-- [ ] I seem to become less fluent again.
-- [ ] Maybe practice Barbara Lister-Sink's tips some more.
-- [x] Maybe put the piano bench lower.

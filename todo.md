@@ -25,7 +25,6 @@ TODO
 - [ ] Mozart Sonata Facile KV 545 Part 1 
     - [ ] Simplified sheet music rework
     - [ ] May redo simplified sheet music with non-copyrighted version.
-    - [ ] Might add motion symbols to finger numbers.
 - [ ] Sheet Music Software
     - [ ] Trying "Neuratron AudioScore First" / "Avid Sibelius First"
 - [ ] Learning a piece by ear.
@@ -39,7 +38,7 @@ TODO
 - [x] Making links handier (HTML-style, open in separate tab).
 - [ ] __Using books in closet.__
 - [ ] Using books in attic.
-- [ ] Using spotify playlists.
+- [ ] Using Spotify playlists.
 - [ ] Using MIDI recordings.
 - [ ] Media:
     - [ ] Adding links to media.
