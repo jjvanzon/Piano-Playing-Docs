@@ -16,6 +16,7 @@ Studying
 | Chopin Mazurka Op. 24, No. 2                      | Easy listening | Medium     | 👍   | 4 pg | 2:15  | <a href="https://open.spotify.com/track/7CWKqmNX02HdI6C7i1naOb?si=d0328f7a6ff14755" target="_blank">Spotify Idil Biret</a>
 | Debussy Arabesque Ⅰ                               | Atmospheric    | Medium     | 👍   | 5 pg | 6:00  | <a href="https://open.spotify.com/track/3jN9cfOSZtfDQLhmaOcNt8?si=a47ae324b5ec4060" target="_blank">Spotify Axel Gillison</a>
 | Mozart Sonata "Facile" in C major part 1 (KV 545) | Easy listening | Medium     | 👍   | 5 pg | 5:20 | <a href="https://youtu.be/qjk-YRuQZDE" target="_blank">YouTube Rousseau</a>
+| Satie Gnossienne Ⅰ                                | Atmospheric    | Easier     | 🆗   |      | 4:00 | <a href="https://youtu.be/lqZehFAwoTM" target="_blank">YouTube The Flaming Piano</a> <a href="https://open.spotify.com/track/2xDvCPTcgnm9jHPsiPDBf1?si=c170ccabc02944ee" target="_blank">Spotify Hélène Grimaud</a>
 
 Might Like to Play
 ------------------
@@ -94,7 +95,6 @@ May Once Have Played
 | Chopin Sonata Ⅱ Op. 35 Part 3 "Funeral March"                     | Melancholic    | Medium     |      |       | 9:10 | <a href="https://youtu.be/7-9wXQpzESo" target="_blank">YouTube Rousseau</a>
 | Satie Gymnopédie 1                                                | Atmospheric    | Easier     |      |       | 4:00 | <a href="https://youtu.be/2WfaotSK3mI" target="_blank">YouTube Rousseau</a>
 | Satie Gymnopédie 2                                                | Atmospheric    | Easier     |      |       | 2:50 | <a href="https://youtu.be/rlkf5s8ziZo" target="_blank">YouTube Lord Vinheteiro</a>
-| Satie Gnossienne 1                                                | Atmospheric    | Easier     |      |       | 4:10 | <a href="https://youtu.be/lqZehFAwoTM" target="_blank">YouTube The Flaming Piano</a>
 | Satie Gnossienne 3                                                | Atmospheric    | Easier     |      |       | 3:30 | <a href="https://youtu.be/llk423PNMjc" target="_blank">YouTube The Flaming Piano</a>
 | Beethoven Sonata Op.27 No.2 Mov. 1 ("Moonlight Sonata")           | Melancholic    | Easier     |      |       | 6:00 | <a href="https://youtu.be/-VmQNKaOeEw" target="_blank">YouTube Anastasia Huppmann</a>
 | Beethoven Sonata Op.27 No.2 Mov. 3 ("Moonlight Sonata")           | Heavy          | Hard       |      |       | 7:00 | <a href="https://youtu.be/zucBfXpCA6s" target="_blank">YouTube Valentina Lisitsa</a>

@@ -16,7 +16,8 @@ Goals
     - ✔ First ***1*** piece
     - Then ***4*** pieces
     - Build up to an ***hour***
-    -  [Mozart Sonata "Facile" Part 1](mozart-sonata-facile-part-1-practice-schema.md)
+    - [Mozart Sonata "Facile" Part 1](mozart-sonata-facile-part-1-practice-schema.md)
+    - [Satie Gnossienne Ⅰ](satie-gnossienne-1)
 - ***Performing***
     - ✔ Performed at a local ***get-together***.
     - ✔ [Chopin Mazurka Op. 24, No. 2](chopin-mazurka-op-24-no-2)

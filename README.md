@@ -31,13 +31,17 @@ Contents
 
     - Chord progression and simplified sheet music for Debussy Arabesque Ⅰ.
 
+- [Mozart Sonata Facile KV 545 Part 1 Practice Schema](mozart-sonata-facile-part-1-practice-schema.md)
+
+    - An overview scoring myself on different fragments and aspects of this piano piece while studying it.
+
 - [Chopin Ballade Ⅱ](chopin-ballade-2)
 
     - An overview scoring myself on different fragments and aspects of this piano piece while studying it. And a partially worked out phrase / repetition structure.
 
-- [Mozart Sonata Facile KV 545 Part 1 Practice Schema](mozart-sonata-facile-part-1-practice-schema.md)
+- [Satie Gnossienne Ⅰ](satie-gnossienne-1)
 
-    - An overview scoring myself on different fragments and aspects of this piano piece while studying it.
+    - Sheet music and studying notes about this piece.
 
 - [Chopin Mazurkas Selection](chopin-mazurka-selection.md)
 
