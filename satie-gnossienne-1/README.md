@@ -1,5 +1,5 @@
 Satie Gnossienne Ⅰ
-================
+==================
 
 *JJ van Zon, 2022*
 
@@ -12,3 +12,5 @@ Satie Gnossienne Ⅰ
 - [Studying Notes](satie-gnossienne-1-studying-notes.md)
 
     - Notes about hills to mount while studying it.
+
+[back](..)

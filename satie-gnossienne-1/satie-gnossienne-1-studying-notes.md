@@ -8,9 +8,7 @@ Satie Gnossienne Ⅰ
 Studying Notes
 --------------
 
-Tried playing along by ear with a YouTube video. Went OK. Piece seems more easy than I thought.
-
-But even an easier piece might be challenging, because:
+Tried playing along by ear with a YouTube video. Went OK. Piece seems more easy than I thought. But even an easier piece might be challenging, because:
 
 ### Memorization
 
@@ -23,3 +21,5 @@ Also I tend to forget the rhythm / pulse, which I guess may be considered the ha
 ### Chords / Improvising
 
 I told myself to do something with chords and improvising. I might make versions of sheet music with chords on it. Perhaps one with melody and chords. Perhaps one with harmonic analysis, if I may take the improvisation a bit further with it.
+
+[back](./)
