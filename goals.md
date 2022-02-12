@@ -5,11 +5,11 @@ Goals
 
 [back](./)
 
-- ***Imperfect*** piano playing
-    - I would like to learn ***skills***, to get myself out of a situation.
-    - ***Chords***, ***harmonic insight*** and ***improvisation*** may become key.
+- ***Not perfect*** piano playing
+    - With ***skills*** to get myself out of a situation.
     - On any aspect: note reading / memorizing / technique / motor skills / expression / listening / performing.
     - Things may go wrong quite frequently.
+    - ***Chords***, ***harmonic insight*** and ***improvisation*** may become key.
 - ✔ ***1 classical piece***
     - ✔ Allowing imperfections.
     - ✔ Performed at a local ***get-together***.
