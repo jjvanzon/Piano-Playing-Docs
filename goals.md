@@ -5,11 +5,10 @@ Goals
 
 [back](./)
 
-- ***Not perfect*** piano playing
+- Playing the piano ***imperfectly***
     - With ***skills*** to get myself out of a situation.
-    - On any aspect: note reading / memorizing / technique / motor skills / expression / listening / performing.
-    - Things may go wrong quite frequently.
-    - ***Chords***, ***harmonic insight*** and ***improvisation*** may become key.
+    - On any aspect: note reading / memorizing / technique / motor skills / expression / listening / performing, things may go wrong quite frequently.
+    - ***Chords***, ***improvisation*** and ***harmonic insight*** may be key.
 - ✔ ***1 classical piece***
     - ✔ Allowing imperfections.
     - ✔ Performed at a local ***get-together***.
