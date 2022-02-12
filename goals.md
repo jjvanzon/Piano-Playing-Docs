@@ -11,6 +11,11 @@ Goals
     - On any aspect: note reading / memorizing / technique / motor skills / expression / listening / performing
     - Things may go wrong quite frequently.
     - ***Chords***, ***improvisation*** and ***harmonic insight*** may be key.
+- ***Performing***
+    - ✔ Performed at a local ***get-together***.
+    - ✔ [Chopin Mazurka Op. 24, No. 2](chopin-mazurka-op-24-no-2)
+    - ✔ [Debussy Arabesque Ⅰ](debussy-arabesque-1)
+    - Performing am ***hour*** at a ***event***.
 - ***Repertoire*** building
     - ***Moderately difficult*** pieces
     - ✔ First ***1*** piece
@@ -18,11 +23,6 @@ Goals
     - Build up to an ***hour***
     - [Mozart Sonata "Facile" Part 1](mozart-sonata-facile-part-1-practice-schema.md)
     - [Satie Gnossienne Ⅰ](satie-gnossienne-1)
-- ***Performing***
-    - ✔ Performed at a local ***get-together***.
-    - ✔ [Chopin Mazurka Op. 24, No. 2](chopin-mazurka-op-24-no-2)
-    - ✔ [Debussy Arabesque Ⅰ](debussy-arabesque-1)
-    - Performing am ***hour*** at a ***event***.
 - ... Studying 1 ***difficult piece***
     - For learning. Not for performing.
     -  [Chopin Ballade Ⅱ](chopin-ballade-2)
