@@ -5,7 +5,7 @@ Goals
 
 [back](./)
 
-- Playing the piano ***imperfectly***
+- Playing the piano ***not perfectly***
     - With ***skills*** to get myself out of a situation.
     - On any aspect: note reading / memorizing / technique / motor skills / expression / listening / performing, things may go wrong quite frequently.
     - ***Chords***, ***improvisation*** and ***harmonic insight*** may be key.
