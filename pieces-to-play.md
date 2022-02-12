@@ -30,7 +30,7 @@ Might Like to Play
 | Chopin Waltz BI 46                                      | Easy listening | Easier     | 👍   | 3 pg  |  2:40 | <a href="https://open.spotify.com/track/5GOZTE8cNUGdpmCJvcFR3P?si=b9ae7665e95a4df2" target="_blank">Spotify Abbey Simon</a>
 | `--------`                                              |                |            |      |       |       | 
 | Chopin Prelude Op. 28, No. 17                           | Easy listening | Medium     | 👍   |       |  3:20 | <a href="https://open.spotify.com/track/31RR1orCjQp0nrl3bOHrZL?si=efacf06c03ec49ab" target="_blank">Spotify Yundi</a>
-| Chopin Waltz in A flat major Op.34, No.1                | Easy listening | Medium     | 👍   |       |  5:00 | <a href="https://youtu.be/MS5pov3xu94" target="_blank">YouTube Ingolf Wunder</a>
+| Chopin Waltz in A flat major Op. 34, No. 1              | Easy listening | Medium     | 👍   |       |  5:00 | <a href="https://youtu.be/MS5pov3xu94" target="_blank">YouTube Ingolf Wunder</a>
 | Chopin Etude Op. 10, No. 3 in E ("Tristesse")           | Atmospheric    | Medium     |      |       |  4:30 | <a href="https://youtu.be/efUpNxQPLMU" target="_blank">YouTube Mei-Ting Sun</a>
 | Chopin Nocturne Op. 9, No. 3                            | Atmospheric    | Medium     |      | 10 pg |  7:00 | <a href="https://youtu.be/O3Apq41rrFc" target="_blank">YouTube Arthur Rubinstein</a>
 | Chopin Nocturne Op. 32, No. 2                           | Atmospheric    | Medium     |      | 6 pg  |  7:00 | <a href="https://youtu.be/my5OSmQZjns" target="_blank">YouTube Arthur Rubinstein</a>
@@ -46,7 +46,7 @@ Might Like to Play
 | Liszt Liebestraum No. 3                                 | Atmospheric    | Hard       | 🧡   |       |  4:30 | <a href="https://youtu.be/FNu3bkFi_IY" target="_blank">YouTube Piano Sandbox</a>
 | Chopin Etude Op. 25, No. 12 ("Ocean")                   | Heavy          | Hard       |      |       |  2:30 | <a href="https://youtu.be/pRlHKQXjzZY" target="_blank">YouTube Rousseau</a>
 | Chopin Scherzo Op. 31, No. 2                            | Heavy          | Hard       |      |       | 10:00 | <a href="https://youtu.be/OCUSalQf-jY" target="_blank">YouTube Seong-Jin Cho</a>
-| Chopin Polonaise in E flat minor Op.26, No.2            | Heavy          | Hard       | 💔   |       |  8:00 | <a href="https://youtu.be/GLElxJ_tdW0" target="_blank">YouTube</a><br/><a href="https://youtu.be/LsBKfIB8HOk" target="_blank">YouTube Anastasia Huppmann</a>
+| Chopin Polonaise in E flat minor Op. 26, No. 2          | Heavy          | Hard       | 💔   |       |  8:00 | <a href="https://youtu.be/GLElxJ_tdW0" target="_blank">YouTube</a><br/><a href="https://youtu.be/LsBKfIB8HOk" target="_blank">YouTube Anastasia Huppmann</a>
 | `--------`                                              |                |            |      |       |       | 
 | ~ Chopin Etude Op. 25, No. 11 ("Winter Wind")           | Heavy          | Hard       |      |       |  4:00 | <a href="https://youtu.be/gZjdAWgjLx8" target="_blank">YouTube Rousseau</a>
 | ~ Chopin Ballade I                                      | Heavy          | Hard       |      |       |  9:45 | <a href="https://youtu.be/Zj_psrTUW_w" target="_blank">YouTube Rousseau</a>
@@ -105,10 +105,10 @@ May Once Have Played
 | Mozart Sonata "Facile" in C major Part 3 (KV 545)                 | Easy listening | Medium     |      | 3 pg  | 2:00 | <a href="https://youtu.be/3LQT_1eEr6s" target="_blank">YouTube Mitsuko Uchida</a>
 | Mozart Rondo Alla Turca                                           | Easy listening | Medium     |      |       | 4:00 | <a href="https://youtu.be/A_THdzBnHy0" target="_blank">YouTube Marnie Laird</a>
 | Clementi Sonatina in C major, Op. 36, No. 1                       | Easy listening | Easier     | 👍   |       | 3:40 | <a href="https://youtu.be/JBSfLNlUpXU" target="_blank">YouTube Hazel Nguyen</a>
-| Vivaldi Four Seasons, Winter, Part 1 (Transscription)             |
-| Vivaldi Four Seasons, Winter, Part 2 (Transscription)             |
-| Vivaldi Four Seasons, Winter, Part 3 (Transscription)             |
-| Saint-Saëns Danse Macabre (Transscription)                        | Atmospheric    | Hard       |
+| Vivaldi Four Seasons, Winter, Part 1 (Transcription)              |
+| Vivaldi Four Seasons, Winter, Part 2 (Transcription)              |
+| Vivaldi Four Seasons, Winter, Part 3 (Transcription)              |
+| Saint-Saëns Danse Macabre (Transcription)                         | Atmospheric    | Hard       |
 | Walter Carroll "Forest Fantasies" No. 1 "Queen Mab"               | Atmospheric    | Easier     |      |  1 pg | 1:00 | <a href="https://youtu.be/nbmLejc4Jqg?t=12" target="_blank">YouTube Christopher Baxter</a>
 | Walter Carroll "Forest Fantasies" No. 2 "To a Sleeping Fairy"     | Atmospheric    | Easier     |      |  1 pg | 1:45 | <a href="https://youtu.be/nbmLejc4Jqg?t=62" target="_blank">YouTube Christopher Baxter</a>
 | Walter Carroll "Forest Fantasies" No. 3 "Under the Cherry Tree"   | Atmospheric    | Easier     |      |  1 pg | 1:00 | <a href="https://youtu.be/nbmLejc4Jqg?t=174" target="_blank">YouTube Christopher Baxter</a>
