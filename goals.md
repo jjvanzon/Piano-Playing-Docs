@@ -5,23 +5,34 @@ Goals
 
 [back](./)
 
-- My goal might not be to play the piano ***perfectly***, but more to be able 'to ***save myself*** out a situation'.
+- My goal is ***not*** to play the piano ***perfectly***, but more being able 'to ***save myself*** out a situation'.
     - On any aspect: note reading / memorizing / technique / motor skills / expression / listening / performing.
-    - Things may go wrong, perhaps quite frequently.
-    - I would like to learn skills to get myself out of a situation.
-    - That might be helped by knowing the ***chords*** and harmonic insight.
-- ✔ Learned ***1 piece*** moderately.
-    - And performed it at a local ***get-together***.
-    - [Chopin Mazurka Op. 24, No. 2](chopin-mazurka-op-24-no-2)
-- Learning ***4 classical piano pieces*** of different sorts and levels:
-    - [Chopin Mazurka Op. 24, No. 2](chopin-mazurka-op-24-no-2)
-    - [Debussy Arabesque Ⅰ](debussy-arabesque-1)
+    - Things may go wrong quite frequently.
+    - I would like to learn ***skills***, to get myself out of a situation.
+    - That might be helped by knowing the ***chords*** and ***harmonic insight*** and ***improvisation***.
+- ✔ ***1 classical piece***
+    - ✔ Allowing imperfections.
+    - ✔ Performed at a local ***get-together***.
+    - ✔ [Chopin Mazurka Op. 24, No. 2](chopin-mazurka-op-24-no-2)
+-  ***3 classical piano pieces***
+    - Of varying sorts.
+    - Performing at a local ***get-together***.
+    - ✔ [Chopin Mazurka Op. 24, No. 2](chopin-mazurka-op-24-no-2)
+    - ✔ [Debussy Arabesque Ⅰ](debussy-arabesque-1)
     - [Mozart Sonata "Facile" Part 1](mozart-sonata-facile-part-1-practice-schema.md)
+- ***1 difficult piece***:
+    - For learning.
+    - Not for performing publicly.
     - [Chopin Ballade Ⅱ](chopin-ballade-2)
-- Filling an ***hour*** playing moderately entertaining classical piano music.
-    - I might like to perform that hour of piano music at an ***event*** I have in mind.
-- Further future: Playing in a ***band***?
-    - Not something I am likely to handle health-wise any time soon.
+- ***1 hour*** 
+    - ***Repertoire*** building.
+    - ***Entertaining***.
+    - For ***performing***.
+    - For ***variation*** at a local ***get-together***.
+    - Might perform an ***hour*** at a ***event***.
+- Playing in a ***band***?
+    - Not any time soon.
+    - Unlikely because of health issues.
 
 Sub-Goals / Means
 -----------------
