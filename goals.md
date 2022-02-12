@@ -5,31 +5,26 @@ Goals
 
 [back](./)
 
-- Playing the piano ***not perfectly***
+- ***Skill*** learning
+    - Playing the piano ***not perfectly***
     - With ***skills*** to get myself out of a situation.
     - On any aspect: note reading / memorizing / technique / motor skills / expression / listening / performing
     - Things may go wrong quite frequently.
     - ***Chords***, ***improvisation*** and ***harmonic insight*** may be key.
-- ✔ ***1 classical piece***
-    - ✔ Allowing imperfections.
+- ***Repertoire*** building
+    - ***Moderately difficult*** pieces
+    - ✔ First ***1*** piece
+    - Then ***4*** pieces
+    - Build up to an ***hour***
+    -  [Mozart Sonata "Facile" Part 1](mozart-sonata-facile-part-1-practice-schema.md)
+- ***Performing***
     - ✔ Performed at a local ***get-together***.
     - ✔ [Chopin Mazurka Op. 24, No. 2](chopin-mazurka-op-24-no-2)
--  ***3 classical piano pieces***
-    - Of varying sorts.
-    - Performing at a local ***get-together***.
-    - ✔ [Chopin Mazurka Op. 24, No. 2](chopin-mazurka-op-24-no-2)
     - ✔ [Debussy Arabesque Ⅰ](debussy-arabesque-1)
-    - [Mozart Sonata "Facile" Part 1](mozart-sonata-facile-part-1-practice-schema.md)
-- ***1 difficult piece***
-    - For learning.
-    - Not for performing publicly.
-    - [Chopin Ballade Ⅱ](chopin-ballade-2)
-- ***1 hour*** of classical music
-    - ***Repertoire*** building.
-    - ***Entertaining***.
-    - For ***performing***.
-    - For ***variation*** at a local ***get-together***.
-    - Might perform an ***hour*** at a ***event***.
+    - Performing am ***hour*** at a ***event***.
+- ... Studying 1 ***difficult piece***
+    - For learning. Not for performing.
+    -  [Chopin Ballade Ⅱ](chopin-ballade-2)
 - Playing in a ***band***?
     - Not any time soon.
     - Unlikely because of health issues.
