@@ -5,11 +5,11 @@ Goals
 
 [back](./)
 
-- My goal is ***not*** to play the piano ***perfectly***, but more being able 'to ***save myself*** out a situation'.
+- ***Imperfect*** piano playing
+    - I would like to learn ***skills***, to get myself out of a situation.
+    - ***Chords***, ***harmonic insight*** and ***improvisation*** may become key.
     - On any aspect: note reading / memorizing / technique / motor skills / expression / listening / performing.
     - Things may go wrong quite frequently.
-    - I would like to learn ***skills***, to get myself out of a situation.
-    - That might be helped by knowing the ***chords*** and ***harmonic insight*** and ***improvisation***.
 - ✔ ***1 classical piece***
     - ✔ Allowing imperfections.
     - ✔ Performed at a local ***get-together***.
@@ -20,11 +20,11 @@ Goals
     - ✔ [Chopin Mazurka Op. 24, No. 2](chopin-mazurka-op-24-no-2)
     - ✔ [Debussy Arabesque Ⅰ](debussy-arabesque-1)
     - [Mozart Sonata "Facile" Part 1](mozart-sonata-facile-part-1-practice-schema.md)
-- ***1 difficult piece***:
+- ***1 difficult piece***
     - For learning.
     - Not for performing publicly.
     - [Chopin Ballade Ⅱ](chopin-ballade-2)
-- ***1 hour*** 
+- ***1 hour*** of classical music
     - ***Repertoire*** building.
     - ***Entertaining***.
     - For ***performing***.
