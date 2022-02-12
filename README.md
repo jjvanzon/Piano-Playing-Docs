@@ -17,7 +17,7 @@ Contents
 
 - [Goals](goals.md)
 
-    - Some possible goals I might have with my piano playing hobby.
+    - Some goals I might have with my piano playing hobby.
 
 - [Pieces to Play](pieces-to-play.md)
 
