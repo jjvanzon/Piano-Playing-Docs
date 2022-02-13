@@ -1,5 +1,5 @@
-Erik Satie - Gnossienne Ⅰ Sheet Music
-=====================================
+Erik Satie - Gnossienne Ⅰ - Sheet Music
+=======================================
 
 [back](..)
 
