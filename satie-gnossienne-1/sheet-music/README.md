@@ -1,5 +1,7 @@
-Erik Satie - Gnossienne 1 Sheet Music
+Erik Satie - Gnossienne Ⅰ Sheet Music
 =====================================
+
+[back](..)
 
 Copyright-free from MuseScore (Creative Commons License).
 
