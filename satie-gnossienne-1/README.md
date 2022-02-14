@@ -9,7 +9,7 @@ Satie Gnossienne Ⅰ
 
     - Sheet music from a copyright-free source.
 
-- [Sheet Music Simplified](sheet-music-simplified)
+- [Sheet Music Simplified](sheet-music-simplified) `[ Draft ]`
 
     - Sheet music made visually simpler.
 
