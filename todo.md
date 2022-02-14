@@ -16,20 +16,44 @@ TODO
     - [ ] Chopin Ballade Ⅱ
     - [ ] Chopin Mazurka Op. 24, No. 2
 - [ ] Chopin Mazurka Op. 24, No. 2
-    - [ ] Phrase structure intermezzo 1 more detailed.
-    - [ ] Memorizing chords
+    - [ ] Phrase structure intermezzo 1 more detailed?
+    - [ ] Memorizing chords?
     - [ ] See specialized [TODO](chopin-mazurka-op-24-no-2/chopin-mazurka-op-24-no-2-todo.md)
 - [ ] Debussy Arabesque Ⅰ
-    - [ ] __Chords & sheet music__
+    - [ ] Chords & sheet music
     - [ ] See specialized [TODO](debussy-arabesque-1/debussy-arabesque-1-todo.md)
 - [ ] Mozart Sonata Facile KV 545 Part 1 
     - [ ] Simplified sheet music rework
     - [ ] May redo simplified sheet music with non-copyrighted version.
+- [ ] Satie Gnossienne Ⅰ
+    - [ ] Simplifying sheet music
+    - [ ] Chords
+    - [ ] Structure analysis (for memorization)
+    - [ ] Harmonic analysis
+    - [ ] See [studying notes](satie-gnossienne-1/satie-gnossienne-1-studying-notes.md)
 - [ ] Sheet Music Software
     - [ ] Trying "Neuratron AudioScore First" / "Avid Sibelius First"
 - [ ] Learning a piece by ear.
 - [ ] [Nord Piano Sound Selections](nord-piano-4/nord-piano-4-sound-selection-notes.md)
     - [ ] Might become more relevant once I might improvise more.
+
+### 2022-02-03 Brainstorm Styles & Attitudes
+
+- [ ] Perhaps write down what kind of __styles__ and __attitudes__ I have my eye on.
+- [ ] For instance that I do not want to play __perfectly__.
+- [ ] That I would like to __improvise__,
+- [ ] That I would like to do things by __ear__.
+- [ ] That I would like to __change__ things up.
+- [ ] Allow __errors__.
+- [ ] Solve errors by improvising.
+- [ ] Classical __styles__ that are my favorites.
+- [ ] Classical styles, that are not so much at the top of my list.
+- [ ] __Playing style__: not all loud, rhythm rubato/improvised over.
+- [ ] Freely __mixing up__ fragments of pieces creating a sort of mosaic.
+- [ ] Leaving out parts I like less.
+- [ ] Be ok that things do not go perfectly at __recitals__.
+- [ ] The stress of aiming for perfection, seems to harm the quality, cramping me up. So I might just let go of that and see performing as practice, with no aim to deliver the very best performance I could.
+- [ ] That all my aims and __goals__ are __optional__ and allowed to fail, be put on the back burner, be ineffective is ok. The hope things I try might be partly effective, but accumulation of skill is an upward slope. And even if it is not, maybe that's ok too.
 
 ### 2021-11-16 TODO List of Pieces to Play
 
@@ -62,7 +86,7 @@ TODO
     - [ ] Other postures cramp up my forearm.
     - [ ] I would like to crack this puzzle.
 - [ ] Wire in the way: might not improve technique without replacing it
-- [ ] __Piano Motion Symbols idea__
+- [ ] Piano Motion Symbols idea
     - [x] Considering Debussy Arabesque 1 motion annotations.
     - [x] Considering whatever motions comes to mind.
     - [x] Considering "Piano curriculum" doc "Motorische techniek".
@@ -71,7 +95,7 @@ TODO
     - [x] Reorganized Piano folder.
     - [x] Less harsh wording in loose idea docs
     - [x] Digitizing what I have.
-    - [ ] __Systemizing more details.__
+    - [ ] .. Systemizing more details.
     - [ ] Considering left-over things in "Piano Technique Ideas" under "2021-11-27 Brainstorm Motion Notation".
 - [ ] Burgmüller Etudes for technique.
     - [ ] With those I show tension.
