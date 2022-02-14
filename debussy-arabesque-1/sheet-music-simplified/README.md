@@ -10,7 +10,7 @@ Sheet Music Simplified
 
 ### Introduction
 
-Visually simpler. Accidentals always placed near notes, even when part of the key.
+Visually simpler. Accidentals always placed near notes, even when part of the key. Simplified using the following [guidelines](https://jjvanzon.github.io/Piano-Playing-Docs/methods/sheet-music-simplification.html).
 
 ### Preview
 
@@ -31,9 +31,5 @@ Visually simpler. Accidentals always placed near notes, even when part of the ke
 
 Derived from:  
 <a href="https://michaelkravchuk.com/free-piano-sheet-music-first-arabesque-debussy/" target="_blank">Michael Kravchuk - Free Piano Sheet Music – First Arabesque – Debussy</a>
-
-### Method
-
-Simplified using the following [guidelines](https://jjvanzon.github.io/Piano-Playing-Docs/methods/sheet-music-simplification.html).
 
 [back](..)
