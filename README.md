@@ -19,16 +19,17 @@ Contents
     - Some goals I might have with my piano playing hobby.
 - [Pieces to Play](pieces-to-play.md)
     - A list of pieces I play / have played / would like to play.
-- [Chopin Mazurka Op. 24, No. 2](chopin-mazurka-op-24-no-2)
-    - Notes and analyses studying Chopin Mazurka Op. 24, No. 2. May include chord progression, harmonic analysis, phrase structure and an overview scoring myself on the different fragments and aspects of the piece.
-- [Debussy Arabesque Ⅰ](debussy-arabesque-1)
-    - Chord progression and simplified sheet music for Debussy Arabesque Ⅰ.
-- [Mozart Sonata Facile KV 545 Part 1 Practice Schema](mozart-sonata-facile-part-1-practice-schema.md)
-    - An overview scoring myself on different fragments and aspects of this piano piece while studying it.
-- [Chopin Ballade Ⅱ](chopin-ballade-2)
-    - An overview scoring myself on different fragments and aspects of this piano piece while studying it. And a partially worked out phrase / repetition structure.
-- [Satie Gnossienne Ⅰ](satie-gnossienne-1)
-    - Sheet music and studying notes about this piece.
+- Individual pieces:
+    - [Chopin Mazurka Op. 24, No. 2](chopin-mazurka-op-24-no-2)
+        - Notes and analyses studying Chopin Mazurka Op. 24, No. 2. May include chord progression, harmonic analysis, phrase structure and an overview scoring myself on the different fragments and aspects of the piece.
+    - [Debussy Arabesque Ⅰ](debussy-arabesque-1)
+        - Chord progression and simplified sheet music for Debussy Arabesque Ⅰ.
+    - [Mozart Sonata Facile KV 545 Part 1 Practice Schema](mozart-sonata-facile-part-1-practice-schema.md)
+        - An overview scoring myself on different fragments and aspects of this piano piece while studying it.
+    - [Chopin Ballade Ⅱ](chopin-ballade-2)
+        - An overview scoring myself on different fragments and aspects of this piano piece while studying it. And a partially worked out phrase / repetition structure.
+    - [Satie Gnossienne Ⅰ](satie-gnossienne-1)
+        - Sheet music and studying notes about this piece.
 - [Chopin Mazurkas Selection](chopin-mazurka-selection.md)
     - An list of a selection of Chopin Mazurkas. that seemed nice and easier than other pieces. This while looking for something easier to play and easy on the ears too.
 - [Methods](methods)
