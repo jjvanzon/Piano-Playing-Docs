@@ -14,7 +14,7 @@ Visually simpler. Accidentals always placed near notes, even when part of the ke
 
 ### Preview
 
-<img src="debussy-arabesque-1-sheet-music-simplified-preview.jpg" height="250" />
+<img src="debussy-arabesque-1-sheet-music-simplified-preview.jpg" width="460" />
 
 ### Contents
 
@@ -31,5 +31,9 @@ Visually simpler. Accidentals always placed near notes, even when part of the ke
 
 Derived from:  
 <a href="https://michaelkravchuk.com/free-piano-sheet-music-first-arabesque-debussy/" target="_blank">Michael Kravchuk - Free Piano Sheet Music – First Arabesque – Debussy</a>
+
+### Method
+
+Simplified using the following [guidelines](https://jjvanzon.github.io/Piano-Playing-Docs/methods/sheet-music-simplification.html).
 
 [back](..)
