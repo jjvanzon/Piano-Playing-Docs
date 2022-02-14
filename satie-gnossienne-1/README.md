@@ -9,6 +9,10 @@ Satie Gnossienne Ⅰ
 
     - Sheet music from a copyright-free source.
 
+- [Sheet Music Simplified](sheet-music-simplified)
+
+    - Sheet music made visually simpler.
+
 - [Studying Notes](satie-gnossienne-1-studying-notes.md)
 
     - Notes about hills to mount while studying it.

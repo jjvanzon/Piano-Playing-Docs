@@ -24,7 +24,7 @@ Sheet Music Simplification
 - Removing extension bows (and the repeated note).
 - Removing some rest symbols.
 - Removing repeated clefs.
-- Removing 'announcing' clef change 
+- Removing 'announcing' clef change.
 - Simplifying note durations / voicing notation.
 - Adding accidentals (even when part of key) (might take a few hours more).
 - Changing B# => C , Cb => B , E# => F , Fb => E.
