@@ -6,25 +6,28 @@ Goals
 [back](./)
 
 - ***Skill*** learning
-    - Playing the piano ***not perfectly***
-    - With ***skills*** to get myself out of a situation.
+    - Going for ***imperfect*** piano playing.
+    - Obtaining ***skills*** to compensate imperfections.
     - On any aspect: note reading / memorizing / technique / motor skills / expression / listening / performing
-    - Things may go wrong quite frequently.
-    - ***Chords***, ***improvisation*** and ***harmonic insight*** may be key.
+    - Things may go wrong frequently.
+    - ***Improvisation*** might be key (aided by ***chords*** and ***harmonic insight***).
 - ***Performing***
     - ✔ Performed at a local ***get-together***.
-    - ✔ [Chopin Mazurka Op. 24, No. 2](chopin-mazurka-op-24-no-2)
-    - ✔ [Debussy Arabesque Ⅰ](debussy-arabesque-1)
-    - Performing am ***hour*** at a ***event***.
+        - ✔ [Chopin Mazurka Op. 24, No. 2](chopin-mazurka-op-24-no-2)
+        - ✔ [Debussy Arabesque Ⅰ](debussy-arabesque-1)
+    - Performing at the local ***get-together***:
+        - [Mozart Sonata Facile KV 545 Part 1](mozart-sonata-facile-part-1-practice-schema.md)
+        - [Satie Gnossienne Ⅰ](satie-gnossienne-1)
+        - Click [here](performance-preparation.md) for notes.
+    - Performing an ***hour*** of back-ground music at a ***event***.
 - ***Repertoire*** building
     - ***Moderately difficult*** pieces
     - ✔ First ***1*** piece
     - Then ***4*** pieces
     - Build up to an ***hour***
-    - [Mozart Sonata "Facile" Part 1](mozart-sonata-facile-part-1-practice-schema.md)
-    - [Satie Gnossienne Ⅰ](satie-gnossienne-1)
 - ... Studying 1 ***difficult piece***
-    - For learning. Not for performing.
+    - For learning.
+    - Not for performing.
     -  [Chopin Ballade Ⅱ](chopin-ballade-2)
 - Playing in a ***band***?
     - Not any time soon.
