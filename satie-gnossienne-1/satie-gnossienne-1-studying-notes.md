@@ -33,12 +33,13 @@ I told myself to do something with chords and improvising. I might make versions
 - [x] ~~Removing fingering numbers.~~ > Were none.
 - [x] Removing repeated key signatures.
 - [x] ~~Removing 'announcing' key signatures at ends of lines.~~ > Were none.
-- [ ] Removing expression symbols (and pedal symbols, tempo, words, dynamics).
-- [ ] Removing expression bows.
+- [x] Removing expression symbols (and pedal symbols, tempo, words, dynamics).
+- [ ] __Removing expression bows.__
 - [ ] Removing extension bows (and the repeated note).
 - [ ] Removing some rest symbols.
 - [x] Removing repeated clefs.
 - [x] ~~Removing 'announcing' clef change.~~ > Were none.
+- [ ] Adding measure bars if there are none.
 - [ ] Simplifying note durations / voicing notation.
 - [ ] Adding accidentals (even when part of key) (might take a few hours more).
 - [ ] Changing B# => C , Cb => B , E# => F , Fb => E.

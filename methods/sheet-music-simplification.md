@@ -28,6 +28,7 @@ Sheet Music Simplification
 - Simplifying note durations / voicing notation.
 - Adding accidentals (even when part of key) (might take a few hours more).
 - Changing B# => C , Cb => B , E# => F , Fb => E.
+- Adding measure bars if there are none.
 - Adding title (adding the word 'simplified').
 - Adding page numbers (font not too small).
 - Notes small? Try rearranging measures.
