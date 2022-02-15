@@ -3,6 +3,7 @@ Performance Preparation
 
 *JJ van Zon, 2022*
 
+[back](./)
 
 Preparation for Performance on March 4 2022
 -------------------------------------------
@@ -32,3 +33,4 @@ Preparation for Performance on March 4 2022
     - [ ] Making alternative sheet music perhaps.
     - [ ] To aid with (lack of) memorization.
 
+[back](./)
