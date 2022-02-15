@@ -20,6 +20,7 @@ Contents
 - [Pieces to Play](pieces-to-play.md)
     - A list of pieces I play / have played / would like to play.
 - [Performance Preparation](performance-preparation.md)
+    - Preparation notes for the next performance.
 - Individual pieces:
     - [Chopin Mazurka Op. 24, No. 2](chopin-mazurka-op-24-no-2)
         - Notes and analyses studying Chopin Mazurka Op. 24, No. 2. May include chord progression, harmonic analysis, phrase structure and an overview scoring myself on the different fragments and aspects of the piece.
