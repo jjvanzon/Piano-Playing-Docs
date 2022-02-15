@@ -12,16 +12,16 @@ Preparation for Performance on March 4 2022
 - [Mozart Sonata Facile KV 545 Part 1](mozart-sonata-facile-part-1-practice-schema.md)
 - [Satie Gnossienne Ⅰ](satie-gnossienne-1)
 
+### Harder Parts
+
+- Mozarts composition style is steady paced. But steady playing is difficult for me. I like wavy, floating-around play.
+- Desire for technique and expression seem to work against each other. Hoping to strike a balance by recording and self-reviewing.
+
 ### Actions
 
 - [ ] Recording and self-reviewing
 - [ ] Hearing speakers, from audience point of view
 - [ ] Installing monitor speakers
-
-### Harder Parts
-
-- Mozarts composition style is steady paced. But steady playing is difficult for me. I like wavy, floating-around play.
-- Desire for technique and expression seem to work against each other. Hoping to strike a balance by recording and self-reviewing.
 
 ### Piece Details
 

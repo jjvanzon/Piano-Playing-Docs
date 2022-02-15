@@ -13,12 +13,12 @@ Goals
     - ***Improvisation*** might be key (aided by ***chords*** and ***harmonic insight***).
 - ***Performing***
     - ✔ Performed at a local ***get-together***.
-        - ✔ [Chopin Mazurka Op. 24, No. 2](chopin-mazurka-op-24-no-2)
-        - ✔ [Debussy Arabesque Ⅰ](debussy-arabesque-1)
+    - ✔ [Chopin Mazurka Op. 24, No. 2](chopin-mazurka-op-24-no-2)
+    - ✔ [Debussy Arabesque Ⅰ](debussy-arabesque-1)
     - Performing at the local ***get-together***:
-        - [Mozart Sonata Facile KV 545 Part 1](mozart-sonata-facile-part-1-practice-schema.md)
-        - [Satie Gnossienne Ⅰ](satie-gnossienne-1)
-        - Click [here](performance-preparation.md) for notes.
+    - [Mozart Sonata Facile KV 545 Part 1](mozart-sonata-facile-part-1-practice-schema.md)
+    - [Satie Gnossienne Ⅰ](satie-gnossienne-1)
+    - Click [here](performance-preparation.md) for notes.
     - Performing an ***hour*** of back-ground music at a ***event***.
 - ***Repertoire*** building
     - ***Moderately difficult*** pieces
