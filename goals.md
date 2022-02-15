@@ -7,7 +7,7 @@ Goals
 
 - ***Skill*** learning
     - Going for ***imperfect*** piano playing.
-    - Obtaining ***skills*** to compensate imperfections.
+    - Obtaining ***skills*** to compensate.
     - On any aspect: note reading / memorizing / technique / motor skills / expression / listening / performing
     - Things may go wrong frequently.
     - ***Improvisation*** might be key (aided by ***chords*** and ***harmonic insight***).
