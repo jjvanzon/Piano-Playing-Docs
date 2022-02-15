@@ -40,8 +40,6 @@ b is a transposed version of a, with different chords. Basically the minor count
 The 2nd time it repeats, the first chord is sustained slightly longer:  
 a'' - b - a' - b'
 
-Base notes sometimes differ from the chord's fundamental note.
-
 ### Fragment 3: Chorus
 
 The verse (fragment __2__) is always followed by a chorus (fragment __3__).  
@@ -51,8 +49,6 @@ a - a - b - c
 a - a'- b - c  
 The 2nd time with an extension (called fragment __3b__):  
 d
-
-Base notes correspond to the chord's fundamental note.
 
 #### Fragment 3b
 
@@ -68,9 +64,6 @@ Repeating the same chord progression 4 times.
 Structure:  
 a1 - a2 - a3 - a4  
 The melody is a playfully different variation each time.
-
-Base note is mostly the same as the fundamental note of the chord.  
-But for G⁷ the base note used is B (the 2nd note of the chord).
 
 Trying to capture the structure of each melody variation:
 
@@ -89,8 +82,6 @@ a - b - a - c
 a - b - a a' - c'  
 The a' and c' at the melody goes to the left hand (called fragment __5b__).
 
-The base notes are the fundamentals of the chords.
-
 ### Fragment 6: Intermezzo 3
 
 Intermezzo fragment __5__ is directly followed by intermezzo fragment __6__.  
@@ -104,8 +95,5 @@ a - a - b - c'
 (melody octave lower)  
 a - a - b - c  
 a - a - a' - a''
-
-The base notes sometimes divert to a different tone than the fundamental of the chord.  
-But basically because it is the melody.
 
 [back](./)
