@@ -9,7 +9,7 @@ Goals
     - Going for ***imperfect*** piano playing.
     - Obtaining ***skills*** to compensate.
     - On any aspect: note reading / memorizing / technique / motor skills / expression / listening / performing
-    - Things may go wrong frequently.
+    - Things may go wrong.
     - ***Improvisation*** might be key (aided by ***chords*** and ***harmonic insight***).
 - ***Performing***
     - ✔ Performed at a local ***get-together***.
@@ -18,7 +18,7 @@ Goals
     - Performing at the local ***get-together***:
     - [Mozart Sonata Facile KV 545 Part 1](mozart-sonata-facile-part-1-practice-schema.md)
     - [Satie Gnossienne Ⅰ](satie-gnossienne-1)
-    - Click [here](performance-preparation.md) for notes.
+    - Click [here](performance-preparation.md) for notes on performance preparation.
     - Performing an ***hour*** of back-ground music at a ***event***.
 - ***Repertoire*** building
     - ***Moderately difficult*** pieces
@@ -29,12 +29,16 @@ Goals
     - For learning.
     - Not for performing.
     -  [Chopin Ballade Ⅱ](chopin-ballade-2)
+
+Further Future
+--------------
+
 - Playing in a ***band***?
     - Not any time soon.
     - Unlikely because of health issues.
 
-Sub-Goals / Means
------------------
+Sub-Goals / Skill Learning
+---------------------------
 
 - ***Note reading:***
     - May include ***simplifying*** musical score.
