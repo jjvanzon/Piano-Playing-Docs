@@ -32,8 +32,6 @@ Contents
         - An overview scoring myself on different fragments and aspects of this piano piece while studying it. And a partially worked out phrase / repetition structure.
     - [Satie Gnossienne Ⅰ](satie-gnossienne-1)
         - Sheet music and studying notes about this piece.
-- [Chopin Mazurkas Selection](chopin-mazurka-selection.md)
-    - An list of a selection of Chopin Mazurkas. that seemed nice and easier than other pieces. This while looking for something easier to play and easy on the ears too.
 - [Methods](methods)
     - You may find some of my methods of working here.
 - [Nord Piano 4](nord-piano-4)
