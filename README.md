@@ -37,7 +37,7 @@ Contents
 - [Nord Piano 4](nord-piano-4)
     - Lists some of my favorite sounds for my Nord Piano 4 digital piano. Also has planning notes about how I worked on selecting them.
 - [TODO](todo.md)
-    - Perhaps some rough plans about what I might like to do next.
+    - Some rough plans about what I might like to do next.
 - [Links](links.md)
     - Links to possibly useful information.
 - [Resources](resources)
