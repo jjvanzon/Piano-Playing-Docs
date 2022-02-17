@@ -33,20 +33,20 @@ I told myself to do something with chords and improvising. I might make versions
 - [x] ~~Removing fingering numbers.~~ > Were none.
 - [x] Removing repeated key signatures.
 - [x] ~~Removing 'announcing' key signatures at ends of lines.~~ > Were none.
-- [x] Removing expression symbols (and pedal symbols, tempo, words, dynamics).
-- [ ] __Removing expression bows.__
-- [ ] Removing extension bows (and the repeated note).
-- [ ] Removing some rest symbols.
 - [x] Removing repeated clefs.
 - [x] ~~Removing 'announcing' clef change.~~ > Were none.
+- [x] ~~Checking clef change integrity.~~ > Were none.
+- [x] Removing expression symbols (and pedal symbols, tempo, words, dynamics).
+- [x] Removing expression bows.
 - [ ] Adding measure bars if there are none.
+- [ ] Removing extension bows (and the repeated note).
+- [ ] Removing some rest symbols.
 - [ ] Simplifying note durations / voicing notation.
 - [ ] Adding accidentals (even when part of key) (might take a few hours more).
 - [ ] Changing B# => C , Cb => B , E# => F , Fb => E.
 - [ ] Adding title (adding the word 'simplified').
 - [ ] Adding page numbers (font not too small).
 - [ ] Notes small? Try rearranging measures.
-- [x] ~~Checking clef change integrity.~~ > Were none.
 - [ ] Checking copy-paste errors.
 - [ ] Checking by playing the print.
 - [ ] Correcting it.
