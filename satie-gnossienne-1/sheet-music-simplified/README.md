@@ -16,6 +16,6 @@ Visually simpler. Simplified using the following [guidelines](https://jjvanzon.g
 
 ### Contents
 
-- [Satie Gnossienne Ⅰ Sheet Music Simplified Page 1 (png)](satie-gnossienne-1-sheet-music-simplified-page-1.png)
+- [Satie Gnossienne Ⅰ Sheet Music Simplified (png)](satie-gnossienne-1-sheet-music-simplified.png)
 
 [back](..)
