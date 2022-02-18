@@ -6,13 +6,34 @@ Resources
 [back](..)
 
 - [Unicode Characters for Music](unicode-characters-for-music.md)
-- [8th Rest Symbol Picture](8th-rest-symbol.png)
-- [Sharp Symbol](sharp-symbol.png)
-- [Natural Symbol](natural-symbol.png)
 
 Images
 ------
 
+### [8th Rest Symbol Picture](8th-rest-symbol.png)
+
+![8th Rest Symbol Picture](8th-rest-symbol.png)
+
+### [Sharp Symbol](sharp-symbol.png)
+
+![Sharp Symbol](sharp-symbol.png)
+
+### [Natural Symbol](natural-symbol.png)
+
+![Natural Symbol](natural-symbol.png)
+
+### [End Bar](end-bar.png)
+
+![End Bar](end-bar.png)
+
+### [Repeat Bar Left](repeat-bar-left.png)
+
+![Repeat Bar Left](repeat-bar-left.png)
+
+### [Repeat Bar Right](repeat-bar-right.png)
+
+![Repeat Bar Right](repeat-bar-right.png)
+ 
 ### [Photo JJ's Piano Laptop Sheet Music Analysis](photo-jjs-piano-laptop-sheet-music-analysis.jpg)
 
 ![Photo JJ's Piano Laptop Sheet Music Analysis](photo-jjs-piano-laptop-sheet-music-analysis.jpg)
