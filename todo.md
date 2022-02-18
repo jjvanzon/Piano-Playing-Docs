@@ -16,7 +16,6 @@ TODO
     - [ ] Chopin Ballade Ⅱ
     - [ ] Chopin Mazurka Op. 24, No. 2
 - [ ] Chopin Mazurka Op. 24, No. 2
-    - [ ] Phrase structure intermezzo 1 more detailed?
     - [ ] Memorizing chords?
     - [ ] See specialized [TODO](chopin-mazurka-op-24-no-2/chopin-mazurka-op-24-no-2-todo.md)
 - [ ] Debussy Arabesque Ⅰ
