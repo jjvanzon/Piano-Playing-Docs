@@ -42,11 +42,11 @@ I told myself to do something with chords and improvising. I might make versions
 - [x] Adding title (adding the word 'simplified').
 - [x] ~~Adding page numbers (font not too small).~~ > Only 1 page.
 - [x] ~~~Notes small? Try rearranging measures.~~
-- [ ] ... __Simplifying note durations / voicing notation.__
-- [ ] ... __Removing extension bows (and the repeated note).__
-- [ ] ... __Removing some rest symbols.__
-- [ ] Adding accidentals (even when part of key) (might take a few hours more).
-- [ ] Changing B# => C , Cb => B , E# => F , Fb => E.
+- [x] Simplifying note durations / voicing notation.
+- [x] Removing extension bows (and the repeated note).
+- [x] Removing some rest symbols.
+- [ ] ~~Changing B# => C , Cb => B , E# => F , Fb => E.~~ > Were none.
+- [ ] __Adding accidentals__ (even when part of key) (might take a few hours more).
 - [ ] Checking copy-paste errors.
 - [ ] Checking by playing the print.
 - [ ] Correcting it.
