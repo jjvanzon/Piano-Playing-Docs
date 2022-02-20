@@ -22,6 +22,10 @@ Images
 
 ![Flat Symbol](flat-symbol.png)
 
+### [Flat Symbol (Small)](flat-symbol-small.png)
+
+![Flat Symbol (Small)](flat-symbol-small.png)
+
 ### [Natural Symbol](natural-symbol.png)
 
 ![Natural Symbol](natural-symbol.png)
