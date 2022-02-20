@@ -18,6 +18,10 @@ Images
 
 ![Sharp Symbol](sharp-symbol.png)
 
+### [Flat Symbol](flat-symbol.png)
+
+![Flat Symbol](flat-symbol.png)
+
 ### [Natural Symbol](natural-symbol.png)
 
 ![Natural Symbol](natural-symbol.png)
