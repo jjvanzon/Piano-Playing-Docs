@@ -25,8 +25,6 @@ Also copyright free (Creative Commons License):
 
 ### Source
 
-- <a target="_blank" rel="noopener noreferrer" href="https://musescore.com/user/38297865/scores/6728607">Source</a>
-- <a target="_blank" rel="noopener noreferrer" href="https://creativecommons.org/publicdomain/zero/1.0/">license</a>
-- <a target="_blank" rel="noopener noreferrer" href="https://creativecommons.org/publicdomain/zero/1.0/legalcode">full legal text</a>
+- <a target="_blank" rel="noopener noreferrer" href="https://musescore.com/user/38297865/scores/6728607">Source</a> / <a target="_blank" rel="noopener noreferrer" href="https://creativecommons.org/publicdomain/zero/1.0/">license</a> / <a target="_blank" rel="noopener noreferrer" href="https://creativecommons.org/publicdomain/zero/1.0/legalcode">full legal text</a>
 
 [back](..)
