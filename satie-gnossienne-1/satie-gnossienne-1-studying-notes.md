@@ -45,8 +45,8 @@ I told myself to do something with chords and improvising. I might make versions
 - [x] Simplifying note durations / voicing notation.
 - [x] Removing extension bows (and the repeated note).
 - [x] Removing some rest symbols.
-- [ ] ~~Changing B# => C , Cb => B , E# => F , Fb => E.~~ > Were none.
-- [ ] __Adding accidentals__ (even when part of key) (might take a few hours more).
+- [x] ~~Changing B# => C , Cb => B , E# => F , Fb => E.~~ > Were none.
+- [x] Adding accidentals (even when part of key) (might take a few hours more).
 - [ ] Checking copy-paste errors.
 - [ ] Checking by playing the print.
 - [ ] Correcting it.
