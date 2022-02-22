@@ -5,21 +5,28 @@ Goals
 
 [back](./)
 
-- ***Repertoire*** building.
-    - See [Pieces to Play](pieces-to-play.md)
-- ***Performing***
-    - Performing at a local ***get-together***:
-    - [Performance preparation notes](performance-preparation.md)
-    - Eventually an ***hour*** of back-ground music at a ***event***.
-- ***Skill*** learning
-    - Going for ***imperfect*** piano playing.
-    - Obtaining ***skills*** to compensate.
-    - On any aspect: note reading / memorizing / technique / motor skills / expression / listening / performing
-    - Things may go wrong.
-    - ***Improvisation*** might be key.
+Repertoire Building
+----------------------
+
+- See [Pieces to Play](pieces-to-play.md)
+
+Performing
+----------
+
+- Performing at a local ***get-together***:
+- [Performance preparation notes](performance-preparation.md)
+- Eventually an ***hour*** of back-ground music at a ***event***.
 
 Skill Learning
 --------------
+
+Philosophy:
+
+- Going for ***imperfect*** piano playing.
+- Obtaining ***skills*** to compensate.
+- On any aspect: note reading / memorizing / technique / motor skills / expression / listening / performing
+- Things may go wrong.
+- ***Improvisation*** might be key.
 
 Current focus:
 
