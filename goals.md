@@ -13,7 +13,7 @@ Repertoire Building
 Performing
 ----------
 
-- [Performance preparation notes](performance-preparation.md)
+- See [Performance preparation notes](performance-preparation.md)
 - Performing at a local ***get-together***:
 - Eventually an ***hour*** of back-ground music at a ***event***.
 

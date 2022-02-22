@@ -17,9 +17,9 @@ Repertoire
 |  ✔   |  ✔     | [Chopin Mazurka Op. 24, No. 2](chopin-mazurka-op-24-no-2)             | Easy listening | Medium     | 👍   | 4 pg  | 2:15  | <a href="https://open.spotify.com/track/7CWKqmNX02HdI6C7i1naOb?si=d0328f7a6ff14755" target="_blank" rel="noopener noreferrer">Spotify Idil Biret</a>
 |  ✔   |  ✔     | [Debussy Arabesque Ⅰ](debussy-arabesque-1)                            | Atmospheric    | Medium     | 👍   | 5 pg  | 6:00  | <a href="https://open.spotify.com/track/3jN9cfOSZtfDQLhmaOcNt8?si=a47ae324b5ec4060" target="_blank" rel="noopener noreferrer">Spotify Axel Gillison</a>
 |  ✔   |  ...    | [Mozart Sonata Facile KV 545 Part 1](mozart-sonata-facile-part-1.md) | Easy listening | Medium     | 👍   | 5 pg  | 5:20  | <a href="https://youtu.be/qjk-YRuQZDE" target="_blank" rel="noopener noreferrer">YouTube Rousseau</a>
-|  ✔   |  ...    | [Satie Gnossienne Ⅰ](satie-gnossienne-1)                             | Atmospheric    | Easier     | 🆗   |       | 4:00  | <a href="https://youtu.be/lqZehFAwoTM" target="_blank" rel="noopener noreferrer">YouTube The Flaming Piano</a> <a href="https://open.spotify.com/track/2xDvCPTcgnm9jHPsiPDBf1?si=c170ccabc02944ee" target="_blank" rel="noopener noreferrer">Spotify Hélène Grimaud</a>
+|  ✔   |  ...    | [Satie Gnossienne Ⅰ](satie-gnossienne-1)                             | Atmospheric    | Easier     | 🆗   | 2 pg  | 4:00  | <a href="https://youtu.be/lqZehFAwoTM" target="_blank" rel="noopener noreferrer">YouTube The Flaming Piano</a> <a href="https://open.spotify.com/track/2xDvCPTcgnm9jHPsiPDBf1?si=c170ccabc02944ee" target="_blank" rel="noopener noreferrer">Spotify Hélène Grimaud</a>
 |  ...  |         | [Chopin Ballade Ⅱ](chopin-ballade-2)                                | Heavy          | Hard       | 👍   | 9 pg  | 7:30  | <a href="https://open.spotify.com/track/6sNr7Fr9JTnK2lbRGd9Jem?si=6a45287bbca24c1a" target="_blank" rel="noopener noreferrer">Spotify Yundi</a>
-|       |         | ~ Chopin Polonaise in E flat minor Op. 26, No. 2                    |  Heavy         | Hard       | 💔   |       | 8:00  | <a href="https://youtu.be/GLElxJ_tdW0" target="_blank" rel="noopener noreferrer">YouTube</a><a href="https://youtu.be/LsBKfIB8HOk" target="_blank" rel="noopener noreferrer">YouTube Anastasia Huppmann</a>
+|       |         | ~ Chopin Polonaise in E flat minor Op. 26, No. 2                    |  Heavy         | Hard       | 💔   |       | 8:00  | <a href="https://youtu.be/GLElxJ_tdW0" target="_blank" rel="noopener noreferrer">YouTube</a>, <a href="https://youtu.be/LsBKfIB8HOk" target="_blank" rel="noopener noreferrer">YouTube Anastasia Huppmann</a>
 
 ### Remarks
 
@@ -46,7 +46,7 @@ Might Like to Play
 | Chopin Nocturne Op. 48, No. 2                           | Atmospheric    | Medium     |      | 7 pg  |  7:20 | <a href="https://open.spotify.com/track/5Dma4YmN7SNiut0nl8nOVF?si=6c04035b3165488f" target="_blank" rel="noopener noreferrer">Spotify Maria João Pires</a>
 | Chopin Nocturne Op. 55, No. 2                           | Atmospheric    | Medium     |      | 6 pg  |  6:00 | <a href="https://open.spotify.com/track/1QBaOzhMlaWx9zQZIEmJFx?si=b8b6c2718cce4f69" target="_blank" rel="noopener noreferrer">Spotify Lang Lang</a>
 | Debussy Rêverie                                         | Atmospheric    | Medium     |      |       |  5:00 | <a href="https://youtu.be/3cYMvB3rgzQ" target="_blank" rel="noopener noreferrer">YouTube Paul Barton</a>
-| Schubert/Liszt Ave Maria                                | Atmospheric    | Medium     | 💔   |       |  5:00 | <a href="https://youtu.be/RCucnn-95nY" target="_blank" rel="noopener noreferrer">YouTube Valentina Lisitsa</a><a href="https://open.spotify.com/track/2GeAvEElKwEgy4PA13SGvH?si=81b468e082f54ed6" target="_blank" rel="noopener noreferrer">Spotify Idil Biret</a>
+| Schubert/Liszt Ave Maria                                | Atmospheric    | Medium     | 💔   |       |  5:00 | <a href="https://youtu.be/RCucnn-95nY" target="_blank" rel="noopener noreferrer">YouTube Valentina Lisitsa</a>, <a href="https://open.spotify.com/track/2GeAvEElKwEgy4PA13SGvH?si=81b468e082f54ed6" target="_blank" rel="noopener noreferrer">Spotify Idil Biret</a>
 | Chopin Prelude Op. 45                                   | Melancholic    | Medium     |      |       |  5:45 | <a href="https://open.spotify.com/track/7MBnLWnRoUCRTl57d2pn47?si=43be25c851384df9" target="_blank" rel="noopener noreferrer">Spotify Joaquín Achúcarro</a>
 | Chopin Mazurka Op. 41, No. 1                            | Melancholic    | Medium     |      | 2 pg  |  2:30 | <a href="https://youtu.be/rr4_MijijFk" target="_blank" rel="noopener noreferrer">YouTube Arthur Greene</a>
 |                                                         |                |            |      |       |       | 
@@ -62,7 +62,7 @@ Might Like to Play
 | ~ Chopin Ballade Ⅳ                                     | Heavy          | Hard       |      |       | 11:30 | <a href="https://youtu.be/3F5glYefwio" target="_blank" rel="noopener noreferrer">YouTube Rousseau</a>
 | ~ [Chopin Mazurkas](chopin-mazurka-selection.md)        | 
 
-Not sure, other family member may have played:
+Not sure, someone else may have played:
 
 | Name                                                    | Mood           | Difficulty | Nice | Pages | Durat | Media 
 |---------------------------------------------------------|----------------|------------|:----:|------:|------:|-----
@@ -193,7 +193,7 @@ May Once Have Played
 | Hanon "The Virtuoso Pianist" No. 10                               | Exercise       | Medium     |      |  1 pg | 0:45 | <a href="https://www.youtube.com/watch?v=9bHBmtjLedo&t=403s" target="_blank" rel="noopener noreferrer">YouTube Alan Chan</a>
 | Hanon "The Virtuoso Pianist" No. 11                               | Exercise       | Medium     |      |  1 pg | 0:45 | <a href="https://www.youtube.com/watch?v=9bHBmtjLedo&t=448s" target="_blank" rel="noopener noreferrer">YouTube Alan Chan</a>
 
-Not sure, other family member may have played:
+Not sure, someone else may have played:
 
 | Name                                                              | Mood           | Difficulty | Nice | Pages | Durat | Media 
 |-------------------------------------------------------------------|----------------|------------|:----:|------:|------:|-----
