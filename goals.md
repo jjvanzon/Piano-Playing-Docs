@@ -6,19 +6,24 @@ Goals
 [back](./)
 
 Repertoire Building
-----------------------
+-------------------
 
 - See [Pieces to Play](pieces-to-play.md)
 
 Performing
 ----------
 
-- Performing at a local ***get-together***:
 - [Performance preparation notes](performance-preparation.md)
+- Performing at a local ***get-together***:
 - Eventually an ***hour*** of back-ground music at a ***event***.
 
 Skill Learning
 --------------
+
+Current focus:
+
+- Balancing ***technique & expression***.  
+- ***Chords***, harmony, improvisation.
 
 Philosophy:
 
@@ -27,11 +32,6 @@ Philosophy:
 - On any aspect: note reading / memorizing / technique / motor skills / expression / listening / performing
 - Things may go wrong.
 - ***Improvisation*** might be key.
-
-Current focus:
-
-- Balancing ***technique & expression***.  
-- ***Chords***, harmony, improvisation.
 
 Other skills:
 
