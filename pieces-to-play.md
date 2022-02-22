@@ -1,3 +1,5 @@
+<style type="text/css" rel="stylesheet"> section, .wrapper { max-width:100% } </style>
+
 Pieces to Play
 ==============
 
@@ -9,6 +11,9 @@ A list of pieces I play / have played / would like to play. Links to performance
 
 Repertoire
 ----------
+
+Lrn = Learned / learning  
+Pfm = Performed / performing
 
 | Lrn | Pfm | Name                                                                 | Mood           | Difficulty | Nice | Pages | Durat | Media
 |-----|-----|----------------------------------------------------------------------|----------------|------------|:----:|------:|------:|-----
