@@ -13,7 +13,7 @@ Repertoire
 ----------
 
 | Learn | Perform | Name                                                                  | Mood           | Difficulty | Nice | Pages | Durat | Media
-|-------|---------|-----------------------------------------------------------------------|----------------|------------|:- --:|------:|------:|-----
+|-------|---------|-----------------------------------------------------------------------|----------------|------------|:----:|------:|------:|-----
 |  ✔   |  ✔     | [Chopin Mazurka Op. 24, No. 2](chopin-mazurka-op-24-no-2)             | Easy listening | Medium     | 👍   | 4 pg  | 2:15  | <a href="https://open.spotify.com/track/7CWKqmNX02HdI6C7i1naOb?si=d0328f7a6ff14755" target="_blank" rel="noopener noreferrer">Spotify Idil Biret</a>
 |  ✔   |  ✔     | [Debussy Arabesque Ⅰ](debussy-arabesque-1)                            | Atmospheric    | Medium     | 👍   | 5 pg  | 6:00  | <a href="https://open.spotify.com/track/3jN9cfOSZtfDQLhmaOcNt8?si=a47ae324b5ec4060" target="_blank" rel="noopener noreferrer">Spotify Axel Gillison</a>
 |  ✔   |  ...    | [Mozart Sonata Facile KV 545 Part 1](mozart-sonata-facile-part-1.md) | Easy listening | Medium     | 👍   | 5 pg  | 5:20  | <a href="https://youtu.be/qjk-YRuQZDE" target="_blank" rel="noopener noreferrer">YouTube Rousseau</a>
@@ -37,7 +37,7 @@ Might Like to Play
 | Beethoven Sonata Op.27 No.2 Mov. 1 ("Moonlight Sonata") | Melancholic    | Easier     |      |       |  5:25 | <a href="https://open.spotify.com/track/1UNzT19U7L0sC6d03L7MwT?si=0bf09cebe7a24dfe" target="_blank" rel="noopener noreferrer">Spotify Hélène Grimaud</a>
 | Chopin Prelude Op. 28, No. 4                            | Melancholic    | Easier     |      |       |  2:45 | <a href="https://open.spotify.com/track/3XwL5sEvTzT6yzlFFsQCEl?si=a2714069d3fd4c71" target="_blank" rel="noopener noreferrer">Spotify Khatia Buniatishvili</a>
 | Chopin Waltz BI 46                                      | Easy listening | Easier     | 👍   | 3 pg  |  2:40 | <a href="https://open.spotify.com/track/5GOZTE8cNUGdpmCJvcFR3P?si=b9ae7665e95a4df2" target="_blank" rel="noopener noreferrer">Spotify Abbey Simon</a>
-| `--------`                                              |                |            |      |       |       | 
+|                                                         |                |            |      |       |       | 
 | Chopin Prelude Op. 28, No. 17                           | Easy listening | Medium     | 👍   |       |  3:20 | <a href="https://open.spotify.com/track/31RR1orCjQp0nrl3bOHrZL?si=efacf06c03ec49ab" target="_blank" rel="noopener noreferrer">Spotify Yundi</a>
 | Chopin Waltz in A flat major Op. 34, No. 1              | Easy listening | Medium     | 👍   |       |  5:00 | <a href="https://youtu.be/MS5pov3xu94" target="_blank" rel="noopener noreferrer">YouTube Ingolf Wunder</a>
 | Chopin Etude Op. 10, No. 3 in E ("Tristesse")           | Atmospheric    | Medium     |      |       |  4:30 | <a href="https://youtu.be/efUpNxQPLMU" target="_blank" rel="noopener noreferrer">YouTube Mei-Ting Sun</a>
@@ -49,13 +49,13 @@ Might Like to Play
 | Schubert/Liszt Ave Maria                                | Atmospheric    | Medium     | 💔   |       |  5:00 | <a href="https://youtu.be/RCucnn-95nY" target="_blank" rel="noopener noreferrer">YouTube Valentina Lisitsa</a><br/><a href="https://open.spotify.com/track/2GeAvEElKwEgy4PA13SGvH?si=81b468e082f54ed6" target="_blank" rel="noopener noreferrer">Spotify Idil Biret</a>
 | Chopin Prelude Op. 45                                   | Melancholic    | Medium     |      |       |  5:45 | <a href="https://open.spotify.com/track/7MBnLWnRoUCRTl57d2pn47?si=43be25c851384df9" target="_blank" rel="noopener noreferrer">Spotify Joaquín Achúcarro</a>
 | Chopin Mazurka Op. 41, No. 1                            | Melancholic    | Medium     |      | 2 pg  |  2:30 | <a href="https://youtu.be/rr4_MijijFk" target="_blank" rel="noopener noreferrer">YouTube Arthur Greene</a>
-| `--------`                                              |                |            |      |       |       | 
+|                                                         |                |            |      |       |       | 
 | Chopin Grand Polonaise Brillante Op. 22                 | Easy listening | Hard       |      |       |  9:00 | <a href="https://youtu.be/IDmCkUMO9f4" target="_blank" rel="noopener noreferrer">YouTube Charles Richard-Hamelin</a>
 | Chopin Etude Op. 25, No. 1 ("Harp Study")               | Atmospheric    | Hard       |      |       |  2:00 | <a href="https://youtu.be/OKokquds2_M" target="_blank" rel="noopener noreferrer">YouTube Totothoven</a>
 | Liszt Liebestraum No. 3                                 | Atmospheric    | Hard       | 🧡   |       |  4:30 | <a href="https://youtu.be/FNu3bkFi_IY" target="_blank" rel="noopener noreferrer">YouTube Piano Sandbox</a>
 | Chopin Etude Op. 25, No. 12 ("Ocean")                   | Heavy          | Hard       |      |       |  2:30 | <a href="https://youtu.be/pRlHKQXjzZY" target="_blank" rel="noopener noreferrer">YouTube Rousseau</a>
 | Chopin Scherzo Op. 31, No. 2                            | Heavy          | Hard       |      |       | 10:00 | <a href="https://youtu.be/OCUSalQf-jY" target="_blank" rel="noopener noreferrer">YouTube Seong-Jin Cho</a>
-| `--------`                                              |                |            |      |       |       | 
+|                                                         |                |            |      |       |       | 
 | ~ Chopin Etude Op. 25, No. 11 ("Winter Wind")           | Heavy          | Hard       |      |       |  4:00 | <a href="https://youtu.be/gZjdAWgjLx8" target="_blank" rel="noopener noreferrer">YouTube Rousseau</a>
 | ~ Chopin Ballade I                                      | Heavy          | Hard       |      |       |  9:45 | <a href="https://youtu.be/Zj_psrTUW_w" target="_blank" rel="noopener noreferrer">YouTube Rousseau</a>
 | ~ Chopin Ballade Ⅲ                                     | Heavy          | Hard       |      |       |  7:00 | <a href="https://youtu.be/KyDROgxgV0Y" target="_blank" rel="noopener noreferrer">YouTube SubitoPiano</a>
