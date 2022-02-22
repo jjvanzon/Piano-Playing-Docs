@@ -23,7 +23,7 @@ Repertoire
 
 ### Remarks
 
-- Preferring ***Moderately difficult*** pieces
+- Preferring moderately difficult pieces.
 - [Chopin Ballade Ⅱ](chopin-ballade-2) • for studying • not for performing
 
 Might Like to Play
