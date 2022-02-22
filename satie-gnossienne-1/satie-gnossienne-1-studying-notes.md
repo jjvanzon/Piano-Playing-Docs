@@ -47,7 +47,7 @@ I told myself to do something with chords and improvising. I might make versions
 - [x] Removing some rest symbols.
 - [x] ~~Changing B# => C , Cb => B , E# => F , Fb => E.~~ > Were none.
 - [x] Adding accidentals (even when part of key) (might take a few hours more).
-- [ ] __Correcting spacing__
+- [x] Correcting spacing
 - [ ] Checking copy-paste errors.
 - [ ] Checking by playing the print.
 - [ ] Correcting it.
