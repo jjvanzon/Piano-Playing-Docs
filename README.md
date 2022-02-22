@@ -26,7 +26,7 @@ Contents
         - Notes and analyses studying Chopin Mazurka Op. 24, No. 2. May include chord progression, harmonic analysis, phrase structure and an overview scoring myself on the different fragments and aspects of the piece.
     - [Debussy Arabesque Ⅰ](debussy-arabesque-1)
         - Chord progression and simplified sheet music for Debussy Arabesque Ⅰ.
-    - [Mozart Sonata Facile KV 545 Part 1 Practice Schema](mozart-sonata-facile-part-1-practice-schema.md)
+    - [Mozart Sonata Facile KV 545 Part 1 Practice Schema](mozart-sonata-facile-part-1.md)
         - An overview scoring myself on different fragments and aspects of this piano piece while studying it.
     - [Chopin Ballade Ⅱ](chopin-ballade-2)
         - An overview scoring myself on different fragments and aspects of this piano piece while studying it. And a partially worked out phrase / repetition structure.

@@ -7,17 +7,22 @@ Pieces to Play
 
 A list of pieces I play / have played / would like to play. Links to performances are not me. Some data are just guesses or opinion.
 
-Studying
---------
+Repertoire
+----------
 
-| Name                                              | Mood           | Difficulty | Nice | Pages | Durat | Media
-|---------------------------------------------------|----------------|------------|:----:|------:|------:|------
-| Chopin Mazurka Op. 24, No. 2                      | Easy listening | Medium     | 👍   | 4 pg | 2:15  | <a href="https://open.spotify.com/track/7CWKqmNX02HdI6C7i1naOb?si=d0328f7a6ff14755" target="_blank" rel="noopener noreferrer">Spotify Idil Biret</a>
-| Debussy Arabesque Ⅰ                               | Atmospheric    | Medium     | 👍   | 5 pg | 6:00  | <a href="https://open.spotify.com/track/3jN9cfOSZtfDQLhmaOcNt8?si=a47ae324b5ec4060" target="_blank" rel="noopener noreferrer">Spotify Axel Gillison</a>
-| Mozart Sonata "Facile" in C major part 1 (KV 545) | Easy listening | Medium     | 👍   | 5 pg | 5:20 | <a href="https://youtu.be/qjk-YRuQZDE" target="_blank" rel="noopener noreferrer">YouTube Rousseau</a>
-| Chopin Ballade Ⅱ                                  | Heavy          | Hard       | 👍   | 9 pg | 7:30  | <a href="https://open.spotify.com/track/6sNr7Fr9JTnK2lbRGd9Jem?si=6a45287bbca24c1a" target="_blank" rel="noopener noreferrer">Spotify Yundi</a>
-| Satie Gnossienne Ⅰ                                | Atmospheric    | Easier     | 🆗   |      | 4:00 | <a href="https://youtu.be/lqZehFAwoTM" target="_blank" rel="noopener noreferrer">YouTube The Flaming Piano</a> <a href="https://open.spotify.com/track/2xDvCPTcgnm9jHPsiPDBf1?si=c170ccabc02944ee" target="_blank" rel="noopener noreferrer">Spotify Hélène Grimaud</a>
-| ~ Chopin Polonaise in E flat minor Op. 26, No. 2  | Heavy          | Hard       | 💔   |      | 8:00 | <a href="https://youtu.be/GLElxJ_tdW0" target="_blank" rel="noopener noreferrer">YouTube</a><br/><a href="https://youtu.be/LsBKfIB8HOk" target="_blank" rel="noopener noreferrer">YouTube Anastasia Huppmann</a>
+| Lrn | Pfm | Name                                                                 | Mood           | Difficulty | Nice | Pages | Durat | Media
+|-----|-----|----------------------------------------------------------------------|----------------|------------|:----:|------:|------:|-----
+| ✔  | ✔  | [Chopin Mazurka Op. 24, No. 2](chopin-mazurka-op-24-no-2)            | Easy listening | Medium     | 👍   | 4 pg | 2:15  | <a href="https://open.spotify.com/track/7CWKqmNX02HdI6C7i1naOb?si=d0328f7a6ff14755" target="_blank" rel="noopener noreferrer">Spotify Idil Biret</a>
+| ✔  | ✔  | [Debussy Arabesque Ⅰ](debussy-arabesque-1)                           | Atmospheric    | Medium     | 👍   | 5 pg | 6:00  | <a href="https://open.spotify.com/track/3jN9cfOSZtfDQLhmaOcNt8?si=a47ae324b5ec4060" target="_blank" rel="noopener noreferrer">Spotify Axel Gillison</a>
+| ✔  | ... | [Mozart Sonata Facile KV 545 Part 1](mozart-sonata-facile-part-1.md) | Easy listening | Medium     | 👍   | 5 pg | 5:20 | <a href="https://youtu.be/qjk-YRuQZDE" target="_blank" rel="noopener noreferrer">YouTube Rousseau</a>
+| ✔  | ... | [Satie Gnossienne Ⅰ](satie-gnossienne-1)                             | Atmospheric    | Easier     | 🆗   |      | 4:00 | <a href="https://youtu.be/lqZehFAwoTM" target="_blank" rel="noopener noreferrer">YouTube The Flaming Piano</a> <a href="https://open.spotify.com/track/2xDvCPTcgnm9jHPsiPDBf1?si=c170ccabc02944ee" target="_blank" rel="noopener noreferrer">Spotify Hélène Grimaud</a>
+| ... |     | [Chopin Ballade Ⅱ](chopin-ballade-2)                                 | Heavy          | Hard       | 👍   | 9 pg | 7:30  | <a href="https://open.spotify.com/track/6sNr7Fr9JTnK2lbRGd9Jem?si=6a45287bbca24c1a" target="_blank" rel="noopener noreferrer">Spotify Yundi</a>
+|     |     | ~ Chopin Polonaise in E flat minor Op. 26, No. 2                     |  Heavy          | Hard       | 💔   |      | 8:00 | <a href="https://youtu.be/GLElxJ_tdW0" target="_blank" rel="noopener noreferrer">YouTube</a><br/><a href="https://youtu.be/LsBKfIB8HOk" target="_blank" rel="noopener noreferrer">YouTube Anastasia Huppmann</a>
+
+### Remarks
+
+- Preferring ***Moderately difficult*** pieces
+- [Chopin Ballade Ⅱ](chopin-ballade-2) • for studying • not for performing
 
 Might Like to Play
 ------------------

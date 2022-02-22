@@ -5,30 +5,18 @@ Goals
 
 [back](./)
 
+- ***Repertoire*** building.
+    - See [Pieces to Play](pieces-to-play.md)
+- ***Performing***
+    - Performing at a local ***get-together***:
+    - [Performance preparation notes](performance-preparation.md)
+    - Eventually an ***hour*** of back-ground music at a ***event***.
 - ***Skill*** learning
     - Going for ***imperfect*** piano playing.
     - Obtaining ***skills*** to compensate.
     - On any aspect: note reading / memorizing / technique / motor skills / expression / listening / performing
     - Things may go wrong.
-    - ***Improvisation*** might be key (aided by ***chords*** and ***harmonic insight***).
-- ***Performing***
-    - ✔ Performed at a local ***get-together***.
-    - ✔ [Chopin Mazurka Op. 24, No. 2](chopin-mazurka-op-24-no-2)
-    - ✔ [Debussy Arabesque Ⅰ](debussy-arabesque-1)
-    - Performing at the local ***get-together***:
-    - [Mozart Sonata Facile KV 545 Part 1](mozart-sonata-facile-part-1-practice-schema.md)
-    - [Satie Gnossienne Ⅰ](satie-gnossienne-1)
-    - Click [here](performance-preparation.md) for notes on performance preparation.
-    - Performing an ***hour*** of back-ground music at a ***event***.
-- ***Repertoire*** building
-    - ***Moderately difficult*** pieces
-    - ✔ First ***1*** piece
-    - Then ***4*** pieces
-    - Build up to an ***hour***
-- ... Studying 1 ***difficult piece***
-    - For learning.
-    - Not for performing.
-    -  [Chopin Ballade Ⅱ](chopin-ballade-2)
+    - ***Improvisation*** might be key.
 
 Further Future
 --------------
@@ -38,7 +26,7 @@ Further Future
     - Unlikely because of health issues.
 
 Sub-Goals / Skill Learning
----------------------------
+--------------------------
 
 - ***Note reading:***
     - May include ***simplifying*** musical score.

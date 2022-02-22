@@ -10,7 +10,7 @@ Preparation for Performance on March 4, 2022
 
 ### Pieces
 
-- [Mozart Sonata Facile KV 545 Part 1](mozart-sonata-facile-part-1-practice-schema.md)
+- [Mozart Sonata Facile KV 545 Part 1](mozart-sonata-facile-part-1.md)
 - [Satie Gnossienne Ⅰ](satie-gnossienne-1)
 
 ### Actions
