@@ -18,15 +18,15 @@ Goals
     - Things may go wrong.
     - ***Improvisation*** might be key.
 
-Further Future
+Skill Learning
 --------------
 
-- Playing in a ***band***?
-    - Not any time soon.
-    - Unlikely because of health issues.
+Current focus:
 
-Sub-Goals / Skill Learning
---------------------------
+- Balancing ***technique & expression***.  
+- ***Chords***, harmony, improvisation.
+
+Other skills:
 
 - ***Note reading:***
     - May include ***simplifying*** musical score.
@@ -61,5 +61,11 @@ I have had this piano playing hobby for quite some years since youth. I have had
 I have autism and health problems both physical and mentally. That may limit what I might achieve. Things may work differently for me. I might adapt the way I approach things, to what seems to work better for me.
 
 The music hobby may be a way to therapeutically train (cognitive) capabilities that have diminished.
+
+Further Future
+--------------
+
+Playing in a ***band***?  
+Not any time soon. Unlikely because of health issues.
 
 [back](./)
