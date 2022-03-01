@@ -24,12 +24,12 @@ String resonance seems to matters (Lrg size has it).
 |  8-D  | Mid tones | Amber Upright             | XL nice, subtler than Lrg
 |  8-D  | Soft      | Mellow Upright            | XL nice, quite more subtle than Lrg and worth it
 |  :-D  | Soft      | Velvet Grand              | Only XL seems nice
-|  :-D  | Soft      | Beethoven FortePBroadwood | Characterful, XL matters (vs Sml), Lgr sounds similar
 |  :-)  | Mid tones | Grand Imperial            | XL matters (vs Sml), Mid tones harsh, EQ difficult
 |  :-)  | Bright    | Grand Upright             | XL string resonance nice
 |  :-)  | Bright    | Baby Upright              | Characterful, XL matters (vs Sml)
-|  :-)  | Bright    | Italian Grand             | XL adds depth (vs Sml)
+|  :-D  | Soft      | Beethoven FortePBroadwood | Characterful, XL matters (vs Sml), Lgr sounds similar
 |  :-)  | Soft      | Bambino Upright           | Characterful, XL matters a bit (vs Sml)
+|  :-)  | Bright    | Italian Grand             | XL adds depth (vs Sml)
 |  :-)  | Soft      | Mozart FortePno           | Characterful
 |  :-)  | Detuned   | / Steinway No 1           | Characterful a bit, Lrg only
 
@@ -58,8 +58,8 @@ Made the following bundles with piano sound selections (np4pbundle files).
 They all may take up most of the 1 GB memory for piano sounds.
 
 1. Pianos Very Most Favorite XL (Royal, Silver, Amber, Mellow, Velvet)
-2. Pianos Favorites XL & Lrg (Royal XL, Silver Lrg, Amber XL, Mellow XL, Velvet XL, Beethoven Lrg)
-3. Pianos Nice Ones Lrg (Royal, Silver, Amber, Mellow, Beethoven, Imperial, Grand Upright, Bambino, Baby, Italian)
+2. Pianos Favorites XL & Lrg (Royal XL, Silver Lrg, Amber XL, Mellow XL, Velvet XL, Imperial Lrg)
+3. Pianos Nice Ones Lrg (Royal, Silver, Amber, Mellow, Imperial, Grand Upright, Baby, Beethoven, Bambino, Italian)
 4. Pianos Nice Ones Med Mostly (Roy M, Sil M, Amb M, Mel M, Beeth M, GrdUpr M, It M, Imp M, Bamb M, Baby M, Stein XL, Moz S)
 5. Pianos Many Small Versions (Roy Sil Amb Mel Vel Beeth GrdUpr It Imp Bamb Baby Moz Wht Bri Stu1 ConcAmb Stu2 Queen Lady Rom BluSw Black)
 6. Pianos Characterful XL (Beethoven, Bambino, Baby, Steinway, Mozart) and 3 Favorites Lrg (Royal, Silver, Mellow)
