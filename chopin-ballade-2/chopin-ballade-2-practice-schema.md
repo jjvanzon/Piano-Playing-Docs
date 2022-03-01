@@ -52,6 +52,20 @@ Click [here](https://jjvanzon.github.io/Piano-Playing-Docs/methods/practice-sche
 | __1c__   | - - - 8 - | - - - 8 - | - - - 8 - | - - 5 - - |
 | __19__   | - - 5 - - | - - - 8 - | - - - 8 - | - 2 - - - |
 
+### Technique / Slow Practice.
+
+- The way I tend to do it, like before, seems to fail.
+- It seems the mind needs to follow the notes.
+- Slow practice works.
+- Then adding pace a bit. Bit faster than 'slow' is already good enough.
+- Then adding pedal end dynamic / expressive nuance.
+- Ever so slightly goes a long way.
+- Not 'loud with body'.
+- Not fast with haste.
+- If it happens, let it be an exception.
+- It may lead to an OK performance counter-intuitively.
+- But the way I used did it seems wrong. It won't work, it seems.
+
 ### Fragment 2 'Roll Downward' Technique
 
 - Some variations, the control / memory of notes seem less than desirable.
@@ -79,7 +93,7 @@ Click [here](https://jjvanzon.github.io/Piano-Playing-Docs/methods/practice-sche
 
 ### Fragments 16a - 18 'Coda' Technique
 
-- Eye movement matters.
+- Eye movement may matter.
 - Loud influences accuracy.
 - Awareness of body weakened.  
 
