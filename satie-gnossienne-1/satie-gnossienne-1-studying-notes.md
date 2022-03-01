@@ -48,10 +48,10 @@ I told myself to do something with chords and improvising. I might make versions
 - [x] ~~Changing B# => C , Cb => B , E# => F , Fb => E.~~ > Were none.
 - [x] Adding accidentals (even when part of key) (might take a few hours more).
 - [x] Correcting spacing
-- [ ] Checking copy-paste errors.
-- [ ] Checking by playing the print.
-- [ ] Correcting it.
-- [ ] Keep checking by playing the print, until no more corrections.
-- [ ] Might check with <a href="https://online-image-comparison.com" target="blank">image diff</a> before uploading.
+- [x] Checking copy-paste errors.
+- [x] Checking by playing the print.
+- [x] Correcting it.
+- [x] Keep checking by playing the print, until no more corrections.
+- [x] Might check with <a href="https://online-image-comparison.com" target="blank">image diff</a> before uploading.
 
 [back](./)
