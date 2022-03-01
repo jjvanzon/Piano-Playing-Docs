@@ -32,11 +32,11 @@ Might Like to Play
 | Name                                                    | Mood           | Difficulty | Nice | Pages | Durat | Media 
 |---------------------------------------------------------|----------------|------------|:----:|------:|------:|-----
 | Brahms Waltz Op. 39, No. 15 in A flat major             | Easy listening | Easier     |      |       |  1:30 | <a href="https://open.spotify.com/track/7ouW02587AzIaGnK0gh8St?si=b243a945bfee45f6" target="_blank" rel="noopener noreferrer">Spotify Idil Biret</a>
+| Chopin Waltz BI 46                                      | Easy listening | Easier     | 👍   | 3 pg  |  2:40 | <a href="https://open.spotify.com/track/5GOZTE8cNUGdpmCJvcFR3P?si=b9ae7665e95a4df2" target="_blank" rel="noopener noreferrer">Spotify Abbey Simon</a>
 | Bach Prelude in C Major, BWV 846                        | Atmospheric    | Easier     |      |       |  2:20 | <a href="https://open.spotify.com/track/4N7Bd7LlQtWuI1AVhmpbgn?si=2e371200ebad46e3" target="_blank" rel="noopener noreferrer">Spotify Hélène Grimaud</a>
 | Beethoven Sonata Pathétique Opus. 13 Mov 2              | Atmospheric    | Easier     |      |       |  5:00 | <a href="https://open.spotify.com/track/1kfdzVK4npK6QNZdwlZoku?si=628cfb58a0354d50" target="_blank" rel="noopener noreferrer">Spotify Valentina Lisitsa</a>
 | Beethoven Sonata Op.27 No.2 Mov. 1 ("Moonlight Sonata") | Melancholic    | Easier     |      |       |  5:25 | <a href="https://open.spotify.com/track/1UNzT19U7L0sC6d03L7MwT?si=0bf09cebe7a24dfe" target="_blank" rel="noopener noreferrer">Spotify Hélène Grimaud</a>
 | Chopin Prelude Op. 28, No. 4                            | Melancholic    | Easier     |      |       |  2:45 | <a href="https://open.spotify.com/track/3XwL5sEvTzT6yzlFFsQCEl?si=a2714069d3fd4c71" target="_blank" rel="noopener noreferrer">Spotify Khatia Buniatishvili</a>
-| Chopin Waltz BI 46                                      | Easy listening | Easier     | 👍   | 3 pg  |  2:40 | <a href="https://open.spotify.com/track/5GOZTE8cNUGdpmCJvcFR3P?si=b9ae7665e95a4df2" target="_blank" rel="noopener noreferrer">Spotify Abbey Simon</a>
 |                                                         |                |            |      |       |       | 
 | Chopin Prelude Op. 28, No. 17                           | Easy listening | Medium     | 👍   |       |  3:20 | <a href="https://open.spotify.com/track/31RR1orCjQp0nrl3bOHrZL?si=efacf06c03ec49ab" target="_blank" rel="noopener noreferrer">Spotify Yundi</a>
 | Chopin Waltz in A flat major Op. 34, No. 1              | Easy listening | Medium     | 👍   |       |  5:00 | <a href="https://youtu.be/MS5pov3xu94" target="_blank" rel="noopener noreferrer">YouTube Ingolf Wunder</a>
@@ -92,8 +92,8 @@ May one time integrate this list in the overview above.
 | Op. 68, No. 3 |   maj   |     2 |     2min |  ✔   |  :-)   | 2
 | Op. 68, No. 4 |   min   |     2 |  2min30s |  ✔   |  :-/   |
 
-May Once Have Played
---------------------
+Have Once Played
+----------------
 
 | Name                                                              | Mood           | Difficulty | Nice | Pages | Dur. | Media
 |-------------------------------------------------------------------|----------------|------------|:----:|------:|-----:|------
