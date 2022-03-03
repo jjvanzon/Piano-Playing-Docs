@@ -18,8 +18,8 @@ A recording of my playing the piano piece Gnossienne Ⅰ by Erik Satie.
 ### Details
 
 You can download the file 
-<a href="satie-gnossienne-1-recording-320-kbps.mp3" download>here</a>. It was played on a __Nord Piano 4__ digital piano with the __Royal Grand 3D XL__ piano sound. A __MiniDisk__ player from 1998 helped me give me a rather clean recording.
+<a href="satie-gnossienne-1-recording-320-kbps.mp3" download>here</a>. It was played on a __Nord Piano 4__ digital piano with the __Royal Grand 3D XL__ piano sound. A __MiniDisk__ player from __1998__ helped me give me a rather clean recording. Other options gave more noise. And it is rather handy to have the record button right near the piano.
 
-<img src="https://jjvanzon.github.io/Piano-Playing-Docs/resources/preview-satie-gnossienne-1-sheet-music-simplification.jpg" width="200" /> <img src="https://jjvanzon.github.io/Piano-Playing-Docs/resources/preview-mini-disk-recorder-detail.png" width="300" />
+<img src="https://jjvanzon.github.io/Piano-Playing-Docs/resources/preview-satie-gnossienne-1-sheet-music-simplification-detail.png" width="200" /> <img src="https://jjvanzon.github.io/Piano-Playing-Docs/resources/preview-mini-disk-recorder-detail.png" width="300" />
 
 [back](..)

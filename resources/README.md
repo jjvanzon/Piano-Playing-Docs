@@ -102,6 +102,10 @@ Photos / Previews for Social Media
 
 ![Preview Practice Schema (Dark)](preview-practice-schema-dark.png)
 
+### [Preview Satie Gnossienne 1 Sheet Music Simplification (Detail)](preview-satie-gnossienne-1-sheet-music-simplification-detail.png)
+
+![Preview Satie Gnossienne 1 Sheet Music Simplification (Detail)](preview-satie-gnossienne-1-sheet-music-simplification-detail.png)
+
 ### [Preview Satie Gnossienne 1 Sheet Music Simplification](preview-satie-gnossienne-1-sheet-music-simplification.jpg)
 
 ![Preview Satie Gnossienne 1 Sheet Music Simplification](preview-satie-gnossienne-1-sheet-music-simplification.jpg)
