@@ -74,6 +74,10 @@ Photos / Previews for Social Media
 
 ![Preview Finger Numbers, Mozart Sonata Facile KV 545 Part 1](preview-finger-numbers-mozart-sonata-facile-part-1.jpg)
 
+### [Preview MiniDisk Recorder Detail](preview-mini-disk-recorder-detail.jpeg)
+
+![Preview MiniDisk Recorder Detail](preview-mini-disk-recorder-detail.jpeg)
+
 ### [Preview MiniDisk Recorder](preview-mini-disk-recorder.jpeg)
 
 ![Preview MiniDisk Recorder](preview-mini-disk-recorder.jpeg)
