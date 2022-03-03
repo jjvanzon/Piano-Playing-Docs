@@ -5,6 +5,10 @@ Satie Gnossienne Ⅰ
 
 [back](..)
 
+- [Recording](satie-gnossienne-1-recording-320-kbps.mp3)
+
+    - A recording of my playing this piece.
+
 - [Sheet Music](sheet-music)
 
     - Sheet music from a copyright-free source.
