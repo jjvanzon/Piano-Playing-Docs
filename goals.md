@@ -33,7 +33,7 @@ Philosophy:
 - Things may go wrong.
 - ***Improvisation*** might be key.
 
-Other skills:
+Specific skills:
 
 - ***Note reading:***
     - May include ***simplifying*** musical score.
@@ -59,6 +59,37 @@ Other skills:
     - For entertainment purposes, hopefully.
 - ***Sharing***:
     - Most of the things I produce I might put online, including chords and simplified sheet music and other analyses, and possibly in the future recordings too.
+
+
+Styles & Attitudes
+------------------
+
+- Here I write down what kind of ***styles*** and ***attitudes*** I have my eye on.
+- I would like to study by ***ear***.
+- ***Styles***:
+    - Classical style.
+    - ***Favorites***: ***romantic*** era.
+    - ***Appreciate*** some: ***barok***, some ***Mozart*** etc.
+    - ***Not*** so much on the top of my list: ***atonal***, the bulk of Mozart (sorry...)
+- ***Expression***:
+    - ***Not loud*** all the time.
+    - Rhythm ***rubato***/improvised over.
+    - Mind phrasing, when applying expression tricks:
+        - No sudden ***staccato***, that has no context within the *phrasing*.
+        - No sudden ***drop in volume***, to appear dynamic, while having no context within the *phrasing*.
+        - Context within the *phrasing* seems key here.
+- ***Mix***:
+    - I would like to ***improvise***,
+    - I would like to ***change*** things up.
+    - Freely ***mixing*** fragments of pieces creating a sort of mosaic.
+    - ***Leaving out*** parts I like less.
+- ***Imperfect***:
+    - I might go for playing  ***imperfectly***.
+    - Allowing ***errors***.
+    - Solving errors by ***improvising***.
+    - Be ok that things do not go perfectly at ***recitals***.
+    - The ***stress*** of aiming for perfection, seems to harm the quality, cramping me up. So I might just let go of that and see performing as *practice*, with no aim to deliver the very best performance I could.
+    - That all my aims and ***goals*** are ***optional*** and allowed to fail, be put on the back burner, be ineffective is ok. Hopefully amounting to a gradual accumulation of skill. And if not, maybe that's ok too.
 
 Background
 ----------

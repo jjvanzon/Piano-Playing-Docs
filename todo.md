@@ -36,35 +36,6 @@ TODO
 - [ ] [Nord Piano Sound Selections](nord-piano-4/nord-piano-4-sound-selection-notes.md)
     - [ ] Might become more relevant once I might improvise more.
 
-### 2022-02-03 Brainstorm Styles & Attitudes
-
-- [ ] Perhaps write down what kind of __styles__ and __attitudes__ I have my eye on.
-- [ ] I would like to study by __ear__.
-- [ ] __Styles__:
-    - [ ] Classical style.
-    - [ ] __Favorites__: __romantic__ era.
-    - [ ] __Appreciate__ some: __barok__, some __Mozart__ etc.
-    - [ ] __Not__ so much on the top of my list: __atonal__, the bulk of Mozart (sorry...)
-- [ ] __Expression__:
-    - [ ] __Not loud__ all the time.
-    - [ ] Rhythm __rubato__/improvised over.
-    - [ ] Mind phrasing, when applying expression tricks:
-        - [ ] No sudden __staccato__, that has no context within the *phrasing*.
-        - [ ] No sudden __drop in volume__, to appear dynamic, while having no context within the *phrasing*.
-        - [ ] Context within the *phrasing* seems key here.
-- [ ] __Mix__:
-    - [ ] That I would like to __improvise__,
-    - [ ] That I would like to __change__ things up.
-    - [ ] Freely __mixing__ fragments of pieces creating a sort of mosaic.
-    - [ ] __Leaving out__ parts I like less.
-- [ ] __Imperfect__:
-    - [ ] I might not go for playing  __perfectly__.
-    - [ ] Allow __errors__.
-    - [ ] Solve errors by __improvising__.
-    - [ ] Be ok that things do not go perfectly at __recitals__.
-    - [ ] The __stress__ of aiming for perfection, seems to harm the quality, cramping me up. So I might just let go of that and see performing as practice, with no aim to deliver the very best performance I could.
-    - [ ] That all my aims and __goals__ are __optional__ and allowed to fail, be put on the back burner, be ineffective is ok. The hope things I try might be partly effective, but accumulation of skill is an upward slope. And even if it is not, maybe that's ok too.
-
 ### 2021-11-16 TODO List of Pieces to Play
 
 - [ ] Listing of pieces that I play / have played / would like to play.
