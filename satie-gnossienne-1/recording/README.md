@@ -10,7 +10,7 @@ Recording
 
 A recording of my playing the piano piece Gnossienne Ⅰ by Erik Satie.
 
-<audio controls>
+<audio controls autoplay>
   <source src="satie-gnossienne-1-recording-320-kbps.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
