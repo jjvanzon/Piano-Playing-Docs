@@ -7,6 +7,14 @@ Chopin Mazurka Op. 24, No. 2
 
 Notes and analyses studying the Chopin Mazurka Op. 24, No. 2 piano piece.
 
+- [Sheet Music](sheet-music)
+
+    - Free sheet music for this piece.
+
+- [Sheet Music Simplified](sheet-music-simplified)
+
+    - Simplified sheet music for this piece.
+
 - [Chords (Web Page)](chopin-mazurka-op-24-no-2-chords.md)
 
     - Chord progression of the Chopin Mazurka Op. 24, No. 2 piano piece. This version displays as a web page.
