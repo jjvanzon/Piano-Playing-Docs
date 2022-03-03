@@ -5,15 +5,9 @@ Satie Gnossienne Ⅰ
 
 [back](..)
 
-- Recording
+- [Recording](recording)
 
-    - A recording of my playing this piece. <a href="satie-gnossienne-1-recording-320-kbps.mp3" download>Download</a>
-      <br/><br/>
-        <audio controls>
-          <source src="satie-gnossienne-1-recording-320-kbps.mp3" type="audio/mpeg">
-          Your browser does not support the audio element.
-        </audio>
-        
+    - A recording of my playing this piece.
 
 - [Sheet Music](sheet-music)
 
