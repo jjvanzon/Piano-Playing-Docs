@@ -12,7 +12,7 @@ Sheet Music Simplification
 - Scanning and editing score.  
 - Might leave out most things except the notes themselves.
 - Crop image.
-- Brightness / contrast of the scan.
+- Brightness / contrast of the scan (e.g. brightness +10%, contrast +10%).
 - Removing page headers and footers.
 - Removing the big accolades at the left.
 - Removing measure numbers.
