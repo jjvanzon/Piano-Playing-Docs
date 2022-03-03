@@ -10,14 +10,14 @@ Preparation for Performance on March 4, 2022
 
 ### Pieces
 
-- [Mozart Sonata Facile KV 545 Part 1](mozart-sonata-facile-part-1.md)
+- [Mozart Sonata Facile KV 545 Part 1](mozart-sonata-facile-part-1)
 - [Satie Gnossienne Ⅰ](satie-gnossienne-1)
 
 ### Actions
 
-- Recording and self-reviewing
-- Hearing speakers, from audience point of view
-- Installing monitor speakers
+- [x] Hearing speakers, from audience point of view
+- [x] ~~Installing monitor speakers~~ > Delivery delayed
+- [ ] ... Recording and self-reviewing
 
 ### Harder Parts
 
