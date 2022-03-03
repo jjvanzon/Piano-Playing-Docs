@@ -1,9 +1,9 @@
-![](resources/photo-jjs-piano-laptop-sheet-music-analysis-wide.jpg)
-
 Introduction
 ============
 
 *JJ van Zon, 2022*
+
+![](resources/photo-jjs-piano-laptop-sheet-music-analysis-wide.jpg)
 
 Piano playing is a hobby of mine. Here I try to organize my thoughts about it. And share documents I may make.
 
