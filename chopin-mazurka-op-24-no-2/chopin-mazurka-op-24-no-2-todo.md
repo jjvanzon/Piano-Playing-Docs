@@ -15,23 +15,21 @@ TODO
 
 ### 2022-03-03 TODO Sheet Music Simplification
 
-- [ ] My mind might trip over all those details.  
-- [ ] Scanning and editing score.  
-- [ ] Might leave out most things except the notes themselves.
-- [ ] Crop image.
+- [x] Scanning score.  
+- [x] Crop image.
 - [x] Brightness / contrast of the scan (e.g. brightness +10%, contrast +10%).
 - [x] Removing page headers and footers.
-- [ ] Removing the big accolades at the left.
-- [ ] Removing measure numbers.
+- [x] Removing the big accolades at the left.
+- [x] Removing measure numbers.
+- [x] Removing repeated key signatures.
+- [ ] ~~Removing 'announcing' key signatures at ends of lines.~~
+- [x] Removing repeated clefs.
+- [x] ~~Removing 'announcing' clef change.~~
 - [ ] Removing fingering numbers.
-- [ ] Removing repeated key signatures.
-- [ ] Removing 'announcing' key signatures at ends of lines.
 - [ ] Removing expression symbols (and pedal symbols, tempo, words, dynamics).
 - [ ] Removing expression bows.
 - [ ] Removing extension bows (and the repeated note).
 - [ ] Removing some rest symbols.
-- [ ] Removing repeated clefs.
-- [ ] Removing 'announcing' clef change.
 - [ ] Simplifying note durations / voicing notation.
 - [ ] Adding accidentals (even when part of key) (might take a few hours more).
 - [ ] Changing B# => C , Cb => B , E# => F , Fb => E.
