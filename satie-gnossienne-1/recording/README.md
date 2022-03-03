@@ -15,6 +15,8 @@ A recording of my playing the piano piece Gnossienne Ⅰ by Erik Satie.
   Your browser does not support the audio element.
 </audio>
 
+<br />
+
 You can download the file 
 <a href="satie-gnossienne-1-recording-320-kbps.mp3" download>here</a>.
 
