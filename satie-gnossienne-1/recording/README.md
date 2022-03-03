@@ -5,8 +5,6 @@
 
 [back](..)
 
-![](https://jjvanzon.github.io/Piano-Playing-Docs/resources/photo-jjs-piano-laptop-sheet-music-analysis-wide.jpg)
-
 Recording
 ---------
 
@@ -20,14 +18,13 @@ A recording of my playing the piano piece Gnossienne Ⅰ by Erik Satie.
 You can download the file 
 <a href="satie-gnossienne-1-recording-320-kbps.mp3" download>here</a>.
 
-### Details
+<img src="https://jjvanzon.github.io/Piano-Playing-Docs/resources/photo-jjs-piano-laptop-sheet-music-analysis-wide.jpg" width="700" />
 
-![](preview-satie-gnossienne-1-sheet-music-simplification.jpg)
+### Details
 
 It was played on a __Nord Piano 4__ digital piano with the Royal Grand 3D XL piano sound.  
 I seemed to get the cleanest recording from my equipment by first recording to a __MiniDisk__ player from 1998 (!) and then transferring that recording to my PC again.
 
-![](preview-mini-disk-recorder.jpeg)
-
+<img src="https://jjvanzon.github.io/Piano-Playing-Docs/resources/preview-satie-gnossienne-1-sheet-music-simplification.jpg" width="300" /> <img src="https://jjvanzon.github.io/Piano-Playing-Docs/resources/preview-mini-disk-recorder.jpeg" width="300" />
 
 [back](..)
