@@ -7,7 +7,11 @@ Satie Gnossienne Ⅰ
 
 - [Recording](satie-gnossienne-1-recording-320-kbps.mp3)
 
-    - A recording of my playing this piece.
+    - A recording of my playing this piece.<br/><br/>
+        <audio controls>
+            <source src="satie-gnossienne-1-recording-320-kbps.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
 
 - [Sheet Music](sheet-music)
 
