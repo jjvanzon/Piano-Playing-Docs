@@ -8,6 +8,8 @@ Chopin Mazurka Op. 24, No. 2
 Contents
 --------
 
+<p>
+
 - [Recording](recording)
 - [Sheet Music](sheet-music)
 - [Sheet Music Simplified](sheet-music-simplified)
@@ -16,7 +18,9 @@ Contents
 - [Harmonic Analysis (Web Page)](chopin-mazurka-op-24-no-2-harmonic-analysis.md)
 - [Harmonic Analysis (PDF)](chopin-mazurka-op-24-no-2-harmonic-analysis.pdf)
 
-<br />
+</p>
+
+<p>
 
 - [Phrase Structure (Web Page)](chopin-mazurka-op-24-no-2-phrase-structure.md)
 
@@ -33,5 +37,7 @@ Contents
 - [TODO](chopin-mazurka-op-24-no-2-todo.md)
 
     - Some notes on where to go next on my studying the Chopin Mazurka Op. 24, No. 2 piano piece.
+
+</p>
 
 [back](..)
