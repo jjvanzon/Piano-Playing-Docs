@@ -5,6 +5,9 @@ Satie Gnossienne Ⅰ
 
 [back](..)
 
+Contents
+--------
+
 - [Recording](recording)
 - [Sheet Music](sheet-music)
 - [Sheet Music Simplified](sheet-music-simplified) `[ Draft ]`
