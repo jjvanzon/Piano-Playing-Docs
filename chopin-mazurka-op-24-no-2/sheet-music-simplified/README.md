@@ -17,8 +17,8 @@ Simplified using the following [guidelines](https://jjvanzon.github.io/Piano-Pla
 
 ### Contents
 
-- [Chopin Mazurka Op. 24, No. 2 Sheet Music Simplified Page 1 (png)](debussy-arabesque-1-sheet-music-simplified-page-1.png)
-- [Chopin Mazurka Op. 24, No. 2 Sheet Music Simplified Page 2 (png)](debussy-arabesque-1-sheet-music-simplified-page-2.png)
-- [Chopin Mazurka Op. 24, No. 2 Sheet Music Simplified Page 3 (png)](debussy-arabesque-1-sheet-music-simplified-page-3.png)
+- [Chopin Mazurka Op. 24, No. 2 Sheet Music Simplified Page 1 (png)](chopin-mazurka-op-24-no-2-sheet-music-simplified-page-1.png)
+- [Chopin Mazurka Op. 24, No. 2 Sheet Music Simplified Page 2 (png)](chopin-mazurka-op-24-no-2-sheet-music-simplified-page-2.png)
+- [Chopin Mazurka Op. 24, No. 2 Sheet Music Simplified Page 3 (png)](chopin-mazurka-op-24-no-2-sheet-music-simplified-page-3.png)
 
 [back](..)
