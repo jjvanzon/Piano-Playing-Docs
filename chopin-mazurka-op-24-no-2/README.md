@@ -15,6 +15,9 @@ Contents
 - [Chords (PDF)](chopin-mazurka-op-24-no-2-chords.pdf)
 - [Harmonic Analysis (Web Page)](chopin-mazurka-op-24-no-2-harmonic-analysis.md)
 - [Harmonic Analysis (PDF)](chopin-mazurka-op-24-no-2-harmonic-analysis.pdf)
+
+<br />
+
 - [Phrase Structure (Web Page)](chopin-mazurka-op-24-no-2-phrase-structure.md)
 
     - Attempts to split up the Chopin Mazurka Op. 24, No. 2 piano piece in fragments and analyses its phrase structure, like sentences in the music piece, and what things repeat and how. This version displays as a web page.
