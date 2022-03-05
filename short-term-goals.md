@@ -5,8 +5,8 @@ Short-Term Goals
 
 [back](./)
 
-Preparation for April 1, 2022
------------------------------
+Preparation for Performance on April 1, 2022
+--------------------------------------------
 
 ### Pieces
 
