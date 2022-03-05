@@ -29,9 +29,9 @@ Philosophy:
 
 - Going for ***imperfect*** piano playing.
 - Obtaining ***skills*** to compensate.
+- ***Improvisation*** might be key.
 - On any aspect: note reading / memorizing / technique / motor skills / expression / listening / performing
 - Things may go wrong.
-- ***Improvisation*** might be key.
 
 Specific skills:
 
