@@ -1,5 +1,5 @@
-Performance Preparation
-=======================
+Short-Term Goals
+================
 
 *JJ van Zon, 2022*
 

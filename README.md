@@ -17,8 +17,8 @@ Contents
 
 - [Goals](goals.md)
     - Some goals I might have with my piano playing hobby.
-- [Performance Preparation](performance-preparation.md)
-    - Preparation notes for the next performance.
+- [Short-Term Goals](short-term-goals.md)
+    - Short term goals / preparation notes for the next performance.
 - [Pieces to Play](pieces-to-play.md)
     - A list of pieces I play / have played / would like to play.
 - Individual pieces:
