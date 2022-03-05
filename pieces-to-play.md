@@ -25,7 +25,7 @@ Repertoire
 
 Preferring moderately difficult pieces.  
 [Chopin Ballade Ⅱ](chopin-ballade-2) • for studying • not for performing  
-Demoting  [Mozart Sonata Facile KV 545 Part 1](mozart-sonata-facile-part-1) to practice piece, not performance piece, for now.
+Demoting  [Mozart Sonata Facile KV 545 Part 1](mozart-sonata-facile-part-1) to practice piece.
 
 Might Like to Play
 ------------------
