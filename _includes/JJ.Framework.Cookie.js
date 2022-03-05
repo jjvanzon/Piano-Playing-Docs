@@ -33,7 +33,7 @@ JJ.Framework.Cookie.set = function (name, value, expirationDate, expirationDays)
     JJ.Framework.Assert.notNullOrEmpty(name, "name");
     JJ.Framework.Assert.isDefined(value, "value");
 
-    var cookie = escape(name) + "=" + escape(value) + ";"; // TODO: Check if the escape function will work with non-string values.
+    var cookie = escape(name) + "=" + escape(value) + ";path=" + window.location.pathname; // TODO: Check if the escape function will work with non-string values.
 
     if (JJ.Framework.Check.isDefined(expirationDate) &&
         JJ.Framework.Check.isDefined(expirationDays)){
