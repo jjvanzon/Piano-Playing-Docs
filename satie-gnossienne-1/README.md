@@ -5,7 +5,7 @@ Satie Gnossienne Ⅰ
 
 [back](..)
 
-Content I made around studying this piece.
+Content I made while studying this piece.
 
 Contents
 --------

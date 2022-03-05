@@ -5,7 +5,7 @@ Chopin Mazurka Op. 24, No. 2
 
 [back](..)
 
-Content I made around studying this piece.
+Content I made while studying this piece.
 
 Contents
 --------
