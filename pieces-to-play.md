@@ -12,14 +12,13 @@ A list of pieces I play / have played / would like to play. Links to performance
 Repertoire
 ----------
 
-| Learn | Perform | Record | Name                                                                  | Mood           | Difficulty | Nice | Pages | Durat | Media
+| Learn | Perform | Record | Name                                                                  | Mood           | Difficulty | Nice | Pages |  Dur. | Media
 |:-----:|:-------:|:------:|-----------------------------------------------------------------------|----------------|------------|:----:|------:|------:|-----
 |  ✔   |  ✔     |  ✔    | [Chopin Mazurka Op. 24, No. 2](chopin-mazurka-op-24-no-2)             | Easy listening | Medium     | 👍   | 4 pg  | 3:00  | [JJ van Zon](https://jjvanzon.github.io/Piano-Playing-Docs/chopin-mazurka-op-24-no-2/recording/) <a href="https://open.spotify.com/track/7CWKqmNX02HdI6C7i1naOb?si=d0328f7a6ff14755" target="_blank" rel="noopener noreferrer">Spotify Idil Biret</a>
 |  ✔   |  ✔     |        | [Debussy Arabesque Ⅰ](debussy-arabesque-1)                            | Atmospheric    | Medium     | 👍   | 5 pg  | 6:00  | <a href="https://open.spotify.com/track/3jN9cfOSZtfDQLhmaOcNt8?si=a47ae324b5ec4060" target="_blank" rel="noopener noreferrer">Spotify Axel Gillison</a>
 |  ...  |  ✔     |        | [Mozart Sonata Facile KV 545 Part 1](mozart-sonata-facile-part-1)    | Easy listening | Medium     | 👍   | 5 pg  | 5:20  | <a href="https://youtu.be/qjk-YRuQZDE" target="_blank" rel="noopener noreferrer">YouTube Rousseau</a>
 |  ✔   |  ✔     |  ✔    | [Satie Gnossienne Ⅰ](satie-gnossienne-1)                             | Atmospheric    | Easier     | 🆗   | 2 pg  | 4:30  | [JJ van Zon](https://jjvanzon.github.io/Piano-Playing-Docs/satie-gnossienne-1/recording/) <a href="https://youtu.be/lqZehFAwoTM" target="_blank" rel="noopener noreferrer">YouTube The Flaming Piano</a>, <a href="https://open.spotify.com/track/2xDvCPTcgnm9jHPsiPDBf1?si=c170ccabc02944ee" target="_blank" rel="noopener noreferrer">Spotify Hélène Grimaud</a>
 |  ...  |         |        | [Chopin Ballade Ⅱ](chopin-ballade-2)                                | Heavy          | Hard       | 👍   | 9 pg  | 7:30  | <a href="https://open.spotify.com/track/6sNr7Fr9JTnK2lbRGd9Jem?si=6a45287bbca24c1a" target="_blank" rel="noopener noreferrer">Spotify Yundi</a>
-|       |         |        | ~ Chopin Polonaise in E flat minor Op. 26, No. 2                    |  Heavy         | Hard       | 💔   |       | 8:00  | <a href="https://youtu.be/GLElxJ_tdW0" target="_blank" rel="noopener noreferrer">YouTube</a>, <a href="https://youtu.be/LsBKfIB8HOk" target="_blank" rel="noopener noreferrer">YouTube Anastasia Huppmann</a>
 
 ### Remarks
 
@@ -27,16 +26,27 @@ Preferring moderately difficult pieces.
 [Chopin Ballade Ⅱ](chopin-ballade-2) • for studying • not for performing  
 Demoting  [Mozart Sonata Facile KV 545 Part 1](mozart-sonata-facile-part-1) to practice piece.
 
+Might Study Next
+----------------
+
+| Name                                                    | Mood           | Difficulty | Nice | Pages |  Dur. | Media 
+|---------------------------------------------------------|----------------|------------|:----:|------:|------:|-----
+| Satie Gymnopédie 1                                      | Atmospheric    | Easier     |      |       |  4:00 | <a href="https://youtu.be/2WfaotSK3mI" target="_blank" rel="noopener noreferrer">YouTube Rousseau</a>
+| Satie Gymnopédie 2                                      | Atmospheric    | Easier     |      |       |  2:50 | <a href="https://youtu.be/rlkf5s8ziZo" target="_blank" rel="noopener noreferrer">YouTube Lord Vinheteiro</a>
+| Satie Gnossienne 3                                      | Atmospheric    | Easier     |      |       |  3:30 | <a href="https://youtu.be/llk423PNMjc" target="_blank" rel="noopener noreferrer">YouTube The Flaming Piano</a>
+| Bartok Rumänische Volkstänze: Der Stampfer              | Atmospheric    | Easier     | 👍   | 1½ pg |  1:15 | <a href="https://youtu.be/Mn1F67ndic0" target="_blank" rel="noopener noreferrer">YouTube Ipek Bozkurt</a>
+| Bartok Rumänische Volkstänze: Tanz aus Butschum         | Atmospheric    | Easier     |      | 1 pg  |  0:40 | <a href="https://youtu.be/2BkHdWTM2Vg" target="_blank" rel="noopener noreferrer">YouTube Konrad Roman Salwa</a>
+| Bach Prelude in C Major, BWV 846                        | Atmospheric    | Easier     |      |       |  2:20 | <a href="https://open.spotify.com/track/4N7Bd7LlQtWuI1AVhmpbgn?si=2e371200ebad46e3" target="_blank" rel="noopener noreferrer">Spotify Hélène Grimaud</a>
+| Beethoven Sonata Op.27 No.2 Mov. 1 ("Moonlight Sonata") | Melancholic    | Easier     |      |       |  5:25 | <a href="https://open.spotify.com/track/1UNzT19U7L0sC6d03L7MwT?si=0bf09cebe7a24dfe" target="_blank" rel="noopener noreferrer">Spotify Hélène Grimaud</a>
+
 Might Like to Play
 ------------------
 
-| Name                                                    | Mood           | Difficulty | Nice | Pages | Durat | Media 
+| Name                                                    | Mood           | Difficulty | Nice | Pages |  Dur. | Media 
 |---------------------------------------------------------|----------------|------------|:----:|------:|------:|-----
 | Brahms Waltz Op. 39, No. 15 in A flat major             | Easy listening | Easier     |      |       |  1:30 | <a href="https://open.spotify.com/track/7ouW02587AzIaGnK0gh8St?si=b243a945bfee45f6" target="_blank" rel="noopener noreferrer">Spotify Idil Biret</a>
 | Chopin Waltz BI 46                                      | Easy listening | Easier     | 👍   | 3 pg  |  2:40 | <a href="https://open.spotify.com/track/5GOZTE8cNUGdpmCJvcFR3P?si=b9ae7665e95a4df2" target="_blank" rel="noopener noreferrer">Spotify Abbey Simon</a>
-| Bach Prelude in C Major, BWV 846                        | Atmospheric    | Easier     |      |       |  2:20 | <a href="https://open.spotify.com/track/4N7Bd7LlQtWuI1AVhmpbgn?si=2e371200ebad46e3" target="_blank" rel="noopener noreferrer">Spotify Hélène Grimaud</a>
 | Beethoven Sonata Pathétique Opus. 13 Mov 2              | Atmospheric    | Easier     |      |       |  5:00 | <a href="https://open.spotify.com/track/1kfdzVK4npK6QNZdwlZoku?si=628cfb58a0354d50" target="_blank" rel="noopener noreferrer">Spotify Valentina Lisitsa</a>
-| Beethoven Sonata Op.27 No.2 Mov. 1 ("Moonlight Sonata") | Melancholic    | Easier     |      |       |  5:25 | <a href="https://open.spotify.com/track/1UNzT19U7L0sC6d03L7MwT?si=0bf09cebe7a24dfe" target="_blank" rel="noopener noreferrer">Spotify Hélène Grimaud</a>
 | Chopin Prelude Op. 28, No. 4                            | Melancholic    | Easier     |      |       |  2:45 | <a href="https://open.spotify.com/track/3XwL5sEvTzT6yzlFFsQCEl?si=a2714069d3fd4c71" target="_blank" rel="noopener noreferrer">Spotify Khatia Buniatishvili</a>
 |                                                         |                |            |      |       |       | 
 | Chopin Prelude Op. 28, No. 17                           | Easy listening | Medium     | 👍   |       |  3:20 | <a href="https://open.spotify.com/track/31RR1orCjQp0nrl3bOHrZL?si=efacf06c03ec49ab" target="_blank" rel="noopener noreferrer">Spotify Yundi</a>
@@ -47,13 +57,18 @@ Might Like to Play
 | Chopin Nocturne Op. 48, No. 2                           | Atmospheric    | Medium     |      | 7 pg  |  7:20 | <a href="https://open.spotify.com/track/5Dma4YmN7SNiut0nl8nOVF?si=6c04035b3165488f" target="_blank" rel="noopener noreferrer">Spotify Maria João Pires</a>
 | Chopin Nocturne Op. 55, No. 2                           | Atmospheric    | Medium     |      | 6 pg  |  6:00 | <a href="https://open.spotify.com/track/1QBaOzhMlaWx9zQZIEmJFx?si=b8b6c2718cce4f69" target="_blank" rel="noopener noreferrer">Spotify Lang Lang</a>
 | Debussy Rêverie                                         | Atmospheric    | Medium     |      |       |  5:00 | <a href="https://youtu.be/3cYMvB3rgzQ" target="_blank" rel="noopener noreferrer">YouTube Paul Barton</a>
+| Debussy Suite Bergamasque, Prélude                      | Atmospheric    | Medium     | 👍   | 6 pg  |  7:00 | <a href="https://open.spotify.com/track/4YfdEe9EIoqVR5VDLMnKn6?si=da334bbf4c41442e" target="_blank" rel="noopener noreferrer">Spotify, Axel Gillison (Transposed)</a>
 | Schubert/Liszt Ave Maria                                | Atmospheric    | Medium     | 💔   |       |  5:00 | <a href="https://youtu.be/RCucnn-95nY" target="_blank" rel="noopener noreferrer">YouTube Valentina Lisitsa</a>, <a href="https://open.spotify.com/track/2GeAvEElKwEgy4PA13SGvH?si=81b468e082f54ed6" target="_blank" rel="noopener noreferrer">Spotify Idil Biret</a>
+| Grieg Lyric Pieces (select and expand ...)              | Atmospheric    | Medium     |      |       |       | <a href="https://open.spotify.com/playlist/2nAu4FoPLgkgjLIvsF6wIC?si=a6f050097ad74c4f" target="_blank" rel="noopener noreferrer">Spotify Playlist, Shisei Hanai</a>
+| Schubert Impromptu No. 3 in Gb Major                    | Atmospheric    | Medium     |      |       |  6:30 | <a href="https://www.youtube.com/watch?v=8LvCaacYR1U">YouTube, Traum Piano</a> <a href="https://open.spotify.com/track/4ux8PeqNsj9M8loWYcZgCc?si=84c2616b4c794633">Spotify, Arthur Jussen</a>
 | Chopin Prelude Op. 45                                   | Melancholic    | Medium     |      |       |  5:45 | <a href="https://open.spotify.com/track/7MBnLWnRoUCRTl57d2pn47?si=43be25c851384df9" target="_blank" rel="noopener noreferrer">Spotify Joaquín Achúcarro</a>
 | Chopin Mazurka Op. 41, No. 1                            | Melancholic    | Medium     |      | 2 pg  |  2:30 | <a href="https://youtu.be/rr4_MijijFk" target="_blank" rel="noopener noreferrer">YouTube Arthur Greene</a>
 |                                                         |                |            |      |       |       | 
 | Chopin Grand Polonaise Brillante Op. 22                 | Easy listening | Hard       |      |       |  9:00 | <a href="https://youtu.be/IDmCkUMO9f4" target="_blank" rel="noopener noreferrer">YouTube Charles Richard-Hamelin</a>
+| Ravel Gaspard de la Nuit "Ondine"                       | Atmospheric    | Hard       | 👍   | 12 pg |  7:00 | <a href="https://youtu.be/WLA5bom89NQ" target="_blank" rel="noopener noreferrer">YouTube MrBromaba</a>
 | Chopin Etude Op. 25, No. 1 ("Harp Study")               | Atmospheric    | Hard       |      |       |  2:00 | <a href="https://youtu.be/OKokquds2_M" target="_blank" rel="noopener noreferrer">YouTube Totothoven</a>
 | Liszt Liebestraum No. 3                                 | Atmospheric    | Hard       | 🧡   |       |  4:30 | <a href="https://youtu.be/FNu3bkFi_IY" target="_blank" rel="noopener noreferrer">YouTube Piano Sandbox</a>
+| Chopin Polonaise in E flat minor Op. 26, No. 2          | Heavy          | Hard       | 💔   |       | 8:00  | <a href="https://youtu.be/GLElxJ_tdW0" target="_blank" rel="noopener noreferrer">YouTube</a>, <a href="https://youtu.be/LsBKfIB8HOk" target="_blank" rel="noopener noreferrer">YouTube Anastasia Huppmann</a>
 | Chopin Etude Op. 25, No. 12 ("Ocean")                   | Heavy          | Hard       |      |       |  2:30 | <a href="https://youtu.be/pRlHKQXjzZY" target="_blank" rel="noopener noreferrer">YouTube Rousseau</a>
 | Chopin Scherzo Op. 31, No. 2                            | Heavy          | Hard       |      |       | 10:00 | <a href="https://youtu.be/OCUSalQf-jY" target="_blank" rel="noopener noreferrer">YouTube Seong-Jin Cho</a>
 |                                                         |                |            |      |       |       | 
@@ -61,13 +76,6 @@ Might Like to Play
 | ~ Chopin Ballade I                                      | Heavy          | Hard       |      |       |  9:45 | <a href="https://youtu.be/Zj_psrTUW_w" target="_blank" rel="noopener noreferrer">YouTube Rousseau</a>
 | ~ Chopin Ballade Ⅲ                                     | Heavy          | Hard       |      |       |  7:00 | <a href="https://youtu.be/KyDROgxgV0Y" target="_blank" rel="noopener noreferrer">YouTube SubitoPiano</a>
 | ~ Chopin Ballade Ⅳ                                     | Heavy          | Hard       |      |       | 11:30 | <a href="https://youtu.be/3F5glYefwio" target="_blank" rel="noopener noreferrer">YouTube Rousseau</a>
-| ~ [Chopin Mazurkas](chopin-mazurka-selection.md)        | 
-
-Not sure, someone else may have played:
-
-| Name                                                    | Mood           | Difficulty | Nice | Pages | Durat | Media 
-|---------------------------------------------------------|----------------|------------|:----:|------:|------:|-----
-| Chopin Waltz Op. 70, No. 2                              | Atmospheric    | Medium     | 👍   | 4 pg  | 1:30  | <a href="https://open.spotify.com/track/1BSmefafyU9U4gY9DjKp2s?si=af5a783a23024d67" target="_blank" rel="noopener noreferrer">Spotify Idil Biret</a>
 
 
 Chopin Mazurka Selection
@@ -76,25 +84,21 @@ Chopin Mazurka Selection
 Looking for something easier to play and easy on the ears too.
 May one time integrate this list in the overview above.
 
-| Op., No.      | Min/maj | Pages | Duration | Nicer | Easier | Priority
-|---------------|:-------:|------:|---------:|:-----:|:------:|---------
-| Op. 6, No. 1  |   min   |     3 |  3min30s |  ✔   |  :-/   | ?
-| Op. 6, No. 2  | min/maj |     2 |     3min |  ➖  |   :-/   | 
-| Op. 6, No. 3  |   maj   |     3 |     2min |  ✔   |  :-)   | 3
-| Op. 17, No. 2 |   min   |     2 |  2min30s |  ✔   |  :-/   | 
-| Op. 17, No. 4 |   min   |     4 |  4min30s | ✔✔  |  :-)   | ?
-| Op. 24, No. 2 |   maj   |     4 |  2min20s | ✔✔  |  :-)   | 1
-| Op. 59, No. 1 |         |       |  4min30s |  ✔   |        | ?
-| Op. 63, No. 2 | min~maj |     2 |  2min20s |  ✔   |  :-)   | 2
-| Op. 63, No. 3 | min~maj |     2 |  2min30s |  ✔   |  :-)   | 2
-| Op. 67, No. 2 | min/maj |     2 |  2min15s |  ✔   |  :-)   | 2
-| Op. 67, No. 3 |   maj   |     2 |  1min30s |  ➖  |  :-)   |
-| Op. 67, No. 4 | min~maj |     2 |  2min45s |  ➖  |  :-)   |
-| Op. 68, No. 3 |   maj   |     2 |     2min |  ✔   |  :-)   | 2
-| Op. 68, No. 4 |   min   |     2 |  2min30s |  ✔   |  :-/   |
+| Name                         | Mood           | Difficulty | Nice | Pages |  Dur. | Priority  | Media
+|------------------------------|:--------------:|:-----------|:----:|------:|------:|-----------|-------
+| Chopin Mazurka Op. 6, No. 1  | Melancholic    | Medium     |      |     3 |  3:30  |           | <a href="https://open.spotify.com/track/7zyeOqyMcqro7bW6OpcmwK?si=e4fea7c5178c46a7" target="_blank" rel="noopener noreferrer">Spotify Idil Biret</a>
+| Chopin Mazurka Op. 6, No. 2  | Atmospheric    | Medium     |      |     2 |  3:00  |           | <a href="https://open.spotify.com/track/5uoGOXIBMmhoUVYXi09TJi?si=1611100fc4654650" target="_blank" rel="noopener noreferrer">Spotify Idil Biret</a>
+| Chopin Mazurka Op. 6, No. 3  | Easy listening | Easier     |      |     3 |  2:00  | 3         | <a href="https://open.spotify.com/track/6cqvZ59wYd4rPJSZ6CjcIS?si=b8c0f13990614ec2" target="_blank" rel="noopener noreferrer">Spotify Idil Biret</a>
+| Chopin Mazurka Op. 17, No. 2 | Melancholic    | Medium     |      |     2 |  2:30  |           | <a href="https://open.spotify.com/track/2gedFFYPleE5kYarjPWIi5?si=cf204a45984f438e" target="_blank" rel="noopener noreferrer">Spotify Idil Biret</a>
+| Chopin Mazurka Op. 17, No. 4 | Melancholic    | Easier     | 🧡  |     4 |  4:30  |           | <a href="https://open.spotify.com/track/3HSL1XDNGdiO0KVGfIq6Sf?si=a0ab0728b5bc4904" target="_blank" rel="noopener noreferrer">Spotify Idil Biret</a>
+| Chopin Mazurka Op. 59, No. 1 | Atmospheric    | Medium     | 👍  |       |  4:30  |           | <a href="https://open.spotify.com/track/7w9Fayu2GuvOpDy1OjUxTC?si=5849b107c90e4daf" target="_blank" rel="noopener noreferrer">Spotify Idil Biret</a>
+| Chopin Mazurka Op. 63, No. 2 | Melancholic    | Easier     | 👍  |     2 |  2:20  | 2         | <a href="https://open.spotify.com/track/0q7DTMv51ikjs9EbRcmO47?si=30ca37f859354b6f" target="_blank" rel="noopener noreferrer">Spotify Idil Biret</a>
+| Chopin Mazurka Op. 63, No. 3 | Melancholic    | Easier     |     |     2 |  2:30  | 2         | <a href="https://open.spotify.com/track/4fVW3MM4sxNwqHNceiD5gp?si=25b4ccbc46494cc5" target="_blank" rel="noopener noreferrer">Spotify Idil Biret</a>
+| Chopin Mazurka Op. 67, No. 2 | Melancholic    | Easier     | 🆗  |     2 |  2:15  | 2         | <a href="https://open.spotify.com/track/5egp8o1aMU4vlNYk7K8Bl2?si=a120a76456af4868" target="_blank" rel="noopener noreferrer">Spotify Idil Biret</a>
+| Chopin Mazurka Op. 68, No. 4 | Melancholic    | Medium     | 🆗  |     2 |  2:30  |           | <a href="https://www.youtube.com/watch?v=FbrCi1TX_XI" target="_blank" rel="noopener noreferrer">YouTube Arthur Rubinstein</a>
 
-Have Once Played
-----------------
+Have Played
+-----------
 
 | Name                                                              | Mood           | Difficulty | Nice | Pages | Dur. | Media
 |-------------------------------------------------------------------|----------------|------------|:----:|------:|-----:|------
@@ -102,15 +106,14 @@ Have Once Played
 | Brahms Intermezzo 118.2                                           | Atmospheric    | Medium     |      |       | 6:20 | <a href="https://youtu.be/7Wo4IPNMzWQ" target="_blank" rel="noopener noreferrer">YouTube Arthur Jussen<a>
 | Bartok Rumänische Volkstänze: Der Tanz mit dem Stabe              | Atmospheric    | Medium     | 👍   | 2 pg  | 1:10 | <a href="https://youtu.be/ClMik2Bf8SY" target="_blank" rel="noopener noreferrer">YouTube Das Ohrwürmchen</a>
 | Bartok Rumänische Volkstänze: Brâul                               | Atmospheric    | Medium     | 🆗   | ½ pg  | 0:30 | <a href="https://youtu.be/Ax89RBLoo7g" target="_blank" rel="noopener noreferrer">YouTube Mario Fernandez</a>
-| Bartok Rumänische Volkstänze: Der Stampfer                        | Atmospheric    | Easier     | 👍   | 1½ pg | 1:15 | <a href="https://youtu.be/Mn1F67ndic0" target="_blank" rel="noopener noreferrer">YouTube Ipek Bozkurt</a>
-| Bartok Rumänische Volkstänze: Tanz aus Butschum                   | Atmospheric    | Easier     |      | 1 pg  | 0:40 | <a href="https://youtu.be/2BkHdWTM2Vg" target="_blank" rel="noopener noreferrer">YouTube Konrad Roman Salwa</a>
 | Bartok Rumänische Volkstänze: Rumänische Polka                    | Atmospheric    | Harder     |      | 2 pg  | 0:30 | <a href="https://youtu.be/zy46uFf1n5s?t=213" target="_blank" rel="noopener noreferrer">YouTube Elias</a>
 | Bartok Rumänische Volkstänze: Schnell Tanz                        | Atmospheric    | Harder     |      | 2 pg  | 1:00 | <a href="https://youtu.be/zy46uFf1n5s?t=245" target="_blank" rel="noopener noreferrer">YouTube Elias</a>
-| Chopin Mazurka Op. 6, No. 1                                       | Atmospheric    | Medium     | 👍   | 3 pg  | 3:00 | <a href="https://youtu.be/lv09_85GT6A" target="_blank" rel="noopener noreferrer">YouTube Arsenii Mun</a>
-| Chopin Mazurka Op. 6, No. 2                                       | Atmospheric    | Medium     | 🆗   | 2 pg  | 2:15 | <a href="https://youtu.be/zm2SG1uqHx4" target="_blank" rel="noopener noreferrer">YouTube Joel Ross</a>
+| Chopin Mazurka Op. 6, No. 1                                       | Melancholic    | Medium     | 🆗   | 3 pg  | 3:00 | <a href="https://youtu.be/lv09_85GT6A" target="_blank" rel="noopener noreferrer">YouTube Arsenii Mun</a>
+| Chopin Mazurka Op. 6, No. 2                                       | Atmospheric    | Medium     |      | 2 pg  | 2:15 | <a href="https://youtu.be/zm2SG1uqHx4" target="_blank" rel="noopener noreferrer">YouTube Joel Ross</a>
 | Chopin Mazurka Op. 6, No. 3                                       | Easy listening | Medium     |      | 3 pg  | 2:00 | <a href="https://youtu.be/hpkQh5nUCvg" target="_blank" rel="noopener noreferrer">YouTube Piantho</a>
 | Chopin Waltz Op. 34, No. 2 ("Grande Valse Brillante")             | Melancholic    | Easier     | 🆗   |       | 5:00 | <a href="https://youtu.be/z8uIoQEtV_c" target="_blank" rel="noopener noreferrer">YouTube Valentina Lisitsa</a>
 | Chopin Waltz Op. 64, No. 1 in D-flat major ("Minute Waltz")       | Easy listening | Medium     |      |       | 2:15 | <a href="https://youtu.be/3H0SRv8QNwk" target="_blank" rel="noopener noreferrer">YouTube Rousseau</a>
+| Chopin Waltz Op. 69, No. 2                                        | Atmospheric    | Easier     | 🆗   | 3 pg  |  4:00 | <a href="https://open.spotify.com/track/1n8TRehUouUhoaA3PhVERI?si=63c925e75e284ce2" target="_blank" rel="noopener noreferrer">Spotify Idil Biret</a>
 | Chopin Waltz Op. 70, No. 3                                        | Easy listening | Medium     | 🆗   |       | 3:00 | <a href="https://youtu.be/lK2w9x_2DcM" target="_blank" rel="noopener noreferrer">YouTube Paul Barton</a>
 | Chopin Nocturne Op. 9, No. 1                                      | Melancholic    | Medium     |      | 6 pg  | 6:30 | <a href="https://youtu.be/Nb3vj9zTHX0" target="_blank" rel="noopener noreferrer">YouTube Vadim Chaimovich</a>
 | Chopin Nocturne Op. 9, No. 2                                      | Atmospheric    | Medium     |      | 4 pg  | 4:30 | <a href="https://youtu.be/9E6b3swbnWg" target="_blank" rel="noopener noreferrer">YouTube Andrea Romano</a>
@@ -125,9 +128,6 @@ Have Once Played
 | Chopin Polonaise Op. 40 No. 1                                     | Heavy          | Hard       |      |       | 5:30 | <a href="https://youtu.be/hbnunexhlXM" target="_blank" rel="noopener noreferrer">YouTube Maurizio Pollini</a>
 | Chopin Prelude 6, lento assai in B minor                          | Melancholic    | Medium     |      |       | 2:30 | <a href="https://youtu.be/_FiZ5zvAITs" target="_blank" rel="noopener noreferrer">YouTube Rousseau</a>
 | Chopin Sonata Ⅱ Op. 35 Part 3 "Funeral March"                     | Melancholic    | Medium     |      |       | 9:10 | <a href="https://youtu.be/7-9wXQpzESo" target="_blank" rel="noopener noreferrer">YouTube Rousseau</a>
-| Satie Gymnopédie 1                                                | Atmospheric    | Easier     |      |       | 4:00 | <a href="https://youtu.be/2WfaotSK3mI" target="_blank" rel="noopener noreferrer">YouTube Rousseau</a>
-| Satie Gymnopédie 2                                                | Atmospheric    | Easier     |      |       | 2:50 | <a href="https://youtu.be/rlkf5s8ziZo" target="_blank" rel="noopener noreferrer">YouTube Lord Vinheteiro</a>
-| Satie Gnossienne 3                                                | Atmospheric    | Easier     |      |       | 3:30 | <a href="https://youtu.be/llk423PNMjc" target="_blank" rel="noopener noreferrer">YouTube The Flaming Piano</a>
 | Beethoven Sonata Op.27 No.2 Mov. 1 ("Moonlight Sonata")           | Melancholic    | Easier     |      |       | 6:00 | <a href="https://youtu.be/-VmQNKaOeEw" target="_blank" rel="noopener noreferrer">YouTube Anastasia Huppmann</a>
 | Beethoven Sonata Op.27 No.2 Mov. 3 ("Moonlight Sonata")           | Heavy          | Hard       |      |       | 7:00 | <a href="https://youtu.be/zucBfXpCA6s" target="_blank" rel="noopener noreferrer">YouTube Valentina Lisitsa</a>
 | Mozart Sonata in C Part 1: Allegro (KV 279 / 189d)                | Easy listening | Medium     |      | 6 pg  | 7:00 | <a href="https://youtu.be/_8BZNgm3Zys" target="_blank" rel="noopener noreferrer">YouTube Poudredepapier</a>
@@ -136,6 +136,7 @@ Have Once Played
 | Mozart Sonata "Facile" in C major Part 2 (KV 545)                 | Atmospheric    | Medium     |      | 4 pg  | 6:30 | <a href="https://youtu.be/Gj4LjyTOmD0" target="_blank" rel="noopener noreferrer">YouTube Mitsuko Uchida</a>
 | Mozart Sonata "Facile" in C major Part 3 (KV 545)                 | Easy listening | Medium     |      | 3 pg  | 2:00 | <a href="https://youtu.be/3LQT_1eEr6s" target="_blank" rel="noopener noreferrer">YouTube Mitsuko Uchida</a>
 | Mozart Rondo Alla Turca                                           | Easy listening | Medium     |      |       | 4:00 | <a href="https://youtu.be/A_THdzBnHy0" target="_blank" rel="noopener noreferrer">YouTube Marnie Laird</a>
+| Mozart Fantasia in D minor                                        | Melancholic    | Medium     |      |       | 6:30 | <a href="https://youtu.be/s3b_1ZGKHP8" target="_blank" rel="noopener noreferrer">YouTube Paul Barton</a>
 | Clementi Sonatina in C major, Op. 36, No. 1                       | Easy listening | Easier     | 👍   |       | 3:40 | <a href="https://youtu.be/JBSfLNlUpXU" target="_blank" rel="noopener noreferrer">YouTube Hazel Nguyen</a>
 | Vivaldi Four Seasons, Winter, Part 1 (Transcription)              |
 | Vivaldi Four Seasons, Winter, Part 2 (Transcription)              |
@@ -193,11 +194,5 @@ Have Once Played
 | Hanon "The Virtuoso Pianist" No. 9                                | Exercise       | Medium     |      |  1 pg | 0:45 | <a href="https://www.youtube.com/watch?v=9bHBmtjLedo&t=358s" target="_blank" rel="noopener noreferrer">YouTube Alan Chan</a>
 | Hanon "The Virtuoso Pianist" No. 10                               | Exercise       | Medium     |      |  1 pg | 0:45 | <a href="https://www.youtube.com/watch?v=9bHBmtjLedo&t=403s" target="_blank" rel="noopener noreferrer">YouTube Alan Chan</a>
 | Hanon "The Virtuoso Pianist" No. 11                               | Exercise       | Medium     |      |  1 pg | 0:45 | <a href="https://www.youtube.com/watch?v=9bHBmtjLedo&t=448s" target="_blank" rel="noopener noreferrer">YouTube Alan Chan</a>
-
-Not sure, someone else may have played:
-
-| Name                                                              | Mood           | Difficulty | Nice | Pages | Durat | Media 
-|-------------------------------------------------------------------|----------------|------------|:----:|------:|------:|-----
-| Chopin Waltz Op. 69, No. 2                                        | Atmospheric    | Easier     | 🆗   | 3 pg  |  4:00 | <a href="https://open.spotify.com/track/1n8TRehUouUhoaA3PhVERI?si=63c925e75e284ce2" target="_blank" rel="noopener noreferrer">Spotify Idil Biret</a>
 
 [back](./)
