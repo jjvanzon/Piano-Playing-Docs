@@ -64,8 +64,8 @@ Specific skills:
 Styles & Attitudes
 ------------------
 
-- Here I write down what kind of ***styles*** and ***attitudes*** I have my eye on.
 - I would like to study by ***ear***.
+    <br/><br/>
 - ***Styles***:
     - Classical style.
     - ***Favorites***: ***romantic*** era.
