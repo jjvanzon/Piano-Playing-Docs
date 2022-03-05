@@ -25,8 +25,8 @@ TODO
 - [ ] ~~Removing 'announcing' key signatures at ends of lines.~~
 - [x] Removing repeated clefs.
 - [x] ~~Removing 'announcing' clef change.~~
+- [ ] ... __Removing expression symbols (and pedal symbols, tempo, words, dynamics).__
 - [ ] Removing fingering numbers.
-- [ ] Removing expression symbols (and pedal symbols, tempo, words, dynamics).
 - [ ] Removing expression bows.
 - [ ] Removing extension bows (and the repeated note).
 - [ ] Removing some rest symbols.
