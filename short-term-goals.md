@@ -14,8 +14,8 @@ Preparation for Performance on April 1, 2022
 
 ### Actions
 
-- [ ] Picking out pieces.
-- [ ] Extending Pieces to Play doc.
+- [x] Picking out pieces.
+- [x] Extending Pieces to Play doc.
 - [ ] Debussy Arabesque recording?
 - [ ] Mozart Sonata Facile Part 1 'Frankenstein' recording?
     - [ ] (Recording several takes, cutting up and combining)
