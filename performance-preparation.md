@@ -5,32 +5,25 @@ Performance Preparation
 
 [back](./)
 
-Preparation for Performance on March 4, 2022
---------------------------------------------
+Preparation for April 1, 2022
+-----------------------------
 
 ### Pieces
 
-- [Mozart Sonata Facile KV 545 Part 1](mozart-sonata-facile-part-1)
-- [Satie Gnossienne Ⅰ](satie-gnossienne-1)
+- [ ] Perhaps more of Satie. Studying some as a series.
 
 ### Actions
 
-- [x] Hearing speakers, from audience point of view
-- [x] ~~Installing monitor speakers~~ > Delivery delayed
-- [ ] ... Recording and self-reviewing
+- [ ] Picking out pieces.
+- [ ] Debussy arabesque recording?
+- [ ] More analyses, less repertoire widening.
 
-### Harder Parts
+### Analyses
 
-- [x] Mozarts composition style is steady paced. But steady playing is difficult for me. I like wavy, floating-around play.
-- [x] Desire for technique and expression seem to work against each other. Hoping to strike a balance by recording and self-reviewing.
-
-### Piece Details
-
-- [ ] Mozart Sonata Facile KV 545 Part 1:
-    - [ ] Slow practice (to feel what the hand needs)
-- [ ] Satie Gnossienne Ⅰ
-    - [x] Learned by ear mostly.
-    - [x] To aid with (lack of) memorization:
-    - [ ] ... Making alternative sheet music perhaps.
+- [ ] Satie Gnossienne Ⅰ:
+    - [ ] Alternative sheet music
+    - [ ] Phrase structure analysis more explicit.
+    - [ ] Chords?
+- [ ] Piano motion symbols?
 
 [back](./)

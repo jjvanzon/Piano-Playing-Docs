@@ -8,15 +8,14 @@ Mozart Sonata Facile KV 545 Part 1
 Studying Notes
 --------------
 
-- [ ] Tried recording and reviewing.
-- [ ] Phrasing seems 'gone'.
-- [ ] Trying to ask from 'deep within'.
-- [ ] Trying slow practice.
-- [ ] Trying if arbitrary speed up and slow down still work.
-- [ ] Philosophically:
-    - [ ] Technique though limited, seems not the problem.
-    - [ ] Expression technique is probably not it either.
-    - [ ] It is the 'actual expression'.
-    - [ ] I feel a bit down lately, walls put up, I may need to 'dig deeper'.
+Mozarts composition style is steady paced. But steady playing is difficult for me. I like wavy, floating-around play.
+
+- [x] Phrasing / heart felt: was on the decline once.
+- [ ] But now technique seems a problem again.
+- [ ] Trying if arbitrary speed up and slow down work for fluency.
+- [ ] The 'connection points' (cross-overs, black keys, etc.) and 'join points' (where left and right hand meet up).
+- [ ] They seem to be a point of attention and prone to muscle memory decline.
+- [ ] Slow practice, focus on these join points, might be advisable.
+- [ ] 'Minimal motion' seems to surface as an anti-practice here.
 
 [back](./)
