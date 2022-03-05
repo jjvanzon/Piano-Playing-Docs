@@ -5,6 +5,8 @@ Satie Gnossienne Ⅰ
 
 [back](..)
 
+Content I made around studying this piece.
+
 Contents
 --------
 
