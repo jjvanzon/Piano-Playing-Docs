@@ -15,14 +15,14 @@ Preparation for April 1, 2022
 ### Actions
 
 - [ ] Picking out pieces.
-- [ ] Debussy arabesque recording?
-- [ ] More analyses, less repertoire widening.
+- [ ] Debussy Arabesque recording?
+- [ ] More analyses, less repertoire building.
 
 ### Analyses
 
 - [ ] Satie Gnossienne Ⅰ:
     - [ ] Alternative sheet music
-    - [ ] Phrase structure analysis more explicit.
+    - [ ] Phrase structure analysis
     - [ ] Chords?
 - [ ] Piano motion symbols?
 
