@@ -5,7 +5,7 @@ Pieces to Play
 
 [back](./)
 
-<style type="text/css" rel="stylesheet"> section, .wrapper { max-width:100% } </style>
+<style type="text/css" rel="stylesheet">section, .wrapper { max-width:100% } table { font-size: 9pt }</style>
 
 A list of pieces I play / have played / would like to play. Links to performances are usually not me. Some data are just guesses or opinion.
 
@@ -22,9 +22,7 @@ Repertoire
 
 ### Remarks
 
-Preferring moderately difficult pieces.  
-[Chopin Ballade Ⅱ](chopin-ballade-2) • for studying • not for performing  
-Demoting  [Mozart Sonata Facile KV 545 Part 1](mozart-sonata-facile-part-1) to practice piece.
+Preferring moderately difficult pieces. [Chopin Ballade Ⅱ](chopin-ballade-2) & [Mozart Sonata Facile KV 545 Part 1](mozart-sonata-facile-part-1) • for studying • not for performing.
 
 Might Study Next
 ----------------
