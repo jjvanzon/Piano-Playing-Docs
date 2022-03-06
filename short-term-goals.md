@@ -16,6 +16,7 @@ Preparation for Performance on April 1, 2022
 
 - [x] Picking out pieces.
 - [x] Extending Pieces to Play doc.
+- [ ] Satie piece practice.
 - [ ] Debussy Arabesque recording?
 - [ ] Mozart Sonata Facile Part 1 'Frankenstein' recording?
     - [ ] (Recording several takes, cutting up and combining)
