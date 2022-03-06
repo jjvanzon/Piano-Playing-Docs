@@ -8,7 +8,7 @@
 Recording
 ---------
 
-A recording of my playing the piano piece Mazurka Op. 24 No. 2 by Frédéric Chopin.
+A recording of my playing the piano piece Mazurka Op. 24, No. 2 by Frédéric Chopin.
 
 <audio controls autoplay>
   <source src="chopin-mazurka-op-24-no-2-recording-320kbps.mp3" type="audio/mpeg">
