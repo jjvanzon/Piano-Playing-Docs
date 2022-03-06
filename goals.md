@@ -61,7 +61,6 @@ Specific skills:
 - ***Sharing***:
     - Most of the things I produce I might put online, including chords and simplified sheet music and other analyses, and possibly in the future recordings too.
 
-
 Styles & Attitudes
 ------------------
 
