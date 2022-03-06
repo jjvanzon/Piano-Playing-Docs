@@ -11,10 +11,10 @@ __Contents__
 
 - [Repertoire](#repertoire)
 - [Might Study Next](#might-study-next)
-- [Might Like to Play | Easier](#might-like-to-play--easier)
-- [Might Like to Play | Medium Difficulty](#might-like-to-play--medium-difficulty)
-- [Might Like to Play | Hard](#might-like-to-play--hard)
-- [Might Like to Play | Very Hard](#might-like-to-play--very-hard)
+- [Might Like to Play > Easier](#might-like-to-play--easier)
+- [Might Like to Play > Medium Difficulty](#might-like-to-play--medium-difficulty)
+- [Might Like to Play > Hard](#might-like-to-play--hard)
+- [Might Like to Play > Very Hard](#might-like-to-play--very-hard)
 - [Have Played](#have-played)
 
 A list of pieces I play / have played / would like to play. Links to performances are usually not me. Some data are just guesses or opinion.
@@ -42,7 +42,7 @@ Might Study Next
 | Bach Prelude in C Major, BWV 846                        | Atmospheric    | Easier     |      |       |  2:20 | <a href="https://open.spotify.com/track/4N7Bd7LlQtWuI1AVhmpbgn?si=2e371200ebad46e3" target="_blank" rel="noopener noreferrer">Spotify Hélène Grimaud</a>
 | Beethoven Sonata Op.27 No.2 Mov. 1 ("Moonlight Sonata") | Melancholic    | Easier     |      |       |  5:25 | <a href="https://open.spotify.com/track/1UNzT19U7L0sC6d03L7MwT?si=0bf09cebe7a24dfe" target="_blank" rel="noopener noreferrer">Spotify Hélène Grimaud</a>
 
-Might Like to Play | Easier
+Might Like to Play > Easier
 ---------------------------
 
 | Name                                        | Mood           | Difficulty | Nice | Pages |  Dur. | Media 
@@ -55,7 +55,7 @@ Might Like to Play | Easier
 | Chopin Mazurka Op. 63, No. 2                | Melancholic    | Easier     | 👍  |     2 |  2:20  | <a href="https://open.spotify.com/track/0q7DTMv51ikjs9EbRcmO47?si=30ca37f859354b6f" target="_blank" rel="noopener noreferrer">Spotify Idil Biret</a>
 | Chopin Mazurka Op. 67, No. 2                | Melancholic    | Easier     | 🆗  |     2 |  2:15  | <a href="https://open.spotify.com/track/5egp8o1aMU4vlNYk7K8Bl2?si=a120a76456af4868" target="_blank" rel="noopener noreferrer">Spotify Idil Biret</a>
 
-Might Like to Play | Medium Difficulty
+Might Like to Play > Medium Difficulty
 --------------------------------------
 
 | Name                                           | Mood           | Difficulty | Nice | Pages |  Dur. | Media 
@@ -78,7 +78,7 @@ Might Like to Play | Medium Difficulty
 | Chopin Mazurka Op. 17, No. 2                   | Melancholic    | Medium     |      |     2 |  2:30  | <a href="https://open.spotify.com/track/2gedFFYPleE5kYarjPWIi5?si=cf204a45984f438e" target="_blank" rel="noopener noreferrer">Spotify Idil Biret</a>
 | Chopin Mazurka Op. 68, No. 4                   | Melancholic    | Medium     | 🆗  |     2 |  2:30  | <a href="https://www.youtube.com/watch?v=FbrCi1TX_XI" target="_blank" rel="noopener noreferrer">YouTube Arthur Rubinstein</a>
 
-Might Like to Play | Hard
+Might Like to Play > Hard
 -------------------------
 
 | Name                                           | Mood           | Difficulty | Nice | Pages |  Dur. | Media 
@@ -91,7 +91,7 @@ Might Like to Play | Hard
 | Chopin Etude Op. 25, No. 12 ("Ocean")          | Heavy          | Hard       |      |       |  2:30 | <a href="https://youtu.be/pRlHKQXjzZY" target="_blank" rel="noopener noreferrer">YouTube Rousseau</a>
 | Chopin Scherzo Op. 31, No. 2                   | Heavy          | Hard       |      |       | 10:00 | <a href="https://youtu.be/OCUSalQf-jY" target="_blank" rel="noopener noreferrer">YouTube Seong-Jin Cho</a>
 
-Might Like to Play | Very Hard
+Might Like to Play > Very Hard
 ------------------------------
 
 | Name                                        | Mood           | Difficulty | Nice | Pages |  Dur. | Media 
