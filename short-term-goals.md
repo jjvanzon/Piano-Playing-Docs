@@ -19,7 +19,7 @@ Preparation for Performance on April 1, 2022
     - [ ] [Satie Gnossienne Ⅰ](satie-gnossienne-1/README.md)
         - [ ] [Simplified sheet music](satie-gnossienne-1/sheet-music-simplified/README.md)
         - [ ] Phrase structure analysis
-        - [ ] Chords?
+        - [ ] Chords
 - [ ] ***Recording:***
     - [ ] [Debussy Arabesque Ⅰ](debussy-arabesque-1/README.md)
     - [ ] [Mozart Sonata Facile Part 1](mozart-sonata-facile-part-1/README.md) 'Frankenstein' recording? (Recording several takes, cutting up and combining)
