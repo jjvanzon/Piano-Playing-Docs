@@ -94,6 +94,10 @@ Photos / Previews for Social Media
 
 ![Preview Piano Motion Symbols Upper Arm Positions](preview-piano-motion-symbols-upper-arm-positions.png)
 
+### [Preview Pieces to Play 2](preview-pieces-to-play-2.png)
+
+![Preview Pieces to Play 2](preview-pieces-to-play-2.png)
+
 ### [Preview Pieces to Play](preview-pieces-to-play.png)
 
 ![Preview Pieces to Play](preview-pieces-to-play.png)
