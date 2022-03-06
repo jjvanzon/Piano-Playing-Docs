@@ -8,8 +8,6 @@ Short-Term Goals
 Preparation for Performance on April 1, 2022
 --------------------------------------------
 
-### Aspects
-
 - [ ] ***Repertoire:***
     - [ ] ... [Satie](pieces-to-play.md#might-study-next) easier pieces.
     - [ ] ... Extending [Pieces to Play](pieces-to-play.md) document.
@@ -25,8 +23,5 @@ Preparation for Performance on April 1, 2022
 - [ ] ***Recording:***
     - [ ] [Debussy Arabesque Ⅰ](debussy-arabesque-1/README.md)
     - [ ] [Mozart Sonata Facile Part 1](mozart-sonata-facile-part-1/README.md) 'Frankenstein' recording? (Recording several takes, cutting up and combining)
-
-### Analyses
-
 
 [back](./)
