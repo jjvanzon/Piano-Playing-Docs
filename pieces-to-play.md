@@ -22,7 +22,7 @@ Repertoire
 
 ### Remarks
 
-Preferring moderately difficult pieces. [Chopin Ballade Ⅱ](chopin-ballade-2) & [Mozart Sonata Facile KV 545 Part 1](mozart-sonata-facile-part-1) • for studying • not for performing.
+Preferring moderately difficult pieces. [Chopin Ballade Ⅱ](chopin-ballade-2) & [Mozart Sonata Facile KV 545 Part 1](mozart-sonata-facile-part-1) for studying, not for performing.
 
 Might Study Next
 ----------------
