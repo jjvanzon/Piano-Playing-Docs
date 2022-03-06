@@ -41,12 +41,19 @@ TODO
 - [ ] Listing of pieces that I play / have played / would like to play.
 - [x] Using <a href="https://www.youtube.com/watch?v=PCx8Xcm9l7U&t=1099s" target="_blank">100 Songs You´ve Heard And Don´t Know The Name</a>
 - [x] Making links handier (HTML-style, open in separate tab).
+- [x] ~ Using MIDI recordings.
+- [x] ~~Using books in attic.~~ > Not classical.
 - [ ] __Using books in closet.__
-- [ ] Using books in attic.
-- [ ] Using Spotify playlists.
-- [ ] Using MIDI recordings.
+- [ ] __Using Spotify playlists.__
+    - [x] Have Played
+    - [ ] Want to Play
+    - [ ] Chopin Etc. (Heavy)
+    - [ ] Chopin Etc. (Melancholic)
+    - [ ] Chopin Etc. (Atmospheric)
+    - [ ] Chopin Etc. (Easy Listening)
+    - [ ] Chopin Mazurka Selection
 - [ ] Media:
-    - [ ] Adding links to media.
+    - [x] Adding links to media.
     - [ ] Would like the YouTube media to show hands.
     - [ ] Would like the Spotify media to be nice to listen to.
     - [ ] Perhaps make playlists eventually and link to them.
