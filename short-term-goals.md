@@ -22,6 +22,7 @@ Preparation for Performance on April 1, 2022
         - [ ] Chords
 - [ ] ***Recording:***
     - [ ] [Debussy Arabesque Ⅰ](debussy-arabesque-1/README.md)
-    - [ ] [Mozart Sonata Facile Part 1](mozart-sonata-facile-part-1/README.md) 'Frankenstein' recording? (Recording several takes, cutting up and combining)
+    - [ ] [Mozart Sonata Facile Part 1](mozart-sonata-facile-part-1/README.md) 'Frankenstein' recording?  
+          (Recording several takes, cutting up and combining)
 
 [back](./)
