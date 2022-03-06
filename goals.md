@@ -5,6 +5,8 @@
 
 [back](./)
 
+(See also: [Short-Term Goals](short-term-goals.md))
+
 Repertoire Building
 -------------------
 
@@ -13,7 +15,6 @@ Repertoire Building
 Performing
 ----------
 
-- See [Performance preparation notes](performance-preparation.md)
 - Performing at a local ***get-together***:
 - Eventually an ***hour*** of back-ground music at a ***event***.
 
