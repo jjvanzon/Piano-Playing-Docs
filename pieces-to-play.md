@@ -1,11 +1,21 @@
-Pieces to Play
-==============
+🎹 Pieces to Play
+=================
 
 *JJ van Zon, 2022*
 
 [back](./)
 
 <style type="text/css" rel="stylesheet">section, .wrapper { max-width:100% } table { font-size: 9pt }</style>
+
+__Contents__
+
+- [Repertoire](#repertoire)
+- [Might Study Next](#might-study-next)
+- [Might Like to Play | Easier](#might-like-to-play--easier)
+- [Might Like to Play | Medium Difficulty](#might-like-to-play--medium-difficulty)
+- [Might Like to Play | Hard](#might-like-to-play--hard)
+- [Might Like to Play | Very Hard](#might-like-to-play--very-hard)
+- [Have Played](#have-played)
 
 A list of pieces I play / have played / would like to play. Links to performances are usually not me. Some data are just guesses or opinion.
 
@@ -19,10 +29,6 @@ Repertoire
 |  ...  |  ✔     |        | [Mozart Sonata Facile KV 545 Part 1](mozart-sonata-facile-part-1)    | Easy listening | Medium     | 👍   | 5 pg  | 5:20  | <a href="https://youtu.be/qjk-YRuQZDE" target="_blank" rel="noopener noreferrer">YouTube Rousseau</a>
 |  ✔   |  ✔     |  ✔    | [Satie Gnossienne Ⅰ](satie-gnossienne-1)                             | Atmospheric    | Easier     | 🆗   | 2 pg  | 4:30  | [JJ van Zon](https://jjvanzon.github.io/Piano-Playing-Docs/satie-gnossienne-1/recording/) <a href="https://youtu.be/lqZehFAwoTM" target="_blank" rel="noopener noreferrer">YouTube The Flaming Piano</a>, <a href="https://open.spotify.com/track/2xDvCPTcgnm9jHPsiPDBf1?si=c170ccabc02944ee" target="_blank" rel="noopener noreferrer">Spotify Hélène Grimaud</a>
 |  ...  |         |        | [Chopin Ballade Ⅱ](chopin-ballade-2)                                | Heavy          | Hard       | 👍   | 9 pg  | 7:30  | <a href="https://open.spotify.com/track/6sNr7Fr9JTnK2lbRGd9Jem?si=6a45287bbca24c1a" target="_blank" rel="noopener noreferrer">Spotify Yundi</a>
-
-### Remarks
-
-Preferring moderately difficult pieces. [Chopin Ballade Ⅱ](chopin-ballade-2) & [Mozart Sonata Facile KV 545 Part 1](mozart-sonata-facile-part-1) for studying, not for performing.
 
 Might Study Next
 ----------------
@@ -85,8 +91,8 @@ Might Like to Play | Hard
 | Chopin Etude Op. 25, No. 12 ("Ocean")          | Heavy          | Hard       |      |       |  2:30 | <a href="https://youtu.be/pRlHKQXjzZY" target="_blank" rel="noopener noreferrer">YouTube Rousseau</a>
 | Chopin Scherzo Op. 31, No. 2                   | Heavy          | Hard       |      |       | 10:00 | <a href="https://youtu.be/OCUSalQf-jY" target="_blank" rel="noopener noreferrer">YouTube Seong-Jin Cho</a>
 
-Might Like to Play | Super Hard
--------------------------------
+Might Like to Play | Very Hard
+------------------------------
 
 | Name                                        | Mood           | Difficulty | Nice | Pages |  Dur. | Media 
 |---------------------------------------------|----------------|------------|:----:|------:|------:|-----
