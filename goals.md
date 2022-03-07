@@ -35,14 +35,7 @@ Current focus:
 - Balancing ***technique & expression***.  
 - ***Chords***, harmony, improvisation.
 
-Philosophy:
-
-- Going for ***imperfect*** piano playing.
-- Obtaining ***skills*** to compensate.
-- ***Improvisation*** might be key.
-- Things may go wrong on any aspect: note reading / memorizing / technique / motor skills / expression / listening / performing
-
-Specific skills:
+Skills:
 
 - ***Note reading:***
     - May include ***simplifying*** musical score.
@@ -62,10 +55,9 @@ Specific skills:
         - To improvise myself out of a mistake.
         - To improvise for entertainment purposes.
 - ***Recording***:
-    - Might record my playing.
     - For reflection.
-    - To put online, perhaps.
-    - For entertainment purposes, hopefully.
+    - To put online.
+    - For entertainment.
 - ***Sharing***:
     - Most of the things I produce I might put online, including chords and simplified sheet music and other analyses, and possibly in the future recordings too.
 
@@ -74,6 +66,11 @@ Styles & Attitudes
 
 - I would like to study by ***ear***.
     <br/><br/>
+- ***Philosophy:***
+    - Going for ***imperfect*** piano playing.
+    - Obtaining ***skills*** to compensate.
+    - ***Improvisation*** might be key.
+    - Things may go wrong on any aspect: note reading / memorizing / technique / motor skills / expression / listening / performing
 - ***Styles:***
     - ***Classical*** style.
     - ***Romantic*** era is favorite.
