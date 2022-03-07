@@ -81,15 +81,15 @@ Styles & Attitudes
     - ***Solo piano*** by default.
     - ***Barok*** side-ways appreciated
     - ***Mozart*** sometimes appreciated.
-- ***Not:***:
+- ***Not:***
     - ***Atonal*** rather not.
-    - ***Fast*** like race not preferred.
+    - ***Fast*** like a ***race*** not preferred.
     - ***Fear*** expression not preferred.
     - ***Anger*** expression not too much.
     - ***Grandeur*** not something I identify with.
     - ***Loud*** not preferred.
     - ***Voices*** rather not
-    - ***Mozart not*** generally not preferred (sorry...)
+    - ***Mozart*** not generally preferred (sorry...)
 - ***Expression:***
     - ***Not loud*** all the time.
     - ***Rubato*** rhythm / improvised over.
