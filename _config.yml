@@ -3,8 +3,6 @@ title: 🎹 JJ's Piano Playing Docs
 plugins:
   - jekyll-relative-links
   - jekyll-default-layout
-  - jekyll-seo
-  - jekyll-seo-tag
 relative_links:
   enabled: true
   collections: true
