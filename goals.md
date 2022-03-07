@@ -97,11 +97,6 @@ Styles & Attitudes
         - No sudden ***staccato***, that has no context within the *phrasing*.
         - No sudden ***drop in volume***, to appear dynamic, while having no context within the *phrasing*.
         - Context within the *phrasing* seems key here.
-- ***Mix:***
-    - ***Improvising*** over things.
-    - ***Changing*** things up.
-    - ***Mixing*** fragments of pieces, creating a sort of mosaic.
-    - ***Leaving out*** parts I like less.
 - ***Imperfect:***
     - ***Imperfect*** playing might be what I am going for.
     - ***Errors*** allowed.
@@ -109,6 +104,11 @@ Styles & Attitudes
     - ***Recitals*** are ok to go imperfectly.
     - ***Stress*** of aiming for perfection, seems to harm the quality, cramping me up. So I might just let go of that and see performing as *practice*, with no aim to deliver the very best performance I could.
     - ***Goals*** are ***optional*** and allowed to fail, postponed or ineffective. Hopefully gradual accumulation of skill as a side-effect. If not, that's ok too.
+- ***Mix:***
+    - ***Improvising*** over things.
+    - ***Changing*** things up.
+    - ***Mixing*** fragments of pieces, creating a sort of mosaic.
+    - ***Leaving out*** parts I like less.
 
 Background
 ----------
