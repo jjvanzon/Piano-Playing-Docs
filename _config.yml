@@ -4,6 +4,7 @@ plugins:
   - jekyll-relative-links
   - jekyll-sitemap
   - jekyll-default-layout
+  - jekyll-seo
   - jekyll-seo-tag
 relative_links:
   enabled: true
