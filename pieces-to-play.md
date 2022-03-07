@@ -51,9 +51,9 @@ Might Like to Play, Easier
 | Brahms Waltz Op. 39, No. 15 in A flat major | Easy listening | Easier     |      |       |  1:30 | <a href="https://open.spotify.com/track/7ouW02587AzIaGnK0gh8St?si=b243a945bfee45f6" target="_blank" rel="noopener noreferrer">Spotify, Idil Biret</a>
 | Chopin Waltz BI 46                          | Easy listening | Easier     | 👍   | 3 pg  |  2:40 | <a href="https://open.spotify.com/track/5GOZTE8cNUGdpmCJvcFR3P?si=b9ae7665e95a4df2" target="_blank" rel="noopener noreferrer">Spotify, Abbey Simon</a>
 | Beethoven Sonata Pathétique Opus. 13 Mov 2  | Atmospheric    | Easier     |      |       |  5:00 | <a href="https://open.spotify.com/track/1kfdzVK4npK6QNZdwlZoku?si=628cfb58a0354d50" target="_blank" rel="noopener noreferrer">Spotify, Valentina Lisitsa</a>
-| Chopin Mazurka Op. 17, No. 4                | Melancholic    | Easier     | 🧡  |     4 |  4:30  | <a href="https://open.spotify.com/track/3HSL1XDNGdiO0KVGfIq6Sf?si=a0ab0728b5bc4904" target="_blank" rel="noopener noreferrer">Spotify, Idil Biret</a>
-| Chopin Mazurka Op. 63, No. 2                | Melancholic    | Easier     | 👍  |     2 |  2:20  | <a href="https://open.spotify.com/track/0q7DTMv51ikjs9EbRcmO47?si=30ca37f859354b6f" target="_blank" rel="noopener noreferrer">Spotify, Idil Biret</a>
-| Chopin Mazurka Op. 67, No. 2                | Melancholic    | Easier     | 🆗  |     2 |  2:15  | <a href="https://open.spotify.com/track/5egp8o1aMU4vlNYk7K8Bl2?si=a120a76456af4868" target="_blank" rel="noopener noreferrer">Spotify, Idil Biret</a>
+| Chopin Mazurka Op. 17, No. 4                | Melancholic    | Easier     | 🧡  |  4 pg |  4:30  | <a href="https://open.spotify.com/track/3HSL1XDNGdiO0KVGfIq6Sf?si=a0ab0728b5bc4904" target="_blank" rel="noopener noreferrer">Spotify, Idil Biret</a>
+| Chopin Mazurka Op. 63, No. 2                | Melancholic    | Easier     | 👍  |  2 pg |  2:20  | <a href="https://open.spotify.com/track/0q7DTMv51ikjs9EbRcmO47?si=30ca37f859354b6f" target="_blank" rel="noopener noreferrer">Spotify, Idil Biret</a>
+| Chopin Mazurka Op. 67, No. 2                | Melancholic    | Easier     | 🆗  |  2 pg |  2:15  | <a href="https://open.spotify.com/track/5egp8o1aMU4vlNYk7K8Bl2?si=a120a76456af4868" target="_blank" rel="noopener noreferrer">Spotify, Idil Biret</a>
 
 Might Like to Play, Medium Difficulty
 -------------------------------------
