@@ -7,6 +7,15 @@
 
 (See also: [Short-Term Goals](short-term-goals.md))
 
+__Contents__
+
+- [Repertoire Building](#repertoire-building)
+- [Performing](#performing)
+- [Skill Learning](#skill-learning)
+- [Styles & Attitudes](#styles--attitudes)
+- [Background](#background)
+- [Further Future](#further-future)
+
 Repertoire Building
 -------------------
 
@@ -66,30 +75,40 @@ Styles & Attitudes
 
 - I would like to study by ***ear***.
     <br/><br/>
-- ***Styles***:
-    - Classical style.
-    - ***Favorites***: ***romantic*** era.
-    - ***Appreciate*** some: ***barok***, some ***Mozart*** etc.
-    - ***Not*** so much on the top of my list: ***atonal***, the bulk of Mozart (sorry...)
-- ***Expression***:
+- ***Styles:***
+    - ***Classical*** style.
+    - ***Romantic*** era is favorite.
+    - ***Solo piano*** by default.
+    - ***Barok*** side-ways appreciated
+    - ***Mozart*** sometimes appreciated.
+- ***Not:***:
+    - ***Atonal*** rather not.
+    - ***Fast*** like race not preferred.
+    - ***Fear*** expression not preferred.
+    - ***Anger*** expression not too much.
+    - ***Grandeur*** not something I identify with.
+    - ***Loud*** not preferred.
+    - ***Voices*** rather not
+    - ***Mozart not*** generally not preferred (sorry...)
+- ***Expression:***
     - ***Not loud*** all the time.
-    - Rhythm ***rubato***/improvised over.
-    - Mind phrasing, when applying expression tricks:
+    - ***Rubato*** rhythm / improvised over.
+    - ***Phrasing*** is something to mind, when applying expression tricks:
         - No sudden ***staccato***, that has no context within the *phrasing*.
         - No sudden ***drop in volume***, to appear dynamic, while having no context within the *phrasing*.
         - Context within the *phrasing* seems key here.
-- ***Mix***:
-    - I would like to ***improvise***,
-    - I would like to ***change*** things up.
-    - Freely ***mixing*** fragments of pieces creating a sort of mosaic.
+- ***Mix:***
+    - ***Improvising*** over things.
+    - ***Changing*** things up.
+    - ***Mixing*** fragments of pieces, creating a sort of mosaic.
     - ***Leaving out*** parts I like less.
-- ***Imperfect***:
-    - I might go for playing  ***imperfectly***.
-    - Allowing ***errors***.
-    - Solving errors by ***improvising***.
-    - Be ok that things do not go perfectly at ***recitals***.
-    - The ***stress*** of aiming for perfection, seems to harm the quality, cramping me up. So I might just let go of that and see performing as *practice*, with no aim to deliver the very best performance I could.
-    - That all my aims and ***goals*** are ***optional*** and allowed to fail, be put on the back burner, be ineffective is ok. Hopefully amounting to a gradual accumulation of skill. And if not, maybe that's ok too.
+- ***Imperfect:***
+    - ***Imperfect*** playing might be what I am going for.
+    - ***Errors*** allowed.
+    - ***Improvising*** used for error solving.
+    - ***Recitals*** are ok to go imperfectly.
+    - ***Stress*** of aiming for perfection, seems to harm the quality, cramping me up. So I might just let go of that and see performing as *practice*, with no aim to deliver the very best performance I could.
+    - ***Goals*** are ***optional*** and allowed to fail, postponed or ineffective. Hopefully gradual accumulation of skill as a side-effect. If not, that's ok too.
 
 Background
 ----------
