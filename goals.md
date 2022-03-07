@@ -80,7 +80,7 @@ Styles & Attitudes
     - ***Romantic*** era is favorite.
     - ***Solo piano*** by default.
     - ***Barok*** side-ways appreciated
-    - ***Mozart*** sometimes appreciated.
+    - ***Mozart*** sometimes appreciated, but less.
 - ***Not:***
     - ***Atonal*** rather not.
     - ***Fast*** like a ***race*** not preferred.
@@ -89,7 +89,6 @@ Styles & Attitudes
     - ***Grandeur*** not something I identify with.
     - ***Loud*** not preferred.
     - ***Voices*** rather not
-    - ***Mozart*** not generally preferred (sorry...)
 - ***Expression:***
     - ***Not loud*** all the time.
     - ***Rubato*** rhythm / improvised over.
