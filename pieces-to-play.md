@@ -1,4 +1,4 @@
-🎹 Pieces to Play
+🎼 Pieces to Play
 =================
 
 *JJ van Zon, 2022*
