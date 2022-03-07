@@ -43,10 +43,10 @@ TODO
 - [x] Making links handier (HTML-style, open in separate tab).
 - [x] ~ Using MIDI recordings.
 - [x] ~~Using books in attic.~~ > Not classical.
-- [ ] __Using books in closet.__
-- [ ] __Using Spotify playlists.__
+- [ ] __... Using books in closet.__
+- [ ] __... Using Spotify playlists.__
     - [x] Have Played
-    - [ ] Want to Play
+    - [x] Want to Play
     - [ ] Chopin Etc. (Heavy)
     - [ ] Chopin Etc. (Melancholic)
     - [ ] Chopin Etc. (Atmospheric)
