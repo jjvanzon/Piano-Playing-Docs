@@ -2,6 +2,7 @@ theme: jekyll-theme-midnight
 title: 🎹 JJ's Piano Playing Docs
 plugins:
   - jekyll-relative-links
+  - jekyll-sitemap
   - jekyll-default-layout
   - jekyll-seo-tag
 relative_links:
