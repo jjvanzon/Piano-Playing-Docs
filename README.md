@@ -32,13 +32,13 @@ Contents
     - [Satie Gnossienne Ⅰ](satie-gnossienne-1)
 - [Methods](methods)
     - You may find some of my methods of working here.
-- [Nord Piano 4](nord-piano-4)
-    - Lists some of my favorite sounds for my Nord Piano 4 digital piano. Also has planning notes about how I worked on selecting them.
-- [TODO](todo.md)
-    - Some rough plans about what I might like to do next.
 - [Links](links.md)
     - Links to possibly useful information.
+- [Nord Piano 4](nord-piano-4)
+    - Lists some of my favorite sounds for my Nord Piano 4 digital piano. Also has planning notes about how I worked on selecting them.
 - [Resources](resources)
     - Pictures and also characters and symbols that might be a helpful aid for music notes and analyses.
+- [TODO](todo.md)
+    - Some rough plans about what I might like to do next.
 - [Archive](archive)
     - Older but somehow difficult to delete content.
