@@ -18,21 +18,16 @@ Contents
 - [Goals](goals.md)
     - Some goals I might have with my piano playing hobby.
 - [Short-Term Goals](short-term-goals.md)
-    - Short term goals / preparation notes for the next performance.
+    - Short term goals / preparation for the next performance.
 - [Pieces to Play](pieces-to-play.md)
     - A list of pieces I play / have played / would like to play.
 - Individual pieces:
-    <br/><br/>
+    - Recordings, notes and analyses of individual piano pieces.
     - [Chopin Mazurka Op. 24, No. 2](chopin-mazurka-op-24-no-2)
-        - Notes and analyses studying Chopin Mazurka Op. 24, No. 2. May include chord progression, harmonic analysis, phrase structure and an overview scoring myself on the different fragments and aspects of the piece.
     - [Debussy Arabesque Ⅰ](debussy-arabesque-1)
-        - Chord progression and simplified sheet music for Debussy Arabesque Ⅰ.
     - [Mozart Sonata Facile KV 545 Part 1](mozart-sonata-facile-part-1)
-        - Studying notes and an overview scoring myself on different fragments and aspects of this piano piece while studying it.
     - [Chopin Ballade Ⅱ](chopin-ballade-2)
-        - An overview scoring myself on different fragments and aspects of this piano piece while studying it. And a partially worked out phrase / repetition structure.
     - [Satie Gnossienne Ⅰ](satie-gnossienne-1)
-        - Sheet music and studying notes about this piece.
 - [Methods](methods)
     - You may find some of my methods of working here.
 - [Nord Piano 4](nord-piano-4)
