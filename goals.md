@@ -59,18 +59,18 @@ Skills:
     - To put online.
     - For entertainment.
 - ***Sharing:***
-    - Most of the things I produce I might put online, including chords and simplified sheet music and other analyses, and possibly in the future recordings too.
+    - Most of the things I produce I might put online, including recordings, chords and simplified sheet music and other analyses.
 
 Styles & Attitudes
 ------------------
 
-- I would like to study by ***ear***.
-    <br/><br/>
 - ***Philosophy:***
     - Going for ***imperfect*** piano playing.
     - Obtaining ***skills*** to compensate.
     - ***Improvisation*** might be key.
     - Things may go wrong on any aspect: note reading / memorizing / technique / motor skills / expression / listening / performing
+- Studying by ***ear*** more.
+    <br/><br/>
 - ***Styles:***
     - ***Classical*** style.
     - ***Romantic*** era is favorite.
