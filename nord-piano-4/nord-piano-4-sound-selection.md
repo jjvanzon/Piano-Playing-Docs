@@ -24,10 +24,10 @@ String resonance seems to matters (Lrg size has it).
 |  8-D  | Mid tones | Amber Upright             | XL nice, subtler than Lrg
 |  8-D  | Soft      | Mellow Upright            | XL nice, quite more subtle than Lrg and worth it
 |  :-D  | Soft      | Velvet Grand              | Only XL seems nice
-|  :-)  | Mid tones | Grand Imperial            | XL matters (vs Sml), Mid tones harsh, EQ difficult
+|  :-D  | Mid tones | Grand Imperial            | XL matters (vs Sml), Mid tones harsh, EQ difficult
 |  :-)  | Bright    | Grand Upright             | XL string resonance nice
 |  :-)  | Bright    | Baby Upright              | Characterful, XL matters (vs Sml)
-|  :-D  | Soft      | Beethoven FortePBroadwood | Characterful, XL matters (vs Sml), Lgr sounds similar
+|  :-)  | Soft      | Beethoven FortePBroadwood | Characterful, XL matters (vs Sml), Lgr sounds similar
 |  :-)  | Soft      | Bambino Upright           | Characterful, XL matters a bit (vs Sml)
 |  :-)  | Bright    | Italian Grand             | XL adds depth (vs Sml)
 |  :-)  | Soft      | Mozart FortePno           | Characterful
@@ -48,9 +48,9 @@ String resonance seems to matters (Lrg size has it).
 |  :-/  | Metallic | BlueSwede                  | Lrg max size and matters, not best but subtle
 |  :-/  | Metallic | Black Upright              | Lrg max size, nothing wrong with it, just not best
 |  :-/  | Metallic | Rain Piano                 | Lrg max size and matters a bit, a bit of character
-|  :-(  | Detuned  | HonkyTonkUpright           | Not a fan of detuned piano sound.
-|  :-(  | Detuned  | Saloon Upright             | Not a fan of detuned piano sound.
-|  :-(  | Hollow   | Concert Grand 1            | Not a fan of detuned piano sound.
+|  :-(  | Detuned  | HonkyTonkUpright           | Not a fan of detuned.
+|  :-(  | Detuned  | Saloon Upright             | Not a fan of detuned.
+|  :-(  | Hollow   | Concert Grand 1            | Not a fan of detuned.
 
 ### Bundles
 
