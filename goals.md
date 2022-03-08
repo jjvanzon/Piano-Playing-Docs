@@ -24,7 +24,7 @@ Repertoire Building
 Performing
 ----------
 
-- Performing at a local ***get-together***:
+- Performing at a local ***get-together***.
 - Eventually an ***hour*** of back-ground music at a ***event***.
 
 Skill Learning
@@ -54,11 +54,11 @@ Skills:
         - For better memorization.
         - To improvise myself out of a mistake.
         - To improvise for entertainment purposes.
-- ***Recording***:
+- ***Recording:***
     - For reflection.
     - To put online.
     - For entertainment.
-- ***Sharing***:
+- ***Sharing:***
     - Most of the things I produce I might put online, including chords and simplified sheet music and other analyses, and possibly in the future recordings too.
 
 Styles & Attitudes
