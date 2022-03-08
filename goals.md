@@ -98,7 +98,7 @@ Styles & Attitudes
     - ***Improvising*** used for error solving.
     - ***Recitals*** are ok to go imperfectly.
     - ***Stress*** of aiming for perfection, seems to harm the quality, cramping me up. So I might just let go of that and see performing as *practice*, with no aim to deliver the very best performance I could.
-    - ***Goals*** are ***optional*** and allowed to fail. Hopefully gradual accumulation of skill as a side-effect. If not, that's ok too.
+    - ***Goals*** are ***optional*** and allowed to fail. Hopefully gradual accumulation of skill as a side-effect.
 - ***Mix:***
     - ***Improvising*** over things.
     - ***Changing*** things up.
