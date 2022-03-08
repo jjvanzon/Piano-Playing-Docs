@@ -22,6 +22,7 @@ Contents
 - [Pieces to Play](pieces-to-play.md)
     - A list of pieces I play / have played / would like to play.
 - Individual pieces:
+    <br/><br/>
     - Recordings, notes and analyses of individual piano pieces.
     - [Chopin Mazurka Op. 24, No. 2](chopin-mazurka-op-24-no-2)
     - [Debussy Arabesque Ⅰ](debussy-arabesque-1)
