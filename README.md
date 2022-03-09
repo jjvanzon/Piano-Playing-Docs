@@ -22,7 +22,7 @@ Contents
 - [Pieces to Play](pieces-to-play.md)
     - A list of pieces I play / have played / would like to play.
 - [Recordings](recordings.md)
-    - Recordings of my playing several piano pieces.
+    - Recordings of my playing some piano pieces.
 - Individual pieces:
     <br/><br/>
     - Recordings, notes and analyses of individual piano pieces.
