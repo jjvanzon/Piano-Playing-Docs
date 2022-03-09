@@ -5,7 +5,7 @@
 
 [back](./)
 
-Recordings of my playing several piano pieces.
+Recordings of my playing some piano pieces.
 
 [Satie Gnossienne Ⅰ](satie-gnossienne-1/README.md)
 -------------------------------------------------
