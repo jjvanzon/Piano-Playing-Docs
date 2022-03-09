@@ -3,7 +3,7 @@ Debussy Arabesque Ⅰ
 
 *JJ van Zon, 2022*
 
-[back](./)
+[back](./README.md)
 
 Practice Schema
 ---------------
@@ -49,6 +49,6 @@ Practice Schema
 | __13__   | - - - 8 - | - - - 8 - | - - - 8 - | - - - - - |
 | __14__   | - - - 8 - | - - - 8 - | - - - 8 - | - - - - - |
 
-Links: [method description](https://jjvanzon.github.io/Piano-Playing-Docs/methods/practice-schema.html), [notes with fragment subdivision](notes-fragment-subdivision)
+Links: [method description](https://jjvanzon.github.io/Piano-Playing-Docs/methods/practice-schema.html), [notes with fragment subdivision](notes-fragment-subdivision/README.md)
 
-[back](./)
+[back](./README.md)

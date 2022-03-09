@@ -3,7 +3,7 @@ Resources
 
 *JJ van Zon, 2022*
 
-[back](..)
+[back](../README.md)
 
 - [Unicode Characters for Music](unicode-characters-for-music.md)
 
@@ -118,4 +118,4 @@ Photos / Previews for Social Media
 
 ![Preview Web Site JJ's Piano Playing Docs](preview-web-site-jjs-piano-playing-docs.png)
 
-[back](..)
+[back](../README.md)

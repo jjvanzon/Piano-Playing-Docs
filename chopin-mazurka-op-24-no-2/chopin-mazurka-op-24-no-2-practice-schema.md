@@ -3,7 +3,7 @@ Chopin Mazurka Op. 24, No. 2
 
 *JJ van Zon, 2021*
 
-[back](./)
+[back](./README.md)
 
 Practice Schema
 ---------------
@@ -25,4 +25,4 @@ Practice Schema
 
 Click [here](https://jjvanzon.github.io/Piano-Playing-Docs/methods/practice-schema.html) for method description.
 
-[back](./)
+[back](./README.md)

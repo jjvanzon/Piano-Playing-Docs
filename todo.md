@@ -3,7 +3,7 @@ TODO
 
 *JJ van Zon, 2022*
 
-[back](./)
+[back](./README.md)
 
 More specific TODO lists may be in other documents.
 
@@ -117,11 +117,11 @@ Done
     - [x] Using absolute paths to the GitHub pages html page instead as a work-around.
 - [x] No home link, like clicking on the logo.
     - [x] Back buttons instead.
-    - [x] Adding `[back](./)` in a document
-    - [x] And `[back](..)` in a folder or README.md.
+    - [x] Adding `[back](./README.md)` in a document
+    - [x] And `[back](../README.md)` in a folder or README.md.
 - [x] "(MarkDown)" with a link does not seem to mean much on the GitHub Pages. Perhaps calling it "(Web Page)" instead.
 - [x] Extra title "Piano Playing Docs" might be a bit redundant.
 - [x] External links to open in new tab using `<a>` tags.
 - [x] ~ More images at top of pages
 
-[back](./)
+[back](./README.md)

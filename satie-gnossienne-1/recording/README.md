@@ -3,7 +3,7 @@
 
 *JJ van Zon, 2022-03-03*
 
-[back](..)
+[back](../README.md)
 
 Recording
 ---------
@@ -21,4 +21,4 @@ It was played on a __Nord Piano 4__ digital piano with the __Royal Grand 3D XL__
 
 <img src="https://jjvanzon.github.io/Piano-Playing-Docs/resources/preview-satie-gnossienne-1-sheet-music-simplification-detail.png" width="250" /> <img src="https://jjvanzon.github.io/Piano-Playing-Docs/resources/preview-mini-disk-recorder-detail.png" width="300" />
 
-[back](..)
+[back](../README.md)

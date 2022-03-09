@@ -3,7 +3,7 @@ Chopin Ballade Ⅱ
 
 *JJ van Zon, 2022*
 
-[back](..)
+[back](../README.md)
 
 - [Practice Schema](chopin-ballade-2-practice-schema.md)
 

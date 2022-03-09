@@ -3,7 +3,7 @@ Methods
 
 *JJ van Zon, 2021*
 
-[back](./)
+[back](./README.md)
 
 Finger Numbers
 --------------

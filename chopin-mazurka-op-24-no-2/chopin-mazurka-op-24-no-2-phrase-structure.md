@@ -3,7 +3,7 @@ Chopin Mazurka Op. 24, No. 2
 
 *JJ van Zon, 2021*
 
-[back](./)
+[back](./README.md)
 
 Phrase Structure
 ----------------
@@ -96,4 +96,4 @@ a - a - b - c'
 a - a - b - c  
 a - a - a' - a''
 
-[back](./)
+[back](./README.md)

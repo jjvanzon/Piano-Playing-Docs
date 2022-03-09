@@ -3,7 +3,7 @@
 
 *JJ van Zon, 2022*
 
-[back](./)
+[back](./README.md)
 
 Preparation for Performance on April 1, 2022
 --------------------------------------------
@@ -25,4 +25,4 @@ Preparation for Performance on April 1, 2022
     - [ ] [Mozart Sonata Facile Part 1](mozart-sonata-facile-part-1/README.md) 'Frankenstein' recording?  
           (Recording several takes, cutting up and combining)
 
-[back](./)
+[back](./README.md)

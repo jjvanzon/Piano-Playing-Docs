@@ -3,7 +3,7 @@ Mozart Sonata Facile KV 545 Part 1
 
 *JJ van Zon, 2022*
 
-[back](./)
+[back](./README.md)
 
 Practice Schema
 ---------------
@@ -46,4 +46,4 @@ Click [here](https://jjvanzon.github.io/Piano-Playing-Docs/methods/practice-sche
 
 - Fragment 6 and 6' seem harder to read. Perhaps arpeggios more on one staff might help.
 
-[back](./)
+[back](./README.md)

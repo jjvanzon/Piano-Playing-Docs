@@ -3,7 +3,7 @@ Chopin Mazurka Op. 24, No. 2
 
 *JJ van Zon, 2022*
 
-[back](./)
+[back](./README.md)
 
 TODO
 ----
@@ -44,4 +44,4 @@ TODO
 - [ ] Keep checking by playing the print, until no more corrections.
 - [ ] Might check with <a href="https://online-image-comparison.com" target="blank">image diff</a> before uploading.
 
-[back](./)
+[back](./README.md)

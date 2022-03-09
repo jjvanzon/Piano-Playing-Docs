@@ -3,7 +3,7 @@ Satie Gnossienne Ⅰ
 
 *JJ van Zon, 2022*
 
-[back](./)
+[back](./README.md)
 
 Studying Notes
 --------------
@@ -44,4 +44,4 @@ I told myself to do something with chords and improvising. I might make versions
 - [x] Keep checking by playing the print, until no more corrections.
 - [x] Might check with <a href="https://online-image-comparison.com" target="blank">image diff</a> before uploading.
 
-[back](./)
+[back](./README.md)

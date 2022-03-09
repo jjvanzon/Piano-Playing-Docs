@@ -3,7 +3,7 @@ Mozart Sonata Facile KV 545 Part 1
 
 *JJ van Zon, 2022*
 
-[back](./)
+[back](./README.md)
 
 Studying Notes
 --------------
@@ -18,4 +18,4 @@ Mozarts composition style is steady paced. But steady playing is difficult for m
 - [ ] Slow practice, focus on these join points, might be advisable.
 - [ ] 'Minimal motion' seems to surface as an anti-practice here.
 
-[back](./)
+[back](./README.md)

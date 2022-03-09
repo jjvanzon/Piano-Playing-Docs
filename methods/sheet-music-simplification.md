@@ -3,7 +3,7 @@ Methods
 
 *JJ van Zon, 2021*
 
-[back](./)
+[back](./README.md)
 
 Sheet Music Simplification
 --------------------------
@@ -39,4 +39,4 @@ Sheet Music Simplification
 - Keep checking by playing the print, until no more corrections.
 - Might check with <a href="https://online-image-comparison.com" target="blank">image diff</a> before uploading.
 
-[back](./)
+[back](./README.md)

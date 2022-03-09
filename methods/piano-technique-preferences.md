@@ -3,7 +3,7 @@ Methods
 
 *JJ van Zon, 2021*
 
-[back](./)
+[back](./README.md)
 
 Piano Technique Preferences
 ---------------------------
@@ -96,4 +96,4 @@ instead of *actively* from the (lower) arms and wrist.
 - Perhaps regard any variation on distribution of weight as welcome,  
 - as well as the playing style that results from it.
 
-[back](./)
+[back](./README.md)

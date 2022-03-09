@@ -5,7 +5,7 @@ Methods
 
 *JJ van Zon, 2021*
 
-[back](./)
+[back](./README.md)
 
 Piano Motion Symbols
 --------------------
@@ -719,4 +719,4 @@ To demonstrate some possibilities for flexibility.
 | <img src="images/composite-curved-wrist-flapping-mid-finger-pressed.png" height="60" /> | Curved wrist flapping, mid finger pressed |
 | <img src="images/composite-arpeggio-hopping-wrist-etc.png" height="120" />              | Curved wrist hopping. 1st and last note pressed. Middle note moved forward, pressed with 3rd finger. |
 
-[back](./)
+[back](./README.md)

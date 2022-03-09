@@ -3,7 +3,7 @@ Nord Piano 4 Sound Selection
 
 *JJ van Zon, 2021-09*
 
-[back](./)
+[back](./README.md)
 
 Intro
 -----
@@ -290,4 +290,4 @@ Mellotron Master Tapes Sound Collection Selection
 - [x] ~~Rhythms Fills MkI~~ > Large and quite difficult 
 - [x] ~~Rhythms Fills MkII~~ > Large and quite difficult
 
-[back](./)
+[back](./README.md)

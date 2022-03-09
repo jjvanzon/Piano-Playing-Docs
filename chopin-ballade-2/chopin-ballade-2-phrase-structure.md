@@ -5,7 +5,7 @@ Chopin Ballade Ⅱ
 
 *JJ van Zon, 2022*
 
-[back](./)
+[back](./README.md)
 
 Phrase Structure
 ----------------
@@ -23,3 +23,5 @@ A1, a2. B1 & b1, b2;
 D1 (min), d2 (min).  
 B2 (rich harmn), b2 (rich harmn),  
 suffix.  
+
+[back](./README.md)

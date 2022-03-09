@@ -3,7 +3,7 @@ Methods
 
 *JJ van Zon, 2022*
 
-[back](./)
+[back](./README.md)
 
 Analyses
 --------
@@ -41,4 +41,4 @@ Not sure yet which might be most useful.
 - Melody / chords / bass line / harmonic function
 - Melody / roman numerals / harmonic function
 
-[back](./)
+[back](./README.md)

@@ -3,7 +3,7 @@
 
 *JJ van Zon, 2022*
 
-[back](./)
+[back](./README.md)
 
 <style type="text/css" rel="stylesheet">section, .wrapper { max-width:100% } table { font-size: 9pt }</style>
 
@@ -22,14 +22,14 @@ A list of pieces I play / have played / would like to play. Links to performance
 Repertoire
 ----------
 
-| Learn | Perform | Record | Name                                                               | Mood           | Difficulty | Nice | Pages |  Dur. | Media
-|:-----:|:-------:|:------:|--------------------------------------------------------------------|----------------|------------|:----:|------:|------:|-----
-|  ✔   |  ✔     |  ✔    | [Satie Gnossienne Ⅰ](satie-gnossienne-1)                           | Atmospheric    | Easier     | 🆗   | 2 pg  | 4:30  | [JJ van Zon](https://jjvanzon.github.io/Piano-Playing-Docs/satie-gnossienne-1/recording/)`|`<a href="https://youtu.be/lqZehFAwoTM" target="_blank" rel="noopener noreferrer">YouTube, The Flaming Piano</a>`|`<a href="https://open.spotify.com/track/2xDvCPTcgnm9jHPsiPDBf1?si=c170ccabc02944ee" target="_blank" rel="noopener noreferrer">Spotify, Hélène Grimaud</a>
-|  ✔   |  ✔     |  ✔    | [Chopin Mazurka Op. 24, No. 2](chopin-mazurka-op-24-no-2)          | Easy listening | Medium     | 👍   | 4 pg  | 3:00  | [JJ van Zon](https://jjvanzon.github.io/Piano-Playing-Docs/chopin-mazurka-op-24-no-2/recording/)`|`<a href="https://open.spotify.com/track/7CWKqmNX02HdI6C7i1naOb?si=d0328f7a6ff14755" target="_blank" rel="noopener noreferrer">Spotify, Idil Biret</a>
-|  ✔   |  ✔     |        | [Debussy Arabesque Ⅰ](debussy-arabesque-1)                         | Atmospheric    | Medium     | 👍   | 5 pg  | 6:00  | <a href="https://open.spotify.com/track/3jN9cfOSZtfDQLhmaOcNt8?si=a47ae324b5ec4060" target="_blank" rel="noopener noreferrer">Spotify, Axel Gillison</a>
-|  ...  |  ✔     |        | [Mozart Sonata Facile KV 545 Part 1](mozart-sonata-facile-part-1) | Easy listening | Medium     | 👍   | 5 pg  | 5:20  | <a href="https://youtu.be/qjk-YRuQZDE" target="_blank" rel="noopener noreferrer">YouTube, Rousseau</a>
-|  ...  |         |        | [Chopin Ballade Ⅱ](chopin-ballade-2)                              | Heavy          | Hard       | 👍   | 9 pg  | 7:30  | <a href="https://open.spotify.com/track/6sNr7Fr9JTnK2lbRGd9Jem?si=6a45287bbca24c1a" target="_blank" rel="noopener noreferrer">Spotify, Yundi</a>
-|  ...  |         |        | Satie Gymnopédie 1                                                | Atmospheric    | Easier     | 🆗   |       | 4:00 | <a href="https://youtu.be/2WfaotSK3mI" target="_blank" rel="noopener noreferrer">YouTube, Rousseau</a>`|`<a href="https://open.spotify.com/track/5xwizYZCXpF45lBvzBPB9R?si=93f47ef39cfd45eb" target="_blank" rel="noopener noreferrer">Spotify, Khatia Buniatishvili</a>
+| Learn | Perform | Record | Name                                                                        | Mood           | Difficulty | Nice | Pages |  Dur. | Media
+|:-----:|:-------:|:------:|-----------------------------------------------------------------------------|----------------|------------|:----:|------:|------:|-----
+|  ✔   |  ✔     |  ✔    | [Satie Gnossienne Ⅰ](satie-gnossienne-1/README.md)                           | Atmospheric    | Easier     | 🆗   | 2 pg  | 4:30  | [JJ van Zon](https://jjvanzon.github.io/Piano-Playing-Docs/satie-gnossienne-1/recording/README.md)`|`<a href="https://youtu.be/lqZehFAwoTM" target="_blank" rel="noopener noreferrer">YouTube, The Flaming Piano</a>`|`<a href="https://open.spotify.com/track/2xDvCPTcgnm9jHPsiPDBf1?si=c170ccabc02944ee" target="_blank" rel="noopener noreferrer">Spotify, Hélène Grimaud</a>
+|  ✔   |  ✔     |  ✔    | [Chopin Mazurka Op. 24, No. 2](chopin-mazurka-op-24-no-2/README.md)          | Easy listening | Medium     | 👍   | 4 pg  | 3:00  | [JJ van Zon](https://jjvanzon.github.io/Piano-Playing-Docs/chopin-mazurka-op-24-no-2/recording/README.md)`|`<a href="https://open.spotify.com/track/7CWKqmNX02HdI6C7i1naOb?si=d0328f7a6ff14755" target="_blank" rel="noopener noreferrer">Spotify, Idil Biret</a>
+|  ✔   |  ✔     |        | [Debussy Arabesque Ⅰ](debussy-arabesque-1/README.md)                         | Atmospheric    | Medium     | 👍   | 5 pg  | 6:00  | <a href="https://open.spotify.com/track/3jN9cfOSZtfDQLhmaOcNt8?si=a47ae324b5ec4060" target="_blank" rel="noopener noreferrer">Spotify, Axel Gillison</a>
+|  ...  |  ✔     |        | [Mozart Sonata Facile KV 545 Part 1](mozart-sonata-facile-part-1/README.md) | Easy listening | Medium     | 👍   | 5 pg  | 5:20  | <a href="https://youtu.be/qjk-YRuQZDE" target="_blank" rel="noopener noreferrer">YouTube, Rousseau</a>
+|  ...  |         |        | [Chopin Ballade Ⅱ](chopin-ballade-2/README.md)                              | Heavy          | Hard       | 👍   | 9 pg  | 7:30  | <a href="https://open.spotify.com/track/6sNr7Fr9JTnK2lbRGd9Jem?si=6a45287bbca24c1a" target="_blank" rel="noopener noreferrer">Spotify, Yundi</a>
+|  ...  |         |        | Satie Gymnopédie 1                                                          | Atmospheric    | Easier     | 🆗   |       | 4:00 | <a href="https://youtu.be/2WfaotSK3mI" target="_blank" rel="noopener noreferrer">YouTube, Rousseau</a>`|`<a href="https://open.spotify.com/track/5xwizYZCXpF45lBvzBPB9R?si=93f47ef39cfd45eb" target="_blank" rel="noopener noreferrer">Spotify, Khatia Buniatishvili</a>
 
 Might Study Next
 ----------------
@@ -205,4 +205,4 @@ Have Played
 | Hanon "The Virtuoso Pianist" No. 10                               | Exercise       | Medium     |      |  1 pg | 0:45 | <a href="https://youtu.be/9bHBmtjLedo&t=403s" target="_blank" rel="noopener noreferrer">YouTube, Alan Chan</a>
 | Hanon "The Virtuoso Pianist" No. 11                               | Exercise       | Medium     |      |  1 pg | 0:45 | <a href="https://youtu.be/9bHBmtjLedo&t=448s" target="_blank" rel="noopener noreferrer">YouTube, Alan Chan</a>
 
-[back](./)
+[back](./README.md)

@@ -3,7 +3,7 @@ Nord Piano 4
 
 *JJ van Zon, 2021*
 
-[back](..)
+[back](../README.md)
 
 - [Nord Piano 4 Sound Selection](nord-piano-4-sound-selection.md)
 

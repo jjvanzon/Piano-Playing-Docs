@@ -3,7 +3,7 @@
 
 *JJ van Zon, 2022*
 
-[back](./)
+[back](./README.md)
 
 Recordings of my playing some piano pieces.
 
@@ -23,4 +23,4 @@ Recordings of my playing some piano pieces.
   Your browser does not support the audio element. <a href="chopin-mazurka-op-24-no-2/recording/chopin-mazurka-op-24-no-2-recording-320kbps.mp3" download>Download file</a>
 </audio>
 
-[back](./)
+[back](./README.md)

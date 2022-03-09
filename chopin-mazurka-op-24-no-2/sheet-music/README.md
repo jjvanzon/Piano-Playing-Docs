@@ -1,7 +1,7 @@
 Chopin Mazurka Op. 24, No. 2
 =============================
 
-[back](..)
+[back](../README.md)
 
 Sheet Music
 -----------
@@ -20,4 +20,4 @@ Copyright-free sheet music from MuseScore (Creative Commons License).
 
 - <a target="_blank" rel="noopener noreferrer" href="https://musescore.com/partalopoulos_dimitrios/mazurka-opus-24-no-2-fr-d-ric-chopin">Source</a> / <a target="_blank" rel="noopener noreferrer" href="https://creativecommons.org/publicdomain/zero/1.0/">license</a> / <a target="_blank" rel="noopener noreferrer" href="https://creativecommons.org/publicdomain/zero/1.0/legalcode">full legal text</a>
 
-[back](..)
+[back](../README.md)

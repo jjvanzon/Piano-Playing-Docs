@@ -3,7 +3,7 @@ Methods
 
 *JJ van Zon, 2021*
 
-[back](./)
+[back](./README.md)
 
 Piano Motion Symbols | Archive
 ------------------------------
@@ -66,3 +66,5 @@ Symbols currently out of favor.
 |:-:|:-:|
 | <img src="images/finger-spread-3-fingers-flat-downward-middle-finger-arrows-top.png" height="30" /> | <img src="images/finger-spread-3-fingers-flat-downward-middle-finger-arrows-bottom.png" height="30" /> |
 | <img src="images/finger-spread-3-fingers-flat-upward-middle-finger-arrows-top.png" height="30" /> | <img src="images/finger-spread-3-fingers-flat-upward-middle-finger-arrows-bottom.png" height="30" /> |
+
+[back](./README.md)

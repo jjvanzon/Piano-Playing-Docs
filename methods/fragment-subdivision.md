@@ -3,7 +3,7 @@ Methods
 
 *JJ van Zon, 2022*
 
-[back](./)
+[back](./README.md)
 
 Fragment Subdivision
 --------------------
@@ -59,4 +59,4 @@ __1.1'__
 __1.2__  
 __1.3__  
 
-[back](./)
+[back](./README.md)

@@ -3,7 +3,7 @@ Methods
 
 *JJ van Zon, 2021*
 
-[back](./)
+[back](./README.md)
 
 Practice Schema
 ---------------
@@ -59,4 +59,4 @@ To perhaps focus on things with lower scores.
 - __Expression__:
     - It may be a bit difficult to judge the expression without hearing back a recording.
 
-[back](./)
+[back](./README.md)

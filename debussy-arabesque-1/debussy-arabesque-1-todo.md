@@ -3,7 +3,7 @@ Debussy Arabesque Ⅰ
 
 *JJ van Zon, 2021*
 
-[back](./)
+[back](./README.md)
 
 TODO
 ----
@@ -19,3 +19,5 @@ TODO
     - [ ] Not sure ♯ looks better than #.
     - [ ] Avoiding small superscript letters?
 - [ ] Chord symbol digitization (full chords)
+
++[back](./README.md)

@@ -3,7 +3,7 @@ Methods
 
 *JJ van Zon, 2022*
 
-[back](./)
+[back](./README.md)
 
 Barbara Lister-Sink's "Freeing the Caged Bird" Videos Summary
 -------------------------------------------------------------
@@ -51,4 +51,4 @@ Playlist: <a href="https://www.youtube.com/playlist?list=PLPp_Is9dOPCYGiRMaca2CA
 - With more leaps it looks like fluid bows of arm motion.
 - Going to a different position quickly, may be more controlled, heading off faster and arriving slower. Maybe that's what she's doing. Her 'fluidity' still seems to show some redundant motion and some 'jerkiness' in that aspect.
 
-[back](./)
+[back](./README.md)

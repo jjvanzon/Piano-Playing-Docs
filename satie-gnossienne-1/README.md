@@ -3,7 +3,7 @@ Satie Gnossienne Ⅰ
 
 *JJ van Zon, 2022*
 
-[back](..)
+[back](../README.md)
 
 <audio controls>
   <source src="recording/satie-gnossienne-1-recording-320-kbps.mp3" type="audio/mpeg">
@@ -13,9 +13,9 @@ Satie Gnossienne Ⅰ
 Contents
 --------
 
-- [Recording](recording)
-- [Sheet Music](sheet-music)
-- [Sheet Music Simplified](sheet-music-simplified) `[ Draft ]`
+- [Recording](recording/README.md)
+- [Sheet Music](sheet-music/README.md)
+- [Sheet Music Simplified](sheet-music-simplified/README.md) `[ Draft ]`
 - [Studying Notes](satie-gnossienne-1-studying-notes.md)
 
-[back](..)
+[back](../README.md)

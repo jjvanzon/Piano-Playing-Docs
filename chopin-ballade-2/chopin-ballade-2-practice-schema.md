@@ -3,7 +3,7 @@ Chopin Ballade Ⅱ
 
 *JJ van Zon, 2022*
 
-[back](./)
+[back](./README.md)
 
 Practice Schema
 ---------------
@@ -119,4 +119,4 @@ Click [here](https://jjvanzon.github.io/Piano-Playing-Docs/methods/practice-sche
 
 - That it is loud can influence accuracy. Maybe try to pretend it's soft. Trying not try to be loud with *emotion* (that usually fails me), but loud using dry *pressure* or *velocity*. Emotion being added to the wish to hear something. So taking away emotion's influence on body motion seems to matter a bit more when it is loud, in particular with with these fragments.
 
-[back](./)
+[back](./README.md)

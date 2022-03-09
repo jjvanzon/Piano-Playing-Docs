@@ -3,7 +3,7 @@ Debussy Arabesque Ⅰ
 
 *JJ van Zon, 2022*
 
-[back](..)
+[back](../README.md)
 
 Sheet Music Simplified
 ----------------------
@@ -33,4 +33,4 @@ Simplified using the following [guidelines](https://jjvanzon.github.io/Piano-Pla
 Derived from:  
 <a href="https://michaelkravchuk.com/free-piano-sheet-music-first-arabesque-debussy/" target="_blank">Michael Kravchuk - Free Piano Sheet Music – First Arabesque – Debussy</a>
 
-[back](..)
+[back](../README.md)

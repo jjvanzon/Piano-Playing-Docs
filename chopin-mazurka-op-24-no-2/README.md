@@ -3,7 +3,7 @@ Chopin Mazurka Op. 24, No. 2
 
 *JJ van Zon, 2022*
 
-[back](..)
+[back](../README.md)
 
 <audio controls>
   <source src="recording/chopin-mazurka-op-24-no-2-recording-320kbps.mp3" type="audio/mpeg">
@@ -13,9 +13,9 @@ Chopin Mazurka Op. 24, No. 2
 Contents
 --------
 
-- [Recording](recording)
-- [Sheet Music](sheet-music)
-- [Sheet Music Simplified](sheet-music-simplified)
+- [Recording](recording/README.md)
+- [Sheet Music](sheet-music/README.md)
+- [Sheet Music Simplified](sheet-music-simplified/README.md)
 - [Chords (Web Page)](chopin-mazurka-op-24-no-2-chords.md)
 - [Chords (PDF)](chopin-mazurka-op-24-no-2-chords.pdf)
 - [Harmonic Analysis (Web Page)](chopin-mazurka-op-24-no-2-harmonic-analysis.md)
@@ -37,4 +37,4 @@ Contents
 
     - Some notes on where to go next on my studying this piece.
 
-[back](..)
+[back](../README.md)

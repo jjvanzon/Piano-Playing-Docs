@@ -3,7 +3,7 @@ Links
 
 *JJ van Zon, 2021*
 
-[back](./)
+[back](./README.md)
 
 Links to possibly useful information.
 
@@ -31,5 +31,7 @@ Links to possibly useful information.
 - <a href="https://www.youtube.com/user/BarbaraListerSink/videos" target="_blank" rel="noopener noreferrer">Barbara Lister-Sink's "Freeing the Caged Bird" Videos</a>
 - <a href="https://fundamentals-of-piano-practice.readthedocs.io/chapter1/index.html" target="_blank" rel="noopener noreferrer">Fundamentals of Piano Practice</a>
 - <a href="https://www.onlinepianocoach.com/piano-fingering.html" target="_blank" rel="noopener noreferrer">Piano Fingering Tips</a>
+- <a href="https://wetenschap.infonu.nl/anatomie/89015-anatomie-spieren-en-functies-van-de-hand-en-onderarm.html" target="_blank" rel="noopener noreferrer">Anatomy hand / forearm muscles (Dutch)</a>
+- <a href="https://wetenschap.infonu.nl/anatomie/89039-anatomie-spieren-en-functies-van-de-elleboog-en-bovenarm.html" target="_blank" rel="noopener noreferrer">Anatomy elbow / upper arm muscles (Dutch)</a>
 
-[back](./)
+[back](./README.md)

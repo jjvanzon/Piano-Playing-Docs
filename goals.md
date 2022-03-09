@@ -3,7 +3,7 @@
 
 *JJ van Zon, 2022*
 
-[back](./)
+[back](./README.md)
 
 (See also: [Short-Term Goals](short-term-goals.md))
 
@@ -75,7 +75,7 @@ Styles & Attitudes
     - ***Classical*** style.
     - ***Romantic*** era is favorite.
     - ***Solo piano*** by default.
-    - ***Barok*** side-ways appreciated
+    - ***Barok*** side-ways appreciated.
     - ***Mozart*** sometimes appreciated, but less.
 - ***Not:***
     - ***Atonal*** rather not.
@@ -120,4 +120,4 @@ Further Future
 Playing in a ***band***?  
 Not any time soon. Unlikely because of health issues.
 
-[back](./)
+[back](./README.md)
