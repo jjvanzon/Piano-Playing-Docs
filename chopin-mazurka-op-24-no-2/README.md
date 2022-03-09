@@ -5,7 +5,10 @@ Chopin Mazurka Op. 24, No. 2
 
 [back](..)
 
-Content I made while studying this piece.
+<audio controls>
+  <source src="recording/chopin-mazurka-op-24-no-2-recording-320kbps.mp3" type="audio/mpeg">
+  Your browser does not support the audio element. <a href="recording/chopin-mazurka-op-24-no-2-recording-320kbps.mp3" download>Download file</a>
+</audio>
 
 Contents
 --------

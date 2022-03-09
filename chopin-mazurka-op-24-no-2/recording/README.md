@@ -12,7 +12,7 @@ A recording of my playing the piano piece Mazurka Op. 24, No. 2 by Frédéric Ch
 
 <audio controls autoplay>
   <source src="chopin-mazurka-op-24-no-2-recording-320kbps.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
+  Your browser does not support the audio element. <a href="chopin-mazurka-op-24-no-2-recording-320kbps.mp3" download>Download file</a>
 </audio>
 
 [back](..)
