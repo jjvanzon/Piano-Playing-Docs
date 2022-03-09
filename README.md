@@ -26,11 +26,11 @@ Contents
 - Individual pieces:
     <br/><br/>
     - Recordings, notes and analyses of individual piano pieces.
+    - [Satie Gnossienne Ⅰ](satie-gnossienne-1)
     - [Chopin Mazurka Op. 24, No. 2](chopin-mazurka-op-24-no-2)
     - [Debussy Arabesque Ⅰ](debussy-arabesque-1)
     - [Mozart Sonata Facile KV 545 Part 1](mozart-sonata-facile-part-1)
     - [Chopin Ballade Ⅱ](chopin-ballade-2)
-    - [Satie Gnossienne Ⅰ](satie-gnossienne-1)
 - [Methods](methods)
     - You may find some of my methods of working here.
 - [Links](links.md)
