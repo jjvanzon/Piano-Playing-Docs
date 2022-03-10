@@ -8,9 +8,15 @@ Satie Gnossienne Ⅰ
 Sheet Music Simplified
 ----------------------
 
+### Introduction
+
 Visually simpler. Simplified using the following [guidelines](https://jjvanzon.github.io/Piano-Playing-Docs/methods/sheet-music-simplification.html).
 
-### Contents
+### Preview
+
+<img src="satie-gnossienne-1-sheet-music-simplified-preview.png" width="375" />
+
+### Download
 
 - [Satie Gnossienne Ⅰ Sheet Music Simplified (PDF)](satie-gnossienne-1-sheet-music-simplified.pdf)
 - [Satie Gnossienne Ⅰ Sheet Music Simplified (docx)](satie-gnossienne-1-sheet-music-simplified.docx)
