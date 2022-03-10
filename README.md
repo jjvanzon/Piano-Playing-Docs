@@ -27,6 +27,7 @@ Contents
     <br/><br/>
     - Recordings, notes and analyses of individual piano pieces.
     - [Erik Satie - Gnossienne Ⅰ](satie-gnossienne-1/README.md)
+    - [Erik Satie - Gymnopédie Ⅰ](satie-gymnopedie-1/README.md)
     - [Frédéric Chopin - Mazurka Op. 24, No. 2](chopin-mazurka-op-24-no-2/README.md)
     - [Claude Debussy - Arabesque Ⅰ](debussy-arabesque-1/README.md)
     - [Mozart - Sonata Facile KV 545 Part 1](mozart-sonata-facile-part-1/README.md)
