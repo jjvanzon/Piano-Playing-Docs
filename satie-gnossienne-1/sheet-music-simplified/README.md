@@ -1,7 +1,5 @@
 Satie Gnossienne Ⅰ
-===================
-
-`[ Draft ]`
+==================
 
 *JJ van Zon, 2022*
 
@@ -16,8 +14,8 @@ Visually simpler. Simplified using the following [guidelines](https://jjvanzon.g
 
 ### Contents
 
-- [Satie Gnossienne Ⅰ Sheet Music Simplified (PDF)](satie-gnossienne-1-sheet-music-simplified.pdf) `[ Draft ]`
-- [Satie Gnossienne Ⅰ Sheet Music Simplified (docx)](satie-gnossienne-1-sheet-music-simplified.docx) `[ Draft ]`
-- [Satie Gnossienne Ⅰ Sheet Music Simplified (png)](satie-gnossienne-1-sheet-music-simplified.png) `[ Draft ]`
+- [Satie Gnossienne Ⅰ Sheet Music Simplified (PDF)](satie-gnossienne-1-sheet-music-simplified.pdf)
+- [Satie Gnossienne Ⅰ Sheet Music Simplified (docx)](satie-gnossienne-1-sheet-music-simplified.docx)
+- [Satie Gnossienne Ⅰ Sheet Music Simplified (png)](satie-gnossienne-1-sheet-music-simplified.png)
 
 [back](../README.md)
