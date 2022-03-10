@@ -1,4 +1,4 @@
-🎶 Frédéric Chopin - Mazurka Op. 24, No. 2
+🎼 Frédéric Chopin - Mazurka Op. 24, No. 2
 ===========================================
 
 `[ Draft ]`
