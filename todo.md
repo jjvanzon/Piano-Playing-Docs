@@ -13,8 +13,8 @@ TODO
 ### 2021-11-16 TODO
 
 - [ ] Changing fragment numbering for:
-    - [ ] Chopin Ballade Ⅱ
-    - [ ] Chopin Mazurka Op. 24, No. 2
+    - [ ] Frédéric Chopin - Ballade Ⅱ
+    - [ ] Frédéric Chopin - Mazurka Op. 24, No. 2
 - [ ] Frédéric Chopin - Mazurka Op. 24, No. 2
     - [ ] Memorizing chords?
     - [ ] See specialized [TODO](chopin-mazurka-op-24-no-2/chopin-mazurka-op-24-no-2-todo.md)
