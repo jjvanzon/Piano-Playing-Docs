@@ -7,7 +7,7 @@
 
 Recordings of my playing some piano pieces.
 
-[Satie Gnossienne Ⅰ](satie-gnossienne-1/README.md)
+[Erik Satie - Gnossienne Ⅰ](satie-gnossienne-1/README.md)
 -------------------------------------------------
 
 <audio controls>
@@ -15,7 +15,7 @@ Recordings of my playing some piano pieces.
   Your browser does not support the audio element. <a href="satie-gnossienne-1/recording/satie-gnossienne-1-recording-320-kbps.mp3" download>Download file</a>
 </audio>
 
-[Chopin Mazurka Op. 24, No. 2](chopin-mazurka-op-24-no-2/README.md)
+[Frédéric Chopin - Mazurka Op. 24, No. 2](chopin-mazurka-op-24-no-2/README.md)
 -------------------------------------------------------------------
 
 <audio controls>

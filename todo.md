@@ -15,16 +15,16 @@ TODO
 - [ ] Changing fragment numbering for:
     - [ ] Chopin Ballade Ⅱ
     - [ ] Chopin Mazurka Op. 24, No. 2
-- [ ] Chopin Mazurka Op. 24, No. 2
+- [ ] Frédéric Chopin - Mazurka Op. 24, No. 2
     - [ ] Memorizing chords?
     - [ ] See specialized [TODO](chopin-mazurka-op-24-no-2/chopin-mazurka-op-24-no-2-todo.md)
-- [ ] Debussy Arabesque Ⅰ
+- [ ] Claude Debussy - Arabesque Ⅰ
     - [ ] Chords & sheet music
     - [ ] See specialized [TODO](debussy-arabesque-1/debussy-arabesque-1-todo.md)
-- [ ] Mozart Sonata Facile KV 545 Part 1 
+- [ ] Mozart - Sonata Facile KV 545 Part 1 
     - [ ] Simplified sheet music rework
     - [ ] May redo simplified sheet music with non-copyrighted version.
-- [ ] Satie Gnossienne Ⅰ
+- [ ] Erik Satie - Gnossienne Ⅰ
     - [ ] Chords
     - [ ] Structure analysis (for memorization)
     - [ ] Harmonic analysis

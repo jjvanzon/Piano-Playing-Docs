@@ -1,5 +1,5 @@
-Chopin Ballade Ⅱ
-================
+Frédéric Chopin - Ballade Ⅱ
+===========================
 
 *JJ van Zon, 2022*
 

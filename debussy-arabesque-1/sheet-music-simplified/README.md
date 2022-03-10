@@ -1,5 +1,5 @@
-🎵 Debussy Arabesque Ⅰ
-======================
+🎵 Claude Debussy - Arabesque Ⅰ
+===============================
 
 *JJ van Zon, 2022*
 
