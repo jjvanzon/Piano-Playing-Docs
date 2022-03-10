@@ -5,8 +5,8 @@ Debussy Arabesque Ⅰ
 
 [back](../README.md)
 
-Sheet Music Simplified
-----------------------
+🎵 Sheet Music Simplified
+--------------------------
 
 ### Introduction
 

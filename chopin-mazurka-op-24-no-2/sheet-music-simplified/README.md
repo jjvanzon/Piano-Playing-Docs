@@ -7,8 +7,8 @@ Chopin Mazurka Op. 24, No. 2
 
 [back](../README.md)
 
-Sheet Music Simplified
-----------------------
+🎶 Sheet Music Simplified
+--------------------------
 
 ### Introduction
 
