@@ -8,8 +8,6 @@ Satie Gnossienne Ⅰ
 Sheet Music Simplified
 ----------------------
 
-### Introduction
-
 Visually simpler. Simplified using the following [guidelines](https://jjvanzon.github.io/Piano-Playing-Docs/methods/sheet-music-simplification.html).
 
 ### Contents
