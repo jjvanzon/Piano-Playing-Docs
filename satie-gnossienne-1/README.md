@@ -15,7 +15,7 @@ Contents
 
 - [Recording](recording/README.md)
 - [Sheet Music](sheet-music/README.md)
-- [Sheet Music Simplified](sheet-music-simplified/README.md) `[ Draft ]`
+- [Sheet Music Simplified](sheet-music-simplified/README.md)
 - [Studying Notes](satie-gnossienne-1-studying-notes.md)
 
 [back](../README.md)
