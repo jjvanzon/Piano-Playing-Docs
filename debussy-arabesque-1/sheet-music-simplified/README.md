@@ -19,14 +19,14 @@ Simplified using the following [guidelines](https://jjvanzon.github.io/Piano-Pla
 
 ### Contents
 
-- [Debussy Arabesque Ⅰ Sheet Music Simplified (PDF)](debussy-arabesque-1-sheet-music-simplified.pdf)
-- [Debussy Arabesque Ⅰ Sheet Music Simplified (docx)](debussy-arabesque-1-sheet-music-simplified.docx)
-- [Debussy Arabesque Ⅰ Sheet Music Simplified Page 1 (png)](debussy-arabesque-1-sheet-music-simplified-page-1.png)
-- [Debussy Arabesque Ⅰ Sheet Music Simplified Page 2 (png)](debussy-arabesque-1-sheet-music-simplified-page-2.png)
-- [Debussy Arabesque Ⅰ Sheet Music Simplified Page 3 (png)](debussy-arabesque-1-sheet-music-simplified-page-3.png)
-- [Debussy Arabesque Ⅰ Sheet Music Simplified Page 4 (png)](debussy-arabesque-1-sheet-music-simplified-page-4.png)
-- [Debussy Arabesque Ⅰ Sheet Music Simplified Page 5 (png)](debussy-arabesque-1-sheet-music-simplified-page-5.png)
-- [Debussy Arabesque Ⅰ Sheet Music Simplified Preview](debussy-arabesque-1-sheet-music-simplified-preview.jpg)
+- [Claude Debussy Arabesque Ⅰ Sheet Music Simplified (PDF)](debussy-arabesque-1-sheet-music-simplified.pdf)
+- [Claude Debussy Arabesque Ⅰ Sheet Music Simplified (docx)](debussy-arabesque-1-sheet-music-simplified.docx)
+- [Claude Debussy Arabesque Ⅰ Sheet Music Simplified Page 1 (png)](debussy-arabesque-1-sheet-music-simplified-page-1.png)
+- [Claude Debussy Arabesque Ⅰ Sheet Music Simplified Page 2 (png)](debussy-arabesque-1-sheet-music-simplified-page-2.png)
+- [Claude Debussy Arabesque Ⅰ Sheet Music Simplified Page 3 (png)](debussy-arabesque-1-sheet-music-simplified-page-3.png)
+- [Claude Debussy Arabesque Ⅰ Sheet Music Simplified Page 4 (png)](debussy-arabesque-1-sheet-music-simplified-page-4.png)
+- [Claude Debussy Arabesque Ⅰ Sheet Music Simplified Page 5 (png)](debussy-arabesque-1-sheet-music-simplified-page-5.png)
+- [Claude Debussy Arabesque Ⅰ Sheet Music Simplified Preview](debussy-arabesque-1-sheet-music-simplified-preview.jpg)
 
 ### Original
 
