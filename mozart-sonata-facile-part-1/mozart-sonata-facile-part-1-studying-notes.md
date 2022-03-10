@@ -8,14 +8,34 @@ Mozart Sonata Facile KV 545 Part 1
 Studying Notes
 --------------
 
+### 2022-03
+
 Mozarts composition style is steady paced. But steady playing is difficult for me. I like wavy, floating-around play.
 
 - [x] Phrasing / heart felt: was on the decline once.
 - [ ] But now technique seems a problem again.
-- [ ] Trying if arbitrary speed up and slow down work for fluency.
-- [ ] The 'connection points' (cross-overs, black keys, etc.) and 'join points' (where left and right hand meet up).
+- [x] ~~'Minimal motion' seems to surface as an anti-practice here.~~ > Trying 'limp hand' technique instead.
+- [x] ~~Trying if arbitrary speed up and slow down work for fluency.~~
+- [x] ~~The 'connection points' (cross-overs, black keys, etc.) and 'join points' (where left and right hand meet up).~~ > Trying 'limp hand' technique instead.
 - [ ] They seem to be a point of attention and prone to muscle memory decline.
 - [ ] Slow practice, focus on these join points, might be advisable.
-- [ ] 'Minimal motion' seems to surface as an anti-practice here.
+
+### 2022-03-10 Limp Hand
+
+- [ ] Working on relaxed forearm.
+- [ ] Difficulty feeling if it is relaxed or tense.
+- [ ] It seems my *default* positioning of the hand, is with tense forearm, without my realizing. It just feels like 'normal' and even 'relaxed' to me.
+- [ ] It might be a a *wrong habit*, hardwired.
+- [ ] Limp hand might be the only time, I feel that it is totally relaxed.
+- [ ] Limp hand does not seem *required* for relaxed forearm, but it seems the only time that I truly *feel* it.
+- [ ] Limp hand seems to put my hand at a *tilted* position, unfortunately.
+- [ ] Have been looking at muscle anatomy for hand and forearm, for inspiration on how to hold the hand. `[ Dutch ]`
+    - [ ] - <a href="https://wetenschap.infonu.nl/anatomie/89015-anatomie-spieren-en-functies-van-de-hand-en-onderarm.html" target="_blank" rel="noopener noreferrer">Anatomy hand / forearm muscles (Dutch)</a>
+    - [ ] <a href="https://wetenschap.infonu.nl/anatomie/89039-anatomie-spieren-en-functies-van-de-elleboog-en-bovenarm.html" target="_blank" rel="noopener noreferrer">Anatomy elbow / upper arm muscles (Dutch)</a>
+- [ ] Trying to lower the bench, so a limp hand may more naturally reach the keys.
+
+### 2022-03-10 Brainstorm Dynamics of Fast Movements
+
+I feel that when notes go in rapid succession, to make it sound comfortable to the ear, some dynamics might help, where some notes are articulated, but others fall into the background. Because those rapid notes do not seem to register, as part of a normal-paced musical phrase. To make it work, they might sort of melt together.
 
 [back](./README.md)
