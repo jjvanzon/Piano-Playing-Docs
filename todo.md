@@ -25,7 +25,6 @@ TODO
     - [ ] Simplified sheet music rework
     - [ ] May redo simplified sheet music with non-copyrighted version.
 - [ ] Satie Gnossienne Ⅰ
-    - [ ] Simplifying sheet music
     - [ ] Chords
     - [ ] Structure analysis (for memorization)
     - [ ] Harmonic analysis
