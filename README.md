@@ -31,7 +31,7 @@ Contents
     - [Claude Debussy - Arabesque Ⅰ](debussy-arabesque-1/README.md)
     - [Mozart - Sonata Facile KV 545 Part 1](mozart-sonata-facile-part-1/README.md)
     - [Frédéric Chopin - Ballade Ⅱ](chopin-ballade-2/README.md)
-- ### [Methods 📚](methods/README.md)
+- ### [Methods ⚙](methods/README.md)
     - You may find some of my methods of working here.
 - ### [Links 🌐](links.md)
     - Links to possibly useful information.
