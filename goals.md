@@ -76,11 +76,13 @@ Styles & Attitudes
 - ***Styles:***
     - ***Classical*** style.
     - ***Romantic*** era is favorite.
-    - ***Solo piano*** by default.
     - ***Barok*** side-ways appreciated.
-    - ***Mozart*** sometimes appreciated, but less.
+    - ***Solo piano*** by default.
+    - ***Composers:***
+    - 🧡 Chopin, Debussy, Satie, Ravel, Grieg,
+    - 👍 Liszt, Tchaikovsky, Brahms, Mozart, Beethoven, Bach.
 - ***Not:***
-    - ***Atonal*** rather not.
+    - ***Atonal*** no.
     - ***Fast*** like a ***race*** not preferred.
     - ***Fear*** expression not preferred.
     - ***Anger*** expression not too much.
@@ -101,7 +103,7 @@ Styles & Attitudes
     - ***Recitals*** are ok to go imperfectly.
     - ***Stress*** of aiming for perfection, seems to harm the quality, cramping me up. So I might just let go of that and see performing as *practice*, with no aim to deliver the very best performance I could.
     - ***Goals*** are ***optional*** and allowed to fail. Hopefully gradual accumulation of skill as a side-effect.
-- ***Mix:***
+- ***Mixing:***
     - ***Improvising*** over things.
     - ***Changing*** things up.
     - ***Mixing*** fragments of pieces, creating a sort of mosaic.
