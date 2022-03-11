@@ -33,7 +33,7 @@ Sheet Music Simplification
 - Notes small? Try rearranging measures.
 - Adding title (adding the word 'simplified').
 - Adding page numbers (font not too small).
-- Correcting spacing
+- Adjusting spacing.
 - Checking clef change integrity.
 - Checking copy-paste errors.
 - Checking by playing the print.

@@ -31,8 +31,8 @@ TODO
 - [x] Adding accidentals (even when part of key) (might take a few hours more).
 - [x] ~~Changing B# => C , Cb => B , E# => F , Fb => E.~~ > Were none.
 - [x] Introducing key changes to prevent natural symbols <img src="https://jjvanzon.github.io/Piano-Playing-Docs/resources/natural-symbol.png" height="20" style="vertical-align:middle" />.
-- [ ] Notes small? Try rearranging measures.
-- [ ] Correcting spacing
+- [x] ~~Notes small? Try rearranging measures.~~
+- [ ] __... Adjusting spacing.__
 - [ ] Checking copy-paste errors.
 - [ ] Checking by playing the print.
 - [ ] Correcting it.
