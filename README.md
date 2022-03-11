@@ -24,7 +24,6 @@ Contents
 - ### [Recordings 🔊](recordings.md)
     - Recordings of my playing some piano pieces.
 - ### Individual pieces: 🏛
-    <br/><br/>
     - Recordings, notes and analyses of individual piano pieces.
     - [Erik Satie - Gnossienne Ⅰ](satie-gnossienne-1/README.md)
     - [Erik Satie - Gymnopédie Ⅰ](satie-gymnopedie-1/README.md)
@@ -38,7 +37,7 @@ Contents
     - Links to possibly useful information.
 - ### [Nord Piano 4 🎹](nord-piano-4/README.md)
     - Lists some of my favorite sounds for my Nord Piano 4 digital piano. Also has planning notes about how I worked on selecting them.
-- ### [Resources 🖼](resources/README.md)
+- ### [Resources 🔧](resources/README.md)
     - Pictures and also characters and symbols that might be a helpful aid for music notes and analyses.
 - ### [TODO ✅](todo.md)
     - Some rough plans about what I might like to do next.
