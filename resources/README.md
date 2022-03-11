@@ -18,13 +18,13 @@ Elements
 
 ![End Bar](end-bar.png)
 
-### [Flat Symbol (Small)](flat-symbol-small.png)
-
-![Flat Symbol (Small)](flat-symbol-small.png)
-
 ### [Flat Symbol](flat-symbol.png)
 
 ![Flat Symbol](flat-symbol.png)
+
+### [Flat Symbol (Small)](flat-symbol-small.png)
+
+![Flat Symbol (Small)](flat-symbol-small.png)
 
 ### [Half Rest Symbol](half-rest-symbol.png)
 
@@ -50,12 +50,20 @@ Elements
 
 ![Sharp Symbol](sharp-symbol.png)
 
+### [Sharp Symbol (Bigger)](sharp-symbol-bigger.png)
+
+![Sharp Symbol (Bigger)](sharp-symbol-bigger.png)
+
 ### [Whole Rest Symbol](whole-rest-symbol.png)
 
 ![Whole Rest Symbol](whole-rest-symbol.png)
 
 Photos / Previews for Social Media
 ----------------------------------
+
+### [Photo JJ's Piano Laptop Sheet Music Analysis](photo-jjs-piano-laptop-sheet-music-analysis.jpg)
+
+![Photo JJ's Piano Laptop Sheet Music Analysis](photo-jjs-piano-laptop-sheet-music-analysis.jpg)
 
 ### [Photo JJ's Piano Laptop Sheet Music Analysis Cropped](photo-jjs-piano-laptop-sheet-music-analysis-cropped.jpg)
 
@@ -65,17 +73,13 @@ Photos / Previews for Social Media
 
 ![Photo JJ's Piano Laptop Sheet Music Analysis Wide](photo-jjs-piano-laptop-sheet-music-analysis-wide.jpg)
 
-### [Photo JJ's Piano Laptop Sheet Music Analysis](photo-jjs-piano-laptop-sheet-music-analysis.jpg)
+### [Preview Body Posture](preview-body-posture.png)
 
-![Photo JJ's Piano Laptop Sheet Music Analysis](photo-jjs-piano-laptop-sheet-music-analysis.jpg)
+![Preview Body Posture](preview-body-posture.png)
 
 ### [Preview Body Posture 2](preview-body-posture-2.png)
 
 ![Preview Body Posture 2](preview-body-posture-2.png)
-
-### [Preview Body Posture](preview-body-posture.png)
-
-![Preview Body Posture](preview-body-posture.png)
 
 ### [Preview Finger Numbers, Mozart Sonata Facile KV 545 Part 1](preview-finger-numbers-mozart-sonata-facile-part-1.jpg)
 
@@ -101,25 +105,25 @@ Photos / Previews for Social Media
 
 ![Preview Piano Motion Symbols Upper Arm Positions](preview-piano-motion-symbols-upper-arm-positions.png)
 
-### [Preview Pieces to Play 2](preview-pieces-to-play-2.png)
-
-![Preview Pieces to Play 2](preview-pieces-to-play-2.png)
-
 ### [Preview Pieces to Play](preview-pieces-to-play.png)
 
 ![Preview Pieces to Play](preview-pieces-to-play.png)
+
+### [Preview Pieces to Play 2](preview-pieces-to-play-2.png)
+
+![Preview Pieces to Play 2](preview-pieces-to-play-2.png)
 
 ### [Preview Practice Schema (Dark)](preview-practice-schema-dark.png)
 
 ![Preview Practice Schema (Dark)](preview-practice-schema-dark.png)
 
-### [Preview Satie Gnossienne 1 Sheet Music Simplification (Detail)](preview-satie-gnossienne-1-sheet-music-simplification-detail.png)
-
-![Preview Satie Gnossienne 1 Sheet Music Simplification (Detail)](preview-satie-gnossienne-1-sheet-music-simplification-detail.png)
-
 ### [Preview Satie Gnossienne 1 Sheet Music Simplification](preview-satie-gnossienne-1-sheet-music-simplification.jpg)
 
 ![Preview Satie Gnossienne 1 Sheet Music Simplification](preview-satie-gnossienne-1-sheet-music-simplification.jpg)
+
+### [Preview Satie Gnossienne 1 Sheet Music Simplification (Detail)](preview-satie-gnossienne-1-sheet-music-simplification-detail.png)
+
+![Preview Satie Gnossienne 1 Sheet Music Simplification (Detail)](preview-satie-gnossienne-1-sheet-music-simplification-detail.png)
 
 ### [Preview Web Site JJ's Piano Playing Docs](preview-web-site-jjs-piano-playing-docs.png)
 
