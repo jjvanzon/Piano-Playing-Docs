@@ -42,7 +42,7 @@ Current focus:
 - Balancing ***technique & expression***.  
 - ***Chords***, harmony, improvisation.
 
-Specific skills:
+Skills:
 
 - ***Note reading:***
     - May include ***simplifying*** musical score.
