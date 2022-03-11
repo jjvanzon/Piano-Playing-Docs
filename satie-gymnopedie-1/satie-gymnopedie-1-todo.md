@@ -28,8 +28,9 @@ TODO
 - [x] ~~Adding measure bars if there are none.~~
 - [x] Adding title (adding the word 'simplified').
 - [x] ~~Adding page numbers (font not too small).~~
-- [ ] Adding accidentals (even when part of key) (might take a few hours more).
-- [ ] Changing B# => C , Cb => B , E# => F , Fb => E.
+- [x] Adding accidentals (even when part of key) (might take a few hours more).
+- [x] ~~Changing B# => C , Cb => B , E# => F , Fb => E.~~ > Were none.
+- [ ] Introducing key changes to prevent natural symbols <img src="https://jjvanzon.github.io/Piano-Playing-Docs/resources/natural-symbol.png" height="20" style="vertical-align:middle" />.
 - [ ] Notes small? Try rearranging measures.
 - [ ] Correcting spacing
 - [ ] Checking copy-paste errors.

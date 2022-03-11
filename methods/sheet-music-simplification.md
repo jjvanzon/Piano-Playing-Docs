@@ -28,6 +28,7 @@ Sheet Music Simplification
 - Simplifying note durations / voicing notation.
 - Adding accidentals (even when part of key) (might take a few hours more).
 - Changing B# => C , Cb => B , E# => F , Fb => E.
+- Introducing key changes to prevent natural symbols <img src="https://jjvanzon.github.io/Piano-Playing-Docs/resources/natural-symbol.png" height="20" style="vertical-align:middle" />.
 - Adding measure bars if there are none.
 - Notes small? Try rearranging measures.
 - Adding title (adding the word 'simplified').
