@@ -32,8 +32,8 @@ TODO
 - [x] ~~Changing B# => C , Cb => B , E# => F , Fb => E.~~ > Were none.
 - [x] Introducing key changes to prevent natural symbols <img src="https://jjvanzon.github.io/Piano-Playing-Docs/resources/natural-symbol.png" height="20" style="vertical-align:middle" />.
 - [x] ~~Notes small? Try rearranging measures.~~
-- [ ] __... Adjusting spacing.__
-- [ ] Checking copy-paste errors.
+- [x] Adjusting spacing.
+- [x] Checking copy-paste errors.
 - [ ] Checking by playing the print.
 - [ ] Correcting it.
 - [ ] Keep checking by playing the print, until no more corrections.
