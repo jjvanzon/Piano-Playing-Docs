@@ -14,7 +14,7 @@ I try to support these goals with the content found here.
 
 - ## [Goals 🎯](goals.md)
     - Some goals I might have with my piano playing hobby.
-- ## [Short-Term Goals 🏹](short-term-goals.md)
+- ## [Short-Term Goals ⏺](short-term-goals.md)
     - Short term goals / preparation for the next performance.
 - ## [Pieces to Play 🎶](pieces-to-play.md)
     - A list of pieces I play / have played / would like to play.

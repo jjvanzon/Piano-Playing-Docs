@@ -24,13 +24,13 @@ TODO
 - [x] Removing expression bows.
 - [x] Removing extension bows (and the repeated note).
 - [x] Removing some rest symbols.
-- [ ] Simplifying note durations / voicing notation.
+- [x] Simplifying note durations / voicing notation.
+- [x] ~~Adding measure bars if there are none.~~
+- [x] Adding title (adding the word 'simplified').
+- [x] ~~Adding page numbers (font not too small).~~
 - [ ] Adding accidentals (even when part of key) (might take a few hours more).
 - [ ] Changing B# => C , Cb => B , E# => F , Fb => E.
-- [ ] Adding measure bars if there are none.
 - [ ] Notes small? Try rearranging measures.
-- [ ] Adding title (adding the word 'simplified').
-- [ ] Adding page numbers (font not too small).
 - [ ] Correcting spacing
 - [ ] Checking copy-paste errors.
 - [ ] Checking by playing the print.
