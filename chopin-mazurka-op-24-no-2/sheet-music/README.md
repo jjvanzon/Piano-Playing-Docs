@@ -12,9 +12,9 @@ Copyright-free sheet music from MuseScore (Creative Commons License).
 
 ### Contents
 
-- [Frédéric Chopin Mazurka Op. 24, No. 2 Sheet Music (PDF)](chopin-mazurka-op-24-no-2-sheet-music.pdf)
-- [Frédéric Chopin Mazurka Op. 24, No. 2 Sheet Music Page 1 (png)](chopin-mazurka-op-24-no-2-sheet-music-scanned-page-1.png)
-- [Frédéric Chopin Mazurka Op. 24, No. 2 Sheet Music Page 2 (png)](chopin-mazurka-op-24-no-2-sheet-music-scanned-page-2.png)
+- [Chopin Mazurka Op. 24, No. 2 Sheet Music (PDF)](chopin-mazurka-op-24-no-2-sheet-music.pdf)
+- [Chopin Mazurka Op. 24, No. 2 Sheet Music Page 1 (png)](chopin-mazurka-op-24-no-2-sheet-music-scanned-page-1.png)
+- [Chopin Mazurka Op. 24, No. 2 Sheet Music Page 2 (png)](chopin-mazurka-op-24-no-2-sheet-music-scanned-page-2.png)
 
 ### Source
 

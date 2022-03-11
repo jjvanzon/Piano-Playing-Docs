@@ -17,8 +17,8 @@ Simplified using the following [guidelines](https://jjvanzon.github.io/Piano-Pla
 
 ### Contents
 
-- [Erik Satie Gymnopédie Ⅰ Sheet Music Simplified (PDF)](satie-gymnopedie-1-sheet-music-simplified.pdf) `[ Draft ]`
-- [Erik Satie Gymnopédie Ⅰ Sheet Music Simplified (docx)](satie-gymnopedie-1-sheet-music-simplified.docx) `[ Draft ]`
-- [Erik Satie Gymnopédie Ⅰ Sheet Music Simplified (png)](satie-gymnopedie-1-sheet-music-simplified.png) `[ Draft ]`
+- [Satie Gymnopédie Ⅰ Sheet Music Simplified (PDF)](satie-gymnopedie-1-sheet-music-simplified.pdf) `[ Draft ]`
+- [Satie Gymnopédie Ⅰ Sheet Music Simplified (docx)](satie-gymnopedie-1-sheet-music-simplified.docx) `[ Draft ]`
+- [Satie Gymnopédie Ⅰ Sheet Music Simplified (png)](satie-gymnopedie-1-sheet-music-simplified.png) `[ Draft ]`
 
 [back](../README.md)

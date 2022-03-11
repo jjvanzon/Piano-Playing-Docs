@@ -18,8 +18,8 @@ Visually simpler. Simplified using the following [guidelines](https://jjvanzon.g
 
 ### Download
 
-- [Erik Satie Gnossienne Ⅰ Sheet Music Simplified (PDF)](satie-gnossienne-1-sheet-music-simplified.pdf)
-- [Erik Satie Gnossienne Ⅰ Sheet Music Simplified (docx)](satie-gnossienne-1-sheet-music-simplified.docx)
-- [Erik Satie Gnossienne Ⅰ Sheet Music Simplified (png)](satie-gnossienne-1-sheet-music-simplified.png)
+- [Satie Gnossienne Ⅰ Sheet Music Simplified (PDF)](satie-gnossienne-1-sheet-music-simplified.pdf)
+- [Satie Gnossienne Ⅰ Sheet Music Simplified (docx)](satie-gnossienne-1-sheet-music-simplified.docx)
+- [Satie Gnossienne Ⅰ Sheet Music Simplified (png)](satie-gnossienne-1-sheet-music-simplified.png)
 
 [back](../README.md)

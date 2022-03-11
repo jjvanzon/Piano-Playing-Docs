@@ -12,9 +12,9 @@ Copyright-free sheet music from MuseScore (Creative Commons License).
 
 ### Contents
 
-- [Erik Satie Gnossienne Ⅰ Sheet Music (PDF)](satie-gnossienne-1-sheet-music.pdf)
-- [Erik Satie Gnossienne Ⅰ Sheet Music Page 1 (png)](satie-gnossienne-1-sheet-music-scanned-page-1.png)
-- [Erik Satie Gnossienne Ⅰ Sheet Music Page 2 (png)](satie-gnossienne-1-sheet-music-scanned-page-2.png)
+- [Satie Gnossienne Ⅰ Sheet Music (PDF)](satie-gnossienne-1-sheet-music.pdf)
+- [Satie Gnossienne Ⅰ Sheet Music Page 1 (png)](satie-gnossienne-1-sheet-music-scanned-page-1.png)
+- [Satie Gnossienne Ⅰ Sheet Music Page 2 (png)](satie-gnossienne-1-sheet-music-scanned-page-2.png)
 
 ### Alternatives
 
