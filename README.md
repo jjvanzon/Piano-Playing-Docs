@@ -16,11 +16,11 @@ I try to support these goals with the content found here.
     - Some goals I might have with my piano playing hobby.
 - ## [Short-Term Goals ⏺](short-term-goals.md)
     - Short term goals / preparation for the next performance.
-- ## [Pieces to Play 🎶](pieces-to-play.md)
+- ## [Pieces to Play 🎹](pieces-to-play.md)
     - A list of pieces I play / have played / would like to play.
 - ## [Recordings 🔊](recordings.md)
     - Recordings of my playing some piano pieces.
-- ## Individual pieces: 🏛
+- ## Individual pieces: 🎶
     - Recordings, notes and analyses of individual piano pieces.
     - [Erik Satie - Gnossienne Ⅰ](satie-gnossienne-1/README.md)
     - [Erik Satie - Gymnopédie Ⅰ](satie-gymnopedie-1/README.md)
