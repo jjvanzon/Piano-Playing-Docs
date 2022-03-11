@@ -21,7 +21,7 @@ I try to support these goals with the content found here.
 - ## [Recordings 🔊](recordings.md)
     - Recordings of my playing some piano pieces.
 - ## Individual pieces: 🎶
-    - Recordings, notes and analyses of individual piano pieces.
+    - Recordings, notes and analyses.
     - [Erik Satie - Gnossienne Ⅰ](satie-gnossienne-1/README.md) 🔉
     - [Erik Satie - Gymnopédie Ⅰ](satie-gymnopedie-1/README.md)
     - [Frédéric Chopin - Mazurka Op. 24, No. 2](chopin-mazurka-op-24-no-2/README.md) 🔉
