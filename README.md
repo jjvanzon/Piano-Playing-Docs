@@ -15,15 +15,15 @@ I try to support these goals with the content found here.
 Contents
 ========
 
-- [🎯 Goals](goals.md)
+- [Goals 🎯](goals.md)
     - Some goals I might have with my piano playing hobby.
-- [🏹 Short-Term Goals](short-term-goals.md)
+- [Short-Term Goals 🏹](short-term-goals.md)
     - Short term goals / preparation for the next performance.
-- [🎼 Pieces to Play](pieces-to-play.md)
+- [Pieces to Play 🎼](pieces-to-play.md)
     - A list of pieces I play / have played / would like to play.
-- [🔊 Recordings](recordings.md)
+- [Recordings 🔊](recordings.md)
     - Recordings of my playing some piano pieces.
-- 🎶 Individual pieces:
+- Individual pieces: 🎶
     <br/><br/>
     - Recordings, notes and analyses of individual piano pieces.
     - [Erik Satie - Gnossienne Ⅰ](satie-gnossienne-1/README.md)
@@ -32,15 +32,15 @@ Contents
     - [Claude Debussy - Arabesque Ⅰ](debussy-arabesque-1/README.md)
     - [Mozart - Sonata Facile KV 545 Part 1](mozart-sonata-facile-part-1/README.md)
     - [Frédéric Chopin - Ballade Ⅱ](chopin-ballade-2/README.md)
-- [⚙ Methods](methods/README.md)
+- [Methods ⚙](methods/README.md)
     - You may find some of my methods of working here.
-- [🔗 Links](links.md)
+- [Links 🔗](links.md)
     - Links to possibly useful information.
-- [🎹 Nord Piano 4](nord-piano-4/README.md)
+- [Nord Piano 4 🎹](nord-piano-4/README.md)
     - Lists some of my favorite sounds for my Nord Piano 4 digital piano. Also has planning notes about how I worked on selecting them.
-- [🖼 Resources](resources/README.md)
+- [Resources 🖼](resources/README.md)
     - Pictures and also characters and symbols that might be a helpful aid for music notes and analyses.
-- [✅ TODO](todo.md)
+- [TODO ✅](todo.md)
     - Some rough plans about what I might like to do next.
-- [🗃 Archive](archive/README.md)
+- [Archive 🗃](archive/README.md)
     - Older but somehow difficult to delete content.
