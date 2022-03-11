@@ -10,9 +10,9 @@
 Elements
 --------
 
-### [8th Rest Symbol Picture](8th-rest-symbol.png)
+### [8th Rest Symbol](8th-rest-symbol.png)
 
-![8th Rest Symbol Picture](8th-rest-symbol.png)
+![8th Rest Symbol](8th-rest-symbol.png)
 
 ### [End Bar](end-bar.png)
 
@@ -25,6 +25,10 @@ Elements
 ### [Flat Symbol](flat-symbol.png)
 
 ![Flat Symbol](flat-symbol.png)
+
+### [Half Rest Symbol](half-rest-symbol.png)
+
+![Half Rest Symbol](half-rest-symbol.png)
 
 ### [Measure Bar](measure-bar.png)
 
@@ -46,6 +50,9 @@ Elements
 
 ![Sharp Symbol](sharp-symbol.png)
 
+### [Whole Rest Symbol](whole-rest-symbol.png)
+
+![Whole Rest Symbol](whole-rest-symbol.png)
 
 Photos / Previews for Social Media
 ----------------------------------
