@@ -1,4 +1,4 @@
-⚙ Methods
+📚 Methods
 ===========
 
 *JJ van Zon, 2022*
