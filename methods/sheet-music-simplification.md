@@ -13,6 +13,8 @@ Sheet Music Simplification
 - Scanning and editing score.  
 - Brightness / contrast of the scan (e.g. brightness +10%, contrast +10%).
 - Crop image.
+- Thicker lines
+- Bigger notes
 - Removing page headers and footers.
 - Removing the big accolades at the left.
 - Removing measure numbers.
@@ -35,6 +37,7 @@ Sheet Music Simplification
 - Adding title (adding the word 'simplified').
 - Adding page numbers (font not too small).
 - Adjusting spacing.
+- Adjusted spacing between staves.
 - Checking clef change integrity.
 - Checking copy-paste errors.
 - Checking by playing the print.

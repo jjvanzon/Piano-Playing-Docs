@@ -31,13 +31,16 @@ TODO
 - [x] Adding accidentals (even when part of key) (might take a few hours more).
 - [x] ~~Changing B# => C , Cb => B , E# => F , Fb => E.~~ > Were none.
 - [x] Introducing key changes to prevent natural symbols <img src="https://jjvanzon.github.io/Piano-Playing-Docs/resources/natural-symbol.png" height="20" style="vertical-align:middle" />.
+- [x] Thicker lines
+- [x] Bigger notes
 - [x] ~~Notes small? Try rearranging measures.~~
 - [x] Adjusting spacing.
+- [x] Adjusted spacing between staves.
 - [x] Checking copy-paste errors.
 - [x] Checking by playing the print.
-- [ ] Left hand / right hand separated and together.
-- [ ] Correcting it.
-- [ ] Keep checking by playing the print, until no more corrections.
-- [ ] Might check with <a href="https://online-image-comparison.com" target="blank">image diff</a> before uploading.
+- [x] Left hand / right hand separated and together.
+- [x] Correcting it.
+- [x] Keep checking by playing the print, until no more corrections.
+- [x] ~~Might check with <a href="https://online-image-comparison.com" target="blank">image diff</a> before uploading.~~
 
 [back](./README.md)
