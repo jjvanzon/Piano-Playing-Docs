@@ -10,12 +10,21 @@ More specific TODO lists may be in other documents.
 TODO
 ----
 
+### 2022-03-13 TODO
+
+- [ ] Sheet Music Simplified using MuseScore for:
+    - [ ] Chopin - Mazurka Op. 24, No. 2
+    - [ ] Chopin - Ballade Ⅱ
+    - [ ] Debussy - Arabesque Ⅰ (?)
+    - [ ] Satie - Gnossienne Ⅰ (?)
+
 ### 2021-11-16 TODO
 
 - [ ] Changing fragment numbering for:
     - [ ] Chopin - Ballade Ⅱ
     - [ ] Chopin - Mazurka Op. 24, No. 2
 - [ ] Chopin - Mazurka Op. 24, No. 2
+    - [ ] Sheet music simplified (do over)
     - [ ] Memorizing chords?
     - [ ] See specialized [TODO](chopin-mazurka-op-24-no-2/chopin-mazurka-op-24-no-2-todo.md)
 - [ ] Debussy - Arabesque Ⅰ
