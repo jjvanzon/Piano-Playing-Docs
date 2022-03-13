@@ -15,7 +15,7 @@ The selected score has it on a single page with repeat notation.
 
 - [Satie Gymnopédie Ⅰ Sheet Music (PDF)](satie-gymnopedie-1-sheet-music.pdf)
 - [Satie Gymnopédie Ⅰ Sheet Music (png)](satie-gymnopedie-1-sheet-music-scanned.png)
-- [Satie Gymnopédie Ⅰ Sheet Music (MuseScore file)](satie-gymnopedie-1-sheet-music.mscz)
+- [Satie Gymnopédie Ⅰ Sheet Music (MuseScore)](satie-gymnopedie-1-sheet-music.mscz)
 
 ### Source
 
