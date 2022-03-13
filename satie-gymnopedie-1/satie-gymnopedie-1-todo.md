@@ -34,7 +34,8 @@ TODO
 - [x] ~~Notes small? Try rearranging measures.~~
 - [x] Adjusting spacing.
 - [x] Checking copy-paste errors.
-- [ ] Checking by playing the print.
+- [x] Checking by playing the print.
+- [ ] Left hand / right hand separated and together.
 - [ ] Correcting it.
 - [ ] Keep checking by playing the print, until no more corrections.
 - [ ] Might check with <a href="https://online-image-comparison.com" target="blank">image diff</a> before uploading.
