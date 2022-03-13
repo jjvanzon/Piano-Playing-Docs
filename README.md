@@ -22,12 +22,12 @@ I try to support these goals with the content found here.
     - Recordings of my playing some piano pieces.
 - ### Individual pieces: 🎶
     - Recordings, notes and analyses.
-    - [Satie - Gnossienne Ⅰ](satie-gnossienne-1/README.md) 🔉
-    - [Satie - Gymnopédie Ⅰ](satie-gymnopedie-1/README.md)
-    - [Chopin - Mazurka Op. 24, No. 2](chopin-mazurka-op-24-no-2/README.md) 🔉
-    - [Debussy - Arabesque Ⅰ](debussy-arabesque-1/README.md)
-    - [Mozart - Sonata Facile KV 545 Part 1](mozart-sonata-facile-part-1/README.md)
-    - [Chopin - Ballade Ⅱ](chopin-ballade-2/README.md)
+    - [Satie Gnossienne Ⅰ](satie-gnossienne-1/README.md) 🔉
+    - [Satie Gymnopédie Ⅰ](satie-gymnopedie-1/README.md)
+    - [Chopin Mazurka Op. 24, No. 2](chopin-mazurka-op-24-no-2/README.md) 🔉
+    - [Debussy Arabesque Ⅰ](debussy-arabesque-1/README.md)
+    - [Mozart Sonata Facile KV 545 Part 1](mozart-sonata-facile-part-1/README.md)
+    - [Chopin Ballade Ⅱ](chopin-ballade-2/README.md)
 - ### [Methods ⚙](methods/README.md)
     - You may find some of my methods of working here.
 - ### [Links 🌐](links.md)
