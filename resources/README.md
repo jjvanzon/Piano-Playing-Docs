@@ -129,4 +129,10 @@ Photos / Previews for Social Media
 
 ![Preview Web Site JJ's Piano Playing Docs](preview-web-site-jjs-piano-playing-docs.png)
 
+Misc
+----
+
+<a href="muse-score-style-file.mss" download>MuseScore Style File<a>
+
 [back](../README.md)
+
