@@ -29,19 +29,19 @@ TODO
 - [x] Removing expression bows.
 - [x] Removing extension bows (and the repeated note).
 - [x] Adding accidentals (even when part of key) (might take a few hours more).
-- [ ] Removing some rest symbols.
-- [ ] Simplifying note durations / voicing notation.
-- [ ] Left hand / right hand separated and together.
-- [ ] Changing B# => C , Cb => B , E# => F , Fb => E.
-- [ ] Introducing key changes to prevent natural symbols <img src="https://jjvanzon.github.io/Piano-Playing-Docs/resources/natural-symbol.png" height="20" style="vertical-align:middle" />.
-- [ ] ~~Adding measure bars if there are none.~~ > There were measure bars.
-- [ ] ~~Notes small? Try rearranging measures.~~ > Taken care of.
+- [x] Changing B# => C , Cb => B , E# => F , Fb => E.
+- [x] ~~Adding measure bars if there are none.~~
+- [x] ~~Notes small? Try rearranging measures.~~
 - [x] Adding title (adding the word 'simplified').
-- [ ] Adding page numbers (font not too small).
+- [x] Adjusted spacing between staves.
+- [x] ~~Checking clef change integrity.~~
+- [x] ~~Checking copy-paste errors.~~
+- [ ] Introducing key changes to prevent natural symbols <img src="https://jjvanzon.github.io/Piano-Playing-Docs/resources/natural-symbol.png" height="20" style="vertical-align:middle" />.
+- [x] Removing some rest symbols.
+- [x] Simplifying note durations / voicing notation.
+- [x] ~~Left hand / right hand separated and together.~~
 - [ ] Adjusting spacing.
-- [ ] Adjusted spacing between staves.
-- [ ] Checking clef change integrity.
-- [ ] ~~Checking copy-paste errors.~~
+- [ ] Adding page numbers (font not too small).
 - [ ] Checking by playing the print.
 - [ ] Correcting it.
 - [ ] Keep checking by playing the print, until no more corrections.
