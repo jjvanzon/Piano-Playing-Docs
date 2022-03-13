@@ -47,6 +47,7 @@ TODO
 - [ ] Correcting it.
 - [ ] Keep checking by playing the print, until no more corrections.
 - [ ] Might check with <a href="https://online-image-comparison.com" target="blank">image diff</a> before uploading.
+- [ ] Might adjust method checklist to using MuseScore.
 
 ### 2022-03-03 TODO Sheet Music Simplification (Paint.NET)
 
