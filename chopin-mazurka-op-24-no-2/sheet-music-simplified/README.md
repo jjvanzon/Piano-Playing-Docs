@@ -21,4 +21,8 @@ Simplified using the following [guidelines](https://jjvanzon.github.io/Piano-Pla
 - [Chopin Mazurka Op. 24, No. 2 Sheet Music Simplified Page 2 (png)](chopin-mazurka-op-24-no-2-sheet-music-simplified-page-2.png) `[ Draft ]`
 - [Chopin Mazurka Op. 24, No. 2 Sheet Music Simplified Page 3 (png)](chopin-mazurka-op-24-no-2-sheet-music-simplified-page-3.png) `[ Draft ]`
 
+### Original
+
+Derived from [this](https://jjvanzon.github.io/Piano-Playing-Docs/chopin-mazurka-op-24-no-2/sheet-music/README.html) version.
+
 [back](../README.md)

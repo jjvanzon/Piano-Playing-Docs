@@ -22,4 +22,8 @@ Visually simpler. Simplified using the following [guidelines](https://jjvanzon.g
 - [Satie Gnossienne Ⅰ Sheet Music Simplified (docx)](satie-gnossienne-1-sheet-music-simplified.docx)
 - [Satie Gnossienne Ⅰ Sheet Music Simplified (png)](satie-gnossienne-1-sheet-music-simplified.png)
 
+### Original
+
+Derived from [this](https://jjvanzon.github.io/Piano-Playing-Docs/satie-gnossienne-1/sheet-music/README.html) version.
+
 [back](../README.md)

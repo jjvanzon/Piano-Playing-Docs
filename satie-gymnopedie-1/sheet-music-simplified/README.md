@@ -20,4 +20,8 @@ Simplified using the following [guidelines](https://jjvanzon.github.io/Piano-Pla
 - [Satie Gymnopédie Ⅰ Sheet Music Simplified (png)](satie-gymnopedie-1-sheet-music-simplified.png)
 - [Satie Gymnopédie Ⅰ Sheet Music Simplified (MuseScore)](satie-gymnopedie-1-sheet-music-simplified.mscz) `[ Different Layout ]`
 
+### Original
+
+Derived from [this](https://jjvanzon.github.io/Piano-Playing-Docs/satie-gymnopedie-1/sheet-music/README.html) version.
+
 [back](../README.md)
