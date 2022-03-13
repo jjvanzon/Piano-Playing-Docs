@@ -36,12 +36,12 @@ TODO
 - [x] Adjusted spacing between staves.
 - [x] ~~Checking clef change integrity.~~
 - [x] ~~Checking copy-paste errors.~~
-- [ ] Introducing key changes to prevent natural symbols <img src="https://jjvanzon.github.io/Piano-Playing-Docs/resources/natural-symbol.png" height="20" style="vertical-align:middle" />.
+- [x] ~~Introducing key changes to prevent natural symbols <img src="https://jjvanzon.github.io/Piano-Playing-Docs/resources/natural-symbol.png" height="20" style="vertical-align:middle" />.~~
 - [x] Removing some rest symbols.
 - [x] Simplifying note durations / voicing notation.
 - [x] ~~Left hand / right hand separated and together.~~
-- [ ] Adjusting spacing.
-- [ ] Adding page numbers (font not too small).
+- [x] Adding page numbers (font not too small).
+- [x] Adjusting spacing.
 - [ ] Checking by playing the print.
 - [ ] Correcting it.
 - [ ] Keep checking by playing the print, until no more corrections.
