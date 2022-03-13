@@ -15,23 +15,23 @@ TODO
 
 ### 2022-03-13 TODO Sheet Music Simplification (MuseScore)
 
-- [ ] Thicker lines
-- [ ] Bigger notes
+- [x] Thicker lines
+- [x] Bigger notes
 - [x] Removing page headers and footers.
 - [x] Removing the big accolades at the left.
 - [x] Removing measure numbers.
-- [x] ~~Removing fingering numbers.~~ > Were none.
+- [x] ~~Removing fingering numbers.~~
 - [x] Removing repeated key signatures.
-- [ ] Removing 'announcing' key signatures at ends of lines.
+- [x] ~~Removing 'announcing' key signatures at ends of lines.~~
 - [x] Removing repeated clefs.
-- [x] ~~Removing 'announcing' clef change.~~ > Were none.
+- [x] ~~Removing 'announcing' clef change.~~
 - [x] Removing expression symbols (and pedal symbols, tempo, words, dynamics).
 - [x] Removing expression bows.
 - [x] Removing extension bows (and the repeated note).
+- [x] Adding accidentals (even when part of key) (might take a few hours more).
 - [ ] Removing some rest symbols.
 - [ ] Simplifying note durations / voicing notation.
 - [ ] Left hand / right hand separated and together.
-- [ ] Adding accidentals (even when part of key) (might take a few hours more).
 - [ ] Changing B# => C , Cb => B , E# => F , Fb => E.
 - [ ] Introducing key changes to prevent natural symbols <img src="https://jjvanzon.github.io/Piano-Playing-Docs/resources/natural-symbol.png" height="20" style="vertical-align:middle" />.
 - [ ] ~~Adding measure bars if there are none.~~ > There were measure bars.
