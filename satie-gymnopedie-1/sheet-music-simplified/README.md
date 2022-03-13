@@ -16,8 +16,8 @@ Simplified using the following [guidelines](https://jjvanzon.github.io/Piano-Pla
 ### Contents
 
 - [Satie Gymnopédie Ⅰ Sheet Music Simplified (PDF)](satie-gymnopedie-1-sheet-music-simplified.pdf)
-- [Satie Gymnopédie Ⅰ Sheet Music Simplified (MuseScore)](satie-gymnopedie-1-sheet-music-simplified.mscz)
-
+- [Satie Gymnopédie Ⅰ Sheet Music Simplified (MuseScore File)](satie-gymnopedie-1-sheet-music-simplified.mscz)
+- [Satie Gymnopédie Ⅰ Sheet Music Simplified (MuseScore Web Page)](https://musescore.com/user/42589871/scores/7719923)
 ### Original
 
 Derived from [this](https://jjvanzon.github.io/Piano-Playing-Docs/satie-gymnopedie-1/sheet-music/README.html) version.
