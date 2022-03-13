@@ -42,6 +42,7 @@ TODO
 - [x] ~~Left hand / right hand separated and together.~~
 - [x] Adding page numbers (font not too small).
 - [x] Adjusting spacing.
+- [x] Checking by playing in editing software.
 - [ ] Checking by playing the print.
 - [ ] Correcting it.
 - [ ] Keep checking by playing the print, until no more corrections.
