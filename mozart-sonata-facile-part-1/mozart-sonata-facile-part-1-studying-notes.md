@@ -34,7 +34,7 @@ Studying Notes
     - [x] ~~Introducing key changes to prevent natural symbols <img src="https://jjvanzon.github.io/Piano-Playing-Docs/resources/natural-symbol.png" height="20" style="vertical-align:middle" />.~~
     - [x] Correcting unnecessary natural symbols.
     - [x] Repeating in-measure accidentals.
-- [ ] Voices:
+- [x] Voices:
     - [x] Removing some rest symbols.
     - [x] Simplifying note durations / voicing notation.
     - [x] Left hand / right hand separated and together.
