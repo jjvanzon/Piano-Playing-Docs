@@ -12,8 +12,8 @@ Copyright-free sheet music from MuseScore (Creative Commons License).
 
 ### Contents
 
-- [Mozart Sonata Facile KV 545 Part 1 (PDF)](mozart-sonata-facile-part-1-sheet-music.pdf)
-- [Mozart Sonata Facile KV 545 Part 1 (MuseScore)](mozart-sonata-facile-part-1-sheet-music.mscz)
+- [Mozart Sonata Facile KV 545 Part 1 Sheet Music (PDF)](mozart-sonata-facile-part-1-sheet-music.pdf)
+- [Mozart Sonata Facile KV 545 Part 1 Sheet Music (MuseScore)](mozart-sonata-facile-part-1-sheet-music.mscz)
 
 ### Source
 
