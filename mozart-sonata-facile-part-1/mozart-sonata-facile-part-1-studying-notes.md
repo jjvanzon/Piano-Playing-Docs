@@ -10,41 +10,43 @@ Studying Notes
 
 ### 2022-03-14 Sheet Music Simplification (MuseScore)
 
-- [ ] In MuseScore "Load Style" might take care of the following:
-    - [ ] Thicker lines
-    - [ ] Bigger notes
-    - [ ] Removing measure numbers.
-    - [ ] Removing repeated key signatures.
-    - [ ] Removing repeated clefs.
-- [ ] Removing details:
-    - [ ] In MuseScore, right clicking an element, then choosing  "Select" may show options that may help with this:
-    - [ ] Removing the big accolades at the left.
-    - [ ] Removing expression symbols (and pedal symbols, tempo, words, dynamics).
-    - [ ] Removing expression bows.
-    - [ ] Removing extension bows (and the repeated note).
-    - [ ] Removing fingering numbers.
-- [ ] Other details:
-    - [ ] Removing 'announcing' key signatures at ends of lines.
-    - [ ] Removing 'announcing' clef change.
-    - [ ] Adding measure bars if there are none.
+- [x] In MuseScore "Load Style" might take care of the following:
+    - [x] Thicker lines
+    - [x] Bigger notes
+    - [x] Removing measure numbers.
+    - [x] Removing repeated key signatures.
+    - [x] Removing repeated clefs.
+- [x] Removing details:
+    - [x] In MuseScore, right clicking an element, then choosing  "Select" may show options that may help with this:
+    - [x] Removing the big accolades at the left.
+    - [x] Removing expression symbols (and pedal symbols, tempo, words, dynamics).
+    - [x] Removing expression bows.
+    - [x] Removing extension bows (and the repeated note).
+    - [x] ~~Removing fingering numbers.~~
+- [x] Other details:
+    - [x] ~~Removing 'announcing' key signatures at ends of lines.~~
+    - [x] ~~Removing 'announcing' clef change.~~ > Can't seem to make end-of-line clefs go to the beginning of the next line.
+    - [x] ~~Adding measure bars if there are none.~~
 - [ ] Accidentals:
-    - [ ] In MuseScore, using the "Plugins" menu, "Accidentals" and the options there may help with the following, though it's not perfect. (You may install it from [https://musescore.org/en/project/add-and-remove-courtesy-accidentals](https://musescore.org/en/project/add-and-remove-courtesy-accidentals)
-    - [ ] Adding accidentals (even when part of key) (might take a few hours more).
-    - [ ] Changing B# => C , Cb => B , E# => F , Fb => E.
-    - [ ] Introducing key changes to prevent natural symbols <img src="https://jjvanzon.github.io/Piano-Playing-Docs/resources/natural-symbol.png" height="20" style="vertical-align:middle" />.
+    - [x] In MuseScore, using the "Plugins" menu, "Accidentals" and the options there may help with the following, though it's not perfect. (You may install it from [https://musescore.org/en/project/add-and-remove-courtesy-accidentals](https://musescore.org/en/project/add-and-remove-courtesy-accidentals)
+    - [x] ~~Adding accidentals (even when part of key).~~
+    - [x] ~~Changing B# => C , Cb => B , E# => F , Fb => E.~~
+    - [x] ~~Introducing key changes to prevent natural symbols <img src="https://jjvanzon.github.io/Piano-Playing-Docs/resources/natural-symbol.png" height="20" style="vertical-align:middle" />.~~
+    - [ ] Correcting unnecessary natural symbols.
+    - [ ] Repeating in-measure accidentals.
 - [ ] Voices:
-    - [ ] Removing some rest symbols.
-    - [ ] Simplifying note durations / voicing notation.
+    - [x] Removing some rest symbols.
+    - [x] Simplifying note durations / voicing notation.
     - [ ] Left hand / right hand separated and together.
-- [ ] Layout:
-    - [ ] Adding title (adding the word 'simplified').
-    - [ ] Removing page headers and footers, mostly.
-    - [ ] Adding page numbers (suggested font: Calibri 14pt).
-    - [ ] Adjusted spacing between staves.
-    - [ ] Adjusting spacing.
-    - [ ] Adding double bar lines to separate more fragments.
-    - [ ] Adjusting line ends to accommodate fragment subdivision.
-    - [ ] Adjusting line ends to reflect the meter.
+- [x] Layout:
+    - [x] Adding title (adding the word 'simplified') (suggested font: Calibri 16pt bold).
+    - [x] Removing page headers and footers, mostly.
+    - [x] Adding page numbers (suggested font: Calibri 14pt).
+    - [x] Adjusted spacing between staves.
+    - [x] Adjusting spacing.
+    - [x] Adding double bar lines to separate more fragments.
+    - [x] ~~Adjusting line ends to accommodate fragment subdivision.~~
+    - [x] ~~Adjusting line ends to reflect the meter.~~
 - [ ] Checking:
     - [ ] Checking by playing in editing software.
     - [ ] Checking by playing the print on a piano.
