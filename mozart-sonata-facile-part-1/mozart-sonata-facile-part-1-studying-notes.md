@@ -37,7 +37,7 @@ Studying Notes
 - [ ] Voices:
     - [x] Removing some rest symbols.
     - [x] Simplifying note durations / voicing notation.
-    - [ ] Left hand / right hand separated and together.
+    - [x] Left hand / right hand separated and together.
 - [x] Layout:
     - [x] Adding title (adding the word 'simplified') (suggested font: Calibri 16pt bold).
     - [x] Removing page headers and footers, mostly.
