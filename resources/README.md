@@ -138,6 +138,7 @@ Misc
 
 - [MuseScore Style File from Satie Gymnopédie Ⅰ](muse-score-style-from-satie-gymnopedie-1.mss)
 - [MuseScore Style File from Chopin Mazurka Op. 24, No. 2](muse-score-style-from-chopin-mazurka-op-24-no-2.mss)
+- [MuseScore Style File from Mozart Sonata Facile KV 545 Part 1](muse-score-style-from-mozart-sonata-facile-part-1.mss)
 
 [back](../README.md)
 
