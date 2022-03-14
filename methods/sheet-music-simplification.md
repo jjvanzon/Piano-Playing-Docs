@@ -38,6 +38,8 @@ Sheet Music Simplification
     - [ ] Adding accidentals (even when part of key).
     - [ ] Changing B# => C , Cb => B , E# => F , Fb => E.
     - [ ] Introducing key changes to prevent natural symbols <img src="https://jjvanzon.github.io/Piano-Playing-Docs/resources/natural-symbol.png" height="20" style="vertical-align:middle" />.
+    - [ ] Correcting unnecessary natural symbols.
+    - [ ] Repeating in-measure accidentals.
 - [ ] Voices:
     - [ ] Removing some rest symbols.
     - [ ] Simplifying note durations / voicing notation.
