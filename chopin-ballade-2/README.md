@@ -6,6 +6,7 @@
 [back](../README.md)
 
 - [Sheet Music](sheet-music/README.md)
+- [Sheet Music Simplified](sheet-music-simplified/README.md) `[ Draft ]`
 - [Practice Schema](chopin-ballade-2-practice-schema.md)
 - [Phrase Structure](chopin-ballade-2-phrase-structure.md) `[Partial]`
 
