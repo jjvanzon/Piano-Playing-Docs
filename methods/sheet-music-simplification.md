@@ -27,9 +27,9 @@ Sheet Music Simplification
     - [ ] Removing the big accolades at the left.
     - [ ] Removing expression symbols (and pedal symbols, tempo, words, dynamics).
     - [ ] Removing expression bows.
-    - [ ] Removing extension bows (and the repeated note).
     - [ ] Removing fingering numbers.
 - [ ] Other details:
+    - [ ] Removing extension bows (and the repeated note).
     - [ ] Removing 'announcing' key signatures at ends of lines.
     - [ ] Removing 'announcing' clef change.
     - [ ] Adding measure bars if there are none.

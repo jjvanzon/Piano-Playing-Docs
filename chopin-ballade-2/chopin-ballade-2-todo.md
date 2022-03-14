@@ -10,20 +10,20 @@ TODO
 
 ### 2022-03-14 Sheet Music Simplificiation
 
-- [ ] In MuseScore "Load Style" might take care of the following:
-    - [ ] Thicker lines
-    - [ ] Bigger notes
-    - [ ] Removing measure numbers.
-    - [ ] Removing repeated key signatures.
-    - [ ] Removing repeated clefs.
-- [ ] Removing details:
-    - [ ] In MuseScore, right clicking an element, then choosing  "Select" may show options that may help with this:
-    - [ ] Removing the big accolades at the left.
-    - [ ] Removing expression symbols (and pedal symbols, tempo, words, dynamics).
-    - [ ] Removing expression bows.
-    - [ ] Removing extension bows (and the repeated note).
-    - [ ] Removing fingering numbers.
+- [x] In MuseScore "Load Style" might take care of the following:
+    - [x] Thicker lines
+    - [x] Bigger notes
+    - [x] Removing measure numbers.
+    - [x] Removing repeated key signatures.
+    - [x] Removing repeated clefs.
+- [x] Removing details:
+    - [x] In MuseScore, right clicking an element, then choosing  "Select" may show options that may help with this:
+    - [x] Removing the big accolades at the left.
+    - [x] Removing expression symbols (and pedal symbols, tempo, words, dynamics).
+    - [x] Removing expression bows.
+    - [x] ~~Removing fingering numbers.~~
 - [ ] Other details:
+    - [ ] Removing extension bows (and the repeated note).
     - [ ] Removing 'announcing' key signatures at ends of lines.
     - [ ] Removing 'announcing' clef change.
     - [ ] Adding measure bars if there are none.
@@ -39,11 +39,11 @@ TODO
     - [ ] Simplifying note durations / voicing notation.
     - [ ] Left hand / right hand separated and together.
 - [ ] Layout:
-    - [ ] Adding title (adding the word 'simplified').
-    - [ ] Removing page headers and footers, mostly.
-    - [ ] Adding page numbers (suggested font: Calibri 14pt).
-    - [ ] Adjusted spacing between staves.
-    - [ ] Adjusting spacing.
+    - [x] Adding title (adding the word 'simplified').
+    - [x] Removing page headers and footers, mostly.
+    - [x] Adding page numbers (suggested font: Calibri 14pt).
+    - [x] Adjusted spacing between staves.
+    - [x] Adjusting spacing.
     - [ ] Adding double bar lines to separate more fragments.
     - [ ] Adjusting line ends to accommodate fragment subdivision.
     - [ ] Adjusting line ends to reflect the meter.
