@@ -10,8 +10,7 @@ Sheet Music Simplified
 
 ### Introduction
 
-Visually simpler. Accidentals always placed near notes, even when part of the key.  
-Simplified using the following [guidelines](https://jjvanzon.github.io/Piano-Playing-Docs/methods/sheet-music-simplification.html).
+Visually simpler. Simplified using the following [guidelines](https://jjvanzon.github.io/Piano-Playing-Docs/methods/sheet-music-simplification.html).
 
 ### Contents
 
