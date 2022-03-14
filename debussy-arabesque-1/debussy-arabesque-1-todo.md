@@ -20,4 +20,4 @@ TODO
     - [ ] Avoiding small superscript letters?
 - [ ] Chord symbol digitization (full chords)
 
-+[back](./README.md)
+[back](./README.md)
