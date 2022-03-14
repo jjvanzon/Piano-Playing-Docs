@@ -81,6 +81,10 @@ Photos / Previews for Social Media
 
 ![Preview Body Posture 2](preview-body-posture-2.png)
 
+### [Preview Chopin Mazurka Op. 24 No. 2 Sheet Music Simplification Muse Score](preview-chopin-mazurka-op-24-no-2-sheet-music-simplification-muse-score.jpg)
+
+![Preview Chopin Mazurka Op. 24 No. 2 Sheet Music Simplification Muse Score](preview-chopin-mazurka-op-24-no-2-sheet-music-simplification-muse-score.jpg)
+
 ### [Preview Finger Numbers, Mozart Sonata Facile KV 545 Part 1](preview-finger-numbers-mozart-sonata-facile-part-1.jpg)
 
 ![Preview Finger Numbers, Mozart Sonata Facile KV 545 Part 1](preview-finger-numbers-mozart-sonata-facile-part-1.jpg)
