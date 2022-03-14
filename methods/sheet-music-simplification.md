@@ -48,6 +48,9 @@ Sheet Music Simplification
     - [ ] Adding page numbers (suggested font: Calibri 14pt).
     - [ ] Adjusted spacing between staves.
     - [ ] Adjusting spacing.
+    - [ ] Adding double bar lines to separate more fragments.
+    - [ ] Adjusting line ends to accommodate fragment subdivision.
+    - [ ] Adjusting line ends to reflect the meter.
 - [ ] Checking:
     - [ ] Checking by playing in editing software.
     - [ ] Checking by playing the print on a piano.

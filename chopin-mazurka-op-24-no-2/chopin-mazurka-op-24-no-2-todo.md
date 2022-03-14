@@ -46,12 +46,14 @@ TODO
     - [x] Adding page numbers (suggested font: Calibri 14pt).
     - [x] Adjusted spacing between staves.
     - [x] Adjusting spacing.
-    - [ ] Adding double bar lines to separate more fragments?
+    - [x] Adding double bar lines to separate more fragments.
+    - [x] Adjusting line ends to accommodate fragment subdivision.
+    - [x] Adjusting line ends to reflect the meter.
 - [x] Might adjust method checklist to using MuseScore.
 - [ ] Checking:
     - [x] Checking by playing in editing software.
-    - [ ] Checking by playing the print on a piano.
-    - [ ] Correcting it.
+    - [x] Checking by playing the print on a piano.
+    - [x] Correcting it.
     - [ ] Keep checking by playing the print, until no more corrections.
 
 ### 2022-03-03 TODO Sheet Music Simplification (Paint.NET)
