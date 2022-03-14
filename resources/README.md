@@ -136,8 +136,8 @@ Photos / Previews for Social Media
 Misc
 ----
 
-- <a href="muse-score-style-from-satie-gymnopedie-1.mss" download>MuseScore Style File from Satie Gymnopédie Ⅰ<a>
-- <a href="muse-score-style-from-chopin-mazurka-op-24-no-2.mss" download>MuseScore Style File from Chopin Mazurka Op. 24, No. 2<a>
+- [MuseScore Style File from Satie Gymnopédie Ⅰ](muse-score-style-from-satie-gymnopedie-1.mss)
+- [MuseScore Style File from Chopin Mazurka Op. 24, No. 2](muse-score-style-from-chopin-mazurka-op-24-no-2.mss)
 
 [back](../README.md)
 
