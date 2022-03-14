@@ -27,13 +27,13 @@ Studying Notes
     - [x] ~~Removing 'announcing' key signatures at ends of lines.~~
     - [x] ~~Removing 'announcing' clef change.~~ > Can't seem to make end-of-line clefs go to the beginning of the next line.
     - [x] ~~Adding measure bars if there are none.~~
-- [ ] Accidentals:
+- [x] Accidentals:
     - [x] In MuseScore, using the "Plugins" menu, "Accidentals" and the options there may help with the following, though it's not perfect. (You may install it from [https://musescore.org/en/project/add-and-remove-courtesy-accidentals](https://musescore.org/en/project/add-and-remove-courtesy-accidentals)
     - [x] ~~Adding accidentals (even when part of key).~~
     - [x] ~~Changing B# => C , Cb => B , E# => F , Fb => E.~~
     - [x] ~~Introducing key changes to prevent natural symbols <img src="https://jjvanzon.github.io/Piano-Playing-Docs/resources/natural-symbol.png" height="20" style="vertical-align:middle" />.~~
-    - [ ] Correcting unnecessary natural symbols.
-    - [ ] Repeating in-measure accidentals.
+    - [x] Correcting unnecessary natural symbols.
+    - [x] Repeating in-measure accidentals.
 - [ ] Voices:
     - [x] Removing some rest symbols.
     - [x] Simplifying note durations / voicing notation.
