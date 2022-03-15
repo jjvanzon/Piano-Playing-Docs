@@ -42,10 +42,9 @@ TODO
 - [ ] __... Accidentals:__
     - [x] ~~In MuseScore, using the "Plugins" menu, "Accidentals" and the options there may help with the following, though it's not perfect. (You may install it from [https://musescore.org/en/project/add-and-remove-courtesy-accidentals](https://musescore.org/en/project/add-and-remove-courtesy-accidentals)~~
     - [x] Adding accidentals (even when part of key). > Removed signature (1-flat).
-    - [ ] ~~Introducing key changes to prevent natural symbols <img src="https://jjvanzon.github.io/Piano-Playing-Docs/resources/natural-symbol.png" height="20" style="vertical-align:middle" />.~~
-    - [ ] __... Repeating in-measure accidentals.__
-    - [ ] __... Correcting unnecessary natural symbols.__
-    - [ ] __... WAS AT: Page 5__
+    - [x] ~~Introducing key changes to prevent natural symbols <img src="https://jjvanzon.github.io/Piano-Playing-Docs/resources/natural-symbol.png" height="20" style="vertical-align:middle" />.~~
+    - [x] Repeating in-measure accidentals.
+    - [x] Correcting unnecessary natural symbols.
     - [ ] Changing B# => C , Cb => B , E# => F , Fb => E.
 - [ ] Checking:
     - [ ] Checking by playing in editing software.
