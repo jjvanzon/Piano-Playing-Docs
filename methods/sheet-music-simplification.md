@@ -63,7 +63,7 @@ Sheet Music Simplification
 
 I think this might make for an autism friendly version of sheet music for the piano.
 
-I have autism and may be more distracted by visual details. Ignoring details may be beyond my control. That may be why note reading is extra difficult for me. I meant to leave out details that I might find distracting.
+I have autism and may be more distracted by visual details. Ignoring details may be beyond my control. That may be why note reading is extra difficult for me.
 
 I removed things like headers, footers, words, numbers, tempo, dynamics, measure numbers, expression symbols, bows, pedal, accolades, fingering numbers, repeated clefts and key signatures.
 

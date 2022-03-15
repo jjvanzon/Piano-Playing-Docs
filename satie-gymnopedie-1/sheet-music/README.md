@@ -30,7 +30,7 @@ Also copyright free (Creative Commons License):
 - Alternative 2: Wide, 2 almost the same:  
   <a target="_blank" rel="noopener noreferrer" href="https://musescore.com/user/28514095/scores/5245660">Copy 1</a>, <a target="_blank" rel="noopener noreferrer" href="https://musescore.com/user/12387036/scores/5472726">Copy 2</a>
 - <a target="_blank" rel="noopener noreferrer" href="https://musescore.com/isaiasplanetgmail_com/gymnopedie-no-1-erik-satie-gymnopedie-no-1">Alternative 3:</a> Wide, less dynamics, pedal indicators.
-- <a target="_blank" rel="noopener noreferrer" href="https://musescore.com/user/32606518/scores/6569468">Alternative 3:</a> With some chord symbols.
-- <a target="_blank" rel="noopener noreferrer" href="https://musescore.com/user/11183436/scores/5534546">Alternative 4:</a> Compact, 2 page, fragment indicators (A-B-C-D).
+- <a target="_blank" rel="noopener noreferrer" href="https://musescore.com/user/32606518/scores/6569468">Alternative 4:</a> With some chord symbols.
+- <a target="_blank" rel="noopener noreferrer" href="https://musescore.com/user/11183436/scores/5534546">Alternative 5:</a> Compact, 2 page, fragment indicators (A-B-C-D).
 
 [back](../README.md)
