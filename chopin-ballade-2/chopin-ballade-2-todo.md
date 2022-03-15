@@ -46,6 +46,7 @@ TODO
     - [x] ~~Adding double bar lines to separate more fragments.~~
     - [x] ~~Adjusting line ends to accommodate fragment subdivision.~~
     - [x] ~~Adjusting line ends to reflect the meter.~~
+- [ ] Exceptional cases...
 - [ ] Checking:
     - [ ] Checking by playing in editing software.
     - [ ] Checking by playing the print on a piano.
