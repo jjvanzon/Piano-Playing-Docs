@@ -30,22 +30,22 @@ TODO
 - [x] Voices:
     - [x] Removing some rest symbols.
     - [x] Simplifying note durations / voicing notation.
-- [x] Layout:
-    - [x] Adding title (adding the word 'simplified').
-    - [x] Removing page headers and footers, mostly.
-    - [x] Adding page numbers (suggested font: Calibri 14pt).
-    - [x] Adjusted spacing between staves.
-    - [x] Adjusting spacing.
-    - [x] ~~Adding double bar lines to separate more fragments.~~
-    - [x] ~~Adjusting line ends to accommodate fragment subdivision.~~
-    - [x] ~~Adjusting line ends to reflect the meter.~~
-- [ ] __... Accidentals:__
+- [x] Accidentals
     - [x] ~~In MuseScore, using the "Plugins" menu, "Accidentals" and the options there may help with the following, though it's not perfect. (You may install it from [https://musescore.org/en/project/add-and-remove-courtesy-accidentals](https://musescore.org/en/project/add-and-remove-courtesy-accidentals)~~
     - [x] Adding accidentals (even when part of key). > Removed signature (1-flat).
     - [x] ~~Introducing key changes to prevent natural symbols <img src="https://jjvanzon.github.io/Piano-Playing-Docs/resources/natural-symbol.png" height="20" style="vertical-align:middle" />.~~
     - [x] Repeating in-measure accidentals.
     - [x] Correcting unnecessary natural symbols.
     - [x] Changing B# => C , Cb => B , E# => F , Fb => E.
+- [ ] Layout:
+    - [x] Adding title (adding the word 'simplified').
+    - [x] Removing page headers and footers, mostly.
+    - [x] Adding page numbers (suggested font: Calibri 14pt).
+    - [ ] Adjusting spacing between staves.
+    - [ ] Adjusting spacing.
+    - [x] ~~Adding double bar lines to separate more fragments.~~
+    - [x] ~~Adjusting line ends to accommodate fragment subdivision.~~
+    - [x] ~~Adjusting line ends to reflect the meter.~~
 - [ ] Checking:
     - [ ] Checking by playing in editing software.
     - [ ] Checking by playing the print on a piano.

@@ -48,7 +48,7 @@ Sheet Music Simplification
     - [ ] Adding title (adding the word 'simplified').
     - [ ] Removing page headers and footers, mostly.
     - [ ] Adding page numbers (suggested font: Calibri 14pt).
-    - [ ] Adjusted spacing between staves.
+    - [ ] Adjusting spacing between staves.
     - [ ] Adjusting spacing.
     - [ ] Adding double bar lines to separate more fragments.
     - [ ] Adjusting line ends to accommodate fragment subdivision.
