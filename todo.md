@@ -14,6 +14,7 @@ TODO
 
 - [ ] Sheet Music Simplified using MuseScore for:
     - [ ] Chopin - Mazurka Op. 24, No. 2
+    - [ ] Mozart - Sonata Facile KV 545 Part 1
     - [ ] Chopin - Ballade Ⅱ
     - [ ] Debussy - Arabesque Ⅰ (?)
     - [ ] Satie - Gnossienne Ⅰ (?)
