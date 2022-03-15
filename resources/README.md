@@ -91,11 +91,11 @@ Photos / Previews for Social Media
 
 ### [Preview MiniDisk Recorder](preview-mini-disk-recorder.jpeg)
 
-<img alt="Preview MiniDisk Recorder" src="preview-mini-disk-recorder.jpeg)
+<img alt="Preview MiniDisk Recorder" src="preview-mini-disk-recorder.jpeg" width="300" />
 
 ### [Preview MiniDisk Recorder Detail](preview-mini-disk-recorder-detail.jpeg)
 
-<img alt="Preview MiniDisk Recorder Detail" src="preview-mini-disk-recorder-detail.jpeg)
+<img alt="Preview MiniDisk Recorder Detail" src="preview-mini-disk-recorder-detail.jpeg" width="300" />
 
 ### [Preview MuseScore Editing Chopin Ballade Ⅱ](preview-muse-score-editing-chopin-ballade-2.png)
 
