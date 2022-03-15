@@ -88,7 +88,7 @@ Styles & Attitudes
     - ***Anger*** expression not too much.
     - ***Grandeur*** not something I identify with.
     - ***Loud*** not preferred.
-    - ***Voices*** rather not.
+    - ***Singing / voices*** rather not.
 - ***Expression:***
     - ***Not loud*** all the time.
     - ***Rubato*** rhythm / improvised over.
