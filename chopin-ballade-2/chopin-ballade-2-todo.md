@@ -26,7 +26,7 @@ TODO
     - [ ] Removing extension bows (and the repeated note).
     - [ ] Removing 'announcing' key signatures at ends of lines.
     - [ ] Removing 'announcing' clef change.
-    - [ ] Adding measure bars if there are none.
+    - [x] ~~Adding measure bars if there are none.~~
 - [ ] Accidentals:
     - [ ] In MuseScore, using the "Plugins" menu, "Accidentals" and the options there may help with the following, though it's not perfect. (You may install it from [https://musescore.org/en/project/add-and-remove-courtesy-accidentals](https://musescore.org/en/project/add-and-remove-courtesy-accidentals)
     - [ ] Adding accidentals (even when part of key).
@@ -36,7 +36,8 @@ TODO
     - [ ] Repeating in-measure accidentals.
 - [ ] Voices:
     - [ ] Removing some rest symbols.
-    - [ ] Simplifying note durations / voicing notation.
+    - [ ] __... Simplifying note durations / voicing notation.__
+        - [ ] WAS AT: Page 5
     - [ ] Left hand / right hand separated and together.
 - [ ] Layout:
     - [x] Adding title (adding the word 'simplified').
