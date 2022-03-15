@@ -37,18 +37,20 @@ TODO
     - [x] Repeating in-measure accidentals.
     - [x] Correcting unnecessary natural symbols.
     - [x] Changing B# => C , Cb => B , E# => F , Fb => E.
-- [ ] Layout:
+- [x] Layout:
     - [x] Adding title (adding the word 'simplified').
     - [x] Removing page headers and footers, mostly.
     - [x] Adding page numbers (suggested font: Calibri 14pt).
-    - [ ] Adjusting spacing between staves.
-    - [ ] Adjusting spacing.
+    - [x] Adjusting spacing between staves.
+    - [x] Adjusting spacing.
     - [x] ~~Adding double bar lines to separate more fragments.~~
     - [x] ~~Adjusting line ends to accommodate fragment subdivision.~~
     - [x] ~~Adjusting line ends to reflect the meter.~~
 - [ ] Exceptional cases...
+    - [x] Slow arpeggio with strange measure.
+    - [ ] There is a single bar line that is 2x thicker. It appears to be 2 bar lines right next to each other.
 - [ ] Checking:
-    - [ ] Checking by playing in editing software.
+    - [x] Checking by playing in editing software.
     - [ ] Checking by playing the print on a piano.
     - [ ] Left hand / right hand separated and together.
     - [ ] Correcting it.
