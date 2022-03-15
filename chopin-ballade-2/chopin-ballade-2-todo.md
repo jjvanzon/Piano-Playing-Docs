@@ -45,7 +45,7 @@ TODO
     - [x] ~~Introducing key changes to prevent natural symbols <img src="https://jjvanzon.github.io/Piano-Playing-Docs/resources/natural-symbol.png" height="20" style="vertical-align:middle" />.~~
     - [x] Repeating in-measure accidentals.
     - [x] Correcting unnecessary natural symbols.
-    - [ ] Changing B# => C , Cb => B , E# => F , Fb => E.
+    - [x] Changing B# => C , Cb => B , E# => F , Fb => E.
 - [ ] Checking:
     - [ ] Checking by playing in editing software.
     - [ ] Checking by playing the print on a piano.
