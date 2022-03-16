@@ -47,11 +47,14 @@ Studying Notes
     - [x] Adding double bar lines to separate more fragments.
     - [x] ~~Adjusting line ends to accommodate fragment subdivision.~~
     - [x] ~~Adjusting line ends to reflect the meter.~~
-- [ ] Checking:
-    - [ ] Checking by playing in editing software.
+- [x] Checking:
+    - [x] Checking by playing in editing software.
     - [x] Checking by playing the print on a piano.
-    - [ ] Correcting it.
-    - [ ] Keep checking by playing the print, until no more corrections.
+    - [x] Correcting it.
+    - [x] Keep checking by playing the print, until no more corrections.
+- [ ] Upload to MuseScore privately,
+- [ ] Check print again playing it on the piano
+- [ ] Then publish.
 
 ### 2022-03
 
