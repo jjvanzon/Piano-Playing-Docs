@@ -1,8 +1,6 @@
 🎵 Frédéric Chopin - Mazurka Op. 24, No. 2
 ===========================================
 
-`[ Draft ]`
-
 *JJ van Zon, 2022*
 
 [back](../README.md)
@@ -17,10 +15,10 @@ Simplified using the following [guidelines](https://jjvanzon.github.io/Piano-Pla
 
 ### Contents
 
-- [Chopin Mazurka Op. 24, No. 2 Sheet Music Simplified Page 1 (png)](chopin-mazurka-op-24-no-2-sheet-music-simplified-page-1.png) `[ Draft ]`
-- [Chopin Mazurka Op. 24, No. 2 Sheet Music Simplified Page 2 (png)](chopin-mazurka-op-24-no-2-sheet-music-simplified-page-2.png) `[ Draft ]`
-- [Chopin Mazurka Op. 24, No. 2 Sheet Music Simplified Page 3 (png)](chopin-mazurka-op-24-no-2-sheet-music-simplified-page-3.png) `[ Draft ]`
-- [Chopin Mazurka Op. 24, No. 2 Sheet Music Simplified (MuseScore)](chopin-mazurka-op-24-no-2-sheet-music-simplified.mscx) `[ Draft ]`
+- [Chopin Mazurka Op. 24, No. 2 Sheet Music Simplified (PDF)](chopin-mazurka-op-24-no-2-sheet-music-simplified.pdf)
+- [Chopin Mazurka Op. 24, No. 2 Sheet Music Simplified (MuseScore Web Page)](https://musescore.com/user/42589871/scores/7733957)
+- [Chopin Mazurka Op. 24, No. 2 Sheet Music Simplified (MuseScore File)](chopin-mazurka-op-24-no-2-sheet-music-simplified.mscz)
+- [Chopin Mazurka Op. 24, No. 2 Sheet Music Simplified (MuseScore Uncompressed XML File)](chopin-mazurka-op-24-no-2-sheet-music-simplified.mscx)
 
 ### Original
 
