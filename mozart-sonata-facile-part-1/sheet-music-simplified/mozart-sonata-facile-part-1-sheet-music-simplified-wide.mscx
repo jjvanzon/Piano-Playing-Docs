@@ -25,7 +25,6 @@
       <minSpreadSpread>5.8</minSpreadSpread>
       <lyricsLineThickness>0.16</lyricsLineThickness>
       <frameSystemDistance>5</frameSystemDistance>
-      <minMeasureWidth>9.4</minMeasureWidth>
       <barWidth>0.22</barWidth>
       <doubleBarWidth>0.22</doubleBarWidth>
       <repeatBarlineDotSeparation>0.39</repeatBarlineDotSeparation>
@@ -37,7 +36,7 @@
       <measureSpacing>1.3</measureSpacing>
       <staffLineWidth>0.22</staffLineWidth>
       <ledgerLineWidth>0.22</ledgerLineWidth>
-      <ledgerLineLength>0.4</ledgerLineLength>
+      <ledgerLineLength>0.36</ledgerLineLength>
       <hairpinWidth>0.16</hairpinWidth>
       <pedalLineWidth>0.16</pedalLineWidth>
       <chordSymbolAFontSize>10</chordSymbolAFontSize>

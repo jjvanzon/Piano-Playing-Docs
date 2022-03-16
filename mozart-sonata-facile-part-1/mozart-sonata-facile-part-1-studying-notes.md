@@ -49,7 +49,7 @@ Studying Notes
     - [x] ~~Adjusting line ends to reflect the meter.~~
 - [ ] Checking:
     - [ ] Checking by playing in editing software.
-    - [ ] Checking by playing the print on a piano.
+    - [x] Checking by playing the print on a piano.
     - [ ] Correcting it.
     - [ ] Keep checking by playing the print, until no more corrections.
 
