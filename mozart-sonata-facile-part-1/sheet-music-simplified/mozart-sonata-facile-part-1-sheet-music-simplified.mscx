@@ -1732,7 +1732,7 @@
           </LayoutBreak>
         <voice>
           <Chord>
-            <durationType>32nd</durationType>
+            <durationType>16th</durationType>
             <grace32/>
             <StemDirection>up</StemDirection>
             <Note>
