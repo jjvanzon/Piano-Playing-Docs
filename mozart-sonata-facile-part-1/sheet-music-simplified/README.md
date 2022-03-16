@@ -14,7 +14,7 @@ Visually simpler. Simplified using the following [guidelines](https://jjvanzon.g
 
 ### Contents
 
-- [Mozart Sonata Facile KV 545 Part 1 Sheet Music Simplified (MuseScore)](mozart-sonata-facile-part-1-sheet-music-simplified.mscx) `[ Draft ]`
+- [Mozart Sonata Facile KV 545 Part 1 Sheet Music Simplified Tight (MuseScore)](mozart-sonata-facile-part-1-sheet-music-simplified-tight.mscx) `[ Draft ]`
 
 ### Original
 
