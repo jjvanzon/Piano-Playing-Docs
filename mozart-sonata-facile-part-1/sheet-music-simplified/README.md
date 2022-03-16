@@ -10,12 +10,11 @@ Sheet Music Simplified
 
 ### Introduction
 
-Visually simpler. Simplified using the following [guidelines](https://jjvanzon.github.io/Piano-Playing-Docs/methods/sheet-music-simplification.html).
+Visually simpler. The layout is quite widely spaced. Simplified using the following [guidelines](https://jjvanzon.github.io/Piano-Playing-Docs/methods/sheet-music-simplification.html).
 
 ### Contents
 
-- [Mozart Sonata Facile KV 545 Part 1 Sheet Music Simplified Tight (MuseScore)](mozart-sonata-facile-part-1-sheet-music-simplified-tight.mscx) `[ Draft ]`
-- [Mozart Sonata Facile KV 545 Part 1 Sheet Music Simplified Wide (MuseScore)](mozart-sonata-facile-part-1-sheet-music-simplified-wide.mscx) `[ Draft ]`
+- [Mozart Sonata Facile KV 545 Part 1 Sheet Music Simplified (MuseScore)](mozart-sonata-facile-part-1-sheet-music-simplified.mscx) `[ Draft ]`
 
 ### Original
 
