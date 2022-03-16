@@ -16,7 +16,7 @@ Simplified using the following [guidelines](https://jjvanzon.github.io/Piano-Pla
 ### Contents
 
 - [Chopin Mazurka Op. 24, No. 2 Sheet Music Simplified (PDF)](chopin-mazurka-op-24-no-2-sheet-music-simplified.pdf)
-- [Chopin Mazurka Op. 24, No. 2 Sheet Music Simplified (MuseScore Web Page)](https://musescore.com/user/42589871/scores/7733957)
+- <a href="https://musescore.com/user/42589871/scores/7733957" target="_blank" rel="noopener noreferrer">Chopin Mazurka Op. 24, No. 2 Sheet Music Simplified (MuseScore Web Page)</a>
 - [Chopin Mazurka Op. 24, No. 2 Sheet Music Simplified (MuseScore File)](chopin-mazurka-op-24-no-2-sheet-music-simplified.mscz)
 - [Chopin Mazurka Op. 24, No. 2 Sheet Music Simplified (MuseScore Uncompressed XML File)](chopin-mazurka-op-24-no-2-sheet-music-simplified.mscx)
 
