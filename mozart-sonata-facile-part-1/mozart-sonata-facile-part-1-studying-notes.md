@@ -52,8 +52,8 @@ Studying Notes
     - [x] Checking by playing the print on a piano.
     - [x] Correcting it.
     - [x] Keep checking by playing the print, until no more corrections.
-- [ ] Upload to MuseScore privately,
-- [ ] Check print again playing it on the piano
+- [ ] Upload to MuseScore privately.
+- [ ] Check print again playing it on the piano.
 - [ ] Then publish.
 
 ### 2022-03
