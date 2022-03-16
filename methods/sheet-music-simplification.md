@@ -54,6 +54,7 @@ Sheet Music Simplification
     - [ ] Adjusting line ends to accommodate fragment subdivision.
     - [ ] Adjusting line ends to reflect the meter.
 - [ ] Checking:
+    - [ ] Checking clef change integrity.
     - [ ] Checking by playing in editing software.
     - [ ] Checking by playing the print on a piano.
     - [ ] Correcting it.
