@@ -14,9 +14,10 @@ Visually simpler. The layout is quite widely spaced. Simplified using the follow
 
 ### Contents
 
-- [Mozart Sonata Facile KV 545 Part 1 Sheet Music Simplified (PDF)](mozart-sonata-facile-part-1-sheet-music-simplified.pdf) `[ Draft ]`
-- [Mozart Sonata Facile KV 545 Part 1 Sheet Music Simplified (MuseScore Uncompressed XML File)](mozart-sonata-facile-part-1-sheet-music-simplified.mscx) `[ Draft ]`
-- [Mozart Sonata Facile KV 545 Part 1 Sheet Music Simplified (MuseScore File)](mozart-sonata-facile-part-1-sheet-music-simplified.mscz) `[ Draft ]`
+- [Mozart Sonata Facile Part 1 Sheet Music Simplified (PDF)](mozart-sonata-facile-part-1-sheet-music-simplified.pdf) `[ Draft ]`
+- <a href="https://musescore.com/user/42589871/scores/7737641" target="_blank" rel="noopener noreferrer">Mozart Sonata Facile Part 1 Sheet Music Simplified (MuseScore Web Page)</a>
+- [Mozart Sonata Facile Part 1 Sheet Music Simplified (MuseScore Uncompressed XML File)](mozart-sonata-facile-part-1-sheet-music-simplified.mscx) `[ Draft ]`
+- [Mozart Sonata Facile Part 1 Sheet Music Simplified (MuseScore File)](mozart-sonata-facile-part-1-sheet-music-simplified.mscz) `[ Draft ]`
 
 ### Original
 
