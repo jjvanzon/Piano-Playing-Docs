@@ -8301,10 +8301,6 @@
               <tpc>15</tpc>
               </Note>
             <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              </Note>
-            <Note>
               <Accidental>
                 <subtype>accidentalFlat</subtype>
                 </Accidental>
