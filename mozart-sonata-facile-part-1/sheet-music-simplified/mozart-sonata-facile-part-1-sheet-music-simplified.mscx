@@ -16,8 +16,8 @@
       <pageOddTopMargin>0.23622</pageOddTopMargin>
       <pageOddBottomMargin>0.393701</pageOddBottomMargin>
       <pageTwosided>0</pageTwosided>
-      <staffUpperBorder>6</staffUpperBorder>
-      <staffLowerBorder>3.5</staffLowerBorder>
+      <staffUpperBorder>3</staffUpperBorder>
+      <staffLowerBorder>2</staffLowerBorder>
       <minSystemDistance>5</minSystemDistance>
       <enableVerticalSpread>1</enableVerticalSpread>
       <spreadSystem>1.5</spreadSystem>
@@ -138,8 +138,8 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>4.6</height>
-        <bottomGap>6</bottomGap>
+        <height>5</height>
+        <bottomGap>2.5</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
