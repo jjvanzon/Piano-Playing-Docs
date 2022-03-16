@@ -74,7 +74,7 @@
       <bendFontSize>10</bendFontSize>
       <headerFontSize>10</headerFontSize>
       <footerFontFace>Calibri</footerFontFace>
-      <footerFontSize>14</footerFontSize>
+      <footerFontSize>12</footerFontSize>
       <footerAlign>center,center</footerAlign>
       <Spatium>1.89</Spatium>
       </Style>
@@ -146,7 +146,7 @@
         <Text>
           <style>Title</style>
           <family>Calibri</family>
-          <size>16</size>
+          <size>14</size>
           <bold>1</bold>
           <align>center,center</align>
           <text>Sonata &quot;Facile&quot; KV 545 (Part 1) - Mozart (Simplified)</text>
@@ -418,6 +418,9 @@
         </Measure>
       <Measure>
         <stretch>0</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Beam>
             </Beam>
@@ -654,6 +657,9 @@
         </Measure>
       <Measure>
         <stretch>0</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Beam>
             </Beam>
@@ -893,6 +899,9 @@
         </Measure>
       <Measure>
         <stretch>0</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Beam>
             </Beam>
@@ -1123,6 +1132,9 @@
         </Measure>
       <Measure>
         <stretch>0</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Rest>
             <durationType>measure</durationType>
@@ -1198,6 +1210,9 @@
         </Measure>
       <Measure>
         <stretch>0</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Beam>
             </Beam>
@@ -1301,6 +1316,9 @@
         </Measure>
       <Measure>
         <stretch>0</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Beam>
             </Beam>
@@ -1417,6 +1435,9 @@
         </Measure>
       <Measure>
         <stretch>0</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -1574,6 +1595,9 @@
         </Measure>
       <Measure>
         <stretch>0</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -1703,6 +1727,9 @@
         </Measure>
       <Measure>
         <stretch>0</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Chord>
             <durationType>32nd</durationType>
@@ -1850,6 +1877,9 @@
         </Measure>
       <Measure>
         <stretch>0</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Spanner type="Trill">
             <Trill>
@@ -2274,6 +2304,9 @@
         </Measure>
       <Measure>
         <stretch>0</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -2462,6 +2495,9 @@
         </Measure>
       <Measure>
         <stretch>0</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Chord>
             <durationType>half</durationType>
@@ -2652,6 +2688,9 @@
         </Measure>
       <Measure>
         <stretch>0</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -2832,6 +2871,9 @@
         </Measure>
       <Measure>
         <stretch>0</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Rest>
             <durationType>16th</durationType>
@@ -2978,6 +3020,9 @@
         </Measure>
       <Measure>
         <stretch>0</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Rest>
             <durationType>16th</durationType>
@@ -3118,6 +3163,9 @@
         </Measure>
       <Measure>
         <stretch>0</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Rest>
             <durationType>16th</durationType>
@@ -3354,6 +3402,9 @@
         </Measure>
       <Measure>
         <stretch>0</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Chord>
             <dots>1</dots>
@@ -3476,6 +3527,9 @@
         </Measure>
       <Measure>
         <stretch>0</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Beam>
             </Beam>
@@ -3730,6 +3784,9 @@
         </Measure>
       <Measure>
         <stretch>0</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Beam>
             </Beam>
@@ -3987,6 +4044,9 @@
         </Measure>
       <Measure>
         <stretch>0</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Chord>
             <dots>1</dots>
@@ -4043,6 +4103,9 @@
         </Measure>
       <Measure>
         <stretch>0</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Chord>
             <dots>1</dots>
@@ -4103,6 +4166,9 @@
         </Measure>
       <Measure>
         <stretch>0</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Beam>
             </Beam>
@@ -4437,6 +4503,9 @@
         </Measure>
       <Measure>
         <stretch>0</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -4484,6 +4553,9 @@
         </Measure>
       <Measure>
         <stretch>0</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Beam>
             </Beam>
@@ -4584,6 +4656,9 @@
         </Measure>
       <Measure>
         <stretch>0</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Beam>
             </Beam>
@@ -4684,6 +4759,9 @@
         </Measure>
       <Measure>
         <stretch>0</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -4830,6 +4908,9 @@
         </Measure>
       <Measure>
         <stretch>0</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -5029,6 +5110,9 @@
         </Measure>
       <Measure>
         <stretch>0</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Chord>
             <durationType>half</durationType>
@@ -5202,6 +5286,9 @@
         </Measure>
       <Measure>
         <stretch>0</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Spanner type="Trill">
             <Trill>
@@ -6703,6 +6790,10 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Clef>
+            <concertClefType>G</concertClefType>
+            <transposingClefType>G</transposingClefType>
+            </Clef>
           </voice>
         </Measure>
       <Measure>
