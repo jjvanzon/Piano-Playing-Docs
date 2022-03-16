@@ -13,7 +13,7 @@ TODO
 ### 2022-03-13 TODO
 
 - [ ] Sheet Music Simplified using MuseScore for:
-    - [ ] Chopin - Mazurka Op. 24, No. 2
+    - [x] Chopin - Mazurka Op. 24, No. 2
     - [ ] Mozart - Sonata Facile KV 545 Part 1
     - [ ] Chopin - Ballade Ⅱ
     - [ ] Debussy - Arabesque Ⅰ (?)
@@ -25,7 +25,7 @@ TODO
     - [ ] Chopin - Ballade Ⅱ
     - [ ] Chopin - Mazurka Op. 24, No. 2
 - [ ] Chopin - Mazurka Op. 24, No. 2
-    - [ ] Sheet music simplified (do over)
+    - [x] Sheet music simplified (do over)
     - [ ] Memorizing chords?
     - [ ] See specialized [TODO](chopin-mazurka-op-24-no-2/chopin-mazurka-op-24-no-2-todo.md)
 - [ ] Debussy - Arabesque Ⅰ
