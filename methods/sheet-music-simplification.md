@@ -65,9 +65,9 @@ I think this might make for an autism friendly version of sheet music for the pi
 
 I have autism and may be more distracted by visual details. Ignoring details may be beyond my control. That may be why note reading is extra difficult for me.
 
-I removed things like headers, footers, words, numbers, tempo, dynamics, measure numbers, expression symbols, bows, pedal, accolades, fingering numbers, repeated clefts and key signatures.
+I removed things like headers, footers, words, numbers, tempo, dynamics, measure numbers, expression symbols, bows, pedal, accolades, fingering numbers, repeated clefs and key signatures.
 
-Also I repeat accidentals (♭♯), because I cannot remember them very easily. Also avoiding B♯ C♭ E♯ F♭ if present. Also simplified note durations / voicing notation. Trying to keep right hand and left hand grouped and separated.
+Also I repeat accidentals (♭♯), because I cannot quite remember them while reading. Also avoiding B♯ C♭ E♯ F♭ if present. Also simplified note durations / voicing notation. Avoiding rest symbols if possible. Trying to keep right hand and left hand grouped and separated.
 
 The lines are also a bit thicker and the notes a bit larger.
 
