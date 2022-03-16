@@ -13,6 +13,10 @@ Sheet Music Simplified
 Visually simpler. Accidentals always placed near notes, even when part of the key.  
 Simplified using the following [guidelines](https://jjvanzon.github.io/Piano-Playing-Docs/methods/sheet-music-simplification.html).
 
+### Preview
+
+<img src="chopin-mazurka-op-24-no-2-sheet-music-simplified-preview.png" width="300" />
+
 ### Contents
 
 - [Chopin Mazurka Op. 24, No. 2 Sheet Music Simplified (PDF)](chopin-mazurka-op-24-no-2-sheet-music-simplified.pdf)
