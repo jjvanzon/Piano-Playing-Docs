@@ -14,7 +14,7 @@ Visually simpler. The layout is quite widely spaced. Simplified using the follow
 
 ### Preview
 
-<img src="mozart-sonata-facile-part-1-sheet-music-simplified-preview.png" width="400" />
+<img src="mozart-sonata-facile-part-1-sheet-music-simplified-preview.png" width="500" />
 
 ### Contents
 
