@@ -36,7 +36,6 @@
       <clefLeftMargin>0.6</clefLeftMargin>
       <systemHeaderDistance>1.66</systemHeaderDistance>
       <stemWidth>0.22</stemWidth>
-      <minNoteDistance>0.2</minNoteDistance>
       <measureSpacing>1.3</measureSpacing>
       <staffLineWidth>0.22</staffLineWidth>
       <ledgerLineWidth>0.22</ledgerLineWidth>
@@ -88,7 +87,7 @@
       <fermataMinDistance>0.6</fermataMinDistance>
       <Spatium>1.89</Spatium>
       </Style>
-    <showInvisible>0</showInvisible>
+    <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>0</showFrames>
     <showMargins>0</showMargins>
@@ -199,7 +198,7 @@
             <tempo>1.4166666666666667</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 85</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 85</b></text>
             </Tempo>
           <Chord>
             <durationType>eighth</durationType>
@@ -3207,6 +3206,9 @@
               <visible>0</visible>
               </NoteDot>
             </Rest>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         <voice>
           <Tuplet>
@@ -5279,11 +5281,17 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         </Measure>
       <Measure>
         <stretch>0</stretch>
         <voice>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -6803,9 +6811,6 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <BarLine>
-            <subtype>double</subtype>
-            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -6821,6 +6826,9 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -7732,6 +7740,9 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -8359,10 +8370,16 @@
               <tpc>9</tpc>
               </Note>
             </Chord>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         </Measure>
       <Measure>
         <voice>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           <Chord>
             <dots>1</dots>
             <durationType>eighth</durationType>
@@ -9098,8 +9115,9 @@
         </Measure>
       <Measure>
         <voice>
+          <BarLine>
+            </BarLine>
           <Chord>
-            <dots>1</dots>
             <durationType>quarter</durationType>
             <Note>
               <Accidental>
@@ -9127,6 +9145,13 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
+          <Rest>
+            <visible>0</visible>
+            <durationType>eighth</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -9419,9 +9444,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <dots>1</dots>
@@ -9491,6 +9513,9 @@
           </voice>
         </Measure>
       <Measure>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -9878,10 +9903,16 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         </Measure>
       <Measure>
         <voice>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           <Chord>
             <dots>1</dots>
             <durationType>eighth</durationType>
@@ -10703,6 +10734,9 @@
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -12600,11 +12634,17 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         </Measure>
       <Measure>
         <stretch>0</stretch>
         <voice>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           <Beam>
             </Beam>
           <Chord>
@@ -14175,6 +14215,8 @@
       <Measure>
         <stretch>0</stretch>
         <voice>
+          <BarLine>
+            </BarLine>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>16th</durationType>
@@ -14188,6 +14230,9 @@
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
             </Clef>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           <Beam>
             </Beam>
           <Chord>
@@ -18021,21 +18066,6 @@
             <Ottava>
               <subtype>8va</subtype>
               <endHookHeight>2</endHookHeight>
-              <Segment>
-                <subtype>1</subtype>
-                <offset x="0" y="-2"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>2</subtype>
-                <offset x="0" y="-2"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>3</subtype>
-                <offset x="0" y="-4.01187"/>
-                <off2 x="0" y="0"/>
-                </Segment>
               </Ottava>
             <next>
               <location>
@@ -18499,9 +18529,6 @@
         </Measure>
       <Measure>
         <stretch>0</stretch>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Beam>
             </Beam>
@@ -18683,15 +18710,19 @@
           </voice>
         </Measure>
       <Measure>
-        <stretch>0</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
+          <TimeSig>
+            <sigN>3</sigN>
+            <sigD>8</sigD>
+            </TimeSig>
           <Fermata>
             <subtype>fermataAbove</subtype>
             <minDistance>0.1</minDistance>
             <offset x="0" y="-4.02"/>
             </Fermata>
-          <Beam>
-            </Beam>
           <Chord>
             <offset x="-0.925926" y="0"/>
             <durationType>16th</durationType>
@@ -18777,9 +18808,9 @@
               <tpc>23</tpc>
               </Note>
             </Chord>
-          <Segment>
-            <leadingSpace>-0.6</leadingSpace>
-            </Segment>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           <Spanner type="Ottava">
             <prev>
               <location>
@@ -18795,24 +18826,9 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
           </voice>
         </Measure>
       <Measure>
-        <stretch>0</stretch>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -18828,6 +18844,10 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -18845,7 +18865,24 @@
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.4</stretch>
+        <voice>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -18869,6 +18906,10 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -18894,10 +18935,7 @@
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.4</stretch>
         <voice>
-          <Beam>
-            </Beam>
           <Chord>
             <dots>1</dots>
             <durationType>eighth</durationType>
@@ -18928,6 +18966,10 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -18953,11 +18995,10 @@
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.2</stretch>
         <voice>
           <Chord>
             <dots>1</dots>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
@@ -18974,14 +19015,23 @@
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.3</stretch>
         <voice>
           <Rest>
-            <durationType>quarter</durationType>
+            <durationType>measure</durationType>
+            <duration>3/8</duration>
             </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Rest>
-            <durationType>eighth</durationType>
+            <durationType>measure</durationType>
+            <duration>3/8</duration>
             </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -19004,7 +19054,6 @@
           </voice>
         </Measure>
       <Measure>
-        <stretch>0</stretch>
         <voice>
           <Chord>
             <durationType>eighth</durationType>
@@ -19028,7 +19077,7 @@
             </Chord>
           <Chord>
             <dots>1</dots>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
             <Note>
               <Accidental>
                 <role>1</role>
@@ -19077,17 +19126,21 @@
               <subtype>0</subtype>
               </Arpeggio>
             </Chord>
-          <Segment>
-            <leadingSpace>-1.2</leadingSpace>
-            </Segment>
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.3</stretch>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>3/8</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
         <voice>
           <Chord>
             <dots>1</dots>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
             <Note>
               <pitch>57</pitch>
               <tpc>17</tpc>
@@ -21454,6 +21507,9 @@
               <visible>0</visible>
               </NoteDot>
             </Rest>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -22567,10 +22623,17 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         </Measure>
       <Measure>
         <voice>
+          <BarLine>
+            <subtype>double</subtype>
+            <span>1</span>
+            </BarLine>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
@@ -24416,9 +24479,6 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <BarLine>
-            <subtype>double</subtype>
-            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -24434,6 +24494,9 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -25046,6 +25109,9 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -25644,10 +25710,17 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         </Measure>
       <Measure>
         <voice>
+          <BarLine>
+            <subtype>double</subtype>
+            <span>1</span>
+            </BarLine>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -26101,6 +26174,9 @@
         </Measure>
       <Measure>
         <voice>
+          <BarLine>
+            <span>1</span>
+            </BarLine>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -26113,6 +26189,9 @@
               <dotPosition>down</dotPosition>
               </Note>
             </Chord>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -26818,10 +26897,17 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         </Measure>
       <Measure>
         <voice>
+          <BarLine>
+            <subtype>double</subtype>
+            <span>1</span>
+            </BarLine>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -27029,10 +27115,8 @@
       <Measure>
         <voice>
           <Rest>
+            <dots>1</dots>
             <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <durationType>16th</durationType>
             </Rest>
           <Chord>
             <durationType>16th</durationType>
@@ -27405,6 +27489,9 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -28406,10 +28493,17 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         </Measure>
       <Measure>
         <voice>
+          <BarLine>
+            <subtype>double</subtype>
+            <span>1</span>
+            </BarLine>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -29099,14 +29193,23 @@
         </Measure>
       <Measure>
         <voice>
+          <BarLine>
+            <span>1</span>
+            </BarLine>
           <Chord>
             <BeamMode>no</BeamMode>
-            <durationType>eighth</durationType>
+            <durationType>16th</durationType>
             <Note>
               <pitch>33</pitch>
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -31424,6 +31527,10 @@
         </Measure>
       <Measure>
         <voice>
+          <TimeSig>
+            <sigN>3</sigN>
+            <sigD>8</sigD>
+            </TimeSig>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -31481,6 +31588,9 @@
               <subtype>0</subtype>
               </Arpeggio>
             </Chord>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -31488,6 +31598,10 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -31520,6 +31634,10 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -31560,6 +31678,10 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -31608,6 +31730,10 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -31636,7 +31762,7 @@
         <voice>
           <Chord>
             <dots>1</dots>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
@@ -31651,11 +31777,21 @@
       <Measure>
         <voice>
           <Rest>
-            <durationType>quarter</durationType>
+            <durationType>measure</durationType>
+            <duration>3/8</duration>
             </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Rest>
-            <durationType>eighth</durationType>
+            <durationType>measure</durationType>
+            <duration>3/8</duration>
             </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -31674,7 +31810,7 @@
         <voice>
           <Chord>
             <dots>1</dots>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
             <Note>
               <Events>
                 <Event>
@@ -31696,9 +31832,17 @@
         </Measure>
       <Measure>
         <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>3/8</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Chord>
             <dots>1</dots>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
             <Note>
               <pitch>33</pitch>
               <tpc>17</tpc>
