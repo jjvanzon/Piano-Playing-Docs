@@ -17911,6 +17911,9 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <voice>
+          <BarLine>
+            <visible>0</visible>
+            </BarLine>
           <Beam>
             </Beam>
           <Chord>
@@ -31231,6 +31234,10 @@
         </Measure>
       <Measure>
         <voice>
+          <BarLine>
+            <span>1</span>
+            <visible>0</visible>
+            </BarLine>
           <Chord>
             <durationType>eighth</durationType>
             <Note>

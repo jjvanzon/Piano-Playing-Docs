@@ -37,7 +37,7 @@ TODO
     - [x] Repeating in-measure accidentals.
     - [x] Correcting unnecessary natural symbols.
     - [x] Changing B# => C , Cb => B , E# => F , Fb => E.
-- [ ] Layout:
+- [x] Layout:
     - [x] Adding title (adding the word 'simplified').
     - [x] Removing page headers and footers, mostly.
     - [x] Adding page numbers (suggested font: Calibri 14pt).
@@ -47,8 +47,8 @@ TODO
     - [x] Adjusting line ends to reflect the meter.
     - [x] Consider regular amount of bars per line.
     - [x] Clefs at page 10 went through notes.
-    - [x] ~ Adjusting line ends to accommodate fragment subdivision.
-    - [ ] ~ Adding double bar lines to separate more fragments.
+    - [x] Adjusting line ends to accommodate fragment subdivision.
+    - [x] Adding double bar lines to separate more fragments.
 - [ ] Exceptional cases...
     - [x] Slow arpeggio with strange measure.
     - [ ] There are certain bar line that are 2x thicker. It appears to be 2 bar lines right next to each other.
