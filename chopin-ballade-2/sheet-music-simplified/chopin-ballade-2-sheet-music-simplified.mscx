@@ -87,7 +87,7 @@
       <fermataMinDistance>0.6</fermataMinDistance>
       <Spatium>1.89</Spatium>
       </Style>
-    <showInvisible>1</showInvisible>
+    <showInvisible>0</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>0</showFrames>
     <showMargins>0</showMargins>
@@ -10731,6 +10731,7 @@
           </LayoutBreak>
         <voice>
           <Rest>
+            <visible>0</visible>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
@@ -14012,6 +14013,7 @@
           <Beam>
             </Beam>
           <Chord>
+            <offset x="-1" y="0"/>
             <durationType>16th</durationType>
             <Note>
               <pitch>62</pitch>
@@ -14023,6 +14025,7 @@
               </Note>
             </Chord>
           <Chord>
+            <offset x="-1" y="0"/>
             <durationType>16th</durationType>
             <Note>
               <pitch>60</pitch>
@@ -14034,6 +14037,7 @@
               </Note>
             </Chord>
           <Chord>
+            <offset x="-1" y="0"/>
             <durationType>16th</durationType>
             <Note>
               <pitch>62</pitch>
@@ -14045,6 +14049,7 @@
               </Note>
             </Chord>
           <Chord>
+            <offset x="-1" y="0"/>
             <durationType>16th</durationType>
             <Note>
               <pitch>59</pitch>
@@ -14056,6 +14061,7 @@
               </Note>
             </Chord>
           <Chord>
+            <offset x="-1" y="0"/>
             <durationType>16th</durationType>
             <Note>
               <pitch>62</pitch>
@@ -14067,6 +14073,7 @@
               </Note>
             </Chord>
           <Chord>
+            <offset x="-1" y="0"/>
             <durationType>16th</durationType>
             <Note>
               <pitch>60</pitch>
@@ -14081,6 +14088,7 @@
             <autoplace>0</autoplace>
             </Beam>
           <Chord>
+            <offset x="-1" y="0"/>
             <durationType>16th</durationType>
             <Note>
               <pitch>62</pitch>
@@ -14092,6 +14100,7 @@
               </Note>
             </Chord>
           <Chord>
+            <offset x="-1" y="0"/>
             <durationType>16th</durationType>
             <Note>
               <pitch>59</pitch>
@@ -14103,6 +14112,7 @@
               </Note>
             </Chord>
           <Chord>
+            <offset x="-1" y="0"/>
             <durationType>16th</durationType>
             <Note>
               <pitch>62</pitch>
@@ -14114,6 +14124,7 @@
               </Note>
             </Chord>
           <Chord>
+            <offset x="-1" y="0"/>
             <durationType>16th</durationType>
             <Note>
               <pitch>60</pitch>
@@ -14125,6 +14136,7 @@
               </Note>
             </Chord>
           <Chord>
+            <offset x="-1" y="0"/>
             <durationType>16th</durationType>
             <Note>
               <pitch>62</pitch>
@@ -14136,7 +14148,11 @@
               </Note>
             </Chord>
           <Chord>
+            <offset x="-1" y="0"/>
             <durationType>16th</durationType>
+            <Stem>
+              <autoplace>0</autoplace>
+              </Stem>
             <Note>
               <pitch>59</pitch>
               <tpc>19</tpc>
@@ -14150,6 +14166,7 @@
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
             <autoplace>0</autoplace>
+            <offset x="0.2" y="0"/>
             </Clef>
           </voice>
         </Measure>
@@ -14229,7 +14246,12 @@
           <Clef>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
+            <autoplace>0</autoplace>
+            <offset x="0.9" y="0"/>
             </Clef>
+          <Segment>
+            <leadingSpace>2.77556e-17</leadingSpace>
+            </Segment>
           <BarLine>
             <subtype>double</subtype>
             </BarLine>
@@ -27853,6 +27875,10 @@
       <Measure>
         <voice>
           <Beam>
+            <Fragment>
+              <y1>6.25</y1>
+              <y2>6.25</y2>
+              </Fragment>
             </Beam>
           <Chord>
             <durationType>eighth</durationType>

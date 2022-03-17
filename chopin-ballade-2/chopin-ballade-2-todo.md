@@ -48,7 +48,7 @@ TODO
     - [x] Consider regular amount of bars per line.
     - [ ] ~ Adding double bar lines to separate more fragments.
     - [ ] ~ Adjusting line ends to accommodate fragment subdivision.
-    - [ ] Clef om page ~11 goes through notes.
+    - [x] Clefs at page 10 went through notes.
 - [ ] Exceptional cases...
     - [x] Slow arpeggio with strange measure.
     - [ ] There are certain bar line that are 2x thicker. It appears to be 2 bar lines right next to each other.
