@@ -43,9 +43,12 @@ TODO
     - [x] Adding page numbers (suggested font: Calibri 14pt).
     - [x] Adjusting spacing between staves.
     - [x] Adjusting spacing.
+    - [ ] Consider wide horizontal note spacing.
+    - [ ] Adjusting line ends to reflect the meter.
+    - [ ] Consider regular amount of bars per line.
     - [ ] ~ Adding double bar lines to separate more fragments.
     - [ ] ~ Adjusting line ends to accommodate fragment subdivision.
-    - [ ] ~ Adjusting line ends to reflect the meter.
+    - [ ] Clef om page ~11 goes through notes.
 - [ ] Exceptional cases...
     - [x] Slow arpeggio with strange measure.
     - [ ] There is a single bar line that is 2x thicker. It appears to be 2 bar lines right next to each other.

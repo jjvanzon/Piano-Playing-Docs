@@ -53,6 +53,8 @@ Sheet Music Simplification
     - [ ] Adding double bar lines to separate more fragments.
     - [ ] Adjusting line ends to accommodate fragment subdivision.
     - [ ] Adjusting line ends to reflect the meter.
+    - [ ] Consider wide horizontal note spacing.
+    - [ ] Consider regular amount of bars per line.
 - [ ] Checking:
     - [ ] Checking clef change integrity.
     - [ ] Checking by playing in editing software.
