@@ -18,11 +18,14 @@
       <pageTwosided>0</pageTwosided>
       <staffUpperBorder>6</staffUpperBorder>
       <staffLowerBorder>3.5</staffLowerBorder>
-      <minSystemDistance>7.2</minSystemDistance>
-      <spreadSystem>1.5</spreadSystem>
-      <minSystemSpread>7</minSystemSpread>
+      <akkoladeDistance>6</akkoladeDistance>
+      <minSystemDistance>6.6</minSystemDistance>
+      <spreadSquareBracket>1</spreadSquareBracket>
+      <spreadCurlyBracket>1</spreadCurlyBracket>
+      <minSystemSpread>8</minSystemSpread>
       <maxSystemSpread>2.5</maxSystemSpread>
       <maxSpreadSpread>30.5</maxSpreadSpread>
+      <maxPageFillSpread>0</maxPageFillSpread>
       <lyricsLineThickness>0.16</lyricsLineThickness>
       <frameSystemDistance>5</frameSystemDistance>
       <minMeasureWidth>2</minMeasureWidth>
@@ -5834,11 +5837,11 @@
           <Spanner type="Ottava">
             <Ottava>
               <subtype>8va</subtype>
-              <endHookHeight>4</endHookHeight>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="-5.27061" y="-1.12156"/>
+                <offset x="0" y="-4.84395"/>
                 <off2 x="0" y="0"/>
+                <minDistance>0.5</minDistance>
                 </Segment>
               </Ottava>
             <next>
@@ -18030,7 +18033,7 @@
                 </Segment>
               <Segment>
                 <subtype>3</subtype>
-                <offset x="0" y="-2"/>
+                <offset x="0" y="-4.01187"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </Ottava>
@@ -29051,8 +29054,9 @@
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>ornamentTrill</subtype>
+              <minDistance>-999</minDistance>
               <anchor>1</anchor>
-              <offset x="0" y="0.2"/>
+              <offset x="0" y="0.1"/>
               </Articulation>
             <Note>
               <pitch>38</pitch>
@@ -29068,8 +29072,9 @@
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>ornamentTrill</subtype>
+              <minDistance>-999</minDistance>
               <anchor>1</anchor>
-              <offset x="0" y="0.3"/>
+              <offset x="0" y="0.1"/>
               </Articulation>
             <Note>
               <pitch>36</pitch>
@@ -29083,7 +29088,7 @@
               <subtype>ornamentTrill</subtype>
               <minDistance>-999</minDistance>
               <anchor>1</anchor>
-              <offset x="0" y="0.4"/>
+              <offset x="0" y="0.1"/>
               </Articulation>
             <Note>
               <pitch>35</pitch>
