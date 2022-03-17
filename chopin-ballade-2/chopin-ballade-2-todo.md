@@ -46,9 +46,9 @@ TODO
     - [x] Consider wide horizontal note spacing.
     - [x] Adjusting line ends to reflect the meter.
     - [x] Consider regular amount of bars per line.
-    - [ ] ~ Adding double bar lines to separate more fragments.
-    - [ ] ~ Adjusting line ends to accommodate fragment subdivision.
     - [x] Clefs at page 10 went through notes.
+    - [x] ~ Adjusting line ends to accommodate fragment subdivision.
+    - [ ] ~ Adding double bar lines to separate more fragments.
 - [ ] Exceptional cases...
     - [x] Slow arpeggio with strange measure.
     - [ ] There are certain bar line that are 2x thicker. It appears to be 2 bar lines right next to each other.

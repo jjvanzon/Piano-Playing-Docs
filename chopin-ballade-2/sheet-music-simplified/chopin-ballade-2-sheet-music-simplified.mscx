@@ -3255,7 +3255,11 @@
       <Measure>
         <stretch>0</stretch>
         <voice>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           <TimeSig>
+            <offset x="1.25" y="0"/>
             <sigN>6</sigN>
             <sigD>8</sigD>
             </TimeSig>
@@ -6816,6 +6820,7 @@
       <Measure>
         <voice>
           <TimeSig>
+            <offset x="0.6" y="0"/>
             <sigN>3</sigN>
             <sigD>8</sigD>
             </TimeSig>
@@ -7747,6 +7752,9 @@
         </Measure>
       <Measure>
         <voice>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -10743,7 +10751,11 @@
       <Measure>
         <stretch>0</stretch>
         <voice>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           <TimeSig>
+            <offset x="1.25" y="0"/>
             <sigN>6</sigN>
             <sigD>8</sigD>
             </TimeSig>
@@ -21536,7 +21548,12 @@
         </Measure>
       <Measure>
         <voice>
+          <BarLine>
+            <subtype>double</subtype>
+            <span>1</span>
+            </BarLine>
           <TimeSig>
+            <offset x="1.25" y="0"/>
             <sigN>6</sigN>
             <sigD>8</sigD>
             </TimeSig>
@@ -24506,6 +24523,7 @@
       <Measure>
         <voice>
           <TimeSig>
+            <offset x="0.6" y="0"/>
             <sigN>3</sigN>
             <sigD>8</sigD>
             </TimeSig>
@@ -25138,6 +25156,10 @@
         </Measure>
       <Measure>
         <voice>
+          <BarLine>
+            <subtype>double</subtype>
+            <span>1</span>
+            </BarLine>
           <Chord>
             <dots>1</dots>
             <durationType>eighth</durationType>
@@ -27518,7 +27540,12 @@
         </Measure>
       <Measure>
         <voice>
+          <BarLine>
+            <subtype>double</subtype>
+            <span>1</span>
+            </BarLine>
           <TimeSig>
+            <offset x="1.25" y="0"/>
             <sigN>6</sigN>
             <sigD>8</sigD>
             </TimeSig>
@@ -31299,6 +31326,10 @@
               </Note>
             </Chord>
           <Beam>
+            <Fragment>
+              <y1>7</y1>
+              <y2>5.5</y2>
+              </Fragment>
             </Beam>
           <Chord>
             <durationType>eighth</durationType>
@@ -31373,6 +31404,10 @@
               </Note>
             </Chord>
           <Beam>
+            <Fragment>
+              <y1>7</y1>
+              <y2>5.5</y2>
+              </Fragment>
             </Beam>
           <Chord>
             <durationType>eighth</durationType>
