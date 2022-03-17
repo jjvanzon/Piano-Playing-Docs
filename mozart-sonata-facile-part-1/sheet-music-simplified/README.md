@@ -10,6 +10,10 @@ Sheet Music Simplified
 
 Visually simpler. The layout is quite widely spaced. Simplified using the following [guidelines](https://jjvanzon.github.io/Piano-Playing-Docs/methods/sheet-music-simplification.html).
 
+### Preview
+
+<img src="mozart-sonata-facile-part-1-sheet-music-simplified-preview.png" width="400" />
+
 ### Contents
 
 - [Mozart Sonata Facile Part 1 Sheet Music Simplified (PDF)](mozart-sonata-facile-part-1-sheet-music-simplified.pdf)
