@@ -16,10 +16,10 @@
       <pageOddTopMargin>0.23622</pageOddTopMargin>
       <pageOddBottomMargin>0.393701</pageOddBottomMargin>
       <pageTwosided>0</pageTwosided>
-      <staffUpperBorder>6</staffUpperBorder>
-      <staffLowerBorder>3.5</staffLowerBorder>
-      <akkoladeDistance>6</akkoladeDistance>
-      <minSystemDistance>6.6</minSystemDistance>
+      <staffUpperBorder>3</staffUpperBorder>
+      <staffLowerBorder>4.5</staffLowerBorder>
+      <akkoladeDistance>5</akkoladeDistance>
+      <minSystemDistance>4.5</minSystemDistance>
       <spreadSquareBracket>1</spreadSquareBracket>
       <spreadCurlyBracket>1</spreadCurlyBracket>
       <minSystemSpread>8</minSystemSpread>
@@ -51,8 +51,7 @@
       <genCourtesyTimesig>0</genCourtesyTimesig>
       <genCourtesyKeysig>0</genCourtesyKeysig>
       <genCourtesyClef>0</genCourtesyClef>
-      <enableIndentationOnFirstSystem>0</enableIndentationOnFirstSystem>
-      <firstSystemIndentationValue>12</firstSystemIndentationValue>
+      <firstSystemIndentationValue>25</firstSystemIndentationValue>
       <slurEndWidth>0.1</slurEndWidth>
       <slurMidWidth>0.22</slurMidWidth>
       <musicalSymbolFont>Bravura</musicalSymbolFont>
@@ -177,7 +176,7 @@
     <Staff id="1">
       <VBox>
         <height>4.6</height>
-        <bottomGap>6</bottomGap>
+        <bottomGap>3</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
@@ -266,7 +265,7 @@
           </voice>
         </Measure>
       <HBox>
-        <width>50</width>
+        <width>25</width>
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>

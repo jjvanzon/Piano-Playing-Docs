@@ -30,6 +30,7 @@ TODO
 - [x] Voices:
     - [x] Removing some rest symbols.
     - [x] Simplifying note durations / voicing notation.
+    - [x] Left hand / right hand separated and together.
 - [x] Accidentals
     - [x] ~~In MuseScore, using the "Plugins" menu, "Accidentals" and the options there may help with the following, though it's not perfect. (You may install it from [https://musescore.org/en/project/add-and-remove-courtesy-accidentals](https://musescore.org/en/project/add-and-remove-courtesy-accidentals)~~
     - [x] Adding accidentals (even when part of key). > Removed signature (1-flat).
@@ -49,13 +50,12 @@ TODO
     - [x] Clefs at page 10 went through notes.
     - [x] Adjusting line ends to accommodate fragment subdivision.
     - [x] Adding double bar lines to separate more fragments.
-- [ ] Exceptional cases...
+- [x] Exceptional cases
     - [x] Slow arpeggio with strange measure.
-    - [ ] There are certain bar line that are 2x thicker. It appears to be 2 bar lines right next to each other.
+    - [x] There are certain bar line that are 2x thicker. It appears to be 2 bar lines right next to each other.
 - [ ] Checking:
-    - [ ] Checking by playing in editing software.
+    - [x] Checking by playing in editing software.
     - [ ] Checking by playing the print on a piano.
-    - [ ] Left hand / right hand separated and together.
     - [ ] Correcting it.
     - [ ] Keep checking by playing the print, until no more corrections.
 
