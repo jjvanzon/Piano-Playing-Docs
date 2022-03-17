@@ -8,7 +8,7 @@
 Notes and analyses studying this piano piece.
 
 - [Sheet Music](sheet-music/README.md)
-- [Sheet Music Simplified](sheet-music-simplified/README.md) `[ Draft ]`
+- [Sheet Music Simplified](sheet-music-simplified/README.md)
 - [Practice Schema](mozart-sonata-facile-part-1-practice-schema.md)
 - [Studying Notes](mozart-sonata-facile-part-1-studying-notes.md)
 
