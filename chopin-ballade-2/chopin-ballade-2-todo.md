@@ -53,7 +53,7 @@ TODO
     - [x] Slow arpeggio with strange measure.
     - [ ] There are certain bar line that are 2x thicker. It appears to be 2 bar lines right next to each other.
 - [ ] Checking:
-    - [x] Checking by playing in editing software.
+    - [ ] Checking by playing in editing software.
     - [ ] Checking by playing the print on a piano.
     - [ ] Left hand / right hand separated and together.
     - [ ] Correcting it.

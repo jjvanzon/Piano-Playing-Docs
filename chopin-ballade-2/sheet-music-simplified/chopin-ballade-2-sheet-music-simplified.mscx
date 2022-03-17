@@ -3744,6 +3744,11 @@
             <Ottava>
               <subtype>8va</subtype>
               <endHookHeight>3</endHookHeight>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="-1.25449" y="-3.04346"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </Ottava>
             <next>
               <location>
@@ -8761,7 +8766,9 @@
       <Measure>
         <voice>
           <Chord>
-            <durationType>quarter</durationType>
+            <BeamMode>no</BeamMode>
+            <dots>1</dots>
+            <durationType>eighth</durationType>
             <Note>
               <Accidental>
                 <subtype>accidentalFlat</subtype>
@@ -8782,6 +8789,17 @@
                 </Accidental>
               <pitch>94</pitch>
               <tpc>12</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              </Note>
+            <Note>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -10016,6 +10034,7 @@
               </Note>
             </Chord>
           <Chord>
+            <offset x="-0.5" y="0"/>
             <durationType>16th</durationType>
             <Note>
               <Accidental>
@@ -10049,6 +10068,7 @@
               </Note>
             </Chord>
           <Chord>
+            <offset x="0.5" y="0"/>
             <durationType>eighth</durationType>
             <Note>
               <Accidental>
@@ -10361,9 +10381,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -10446,6 +10463,9 @@
           </voice>
         </Measure>
       <Measure>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -11493,14 +11513,6 @@
           </voice>
         </Measure>
       <HBox>
-        <Image>
-          <offset x="99.6926" y="5.54019"/>
-          <z>3000</z>
-          <path>D:/MyData/Desktop/V/圖片/Musescore/empty.jpg</path>
-          <linkPath>D:/MyData/Desktop/V/圖片/Musescore/empty.jpg</linkPath>
-          <size w="1.17755" h="2.51463"/>
-          <lockAspectRatio>0</lockAspectRatio>
-          </Image>
         </HBox>
       <Measure>
         <stretch>0</stretch>
@@ -13309,6 +13321,10 @@
         <stretch>0</stretch>
         <voice>
           <Beam>
+            <Fragment>
+              <y1>-0.5</y1>
+              <y2>-1.5</y2>
+              </Fragment>
             </Beam>
           <Chord>
             <durationType>16th</durationType>
@@ -13377,6 +13393,10 @@
               </Note>
             </Chord>
           <Beam>
+            <Fragment>
+              <y1>-0.75</y1>
+              <y2>-1.75</y2>
+              </Fragment>
             </Beam>
           <Chord>
             <durationType>16th</durationType>
@@ -21976,18 +21996,12 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>30</pitch>
-              <tpc>20</tpc>
+              <pitch>33</pitch>
+              <tpc>17</tpc>
               </Note>
             <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>42</pitch>
-              <tpc>20</tpc>
+              <pitch>45</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -25946,18 +25960,10 @@
         </Measure>
       <Measure>
         <voice>
-          <Chord>
+          <Rest>
             <dots>1</dots>
             <durationType>eighth</durationType>
-            <Note>
-              <pitch>43</pitch>
-              <tpc>15</tpc>
-              </Note>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
+            </Rest>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -27008,6 +27014,7 @@
               </Note>
             </Chord>
           <Chord>
+            <offset x="-0.5" y="0"/>
             <durationType>16th</durationType>
             <Note>
               <Accidental>
@@ -27025,6 +27032,7 @@
               </Note>
             </Chord>
           <Chord>
+            <offset x="0.5" y="0"/>
             <durationType>eighth</durationType>
             <Note>
               <pitch>45</pitch>
