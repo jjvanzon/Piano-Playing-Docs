@@ -55,7 +55,11 @@ TODO
     - [x] There are certain bar line that are 2x thicker. It appears to be 2 bar lines right next to each other.
 - [ ] Checking:
     - [x] Checking by playing in editing software.
-    - [ ] Checking by playing the print on a piano.
+    - [x] Checking by playing the print on a piano.
+        - [ ]  Editing corrections: was at page 8
+    - [ ] Corrections:
+        - [x] Might go for less lines a page, more pages.
+        - [ ] May choose # or b more consistently (per measure?)
     - [ ] Correcting it.
     - [ ] Keep checking by playing the print, until no more corrections.
 
