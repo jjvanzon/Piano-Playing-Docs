@@ -20,8 +20,7 @@ Making my own choices, not lead others.
 
 - [ ] ***Analyses:***
     - [ ] ... [Sheet Music Simplification](todo.md#2022-03-13-todo)
-        - [ ] In MuseScore.
-        - [ ] For all pieces.
+        - [ ] In MuseScore. For all pieces.
     - [ ] ... [Satie - Gnossienne Ⅰ](satie-gnossienne-1/README.md)
         - [ ] (Without analyses I may have trouble memorizing.)
         - [ ] Phrase structure analysis
