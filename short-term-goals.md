@@ -12,7 +12,7 @@ Preparation for Performance on April 1, 2022
 
 ***Analyses*** rather than piece-learning. Am behind on that.  
 That way, nothing new to play next performance, perhaps.  
-My choice, not others. 
+Making my own choices, not lead others. 
 
 ### Checklist
 
