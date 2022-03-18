@@ -15,11 +15,11 @@ The selected score has it on a single page with repeat notation.
 
 - [Satie Gymnopédie Ⅰ Sheet Music (PDF)](satie-gymnopedie-1-sheet-music.pdf)
 - [Satie Gymnopédie Ⅰ Sheet Music (png)](satie-gymnopedie-1-sheet-music-scanned.png)
-- [Satie Gymnopédie Ⅰ Sheet Music (MuseScore)](satie-gymnopedie-1-sheet-music.mscz)
+- [Satie Gymnopédie Ⅰ Sheet Music (MuseScore File)](satie-gymnopedie-1-sheet-music.mscz)
 
 ### Source
 
-- <a target="_blank" rel="noopener noreferrer" href="https://musescore.com/james_brigham/3-gymnop-dies-erik-satie-gymnopedie-no-1-single-page-erik-satie-1888">Source (MuseScore)</a> / <a target="_blank" rel="noopener noreferrer" href="https://creativecommons.org/publicdomain/zero/1.0/">license</a> / <a target="_blank" rel="noopener noreferrer" href="https://creativecommons.org/publicdomain/zero/1.0/legalcode">full legal text</a>
+- <a target="_blank" rel="noopener noreferrer" href="https://musescore.com/james_brigham/3-gymnop-dies-erik-satie-gymnopedie-no-1-single-page-erik-satie-1888">Source (MuseScore Web Page)</a> / <a target="_blank" rel="noopener noreferrer" href="https://creativecommons.org/publicdomain/zero/1.0/">license</a> / <a target="_blank" rel="noopener noreferrer" href="https://creativecommons.org/publicdomain/zero/1.0/legalcode">full legal text</a>
 
 ### Alternatives
 

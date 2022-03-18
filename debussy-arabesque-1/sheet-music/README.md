@@ -13,11 +13,11 @@ Copyright-free sheet music from MuseScore (Creative Commons License). This versi
 ### Contents
 
 - [Debussy Arabesque Ⅰ Sheet Music (PDF)](debussy-arabesque-1-sheet-music.pdf)
-- [Debussy Arabesque Ⅰ Sheet Music (MuseScore)](debussy-arabesque-1-sheet-music.mscz)
+- [Debussy Arabesque Ⅰ Sheet Music (MuseScore File)](debussy-arabesque-1-sheet-music.mscz)
 
 ### Source
 
-- <a target="_blank" rel="noopener noreferrer" href="https://musescore.com/antlachaume/arabesque-n-1">Source (MuseScore)</a> / <a target="_blank" rel="noopener noreferrer" href="https://creativecommons.org/publicdomain/zero/1.0/">license</a> / <a target="_blank" rel="noopener noreferrer" href="https://creativecommons.org/publicdomain/zero/1.0/legalcode">full legal text</a>
+- <a target="_blank" rel="noopener noreferrer" href="https://musescore.com/antlachaume/arabesque-n-1">Source (MuseScore Web Page)</a> / <a target="_blank" rel="noopener noreferrer" href="https://creativecommons.org/publicdomain/zero/1.0/">license</a> / <a target="_blank" rel="noopener noreferrer" href="https://creativecommons.org/publicdomain/zero/1.0/legalcode">full legal text</a>
 
 ### Alternatives
 
