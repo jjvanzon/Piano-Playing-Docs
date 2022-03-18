@@ -23,7 +23,7 @@ Sheet Music Simplification
     - [ ] Removing repeated key signatures.
     - [ ] Removing repeated clefs.
 - [ ] Removing details:
-    - [ ] In MuseScore, right clicking an element, then choosing  "Select" may show options that may help with this:
+    - [ ] In MuseScore, right clicking an element, then choosing  "Select" may help with this:
     - [ ] Removing the big accolades at the left.
     - [ ] Removing expression symbols (and pedal symbols, tempo, words, dynamics).
     - [ ] Removing expression bows.
@@ -34,13 +34,13 @@ Sheet Music Simplification
     - [ ] Removing 'announcing' clef change.
     - [ ] Adding measure bars if there are none.
 - [ ] Accidentals:
-    - [ ] In MuseScore, using the "Plugins" menu, "Accidentals" and the options there may help with the following, though it's not perfect. (You may install it from [https://musescore.org/en/project/add-and-remove-courtesy-accidentals](https://musescore.org/en/project/add-and-remove-courtesy-accidentals)
+    - [ ] In MuseScore, using the "Plugins" menu, "Accidentals" and the options there may help with the following, though it's not perfect. (You may install it from [https://musescore.org/en/project/add-and-remove-courtesy-accidentals](https://musescore.org/en/project/add-and-remove-courtesy-accidentals))
     - [ ] Adding accidentals (even when part of key).
+    - [ ] Repeating in-measure accidentals.
     - [ ] Changing B# => C , Cb => B , E# => F , Fb => E.
     - [ ] Introducing key changes to prevent natural symbols <img src="https://jjvanzon.github.io/Piano-Playing-Docs/resources/natural-symbol.png" height="20" style="vertical-align:middle" />.
     - [ ] Correcting unnecessary natural symbols.
-    - [ ] Repeating in-measure accidentals.
-- [ ] Voices:
+- [ ] Voicing:
     - [ ] Removing some rest symbols.
     - [ ] Simplifying note durations / voicing notation.
     - [ ] Left hand / right hand separated and together.
@@ -50,11 +50,11 @@ Sheet Music Simplification
     - [ ] Adding page numbers (suggested font: Calibri 14pt).
     - [ ] Adjusting spacing between staves.
     - [ ] Adjusting spacing.
+    - [ ] Consider wide horizontal note spacing.
+    - [ ] Consider regular amount of bars per line.
     - [ ] Adding double bar lines to separate more fragments.
     - [ ] Adjusting line ends to accommodate fragment subdivision.
     - [ ] Adjusting line ends to reflect the meter.
-    - [ ] Consider wide horizontal note spacing.
-    - [ ] Consider regular amount of bars per line.
 - [ ] Checking:
     - [ ] Checking clef change integrity.
     - [ ] Checking by playing in editing software.
