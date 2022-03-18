@@ -38,6 +38,7 @@ TODO
     - [x] Repeating in-measure accidentals.
     - [x] Correcting unnecessary natural symbols.
     - [x] Changing B# => C , Cb => B , E# => F , Fb => E.
+    - [ ] Avoiding mixed use of b and #.
 - [x] Layout:
     - [x] Adding title (adding the word 'simplified').
     - [x] Removing page headers and footers, mostly.
@@ -53,10 +54,10 @@ TODO
 - [x] Exceptional cases
     - [x] Slow arpeggio with strange measure.
     - [x] There are certain bar line that are 2x thicker. It appears to be 2 bar lines right next to each other.
-- [ ] Checking:
+- [ ] __... Checking:__
     - [x] Checking by playing in editing software.
     - [x] Checking by playing the print on a piano.
-        - [ ]  Editing corrections: was at page 8
+        - [ ] __... Editing corrections: was at page 11 (from print).__
     - [ ] Corrections:
         - [x] Might go for less lines a page, more pages.
         - [ ] May choose # or b more consistently (per measure?)
