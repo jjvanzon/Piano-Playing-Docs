@@ -16,10 +16,10 @@ My choice, not others.
 
 ### Checklist
 
- All optional. By priority:
+ All optional. By priority: 
 
 - [ ] ***Analyses:***
-    - [ ] [Sheet Music Simplification](methods/sheet-music-simplification.md)
+    - [ ] ... [Sheet Music Simplification](methods/sheet-music-simplification.md)
         - [ ] In MuseScore.
         - [ ] For all pieces.
     - [ ] ... [Satie - Gnossienne Ⅰ](satie-gnossienne-1/README.md)
