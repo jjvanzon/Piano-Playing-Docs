@@ -50,6 +50,7 @@ Sheet Music Simplification
     - [ ] Adding page numbers (suggested font: Calibri 14pt).
     - [ ] Adjusting spacing between staves.
     - [ ] Adjusting spacing.
+    - [ ] Consider vertical spacing of 5 or 6 lines per page.
     - [ ] Consider wide horizontal note spacing.
     - [ ] Consider regular amount of bars per line.
     - [ ] Adding double bar lines to separate more fragments.
