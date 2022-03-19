@@ -16652,10 +16652,11 @@
               </Note>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <role>1</role>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>68</pitch>
-              <tpc>22</tpc>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           </voice>
@@ -16835,10 +16836,10 @@
             <durationType>16th</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
-              <pitch>68</pitch>
-              <tpc>10</tpc>
+              <pitch>70</pitch>
+              <tpc>24</tpc>
               </Note>
             <Note>
               <pitch>72</pitch>
@@ -16881,17 +16882,19 @@
             <durationType>16th</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <role>1</role>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>63</pitch>
-              <tpc>11</tpc>
+              <tpc>23</tpc>
               </Note>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <role>1</role>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>75</pitch>
-              <tpc>11</tpc>
+              <tpc>23</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -16910,18 +16913,18 @@
             <Note>
               <Accidental>
                 <role>1</role>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>63</pitch>
-              <tpc>11</tpc>
+              <tpc>23</tpc>
               </Note>
             <Note>
               <Accidental>
                 <role>1</role>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>75</pitch>
-              <tpc>11</tpc>
+              <tpc>23</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -16979,18 +16982,12 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>53</pitch>
-              <tpc>25</tpc>
+              <tpc>13</tpc>
               </Note>
             <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>65</pitch>
-              <tpc>25</tpc>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Beam>
@@ -17033,10 +17030,10 @@
             <durationType>16th</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>70</pitch>
-              <tpc>12</tpc>
+              <tpc>24</tpc>
               </Note>
             <Note>
               <pitch>74</pitch>
@@ -17068,6 +17065,9 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
@@ -17274,8 +17274,7 @@
               </Note>
             <Note>
               <Accidental>
-                <role>1</role>
-                <subtype>accidentalNaturalSharp</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>78</pitch>
               <tpc>20</tpc>
@@ -17301,11 +17300,8 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>75</pitch>
-              <tpc>11</tpc>
+              <tpc>23</tpc>
               </Note>
             <Note>
               <pitch>79</pitch>
