@@ -57,7 +57,10 @@ TODO
 - [ ] __... Checking:__
     - [x] Checking by playing in editing software.
     - [x] Checking by playing the print on a piano.
-        - [ ] __... Editing corrections: was at page 11 (from print).__
+        - [ ] __... WAS AT: Page 5 playing and annotating print.__
+        - [ ] I am torn between choosing either # or b consistently, chord shapes and intervals not looking what they look like. Sometimes those things clash.
+        - [ ] Trying to balance it out, I tend to get a Eb and a F# in one measure where I am at now.
+        - [ ] Cb and Fb mess with my brain, so I want to avoid those.
     - [ ] Corrections:
         - [x] Might go for less lines a page, more pages.
         - [ ] May choose # or b more consistently (per measure?)
