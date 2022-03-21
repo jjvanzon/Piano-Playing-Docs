@@ -10,6 +10,8 @@
   Your browser does not support the audio element. <a href="recording/chopin-mazurka-op-24-no-2-recording-320kbps.mp3" download>Download file</a>
 </audio>
 
+<br/>
+
 - [Recording](recording/README.md)
 - [Sheet Music](sheet-music/README.md)
 - [Sheet Music Simplified](sheet-music-simplified/README.md)

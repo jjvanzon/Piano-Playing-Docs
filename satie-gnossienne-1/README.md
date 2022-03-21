@@ -10,6 +10,8 @@
   Your browser does not support the audio element. <a href="recording/satie-gnossienne-1-recording-320-kbps.mp3" download>Download file</a>
 </audio>
 
+<br/>
+
 - [Recording](recording/README.md)
 - [Sheet Music](sheet-music/README.md)
 - [Sheet Music Simplified](sheet-music-simplified/README.md)
