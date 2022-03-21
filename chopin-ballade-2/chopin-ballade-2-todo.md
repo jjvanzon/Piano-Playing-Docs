@@ -8,7 +8,7 @@
 TODO
 ----
 
-### 2022-03-14 Sheet Music Simplificiation
+### 2022-03-14 Sheet Music Simplification
 
 - [x] In MuseScore "Load Style" might take care of the following:
     - [x] Thicker lines
@@ -27,7 +27,7 @@ TODO
     - [x] ~~Removing 'announcing' key signatures at ends of lines.~~
     - [x] ~~Removing 'announcing' clef change.~~
     - [x] ~~Adding measure bars if there are none.~~
-- [x] Voices:
+- [x] Voicing:
     - [x] Removing some rest symbols.
     - [x] Simplifying note durations / voicing notation.
     - [x] Left hand / right hand separated and together.
@@ -38,7 +38,13 @@ TODO
     - [x] Repeating in-measure accidentals.
     - [x] Correcting unnecessary natural symbols.
     - [x] Changing B# => C , Cb => B , E# => F , Fb => E.
-    - [ ] Avoiding mixed use of b and #.
+    - [ ] Choice of b and # decided by:
+        - [ ] Obvious key
+        - [ ] Chord minor / major
+        - [ ] Interval
+        - [ ] Melody tones
+        - [ ] Chromatic walk (down b's, up #'s, to prevent natural symbols)
+        - [ ] Chords diminished / augmented (make intervals 'look like themselves')
 - [x] Layout:
     - [x] Adding title (adding the word 'simplified').
     - [x] Removing page headers and footers, mostly.
@@ -54,16 +60,14 @@ TODO
 - [x] Exceptional cases
     - [x] Slow arpeggio with strange measure.
     - [x] There are certain bar line that are 2x thicker. It appears to be 2 bar lines right next to each other.
-- [ ] __... Checking:__
+- [ ] Checking:
     - [x] Checking by playing in editing software.
     - [x] Checking by playing the print on a piano.
-        - [ ] __... WAS AT: Page 5 playing and annotating print.__
-        - [ ] I am torn between choosing either # or b consistently, chord shapes and intervals not looking what they look like. Sometimes those things clash.
-        - [ ] Trying to balance it out, I tend to get a Eb and a F# in one measure where I am at now.
-        - [ ] Cb and Fb mess with my brain, so I want to avoid those.
-    - [ ] Corrections:
+        - [x] I am torn between choosing either # or b consistently, chord shapes and intervals not looking what they look like. Sometimes those things clash.
+        - [x] ~~Trying to balance it out, I tend to get a Eb and a F# in one measure where I am at now.~~
+    - [x] Corrections:
         - [x] Might go for less lines a page, more pages.
-        - [ ] May choose # or b more consistently (per measure?)
+        - [x] May choose # or b more consistently (per measure?)
     - [ ] Correcting it.
     - [ ] Keep checking by playing the print, until no more corrections.
 

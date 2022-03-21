@@ -37,10 +37,16 @@ Sheet Music Simplification
     - [ ] In MuseScore, using the "Plugins" menu, "Accidentals" and the options there may help with the following, though it's not perfect. (You may install it from [https://musescore.org/en/project/add-and-remove-courtesy-accidentals](https://musescore.org/en/project/add-and-remove-courtesy-accidentals))
     - [ ] Adding accidentals (even when part of key).
     - [ ] Repeating in-measure accidentals.
-    - [ ] Avoiding mixed use of b and #.
-    - [ ] Changing B# => C , Cb => B , E# => F , Fb => E.
     - [ ] Introducing key changes to prevent natural symbols <img src="https://jjvanzon.github.io/Piano-Playing-Docs/resources/natural-symbol.png" height="20" style="vertical-align:middle" />.
     - [ ] Correcting unnecessary natural symbols.
+    - [ ] Changing B# => C , Cb => B , E# => F , Fb => E.
+    - [ ] Choice of b and # decided by:
+        - [ ] Obvious key
+        - [ ] Chord minor / major
+        - [ ] Interval
+        - [ ] Melody tones
+        - [ ] Chromatic walk (down b's, up #'s, to prevent natural symbols)
+        - [ ] Chords diminished / augmented (make intervals 'look like themselves')
 - [ ] Voicing:
     - [ ] Removing some rest symbols.
     - [ ] Simplifying note durations / voicing notation.
