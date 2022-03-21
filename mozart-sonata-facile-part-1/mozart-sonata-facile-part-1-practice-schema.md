@@ -42,8 +42,4 @@ Practice Schema
 
 Click [here](https://jjvanzon.github.io/Piano-Playing-Docs/methods/practice-schema.html) for method description.
 
-### Details
-
-- Fragment 6 and 6' seem harder to read. Perhaps arpeggios more on one staff might help.
-
 [back](./README.md)

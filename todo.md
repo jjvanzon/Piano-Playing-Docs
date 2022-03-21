@@ -13,8 +13,6 @@ TODO
 ### 2022-03-13 TODO
 
 - [ ] __... Sheet Music Simplified using MuseScore for:__
-    - [x] [Chopin - Mazurka Op. 24, No. 2](chopin-mazurka-op-24-no-2/sheet-music-simplified/README.md)
-    - [x] [Mozart - Sonata Facile KV 545 Part 1](mozart-sonata-facile-part-1/sheet-music-simplified/README.md)
     - [ ] __... [Chopin - Ballade Ⅱ](chopin-ballade-2/sheet-music-simplified/README.md)__
     - [ ] Debussy - Arabesque Ⅰ (?)
     - [ ] Satie - Gnossienne Ⅰ (?)
@@ -25,22 +23,16 @@ TODO
     - [ ] Chopin - Ballade Ⅱ
     - [ ] Chopin - Mazurka Op. 24, No. 2
 - [ ] Chopin - Mazurka Op. 24, No. 2
-    - [x] Sheet music simplified (do over)
     - [ ] Memorizing chords?
     - [ ] See specialized [TODO](chopin-mazurka-op-24-no-2/chopin-mazurka-op-24-no-2-todo.md)
 - [ ] Debussy - Arabesque Ⅰ
     - [ ] Chords & sheet music
     - [ ] See specialized [TODO](debussy-arabesque-1/debussy-arabesque-1-todo.md)
-- [ ] Mozart - Sonata Facile KV 545 Part 1 
-    - [ ] Simplified sheet music rework
-    - [ ] May redo simplified sheet music with non-copyrighted version.
 - [ ] Satie - Gnossienne Ⅰ
     - [ ] Chords
     - [ ] Structure analysis (for memorization)
     - [ ] Harmonic analysis
     - [ ] See [studying notes](satie-gnossienne-1/satie-gnossienne-1-studying-notes.md)
-- [ ] Sheet Music Software
-    - [ ] Trying "Neuratron AudioScore First" / "Avid Sibelius First"
 - [ ] Learning a piece by ear.
 - [ ] [Nord Piano Sound Selections](nord-piano-4/nord-piano-4-sound-selection-notes.md)
     - [ ] Might become more relevant once I might improvise more.
@@ -63,6 +55,7 @@ TODO
     - [ ] Chopin Mazurka Selection
 - [ ] Media:
     - [x] Adding links to media.
+    - [ ] __... Both a YouTube and a Spotify link for each piece.__
     - [ ] Would like the YouTube media to show hands.
     - [ ] Would like the Spotify media to be nice to listen to.
     - [ ] Perhaps make playlists eventually and link to them.
