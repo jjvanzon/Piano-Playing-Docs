@@ -68,7 +68,7 @@ TODO
     - [x] Corrections:
         - [x] Might go for less lines a page, more pages.
         - [x] May choose # or b more consistently (per measure?)
-    - [ ] Correcting it.
+    - [x] Correcting it.
     - [ ] Keep checking by playing the print, until no more corrections.
 
 [back](./README.md)
