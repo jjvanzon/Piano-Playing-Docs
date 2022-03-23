@@ -47,9 +47,10 @@ Might Study Next
 Might Like to Play, Grieg Lyric Pieces
 --------------------------------------
 
+<a href="https://open.spotify.com/playlist/2nAu4FoPLgkgjLIvsF6wIC?si=e455b7cd287047a6" target="_blank" rel="noopener noreferrer"> Spotify playlist: Grieg Lyric Piece selection by Shisei Hanai</a>
+
 | Name                                                   | Mood           | Difficulty | Nice | Pages | Dur. | Media 
 |--------------------------------------------------------|----------------|------------|:----:|------:|-----:|-----
-| Grieg Lyric Pieces (select and expand ...)             | Atmospheric    | Medium     |      |       |      | <a href="https://www.youtube.com/watch?v=2C2Yr6NjId8" target="_blank" rel="noopener noreferrer">YouTube, Håkon Austbø (29 pieces)</a>`|`<a href="https://open.spotify.com/playlist/2nAu4FoPLgkgjLIvsF6wIC?si=a6f050097ad74c4f" target="_blank" rel="noopener noreferrer">Spotify, Playlist Shisei Hanai (all 66)</a>
 | Grieg Lyric Pieces Op. 38, No. 1 "Berceuse"            | Easy listening | Easier     | 🙂   |       | 2:45 | <a href="https://open.spotify.com/track/5XbZ1nBNg7eJRNGtZks4eF?si=f6dc70c1889c4c5a" target="_blank" rel="noopener noreferrer">Spotify, Shisei Hanai</a>
 | Grieg Lyric Pieces Op. 38, No. 2 "Popular Melody"      | Atmospheric    | Easier     | 🆗   |       | 1:45 | <a href="https://open.spotify.com/track/598p4bcgy4dBBui8j5TqCR?si=da93805c37d444b8" target="_blank" rel="noopener noreferrer">Spotify, Shisei Hanai</a>
 | Grieg Lyric Pieces Op. 38, No. 4 "Norwegian Dance"     | Atmospheric    | Easier     | 🆗   |       | 0:45 | <a href="https://open.spotify.com/track/4168GiQweJprLn87rlGgtS?si=6ef02386bfcb48ab" target="_blank" rel="noopener noreferrer">Spotify, Shisei Hanai</a>
@@ -62,8 +63,8 @@ Might Like to Play, Grieg Lyric Pieces
 | Grieg Lyric Pieces Op. 54, No. 3 "March of the Dwarfs" | Heavy          | Hard       | 👍   |       | 2:45 | <a href="https://open.spotify.com/track/0A2bAyEgIvMZfZ8lElIDQU?si=a9ddd0a5edd14602" target="_blank" rel="noopener noreferrer">Spotify, Shisei Hanai</a>
 | Grieg Lyric Pieces Op. 57, No. 6 "Home Sickness"       | Melancholic    | Easier     | 👍   |       | 3:45 | <a href="https://open.spotify.com/track/2XAxHmus7YkcRIEKbhSIHU?si=4827af3be4b64ae5" target="_blank" rel="noopener noreferrer">Spotify, Shisei Hanai</a>
 | Grieg Lyric Pieces Op. 65, No. 6 "Wedding Day"         | Easy listening | Hard       | 🧡   |       | 6:00 | <a href="https://open.spotify.com/track/0KEiq9TQhdB9SwqbGTrJCw?si=2c89978e8d404be0" target="_blank" rel="noopener noreferrer">Spotify, Shisei Hanai</a>
-| Grieg Lyric Pieces Op. 71, No. 3 "Puck"                |
-| Grieg Lyric Pieces Op. 71, No. 4 "Peace of the Woods"  |
+| Grieg Lyric Pieces Op. 71, No. 3 "Puck"                | Heavy          | Hard       | 👍   |       | 2:00 | <a href="https://open.spotify.com/track/5Ld5NmYVem6CvSvLgswSpU?si=153f0ee3c39c4ad0" target="_blank" rel="noopener noreferrer">Spotify, Shisei Hanai</a>
+| Grieg Lyric Pieces Op. 71, No. 4 "Peace of the Woods"  | Easy listening | Medium     | 🆗   |       | 4:15 | <a href="https://open.spotify.com/track/489jSQ5jY9ogc6ZcFwp8op?si=28ba9547b0184b4b" target="_blank" rel="noopener noreferrer">Spotify, Shisei Hanai</a>
 
 
 Might Like to Play, Easier

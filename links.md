@@ -34,4 +34,10 @@ Links to possibly useful information.
 - <a href="https://wetenschap.infonu.nl/anatomie/89015-anatomie-spieren-en-functies-van-de-hand-en-onderarm.html" target="_blank" rel="noopener noreferrer">Anatomy hand / forearm muscles (Dutch)</a>
 - <a href="https://wetenschap.infonu.nl/anatomie/89039-anatomie-spieren-en-functies-van-de-elleboog-en-bovenarm.html" target="_blank" rel="noopener noreferrer">Anatomy elbow / upper arm muscles (Dutch)</a>
 
+### Links to Performances
+
+- <a href="https://www.youtube.com/watch?v=2C2Yr6NjId8" target="_blank" rel="noopener noreferrer">Grieg Lyric Pieces, YouTube, Håkon Austbø (29 pieces)</a>
+- <a href="https://open.spotify.com/playlist/2nAu4FoPLgkgjLIvsF6wIC?si=a6f050097ad74c4f" target="_blank" rel="noopener noreferrer">Grieg Lyric Pieces, Spotify, Playlist Shisei Hanai (all 66)</a>
+
 [back](./README.md)
+
