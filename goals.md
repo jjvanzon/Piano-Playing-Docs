@@ -33,14 +33,9 @@ Skill Learning
 Philosophy:
 
 - Going for ***imperfect*** piano playing.
-- Obtaining ***skills*** to compensate.
-- ***Improvisation*** might be key.
 - Things may go wrong on any aspect: note reading / memorizing / technique / motor skills / expression / listening / performing
-
-Current focus:
-
-- Balancing ***technique & expression***.  
-- ***Chords***, harmony, improvisation.
+- Obtaining ***skills*** to compensate.
+- ***Improvising*** might be key.
 
 Skills:
 
