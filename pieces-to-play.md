@@ -25,7 +25,7 @@ A list of pieces I play / have played / would like to play. Links to performance
 Repertoire
 ----------
 
-| Learn | Perform | Record | Name                                                                        | Mood           | Difficulty | Nice | Pages |  Dur. | Me | YouTube | Spotify
+| <abbr title="Learned">Lrn</abbr> | <abbr title="Performed">Pfm</abbr> | <abbr title="Recorded">Rec</abbr> | Name | Mood | Difficulty | Nice | Pages | Dur. | Me | YouTube | Spotify
 |:-----:|:-------:|:------:|-----------------------------------------------------------------------------|----------------|------------|:----:|------:|------:|----|---------|---------
 |  ✔   |  ✔     |  ✔    | [Satie Gnossienne Ⅰ](satie-gnossienne-1/README.md)                           | Atmospheric    | Easier     | 🆗   | 2 pg  | 4:30  | 🔉 [JJ van Zon](https://jjvanzon.github.io/Piano-Playing-Docs/satie-gnossienne-1/recording/README.md) | <a href="https://youtu.be/lqZehFAwoTM" target="_blank" rel="noopener noreferrer">📺 The Flaming Piano</a> | <a href="https://open.spotify.com/track/2xDvCPTcgnm9jHPsiPDBf1?si=c170ccabc02944ee" target="_blank" rel="noopener noreferrer">🔊 Hélène Grimaud</a>
 |  ✔   |  ✔     |  ✔    | [Chopin Mazurka Op. 24, No. 2](chopin-mazurka-op-24-no-2/README.md)          | Easy listening | Medium     | 👍   | 4 pg  | 3:00  | 🔉 [JJ van Zon](https://jjvanzon.github.io/Piano-Playing-Docs/chopin-mazurka-op-24-no-2/recording/README.md) | <a href="https://youtu.be/44X4LG5BqhY" target="_blank" rel="noopener noreferrer">📺 Martha Argerich</a> | <a href="https://open.spotify.com/track/7CWKqmNX02HdI6C7i1naOb?si=d0328f7a6ff14755" target="_blank" rel="noopener noreferrer">🔊 Idil Biret</a>
