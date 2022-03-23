@@ -7,7 +7,6 @@
 
 <style type="text/css" rel="stylesheet">
 section, .wrapper { max-width:100% } table { font-size: 9pt }
-td { vertical-align: top } td:first-child { white-space: nowrap } 
 </style>
 
 __Contents__
@@ -34,6 +33,11 @@ Repertoire
 |  ...  |  ✔     |        | [Mozart Sonata Facile KV 545 Part 1](mozart-sonata-facile-part-1/README.md) | Easy listening | Hard       | 👍   | 5 pg  | 5:20  | <a href="https://youtu.be/qjk-YRuQZDE" target="_blank" rel="noopener noreferrer">YouTube, Rousseau</a>`|`<a href="https://open.spotify.com/track/0iGDZom5WctL4eSQogMhMp?si=45b60b35450f4012" target="_blank" rel="noopener noreferrer">Spotify, Lang Lang</a>
 |  ...  |         |        | [Chopin Ballade Ⅱ](chopin-ballade-2/README.md)                              | Heavy          | Hard       | 👍   | 9 pg  | 7:30  | <a href="https://www.youtube.com/watch?v=yI0rbm1kvYA" target="_blank" rel="noopener noreferrer">YouTube, Aimi Kobayashi</a>`|`<a href="https://open.spotify.com/track/6sNr7Fr9JTnK2lbRGd9Jem?si=6a45287bbca24c1a" target="_blank" rel="noopener noreferrer">Spotify, Yundi</a>
 |  ...  |         |        | [Satie Gymnopédie Ⅰ](satie-gymnopedie-1/README.md)                          | Atmospheric    | Easier     | 🆗   |       | 4:00 | <a href="https://youtu.be/2WfaotSK3mI" target="_blank" rel="noopener noreferrer">YouTube, Rousseau</a>`|`<a href="https://open.spotify.com/track/5xwizYZCXpF45lBvzBPB9R?si=93f47ef39cfd45eb" target="_blank" rel="noopener noreferrer">Spotify, Khatia Buniatishvili</a>
+
+<style type="text/css" rel="stylesheet">
+td { vertical-align: top }
+td:first-child, td:nth-child(2), td:nth-child(3), td:nth-child(4), td:nth-child(5), td:nth-child(6) { white-space: nowrap } 
+</style>
 
 Might Study Next
 ----------------
