@@ -6,7 +6,8 @@
 [back](./README.md)
 
 <style type="text/css" rel="stylesheet">
-section, .wrapper { max-width:100% } table { font-size: 9pt } td:first-child { white-space: nowrap }
+section, .wrapper { max-width:100% } table { font-size: 9pt }
+td { vertical-align: top } td:first-child { white-space: nowrap } 
 </style>
 
 __Contents__
