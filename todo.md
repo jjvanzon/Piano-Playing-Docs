@@ -56,6 +56,7 @@ TODO
 - [ ] Media:
     - [x] Adding links to media.
     - [ ] __... Both a YouTube and a Spotify link for each piece.__
+        - [ ] WAS AT: "Might Like to Play, Hard"
     - [ ] Would like the YouTube media to show hands.
     - [ ] Would like the Spotify media to be nice to listen to.
     - [ ] Perhaps make playlists eventually and link to them.
