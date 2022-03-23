@@ -5,7 +5,9 @@
 
 [back](./README.md)
 
-<style type="text/css" rel="stylesheet">section, .wrapper { max-width:100% } table { font-size: 9pt }</style>
+<style type="text/css" rel="stylesheet">
+section, .wrapper { max-width:100% } table { font-size: 9pt } td:first-child { white-space: nowrap }
+</style>
 
 __Contents__
 
