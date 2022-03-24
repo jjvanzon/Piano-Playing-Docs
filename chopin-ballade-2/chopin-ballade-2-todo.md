@@ -45,6 +45,7 @@ TODO
         - [ ] Melody tones
         - [ ] Chromatic walk (down b's, up #'s, to prevent natural symbols)
         - [ ] Chords diminished / augmented (make intervals 'look like themselves')
+        - [ ] (If criteria contradict, make choices.)
 - [x] Layout:
     - [x] Adding title (adding the word 'simplified').
     - [x] Removing page headers and footers, mostly.

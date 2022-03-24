@@ -47,6 +47,7 @@ Sheet Music Simplification
         - [ ] Melody tones
         - [ ] Chromatic walk (down b's, up #'s, to prevent natural symbols)
         - [ ] Chords diminished / augmented (make intervals 'look like themselves')
+        - [ ] (If criteria contradict, make choices.)
 - [ ] Voicing:
     - [ ] Removing some rest symbols.
     - [ ] Simplifying note durations / voicing notation.
