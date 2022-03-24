@@ -106,7 +106,7 @@ Might Like to Play
 
 | Name                                                   | Mood           | Difficulty | Nice | Pages |  Dur. | YouTube | Spotify
 |--------------------------------------------------------|----------------|------------|:----:|------:|------:|---------|---------
-| Chopin Op. 22, Mov. 2 "Grand Polonaise Brillante"      | Easy listening | Hard       |      |       |  9:00 | <a href="https://youtu.be/IDmCkUMO9f4" target="_blank" rel="noopener noreferrer">📺 Charles Richard-Hamelin</a> | 
+| Chopin Op. 22, Mov. 2 "Grand Polonaise Brillante"      | Easy listening | Hard       |      |       |  9:00 | <a href="https://youtu.be/IDmCkUMO9f4" target="_blank" rel="noopener noreferrer">📺 Charles Richard-Hamelin</a> | <a href="https://open.spotify.com/track/4AgY1IxqDV3x5llEOorjIz?si=e636ba6d8a744f18" target="_blank" rel="noopener noreferrer">🔊 Martha Argerich</a>
 | Grieg Lyric Pieces Op. 65, No. 6 "Wedding Day"         | Easy listening | Hard       | 🧡   |       | 6:00 | <a href="https://youtu.be/2CWDNlFKqkM" target="_blank" rel="noopener noreferrer">📺 Danae Dörken</a> | <a href="https://open.spotify.com/track/0KEiq9TQhdB9SwqbGTrJCw?si=2c89978e8d404be0" target="_blank" rel="noopener noreferrer">🔊 Shisei Hanai</a>
 | Chopin Op. 22, Mov. 1 "Andante Spianato"               | Atmospheric    | Hard       |      |       |       |
 | Ravel Gaspard de la Nuit "Ondine"                      | Atmospheric    | Hard       | 👍   | 12 pg |  7:00 | <a href="https://youtu.be/WLA5bom89NQ" target="_blank" rel="noopener noreferrer">📺 MrBromaba</a>
