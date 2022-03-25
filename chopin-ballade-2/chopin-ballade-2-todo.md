@@ -39,12 +39,13 @@ TODO
     - [x] Correcting unnecessary natural symbols.
     - [x] Changing B# => C , Cb => B , E# => F , Fb => E.
     - [ ] Choice of b and # decided by:
-        - [ ] Obvious key
-        - [ ] Chord minor / major
-        - [ ] Interval
-        - [ ] Melody tones
-        - [ ] Chromatic walk (down b's, up #'s, to prevent natural symbols)
-        - [ ] Chords diminished / augmented (make intervals 'look like themselves')
+        - [ ] Obvious key.
+        - [ ] Chord minor / major.
+        - [ ] Interval.
+        - [ ] Melody tones.
+        - [ ] Chromatic walk (down b's, up #'s, to prevent natural symbols).
+        - [ ] Chords diminished / augmented (make intervals 'look like themselves').
+        - [ ] Preventing natural symbols.
         - [ ] (If criteria contradict, make choices.)
 - [x] Layout:
     - [x] Adding title (adding the word 'simplified').
