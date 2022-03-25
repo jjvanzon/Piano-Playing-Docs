@@ -81,6 +81,14 @@ Photos / Previews for Social Media
 
 <img alt="Preview Body Posture 2" src="preview-body-posture-2.png" width="300" />
 
+### [Preview Chopin Ballade 2 Simplifying Sheet Music 1](preview-chopin-ballade-2-simplifying-sheet-music-1.jpg)
+
+<img alt="Preview Chopin Ballade 2 Simplifying Sheet Music 1" src="preview-chopin-ballade-2-simplifying-sheet-music-1.jpg" width="300" />
+
+### [Preview Chopin Ballade 2 Simplifying Sheet Music 2](preview-chopin-ballade-2-simplifying-sheet-music-2.jpg)
+
+<img alt="Preview Chopin Ballade 2 Simplifying Sheet Music 2" src="preview-chopin-ballade-2-simplifying-sheet-music-2.jpg" width="300" />
+
 ### [Preview Chopin Mazurka Op. 24 No. 2 Sheet Music Simplification Muse Score](preview-chopin-mazurka-op-24-no-2-sheet-music-simplification-muse-score.jpg)
 
 <img alt="Preview Chopin Mazurka Op. 24 No. 2 Sheet Music Simplification Muse Score" src="preview-chopin-mazurka-op-24-no-2-sheet-music-simplification-muse-score.jpg" width="300" />
