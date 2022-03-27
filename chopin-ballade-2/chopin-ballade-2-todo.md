@@ -76,8 +76,10 @@ TODO
     - [x] Correcting it.
     - [x] Checking print again.
     - [x] Correcting it again.
+    - [x] Checking by playing in editing software.
+    - [ ] Checking print again.
+        - [ ] Only correct if very good reason.
     - [ ] Keep checking by playing the print, until no more corrections.
-- [ ] Sheet music with reason for b or #:
-    - [ ] For answers in case of doubt.
+- [ ] Variation of sheet music, with *reason* for b or #:
 
 [back](./README.md)

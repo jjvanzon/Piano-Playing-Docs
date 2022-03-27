@@ -18194,6 +18194,9 @@
         </HBox>
       <Measure>
         <voice>
+          <BarLine>
+            <visible>0</visible>
+            </BarLine>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -18387,6 +18390,21 @@
             <sigD>8</sigD>
             <scale w="0.9" h="0.9"/>
             </TimeSig>
+          <Spanner type="Ottava">
+            <Ottava>
+              <subtype>8va</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="-2"/>
+                <off2 x="-0.0222471" y="0"/>
+                </Segment>
+              </Ottava>
+            <next>
+              <location>
+                <measures>2</measures>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -18674,6 +18692,13 @@
             <sigD>8</sigD>
             <scale w="0.9" h="0.9"/>
             </TimeSig>
+          <Spanner type="Ottava">
+            <prev>
+              <location>
+                <measures>-2</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -18702,11 +18727,6 @@
           <Spanner type="Ottava">
             <Ottava>
               <subtype>8va</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="-3.18"/>
-                <off2 x="-0.376159" y="0"/>
-                </Segment>
               </Ottava>
             <next>
               <location>
@@ -18805,11 +18825,6 @@
           <Spanner type="Ottava">
             <Ottava>
               <subtype>8va</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="-2"/>
-                <off2 x="-0.697803" y="0"/>
-                </Segment>
               </Ottava>
             <next>
               <location>
@@ -18914,11 +18929,6 @@
           <Spanner type="Ottava">
             <Ottava>
               <subtype>8va</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="-2"/>
-                <off2 x="-0.768598" y="0"/>
-                </Segment>
               </Ottava>
             <next>
               <location>
@@ -19027,11 +19037,6 @@
           <Spanner type="Ottava">
             <Ottava>
               <subtype>8va</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="-2"/>
-                <off2 x="-0.922561" y="0"/>
-                </Segment>
               </Ottava>
             <next>
               <location>
@@ -19109,11 +19114,6 @@
           <Spanner type="Ottava">
             <Ottava>
               <subtype>8va</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="-9.52426" y="-2"/>
-                <off2 x="9.50166" y="0"/>
-                </Segment>
               </Ottava>
             <next>
               <location>
@@ -31648,6 +31648,10 @@
         </Measure>
       <Measure>
         <voice>
+          <BarLine>
+            <span>1</span>
+            <visible>0</visible>
+            </BarLine>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
