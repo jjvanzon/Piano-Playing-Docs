@@ -190,6 +190,7 @@
           <TimeSig>
             <sigN>3</sigN>
             <sigD>8</sigD>
+            <scale w="0.9" h="0.9"/>
             </TimeSig>
           <Tempo>
             <tempo>1.4166666666666667</tempo>
@@ -3126,6 +3127,7 @@
             <visible>0</visible>
             <sigN>6</sigN>
             <sigD>8</sigD>
+            <scale w="0.9" h="0.9"/>
             </TimeSig>
           <Rest>
             <visible>0</visible>
@@ -3271,6 +3273,7 @@
             <offset x="1.25" y="0"/>
             <sigN>6</sigN>
             <sigD>8</sigD>
+            <scale w="0.9" h="0.9"/>
             </TimeSig>
           <Spanner type="Ottava">
             <Ottava>
@@ -6878,6 +6881,7 @@
             <offset x="0.9" y="0"/>
             <sigN>3</sigN>
             <sigD>8</sigD>
+            <scale w="0.9" h="0.9"/>
             </TimeSig>
           <Chord>
             <durationType>quarter</durationType>
@@ -10841,6 +10845,7 @@
             <offset x="1.25" y="0"/>
             <sigN>6</sigN>
             <sigD>8</sigD>
+            <scale w="0.9" h="0.9"/>
             </TimeSig>
           <Beam>
             </Beam>
@@ -12748,6 +12753,7 @@
             <offset x="1.25" y="0"/>
             <sigN>3</sigN>
             <sigD>8</sigD>
+            <scale w="0.9" h="0.9"/>
             </TimeSig>
           <Chord>
             <durationType>16th</durationType>
@@ -16068,6 +16074,7 @@
             <offset x="0.9" y="0"/>
             <sigN>3</sigN>
             <sigD>8</sigD>
+            <scale w="0.9" h="0.9"/>
             </TimeSig>
           <Chord>
             <durationType>16th</durationType>
@@ -16175,6 +16182,7 @@
           <TimeSig>
             <sigN>4</sigN>
             <sigD>8</sigD>
+            <scale w="0.9" h="0.9"/>
             </TimeSig>
           <Rest>
             <durationType>16th</durationType>
@@ -16243,6 +16251,7 @@
               <Node pos="12" action="273"/>
               <Node pos="16" action="512"/>
               </Groups>
+            <scale w="0.9" h="0.9"/>
             </TimeSig>
           <Rest>
             <durationType>16th</durationType>
@@ -16336,6 +16345,7 @@
             <offset x="0.9" y="0"/>
             <sigN>3</sigN>
             <sigD>8</sigD>
+            <scale w="0.9" h="0.9"/>
             </TimeSig>
           <Rest>
             <durationType>16th</durationType>
@@ -16668,6 +16678,7 @@
             <offset x="0.9" y="0"/>
             <sigN>3</sigN>
             <sigD>8</sigD>
+            <scale w="0.9" h="0.9"/>
             </TimeSig>
           <Chord>
             <durationType>16th</durationType>
@@ -16775,6 +16786,7 @@
           <TimeSig>
             <sigN>4</sigN>
             <sigD>8</sigD>
+            <scale w="0.9" h="0.9"/>
             </TimeSig>
           <Rest>
             <durationType>16th</durationType>
@@ -16847,6 +16859,7 @@
               <Node pos="12" action="273"/>
               <Node pos="16" action="512"/>
               </Groups>
+            <scale w="0.9" h="0.9"/>
             </TimeSig>
           <Rest>
             <durationType>16th</durationType>
@@ -16940,6 +16953,7 @@
             <offset x="0.9" y="0"/>
             <sigN>3</sigN>
             <sigD>8</sigD>
+            <scale w="0.9" h="0.9"/>
             </TimeSig>
           <Chord>
             <durationType>16th</durationType>
@@ -17381,6 +17395,7 @@
           <TimeSig>
             <sigN>4</sigN>
             <sigD>8</sigD>
+            <scale w="0.9" h="0.9"/>
             </TimeSig>
           <Chord>
             <durationType>16th</durationType>
@@ -17510,6 +17525,7 @@
               <Node pos="12" action="273"/>
               <Node pos="16" action="512"/>
               </Groups>
+            <scale w="0.9" h="0.9"/>
             </TimeSig>
           <Chord>
             <durationType>16th</durationType>
@@ -17647,6 +17663,7 @@
             <offset x="0.9" y="0"/>
             <sigN>6</sigN>
             <sigD>8</sigD>
+            <scale w="0.9" h="0.9"/>
             </TimeSig>
           <Spanner type="Ottava">
             <Ottava>
@@ -17977,6 +17994,7 @@
             <offset x="0.9" y="0"/>
             <sigN>3</sigN>
             <sigD>8</sigD>
+            <scale w="0.9" h="0.9"/>
             </TimeSig>
           <Chord>
             <durationType>16th</durationType>
@@ -18367,6 +18385,7 @@
             <offset x="0.9" y="0"/>
             <sigN>6</sigN>
             <sigD>8</sigD>
+            <scale w="0.9" h="0.9"/>
             </TimeSig>
           <Chord>
             <durationType>16th</durationType>
@@ -18653,6 +18672,7 @@
             <offset x="0.9" y="0"/>
             <sigN>3</sigN>
             <sigD>8</sigD>
+            <scale w="0.9" h="0.9"/>
             </TimeSig>
           <Chord>
             <durationType>16th</durationType>
@@ -19544,6 +19564,7 @@
           <TimeSig>
             <sigN>3</sigN>
             <sigD>8</sigD>
+            <scale w="0.9" h="0.9"/>
             </TimeSig>
           <Chord>
             <durationType>eighth</durationType>
@@ -21807,6 +21828,7 @@
             <visible>0</visible>
             <sigN>6</sigN>
             <sigD>8</sigD>
+            <scale w="0.9" h="0.9"/>
             </TimeSig>
           <Chord>
             <durationType>eighth</durationType>
@@ -21903,6 +21925,7 @@
             <offset x="1.25" y="0"/>
             <sigN>6</sigN>
             <sigD>8</sigD>
+            <scale w="0.9" h="0.9"/>
             </TimeSig>
           <Beam>
             </Beam>
@@ -24827,6 +24850,7 @@
             <offset x="0.9" y="0"/>
             <sigN>3</sigN>
             <sigD>8</sigD>
+            <scale w="0.9" h="0.9"/>
             </TimeSig>
           <Chord>
             <durationType>quarter</durationType>
@@ -27815,6 +27839,7 @@
             <offset x="1.25" y="0"/>
             <sigN>6</sigN>
             <sigD>8</sigD>
+            <scale w="0.9" h="0.9"/>
             </TimeSig>
           <Beam>
             </Beam>
@@ -28822,6 +28847,7 @@
             <offset x="1.25" y="0"/>
             <sigN>3</sigN>
             <sigD>8</sigD>
+            <scale w="0.9" h="0.9"/>
             </TimeSig>
           <Chord>
             <dots>1</dots>
@@ -30420,6 +30446,7 @@
             <offset x="0.9" y="0"/>
             <sigN>3</sigN>
             <sigD>8</sigD>
+            <scale w="0.9" h="0.9"/>
             </TimeSig>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -30468,6 +30495,7 @@
           <TimeSig>
             <sigN>4</sigN>
             <sigD>8</sigD>
+            <scale w="0.9" h="0.9"/>
             </TimeSig>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -30541,6 +30569,7 @@
               <Node pos="12" action="273"/>
               <Node pos="16" action="512"/>
               </Groups>
+            <scale w="0.9" h="0.9"/>
             </TimeSig>
           <Chord>
             <durationType>eighth</durationType>
@@ -30605,6 +30634,7 @@
             <offset x="0.9" y="0"/>
             <sigN>3</sigN>
             <sigD>8</sigD>
+            <scale w="0.9" h="0.9"/>
             </TimeSig>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -30794,6 +30824,7 @@
             <offset x="0.9" y="0"/>
             <sigN>3</sigN>
             <sigD>8</sigD>
+            <scale w="0.9" h="0.9"/>
             </TimeSig>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -30842,6 +30873,7 @@
           <TimeSig>
             <sigN>4</sigN>
             <sigD>8</sigD>
+            <scale w="0.9" h="0.9"/>
             </TimeSig>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -30915,6 +30947,7 @@
               <Node pos="12" action="273"/>
               <Node pos="16" action="512"/>
               </Groups>
+            <scale w="0.9" h="0.9"/>
             </TimeSig>
           <Chord>
             <durationType>eighth</durationType>
@@ -30980,6 +31013,7 @@
             <offset x="0.9" y="0"/>
             <sigN>3</sigN>
             <sigD>8</sigD>
+            <scale w="0.9" h="0.9"/>
             </TimeSig>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -31190,6 +31224,7 @@
           <TimeSig>
             <sigN>4</sigN>
             <sigD>8</sigD>
+            <scale w="0.9" h="0.9"/>
             </TimeSig>
           <Chord>
             <durationType>eighth</durationType>
@@ -31254,6 +31289,7 @@
               <Node pos="12" action="273"/>
               <Node pos="16" action="512"/>
               </Groups>
+            <scale w="0.9" h="0.9"/>
             </TimeSig>
           <Chord>
             <durationType>eighth</durationType>
@@ -31383,6 +31419,7 @@
             <offset x="0.9" y="0"/>
             <sigN>6</sigN>
             <sigD>8</sigD>
+            <scale w="0.9" h="0.9"/>
             </TimeSig>
           <Chord>
             <durationType>eighth</durationType>
@@ -31528,6 +31565,7 @@
             <offset x="0.9" y="0"/>
             <sigN>3</sigN>
             <sigD>8</sigD>
+            <scale w="0.9" h="0.9"/>
             </TimeSig>
           <Chord>
             <durationType>eighth</durationType>
@@ -31677,6 +31715,7 @@
             <offset x="0.9" y="0"/>
             <sigN>6</sigN>
             <sigD>8</sigD>
+            <scale w="0.9" h="0.9"/>
             </TimeSig>
           <Chord>
             <durationType>eighth</durationType>
@@ -31822,6 +31861,7 @@
             <offset x="0.9" y="0"/>
             <sigN>3</sigN>
             <sigD>8</sigD>
+            <scale w="0.9" h="0.9"/>
             </TimeSig>
           <Chord>
             <durationType>eighth</durationType>

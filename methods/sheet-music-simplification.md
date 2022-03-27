@@ -67,6 +67,7 @@ Sheet Music Simplification
     - [ ] Adding double bar lines to separate more fragments.
     - [ ] Adjusting line ends to accommodate fragment subdivision.
     - [ ] Adjusting line ends to reflect the meter.
+    - [ ] Smaller time signature numbers (coinciding less with other lines).
 - [ ] Checking:
     - [ ] Checking clef change integrity.
     - [ ] Checking by playing in editing software.

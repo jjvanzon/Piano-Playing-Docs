@@ -61,6 +61,7 @@ TODO
     - [x] Clefs at page 10 went through notes.
     - [x] Adjusting line ends to accommodate fragment subdivision.
     - [x] Adding double bar lines to separate more fragments.
+    - [x] Smaller time signature numbers (coinciding less with other lines).
 - [x] Exceptional cases
     - [x] Slow arpeggio with strange measure.
     - [x] There are certain bar line that are 2x thicker. It appears to be 2 bar lines right next to each other.
@@ -75,7 +76,6 @@ TODO
     - [x] Correcting it.
     - [x] Checking print again.
     - [x] Correcting it again.
-    - [ ] Smaller time signature numbers?
     - [ ] Keep checking by playing the print, until no more corrections.
 - [ ] Sheet music with reason for b or #:
     - [ ] For answers in case of doubt.
