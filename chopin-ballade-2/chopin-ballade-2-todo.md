@@ -40,11 +40,13 @@ TODO
     - [x] Changing B# => C , Cb => B , E# => F , Fb => E.
     - [ ] Choice of b and # decided by:
         - [ ] Obvious key.
-        - [ ] Chord minor / major.
-        - [ ] Interval.
+        - [ ] Chord shape.
+        - [ ] Interval shape.
         - [ ] Melody tones.
         - [ ] Chromatic walk (down b's, up #'s, to prevent natural symbols).
         - [ ] Chords diminished / augmented (make intervals 'look like themselves').
+        - [ ] Per-note expectation (C => C#, E => Eb, F => F#, B => Bb)
+        - [ ] Consistency
         - [ ] Preventing natural symbols.
         - [ ] (If criteria contradict, make choices.)
 - [x] Layout:
@@ -71,7 +73,11 @@ TODO
         - [x] Might go for less lines a page, more pages.
         - [x] May choose # or b more consistently (per measure?)
     - [x] Correcting it.
-    - [ ] Checking print again.
+    - [x] Checking print again.
+    - [x] Correcting it again.
+    - [ ] Smaller time signature numbers?
     - [ ] Keep checking by playing the print, until no more corrections.
+- [ ] Sheet music with reason for b or #:
+    - [ ] For answers in case of doubt.
 
 [back](./README.md)

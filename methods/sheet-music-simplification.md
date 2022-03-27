@@ -47,6 +47,8 @@ Sheet Music Simplification
         - [ ] Melody tones.
         - [ ] Chromatic walk (down b's, up #'s, to prevent natural symbols).
         - [ ] Chords diminished / augmented (make intervals 'look like themselves').
+        - [ ] Per-note expectation (C => C#, E => Eb, F => F#, B => Bb)
+        - [ ] Consistency
         - [ ] Preventing natural symbols.
         - [ ] (If criteria contradict, make choices.)
 - [ ] Voicing:
