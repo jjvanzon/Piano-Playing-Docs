@@ -93,9 +93,9 @@ Photos / Previews for Social Media
 
 <img alt="Preview Chopin Mazurka Op. 24 No. 2 Sheet Music Simplification Muse Score" src="preview-chopin-mazurka-op-24-no-2-sheet-music-simplification-muse-score.jpg" width="300" />
 
-### [Preview Finger Numbers, Mozart Sonata Facile KV 545 Part 1](preview-finger-numbers-mozart-sonata-facile-part-1.jpg)
+### [Preview Finger Numbers, Mozart Sonata Facile K. 545 Part 1](preview-finger-numbers-mozart-sonata-facile-part-1.jpg)
 
-<img alt="Preview Finger Numbers, Mozart Sonata Facile KV 545 Part 1" src="preview-finger-numbers-mozart-sonata-facile-part-1.jpg" width="300" />
+<img alt="Preview Finger Numbers, Mozart Sonata Facile K. 545 Part 1" src="preview-finger-numbers-mozart-sonata-facile-part-1.jpg" width="300" />
 
 ### [Preview MiniDisk Recorder](preview-mini-disk-recorder.jpeg)
 
@@ -150,7 +150,7 @@ Misc
 
 - [MuseScore Style File from Satie Gymnopédie Ⅰ](muse-score-style-from-satie-gymnopedie-1.mss)
 - [MuseScore Style File from Chopin Mazurka Op. 24, No. 2](muse-score-style-from-chopin-mazurka-op-24-no-2.mss)
-- [MuseScore Style File from Mozart Sonata Facile KV 545 Part 1](muse-score-style-from-mozart-sonata-facile-part-1.mss)
+- [MuseScore Style File from Mozart Sonata Facile K. 545 Part 1](muse-score-style-from-mozart-sonata-facile-part-1.mss)
 
 [back](../README.md)
 

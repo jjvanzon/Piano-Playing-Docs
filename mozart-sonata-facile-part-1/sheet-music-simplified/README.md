@@ -1,4 +1,4 @@
-🎵 Mozart - Sonata Facile KV 545 Part 1
+🎵 Mozart - Sonata Facile K. 545 Part 1
 ========================================
 
 *JJ van Zon, 2022*
