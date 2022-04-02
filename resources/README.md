@@ -81,6 +81,10 @@ Photos / Previews for Social Media
 
 <img alt="Preview Body Posture 2" src="preview-body-posture-2.png" width="300" />
 
+### [Preview Chopin Ballade No. 2 Accidental Reasons](preview-chopin-ballade-2-accidental-reasons.jpg)
+
+<img alt="Preview Chopin Ballade No. 2 Accidental Reasons" src="preview-chopin-ballade-2-accidental-reasons.jpg" width="300" />
+
 ### [Preview Chopin Ballade 2 Simplifying Sheet Music 1](preview-chopin-ballade-2-simplifying-sheet-music-1.jpg)
 
 <img alt="Preview Chopin Ballade 2 Simplifying Sheet Music 1" src="preview-chopin-ballade-2-simplifying-sheet-music-1.jpg" width="300" />
