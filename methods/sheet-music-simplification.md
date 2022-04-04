@@ -71,7 +71,7 @@ Sheet Music Simplification
 - [ ] Chord minor / major.
 - [ ] Interval.
 - [ ] Melody tones.
-- [ ] Chromatic walk (down b's, up #'s, to prevent natural symbols).
+- [ ] Chromatic walk (b's down, #'s up).
 - [ ] Chords diminished / augmented (make intervals 'look like themselves').
 - [ ] Chords diminished 7th:
     - [ ] Sometimes a combination of on one hand Bb and C# and on the other hand Eb and F#
