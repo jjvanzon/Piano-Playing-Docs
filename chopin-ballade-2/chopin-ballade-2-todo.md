@@ -37,18 +37,7 @@ TODO
     - [x] ~~Introducing key changes to prevent natural symbols <img src="https://jjvanzon.github.io/Piano-Playing-Docs/resources/natural-symbol.png" height="20" style="vertical-align:middle" />.~~
     - [x] Repeating in-measure accidentals.
     - [x] Correcting unnecessary natural symbols.
-    - [x] Changing B# => C , Cb => B , E# => F , Fb => E.
-    - [ ] Choice of b and # decided by:
-        - [ ] Obvious key.
-        - [ ] Chord shape.
-        - [ ] Interval shape.
-        - [ ] Melody tones.
-        - [ ] Chromatic walk (down b's, up #'s, to prevent natural symbols).
-        - [ ] Chords diminished / augmented (make intervals 'look like themselves').
-        - [ ] Per-note expectation (C => C#, E => Eb, F => F#, B => Bb)
-        - [ ] Consistency
-        - [ ] Preventing natural symbols.
-        - [ ] (If criteria contradict, make choices.)
+    - [ ] See [choice of b and #](https://jjvanzon.github.io/Piano-Playing-Docs/methods/sheet-music-simplification.html#choice-of-b-and).
 - [x] Layout:
     - [x] Adding title (adding the word 'simplified').
     - [x] Removing page headers and footers, mostly.
@@ -81,5 +70,6 @@ TODO
         - [ ] Only correct if very good reason.
     - [ ] Keep checking by playing the print, until no more corrections.
 - [ ] Variation of sheet music, with *reason* for b or #:
+    - [ ] __... Adding reasons to draft simplified sheet music.__
 
 [back](./README.md)
