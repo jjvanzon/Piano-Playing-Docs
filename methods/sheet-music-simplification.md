@@ -73,8 +73,7 @@ Sheet Music Simplification
 - [ ] Melody tones.
 - [ ] Chromatic walk (b's down, #'s up).
 - [ ] Chords diminished / augmented (make intervals 'look like themselves').
-- [ ] Chords diminished 7th:
-    - [ ] Sometimes a combination of on one hand Bb and C# and on the other hand Eb and F#
+- [ ] Chords diminished 7th (combination of Bb and C# / Eb and F#)
 - [ ] Replacing B# => C , Cb => B , E# => F , Fb => E.
 - [ ] Per-note expectation (C => C#, E => Eb, F => F#, B => Bb)
 - [ ] Consistency
