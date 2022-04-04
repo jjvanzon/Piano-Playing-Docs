@@ -37,7 +37,7 @@ TODO
     - [x] ~~Introducing key changes to prevent natural symbols <img src="https://jjvanzon.github.io/Piano-Playing-Docs/resources/natural-symbol.png" height="20" style="vertical-align:middle" />.~~
     - [x] Repeating in-measure accidentals.
     - [x] Correcting unnecessary natural symbols.
-    - [ ] See [b and # Reasons](https://jjvanzon.github.io/Piano-Playing-Docs/methods/sheet-music-simplification.html#b-and--reasons).
+    - [ ] See [b and # reasons](https://jjvanzon.github.io/Piano-Playing-Docs/methods/sheet-music-simplification.html#b-and--reasons).
 - [x] Layout:
     - [x] Adding title (adding the word 'simplified').
     - [x] Removing page headers and footers, mostly.
