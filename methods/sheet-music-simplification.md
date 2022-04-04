@@ -40,7 +40,7 @@ Sheet Music Simplification
     - [ ] Introducing key changes to prevent natural symbols <img src="https://jjvanzon.github.io/Piano-Playing-Docs/resources/natural-symbol.png" height="20" style="vertical-align:middle" />.
     - [ ] Correcting unnecessary natural symbols.
     - [ ] Changing B# => C , Cb => B , E# => F , Fb => E.
-    - [ ] See [choice of b and #](https://jjvanzon.github.io/Piano-Playing-Docs/methods/sheet-music-simplification.html#choice-of-b-and).
+    - [ ] See [b and # Reasons](https://jjvanzon.github.io/Piano-Playing-Docs/methods/sheet-music-simplification.html#b-and--reasons).
 - [ ] Voicing:
     - [ ] Removing some rest symbols.
     - [ ] Simplifying note durations / voicing notation.
@@ -65,9 +65,7 @@ Sheet Music Simplification
     - [ ] Correcting it.
     - [ ] Keep checking by playing the print, until no more corrections.
 
-### Choice of b and \#
-
-b or # Decided by:
+### b and \# Reasons
 
 - [ ] Obvious key.
 - [ ] Chord minor / major.
@@ -75,10 +73,10 @@ b or # Decided by:
 - [ ] Melody tones.
 - [ ] Chromatic walk (down b's, up #'s, to prevent natural symbols).
 - [ ] Chords diminished / augmented (make intervals 'look like themselves').
-- [ ] Changing B# => C , Cb => B , E# => F , Fb => E.
+- [ ] Chords diminished 7th:
+    - [ ] Sometimes a combination of on one hand Bb and C# and on the other hand Eb and F#
+- [ ] Replacing B# => C , Cb => B , E# => F , Fb => E.
 - [ ] Per-note expectation (C => C#, E => Eb, F => F#, B => Bb)
-- [ ] Chord shape (special case):
-    - [ ] Diminished (7th) chords with either Bb and C# or Eb and F#: The use of b and # at the same time signals the 'chord shape'.
 - [ ] Consistency
 - [ ] Preventing natural symbols.
 - [ ] (If criteria contradict, make choices.)
