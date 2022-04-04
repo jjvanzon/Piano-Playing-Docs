@@ -71,5 +71,6 @@ TODO
     - [ ] Keep checking by playing the print, until no more corrections.
 - [ ] Variation of sheet music, with *reason* for b or #:
     - [ ] __... Adding reasons to draft simplified sheet music.__
+    - [ ] Changing some occurrences of "per-note expectation" to "chord shape".
 
 [back](./README.md)

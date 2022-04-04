@@ -67,12 +67,12 @@ Sheet Music Simplification
 ### b and \# Reasons
 
 - [ ] Obvious key.
-- [ ] Chord minor / major.
-- [ ] Interval.
+- [ ] Chord shape minor / major.
+- [ ] Interval shape.
 - [ ] Melody tones.
 - [ ] Chromatic walk (b's down, #'s up).
-- [ ] Chords diminished / augmented (make intervals 'look like themselves').
-- [ ] Chords diminished 7th (combination of Bb and C# or Eb and F#).
+- [ ] Chords shape diminished / augmented (make intervals 'look like themselves').
+- [ ] Chords shape diminished 7th (combination of Bb and C# or Eb and F#).
 - [ ] Replacing B# => C , Cb => B , E# => F , Fb => E.
 - [ ] Per-note expectation (C => C#, E => Eb, F => F#, B => Bb).
 - [ ] Consistency.
