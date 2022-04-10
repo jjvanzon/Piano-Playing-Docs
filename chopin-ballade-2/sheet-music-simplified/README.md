@@ -16,6 +16,7 @@ Simplified using the following [guidelines](https://jjvanzon.github.io/Piano-Pla
 ### Contents
 
 - [Chopin Ballade Ⅱ Sheet Music Simplified (MuseScore Uncompressed XML File)](chopin-ballade-2-sheet-music-simplified.mscx) `[ Draft ]`
+- [Chopin Ballade Ⅱ Sheet Music with Accidental Reasons (MuseScore Uncompressed XML File)](chopin-ballade-2-sheet-music-accidental-reasons.mscx) `[ Draft ]`
 
 ### Original
 
