@@ -66,11 +66,13 @@ TODO
     - [x] Checking print again.
     - [x] Correcting it again.
     - [x] Checking by playing in editing software.
-    - [ ] Checking print again.
-        - [ ] Only correct if very good reason.
+    - [x] Checking print again.
+    - [ ] __... Corrections to digital version.__
     - [ ] Keep checking by playing the print, until no more corrections.
 - [ ] Variation of sheet music, with *reason* for b or #:
     - [ ] __... Adding reasons to draft simplified sheet music.__
-    - [ ] Changing some occurrences of "per-note expectation" to "chord shape".
+    - [x] On paper
+    - [x] Changing some occurrences of "per-note expectation" to "chord shape".
+    - [x] Cleaner typography for annotations (pencil and paper still).
 
 [back](./README.md)
