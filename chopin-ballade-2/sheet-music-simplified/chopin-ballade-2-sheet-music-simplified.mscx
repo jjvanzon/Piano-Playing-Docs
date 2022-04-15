@@ -71,6 +71,8 @@
       <measureNumberFontSize>10</measureNumberFontSize>
       <measureNumberPosBelow x="0" y="1"/>
       <mmRestRangeFontSize>10</mmRestRangeFontSize>
+      <staffFontFace>Calibri</staffFontFace>
+      <staffFontSize>12</staffFontSize>
       <rehearsalMarkFontSize>10</rehearsalMarkFontSize>
       <repeatLeftFontSize>10</repeatLeftFontSize>
       <repeatRightFontSize>10</repeatRightFontSize>
@@ -4038,10 +4040,10 @@
             <durationType>16th</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>75</pitch>
-              <tpc>23</tpc>
+              <tpc>11</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -4472,10 +4474,10 @@
               </Note>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>66</pitch>
-              <tpc>8</tpc>
+              <tpc>20</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -4533,9 +4535,6 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>66</pitch>
               <tpc>20</tpc>
               </Note>
@@ -4566,10 +4565,10 @@
               </Note>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>78</pitch>
-              <tpc>8</tpc>
+              <tpc>20</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -6416,30 +6415,33 @@
             <durationType>quarter</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>58</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               </Note>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>61</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               </Note>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>66</pitch>
-              <tpc>20</tpc>
+              <tpc>8</tpc>
               </Note>
             </Chord>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>59</pitch>
               <tpc>19</tpc>
               </Note>
@@ -6471,17 +6473,17 @@
             <durationType>quarter</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>58</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               </Note>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>61</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -6495,6 +6497,9 @@
               <tpc>22</tpc>
               </Note>
             <Note>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>59</pitch>
               <tpc>19</tpc>
               </Note>
@@ -8241,20 +8246,20 @@
             <durationType>quarter</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>66</pitch>
-              <tpc>8</tpc>
+              <tpc>20</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>70</pitch>
-              <tpc>12</tpc>
+              <tpc>24</tpc>
               </Note>
             </Chord>
           </voice>
@@ -8269,17 +8274,17 @@
               </Note>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>68</pitch>
-              <tpc>10</tpc>
+              <tpc>22</tpc>
               </Note>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>75</pitch>
-              <tpc>11</tpc>
+              <tpc>23</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -8287,10 +8292,10 @@
             <Note>
               <Accidental>
                 <role>1</role>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>75</pitch>
-              <tpc>11</tpc>
+              <tpc>23</tpc>
               </Note>
             </Chord>
           </voice>
@@ -8301,27 +8306,27 @@
             <durationType>quarter</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>66</pitch>
-              <tpc>8</tpc>
+              <tpc>20</tpc>
               </Note>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>75</pitch>
-              <tpc>11</tpc>
+              <tpc>23</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>73</pitch>
-              <tpc>9</tpc>
+              <tpc>21</tpc>
               </Note>
             </Chord>
           </voice>
@@ -8354,10 +8359,10 @@
             <durationType>quarter</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>66</pitch>
-              <tpc>8</tpc>
+              <tpc>20</tpc>
               </Note>
             <Note>
               <pitch>71</pitch>
@@ -8368,10 +8373,10 @@
             <durationType>eighth</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>70</pitch>
-              <tpc>12</tpc>
+              <tpc>24</tpc>
               </Note>
             </Chord>
           </voice>
@@ -8386,17 +8391,17 @@
               </Note>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>68</pitch>
-              <tpc>10</tpc>
+              <tpc>22</tpc>
               </Note>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>75</pitch>
-              <tpc>11</tpc>
+              <tpc>23</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -8404,10 +8409,10 @@
             <Note>
               <Accidental>
                 <role>1</role>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>75</pitch>
-              <tpc>11</tpc>
+              <tpc>23</tpc>
               </Note>
             </Chord>
           </voice>
@@ -8429,20 +8434,20 @@
               </Note>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>75</pitch>
-              <tpc>11</tpc>
+              <tpc>23</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>73</pitch>
-              <tpc>9</tpc>
+              <tpc>21</tpc>
               </Note>
             </Chord>
           <BarLine>
@@ -9721,10 +9726,10 @@
               </Note>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>61</pitch>
-              <tpc>9</tpc>
+              <tpc>21</tpc>
               </Note>
             <Note>
               <pitch>69</pitch>
@@ -9747,10 +9752,10 @@
             <durationType>quarter</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>61</pitch>
-              <tpc>9</tpc>
+              <tpc>21</tpc>
               </Note>
             </Chord>
           </voice>
@@ -9781,10 +9786,10 @@
             <durationType>quarter</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>61</pitch>
-              <tpc>9</tpc>
+              <tpc>21</tpc>
               </Note>
             <Note>
               <pitch>67</pitch>
@@ -9986,10 +9991,10 @@
               </Note>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>66</pitch>
-              <tpc>8</tpc>
+              <tpc>20</tpc>
               </Note>
             <Note>
               <pitch>74</pitch>
@@ -10628,10 +10633,10 @@
               </Note>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>73</pitch>
-              <tpc>9</tpc>
+              <tpc>21</tpc>
               </Note>
             <Note>
               <pitch>76</pitch>
@@ -10642,12 +10647,15 @@
             <durationType>eighth</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>66</pitch>
-              <tpc>8</tpc>
+              <tpc>20</tpc>
               </Note>
             <Note>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>72</pitch>
               <tpc>14</tpc>
               </Note>
@@ -10660,10 +10668,10 @@
               </Note>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>78</pitch>
-              <tpc>8</tpc>
+              <tpc>20</tpc>
               </Note>
             </Chord>
           </voice>
@@ -10711,10 +10719,10 @@
             <durationType>quarter</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>61</pitch>
-              <tpc>9</tpc>
+              <tpc>21</tpc>
               </Note>
             <Note>
               <pitch>67</pitch>
@@ -10729,18 +10737,15 @@
               </Note>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>73</pitch>
-              <tpc>9</tpc>
+              <tpc>21</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>62</pitch>
               <tpc>16</tpc>
               </Note>
@@ -10757,9 +10762,6 @@
               <tpc>12</tpc>
               </Note>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
@@ -10971,10 +10973,10 @@
             <durationType>16th</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>61</pitch>
-              <tpc>9</tpc>
+              <tpc>21</tpc>
               </Note>
             <Note>
               <Accidental>
@@ -10989,10 +10991,10 @@
             <Note>
               <Accidental>
                 <role>1</role>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>61</pitch>
-              <tpc>9</tpc>
+              <tpc>21</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -11003,10 +11005,10 @@
               </Note>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>73</pitch>
-              <tpc>9</tpc>
+              <tpc>21</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -11067,10 +11069,10 @@
             <Note>
               <Accidental>
                 <role>1</role>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>73</pitch>
-              <tpc>9</tpc>
+              <tpc>21</tpc>
               </Note>
             <Note>
               <Accidental>
@@ -11083,8 +11085,12 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <role>1</role>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
               <pitch>73</pitch>
-              <tpc>9</tpc>
+              <tpc>21</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -11095,10 +11101,10 @@
               </Note>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>85</pitch>
-              <tpc>9</tpc>
+              <tpc>21</tpc>
               </Note>
             </Chord>
           </voice>
@@ -11220,10 +11226,10 @@
             <durationType>16th</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>61</pitch>
-              <tpc>9</tpc>
+              <tpc>21</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -11234,10 +11240,10 @@
               </Note>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>73</pitch>
-              <tpc>9</tpc>
+              <tpc>21</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -11297,10 +11303,10 @@
             <Note>
               <Accidental>
                 <role>1</role>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>73</pitch>
-              <tpc>9</tpc>
+              <tpc>21</tpc>
               </Note>
             <Note>
               <Accidental>
@@ -11315,10 +11321,10 @@
             <Note>
               <Accidental>
                 <role>1</role>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>73</pitch>
-              <tpc>9</tpc>
+              <tpc>21</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -11329,10 +11335,10 @@
               </Note>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>85</pitch>
-              <tpc>9</tpc>
+              <tpc>21</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -11937,10 +11943,10 @@
             <durationType>16th</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>56</pitch>
-              <tpc>10</tpc>
+              <tpc>22</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -11951,10 +11957,10 @@
               </Note>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>68</pitch>
-              <tpc>10</tpc>
+              <tpc>22</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -12007,10 +12013,10 @@
             <Note>
               <Accidental>
                 <role>1</role>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>68</pitch>
-              <tpc>10</tpc>
+              <tpc>22</tpc>
               </Note>
             <Note>
               <pitch>77</pitch>
@@ -12022,10 +12028,10 @@
             <Note>
               <Accidental>
                 <role>1</role>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>68</pitch>
-              <tpc>10</tpc>
+              <tpc>22</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -12036,10 +12042,10 @@
               </Note>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>80</pitch>
-              <tpc>10</tpc>
+              <tpc>22</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -12222,10 +12228,10 @@
             <durationType>16th</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>68</pitch>
-              <tpc>10</tpc>
+              <tpc>22</tpc>
               </Note>
             <Note>
               <pitch>77</pitch>
@@ -12239,10 +12245,10 @@
             <Note>
               <Accidental>
                 <role>1</role>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>68</pitch>
-              <tpc>10</tpc>
+              <tpc>22</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -12253,10 +12259,10 @@
               </Note>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>80</pitch>
-              <tpc>10</tpc>
+              <tpc>22</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -14564,6 +14570,10 @@
               <tpc>17</tpc>
               </Note>
             <Note>
+              <Accidental>
+                <role>1</role>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>63</pitch>
               <tpc>11</tpc>
               </Note>
@@ -15163,10 +15173,10 @@
               </Note>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>75</pitch>
-              <tpc>23</tpc>
+              <tpc>11</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -15178,10 +15188,10 @@
             <Note>
               <Accidental>
                 <role>1</role>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>75</pitch>
-              <tpc>23</tpc>
+              <tpc>11</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -15191,6 +15201,9 @@
               <tpc>14</tpc>
               </Note>
             <Note>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>76</pitch>
               <tpc>18</tpc>
               </Note>
@@ -16819,11 +16832,10 @@
               </Note>
             <Note>
               <Accidental>
-                <role>1</role>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>68</pitch>
-              <tpc>10</tpc>
+              <tpc>22</tpc>
               </Note>
             </Chord>
           <Rest>
@@ -16836,9 +16848,6 @@
               <tpc>17</tpc>
               </Note>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
@@ -17017,10 +17026,10 @@
             <durationType>16th</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
-              <pitch>70</pitch>
-              <tpc>24</tpc>
+              <pitch>68</pitch>
+              <tpc>10</tpc>
               </Note>
             <Note>
               <pitch>72</pitch>
@@ -17310,17 +17319,17 @@
             <durationType>16th</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>61</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               </Note>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>63</pitch>
-              <tpc>23</tpc>
+              <tpc>11</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -17339,17 +17348,17 @@
             <durationType>16th</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>73</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               </Note>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>75</pitch>
-              <tpc>23</tpc>
+              <tpc>11</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -17366,13 +17375,13 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>72</pitch>
               <tpc>14</tpc>
               </Note>
             <Note>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>76</pitch>
               <tpc>18</tpc>
               </Note>
@@ -17437,17 +17446,17 @@
             <durationType>16th</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>70</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               </Note>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>82</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -17469,18 +17478,18 @@
             <Note>
               <Accidental>
                 <role>1</role>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>70</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               </Note>
             <Note>
               <Accidental>
                 <role>1</role>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>82</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -17501,10 +17510,16 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>71</pitch>
               <tpc>19</tpc>
               </Note>
             <Note>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>83</pitch>
               <tpc>19</tpc>
               </Note>
@@ -17612,17 +17627,17 @@
             <Note>
               <Accidental>
                 <role>1</role>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>75</pitch>
-              <tpc>23</tpc>
+              <tpc>11</tpc>
               </Note>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>87</pitch>
-              <tpc>23</tpc>
+              <tpc>11</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -17641,18 +17656,18 @@
             <Note>
               <Accidental>
                 <role>1</role>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>75</pitch>
-              <tpc>23</tpc>
+              <tpc>11</tpc>
               </Note>
             <Note>
               <Accidental>
                 <role>1</role>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>87</pitch>
-              <tpc>23</tpc>
+              <tpc>11</tpc>
               </Note>
             </Chord>
           </voice>
@@ -21438,10 +21453,10 @@
             <durationType>quarter</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>42</pitch>
-              <tpc>8</tpc>
+              <tpc>20</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -21449,10 +21464,10 @@
             <Note>
               <Accidental>
                 <role>1</role>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>42</pitch>
-              <tpc>8</tpc>
+              <tpc>20</tpc>
               </Note>
             </Chord>
           </voice>
@@ -21536,10 +21551,10 @@
             <durationType>quarter</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>42</pitch>
-              <tpc>8</tpc>
+              <tpc>20</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -21547,10 +21562,10 @@
             <Note>
               <Accidental>
                 <role>1</role>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>42</pitch>
-              <tpc>8</tpc>
+              <tpc>20</tpc>
               </Note>
             </Chord>
           </voice>
@@ -22378,17 +22393,17 @@
             <durationType>quarter</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>39</pitch>
-              <tpc>23</tpc>
+              <tpc>11</tpc>
               </Note>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>51</pitch>
-              <tpc>23</tpc>
+              <tpc>11</tpc>
               </Note>
             </Chord>
           </voice>
@@ -25308,10 +25323,10 @@
             <durationType>quarter</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>42</pitch>
-              <tpc>8</tpc>
+              <tpc>20</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -25319,10 +25334,10 @@
             <Note>
               <Accidental>
                 <role>1</role>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>42</pitch>
-              <tpc>8</tpc>
+              <tpc>20</tpc>
               </Note>
             </Chord>
           </voice>
@@ -25406,21 +25421,17 @@
             <durationType>quarter</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>42</pitch>
-              <tpc>8</tpc>
+              <tpc>20</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <Accidental>
-                <role>1</role>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>42</pitch>
-              <tpc>8</tpc>
+              <tpc>20</tpc>
               </Note>
             </Chord>
           </voice>
@@ -25907,10 +25918,10 @@
             <durationType>quarter</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>63</pitch>
-              <tpc>11</tpc>
+              <tpc>23</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -25918,10 +25929,10 @@
             <Note>
               <Accidental>
                 <role>1</role>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>63</pitch>
-              <tpc>11</tpc>
+              <tpc>23</tpc>
               </Note>
             </Chord>
           </voice>
@@ -25932,20 +25943,20 @@
             <durationType>quarter</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>63</pitch>
-              <tpc>11</tpc>
+              <tpc>23</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>61</pitch>
-              <tpc>9</tpc>
+              <tpc>21</tpc>
               </Note>
             </Chord>
           </voice>
@@ -25981,10 +25992,10 @@
             <durationType>eighth</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>58</pitch>
-              <tpc>12</tpc>
+              <tpc>24</tpc>
               </Note>
             </Chord>
           </voice>
@@ -25995,21 +26006,17 @@
             <durationType>quarter</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>63</pitch>
-              <tpc>11</tpc>
+              <tpc>23</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <Accidental>
-                <role>1</role>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>63</pitch>
-              <tpc>11</tpc>
+              <tpc>23</tpc>
               </Note>
             </Chord>
           </voice>
@@ -26020,20 +26027,20 @@
             <durationType>quarter</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>63</pitch>
-              <tpc>11</tpc>
+              <tpc>23</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>61</pitch>
-              <tpc>9</tpc>
+              <tpc>21</tpc>
               </Note>
             </Chord>
           </voice>
@@ -26069,10 +26076,10 @@
             <durationType>eighth</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>58</pitch>
-              <tpc>12</tpc>
+              <tpc>24</tpc>
               </Note>
             </Chord>
           <BarLine>
@@ -27602,17 +27609,17 @@
             <durationType>eighth</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>37</pitch>
-              <tpc>9</tpc>
+              <tpc>21</tpc>
               </Note>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>49</pitch>
-              <tpc>9</tpc>
+              <tpc>21</tpc>
               </Note>
             </Chord>
           </voice>
@@ -27945,10 +27952,10 @@
             <durationType>16th</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>61</pitch>
-              <tpc>9</tpc>
+              <tpc>21</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -28058,10 +28065,10 @@
             <durationType>16th</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>61</pitch>
-              <tpc>9</tpc>
+              <tpc>21</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -28453,10 +28460,10 @@
             <durationType>16th</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>56</pitch>
-              <tpc>10</tpc>
+              <tpc>22</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -28563,10 +28570,10 @@
             <durationType>16th</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>56</pitch>
-              <tpc>10</tpc>
+              <tpc>22</tpc>
               </Note>
             </Chord>
           <Chord>
