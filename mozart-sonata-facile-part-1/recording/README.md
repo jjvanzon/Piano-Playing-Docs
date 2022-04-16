@@ -10,8 +10,10 @@
 Recording
 ---------
 
-A recording of my practicing part of the piano piece  
-*Sonata No. 16 in C Major "Sonata Facile", KV 545, I. Allegro by Wolfgang Amadeus Mozart.*  
+A recording of my practicing part of the piano piece
+
+*Sonata No. 16 in C Major "Sonata Facile", KV 545, I. Allegro by Wolfgang Amadeus Mozart.*
+
 I am having quite some difficulty making it sound 'performance ready'.
 
 <audio controls autoplay>
