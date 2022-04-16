@@ -23,7 +23,7 @@ Recordings of my playing some piano pieces.
   Your browser does not support the audio element. <a href="chopin-mazurka-op-24-no-2/recording/chopin-mazurka-op-24-no-2-recording-320kbps.mp3" download>Download file</a>
 </audio>
 
-[🗿 Mozart - Sonata Facile K. 545 Part 1, 2nd Half](mozart-sonata-facile-part-1/README.md) [ Practice ]
+[🗿 Mozart - Sonata Facile K. 545 Part 1](mozart-sonata-facile-part-1/README.md) [ Practice ]
 ------------------------------------------------------------------------------------------
 
 <audio controls autoplay>
