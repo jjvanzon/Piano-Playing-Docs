@@ -27,8 +27,8 @@ Recordings of my playing some piano pieces.
 ------------------------------------------------------------------------------------------
 
 <audio controls autoplay>
-  <source src="mozart-sonata-facile-part-1/recording/mozart-sonata-facile-part-1-2nd-half-recording-320kbps" type="audio/mpeg">
-  Your browser does not support the audio element. <a href="mozart-sonata-facile-part-1/recording/mozart-sonata-facile-part-1-2nd-half-recording-320kbps" download>Download file</a>
+  <source src="mozart-sonata-facile-part-1/recording/mozart-sonata-facile-part-1-2nd-half-recording-320kbps.mp3" type="audio/mpeg">
+  Your browser does not support the audio element. <a href="mozart-sonata-facile-part-1/recording/mozart-sonata-facile-part-1-2nd-half-recording-320kbps.mp3" download>Download file</a>
 </audio>
 
 [back](./README.md)
