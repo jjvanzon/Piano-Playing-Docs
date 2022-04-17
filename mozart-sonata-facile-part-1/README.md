@@ -7,7 +7,7 @@
 
 [back](../README.md)
 
-<audio controls>
+<audio controls autoplay>
   <source src="recording/mozart-sonata-facile-part-1-2nd-half-recording-320kbps.mp3" type="audio/mpeg">
   Your browser does not support the audio element. <a href="recording/mozart-sonata-facile-part-1-2nd-half-recording-320kbps.mp3" download>Download file</a>
 </audio>

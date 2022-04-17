@@ -26,7 +26,7 @@ Recordings of my playing some piano pieces.
 [🗿 Mozart - Sonata Facile K. 545 Part 1](mozart-sonata-facile-part-1/README.md) [ Practice ]
 ------------------------------------------------------------------------------------------
 
-<audio controls autoplay>
+<audio controls>
   <source src="mozart-sonata-facile-part-1/recording/mozart-sonata-facile-part-1-2nd-half-recording-320kbps.mp3" type="audio/mpeg">
   Your browser does not support the audio element. <a href="mozart-sonata-facile-part-1/recording/mozart-sonata-facile-part-1-2nd-half-recording-320kbps.mp3" download>Download file</a>
 </audio>
