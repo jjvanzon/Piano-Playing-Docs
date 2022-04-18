@@ -67,12 +67,13 @@ TODO
     - [x] Correcting it again.
     - [x] Checking by playing in editing software.
     - [x] Checking print again.
-    - [ ] __... Corrections to digital version.__
+    - [x] Corrections to digital version.
     - [ ] Keep checking by playing the print, until no more corrections.
 - [ ] Variation of sheet music, with *reason* for b or #:
     - [ ] __... Adding reasons to draft simplified sheet music.__
     - [x] On paper
     - [x] Changing some occurrences of "per-note expectation" to "chord shape".
     - [x] Cleaner typography for annotations (pencil and paper still).
+- [ ] May call it "Simplified Notation" instead of "Simplified", since the notes basically do not change.
 
 [back](./README.md)
