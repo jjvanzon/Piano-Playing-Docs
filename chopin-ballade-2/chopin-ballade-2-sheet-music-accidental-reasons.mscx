@@ -2584,11 +2584,6 @@
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <placement>below</placement>
-            <offset x="-2.33525" y="3.99103"/>
-            <text>(chord shape)</text>
-            </StaffText>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -3511,7 +3506,7 @@
           <StaffText>
             <placement>below</placement>
             <offset x="-0.0652391" y="6.02315"/>
-            <text>(no clear preference for # or b / similar to original)</text>
+            <text>(no clear preference for # or b / same as original)</text>
             </StaffText>
           <Beam>
             </Beam>
@@ -4330,7 +4325,8 @@
               </Note>
             </Chord>
           <StaffText>
-            <offset x="-6.12732" y="-2.18098"/>
+            <minDistance>0.345659</minDistance>
+            <offset x="-10.7287" y="-0.8663"/>
             <text>(consistent)</text>
             </StaffText>
           <StaffText>
@@ -5046,9 +5042,8 @@
               </Note>
             </Chord>
           <StaffText>
-            <placement>below</placement>
             <minDistance>-999</minDistance>
-            <offset x="-4.38042" y="2.52675"/>
+            <offset x="-0.436379" y="-2.51168"/>
             <text>(chord shape)</text>
             </StaffText>
           <Chord>
@@ -5612,6 +5607,11 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <voice>
+          <StaffText>
+            <minDistance>-0.160866</minDistance>
+            <offset x="-1.8" y="-1.14711"/>
+            <text>(chord shape)</text>
+            </StaffText>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -6070,7 +6070,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="-3.24779" y="2.95185"/>
+            <offset x="-3.24779" y="3.45185"/>
             <text>(chord / interval shape)</text>
             </StaffText>
           <Chord>
@@ -6144,8 +6144,8 @@
           </LayoutBreak>
         <voice>
           <StaffText>
-            <minDistance>0.45221</minDistance>
-            <offset x="-0.760866" y="-5.4868"/>
+            <minDistance>-2.66872</minDistance>
+            <offset x="1.99928" y="-2.36587"/>
             <text>(consistent)</text>
             </StaffText>
           <Beam>
@@ -6922,7 +6922,7 @@
               </Note>
             </Chord>
           <StaffText>
-            <offset x="1.02906" y="-2.48446"/>
+            <offset x="-0.121285" y="-2.48446"/>
             <text>(interval shape)</text>
             </StaffText>
           <Beam>
@@ -6979,10 +6979,10 @@
             </StaffText>
           <StaffText>
             <minDistance>-999</minDistance>
-            <size>16</size>
+            <size>20</size>
             <bold>1</bold>
             <italic>1</italic>
-            <offset x="-2.79164" y="4.23393"/>
+            <offset x="-2.42039" y="4.33393"/>
             <text>◯</text>
             </StaffText>
           <Chord>
@@ -7070,16 +7070,16 @@
               </Note>
             </Chord>
           <StaffText>
-            <minDistance>-999</minDistance>
-            <size>16</size>
-            <bold>1</bold>
-            <italic>1</italic>
-            <offset x="-2.79164" y="4.73393"/>
-            <text>◯</text>
-            </StaffText>
-          <StaffText>
             <offset x="-7.12704" y="-1.52956"/>
             <text>(chromatic walk)</text>
+            </StaffText>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <size>20</size>
+            <bold>1</bold>
+            <italic>1</italic>
+            <offset x="-2.42039" y="4.83393"/>
+            <text>◯</text>
             </StaffText>
           <Chord>
             <durationType>16th</durationType>
@@ -7644,7 +7644,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <offset x="-8.58042" y="4.0684"/>
+            <offset x="-4.88042" y="4.0684"/>
             <text>(chord shape)</text>
             </StaffText>
           <Chord>
@@ -7751,7 +7751,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="-0.00473699" y="4.1969"/>
+            <offset x="-4.20474" y="4.1969"/>
             <text>(part of key)</text>
             </StaffText>
           <Chord>
@@ -7807,8 +7807,9 @@
               </Arpeggio>
             </Chord>
           <StaffText>
-            <offset x="-1.67568" y="-2.60636"/>
-            <text>(per-note expectation)</text>
+            <minDistance>-0.171607</minDistance>
+            <offset x="-4.71903" y="-2.11335"/>
+            <text>(chord shape)</text>
             </StaffText>
           <StaffText>
             <minDistance>-999</minDistance>
@@ -8028,8 +8029,8 @@
             <text>◯</text>
             </StaffText>
           <StaffText>
-            <minDistance>0.2</minDistance>
-            <offset x="-4.75338" y="-2.67069"/>
+            <minDistance>-0.38601</minDistance>
+            <offset x="-4.75338" y="-2.08468"/>
             <text>(chord shape)</text>
             </StaffText>
           <Chord>
@@ -8547,8 +8548,13 @@
             <text>(b's =&gt; consistent)</text>
             </StaffText>
           <StaffText>
-            <minDistance>-1.84968</minDistance>
-            <offset x="-15.287" y="-1.33732"/>
+            <minDistance>-1.74968</minDistance>
+            <offset x="-15.287" y="-1.43732"/>
+            <text>⸻⸻⸻⸻</text>
+            </StaffText>
+          <StaffText>
+            <minDistance>-1.24968</minDistance>
+            <offset x="-15.287" y="-1.93732"/>
             <text>⸻⸻⸻⸻</text>
             </StaffText>
           <Chord>
@@ -8770,8 +8776,8 @@
             <subtype>double</subtype>
             </BarLine>
           <StaffText>
-            <minDistance>-0.3</minDistance>
-            <offset x="-3.52683" y="-2.01064"/>
+            <minDistance>-0.6</minDistance>
+            <offset x="-3.52683" y="-1.71064"/>
             <text>(chromatic walk)</text>
             </StaffText>
           <Chord>
@@ -9077,8 +9083,8 @@
       <Measure>
         <voice>
           <StaffText>
-            <minDistance>1.82361e-14</minDistance>
-            <offset x="-1.42962" y="-5.81064"/>
+            <minDistance>-0.3</minDistance>
+            <offset x="-1.42962" y="-5.51064"/>
             <text>(chromatic walk)</text>
             </StaffText>
           <Chord>
@@ -9552,7 +9558,7 @@
           <StaffText>
             <placement>below</placement>
             <minDistance>-0.0504328</minDistance>
-            <offset x="-3.50838" y="3.95213"/>
+            <offset x="-4.10838" y="3.95213"/>
             <text>(chord shape)</text>
             </StaffText>
           <Chord>
@@ -10340,7 +10346,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="-3.02237" y="3.83078"/>
+            <offset x="-3.12237" y="3.83078"/>
             <text>(per-note exp)</text>
             </StaffText>
           <Chord>
@@ -10783,6 +10789,12 @@
             <offset x="2.40029" y="-3.16466"/>
             <text>(consistent)</text>
             </StaffText>
+          <Beam>
+            <Fragment>
+              <y1>4.5</y1>
+              <y2>5.75</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <dots>1</dots>
             <durationType>eighth</durationType>
@@ -10813,6 +10825,12 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <StaffText>
+            <placement>below</placement>
+            <minDistance>0.342657</minDistance>
+            <offset x="-6.54582" y="4.01012"/>
+            <text>(interval shape)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -11357,7 +11375,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="-0.721731" y="4.99772"/>
+            <offset x="-1.72173" y="4.79772"/>
             <text>(chord shape)</text>
             </StaffText>
           <Beam>
@@ -12343,8 +12361,8 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="2.13476" y="4.42315"/>
-            <text>(no clear preference for # or b / similar to original)</text>
+            <offset x="-0.56524" y="5.32315"/>
+            <text>(no clear preference for # or b / same as original)</text>
             </StaffText>
           <Beam>
             </Beam>
@@ -12648,9 +12666,6 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -14969,7 +14984,7 @@
           <StaffText>
             <placement>below</placement>
             <minDistance>0.341923</minDistance>
-            <offset x="-13.5258" y="4.54449"/>
+            <offset x="-12.5258" y="4.54449"/>
             <text>(per-note expectation)</text>
             </StaffText>
           <Chord>
@@ -15024,7 +15039,7 @@
             </Rest>
           <StaffText>
             <placement>below</placement>
-            <offset x="-4.37271" y="4.46616"/>
+            <offset x="-1.45535" y="4.32703"/>
             <text>(chord shape)</text>
             </StaffText>
           <Chord>
@@ -15058,7 +15073,8 @@
               </Note>
             </Chord>
           <StaffText>
-            <offset x="-2.88886" y="-2.534"/>
+            <minDistance>0.117258</minDistance>
+            <offset x="-2.88886" y="-1.734"/>
             <text>(consistent)</text>
             </StaffText>
           <StaffText>
@@ -15153,7 +15169,8 @@
               </Note>
             </Chord>
           <StaffText>
-            <offset x="-4.71291" y="-2.34519"/>
+            <minDistance>0.237218</minDistance>
+            <offset x="-4.71291" y="-1.24519"/>
             <text>(interval shape)</text>
             </StaffText>
           <StaffText>
@@ -15273,7 +15290,8 @@
               </Note>
             </Chord>
           <StaffText>
-            <offset x="-7.6" y="-2.30391"/>
+            <minDistance>0.300001</minDistance>
+            <offset x="-7.6" y="-2.00391"/>
             <text>(per-note expectation)</text>
             </StaffText>
           <StaffText>
@@ -15722,7 +15740,7 @@
             </Rest>
           <StaffText>
             <placement>below</placement>
-            <offset x="-3.92812" y="3.83325"/>
+            <offset x="-1.4847" y="3.44195"/>
             <text>(chord shape)</text>
             </StaffText>
           <Chord>
@@ -15765,7 +15783,8 @@
             <text>◯</text>
             </StaffText>
           <StaffText>
-            <offset x="-3.86708" y="-3.17557"/>
+            <minDistance>-0.0513954</minDistance>
+            <offset x="-3.86708" y="-2.47557"/>
             <text>(consistent)</text>
             </StaffText>
           <Chord>
@@ -15859,8 +15878,8 @@
             <text>◯</text>
             </StaffText>
           <StaffText>
-            <minDistance>0.267595</minDistance>
-            <offset x="-4.87124" y="-4.90391"/>
+            <minDistance>-0.032405</minDistance>
+            <offset x="-4.87124" y="-4.60391"/>
             <text>(interval shape)</text>
             </StaffText>
           <Chord>
@@ -15978,8 +15997,8 @@
             <text>◯</text>
             </StaffText>
           <StaffText>
-            <minDistance>0.237162</minDistance>
-            <offset x="-9.73639" y="-5.82942"/>
+            <minDistance>0.0371636</minDistance>
+            <offset x="-9.73639" y="-5.62942"/>
             <text>(per-note expectation)</text>
             </StaffText>
           <Chord>
@@ -16432,8 +16451,8 @@
               </Note>
             </Chord>
           <StaffText>
-            <minDistance>0.482597</minDistance>
-            <offset x="-6.2477" y="-2.99057"/>
+            <minDistance>0.282598</minDistance>
+            <offset x="-6.2477" y="-2.79057"/>
             <text>(interval shape)</text>
             </StaffText>
           <Chord>
@@ -16534,8 +16553,8 @@
             <text>◯</text>
             </StaffText>
           <StaffText>
-            <minDistance>0.196475</minDistance>
-            <offset x="-3.00221" y="-3.86305"/>
+            <minDistance>-0.394823</minDistance>
+            <offset x="-3.91524" y="-3.27175"/>
             <text>(chromatic walk)</text>
             </StaffText>
           <Chord>
@@ -16630,7 +16649,8 @@
             <text>◯</text>
             </StaffText>
           <StaffText>
-            <offset x="-1.51762" y="-2.75241"/>
+            <minDistance>0.117624</minDistance>
+            <offset x="-1.51762" y="-2.25241"/>
             <text>(interval shape)</text>
             </StaffText>
           <Chord>
@@ -17427,7 +17447,7 @@
             </TimeSig>
           <StaffText>
             <placement>below</placement>
-            <offset x="-4.27476" y="4.0215"/>
+            <offset x="-3.77476" y="4.9215"/>
             <text>(chord shape)</text>
             </StaffText>
           <Chord>
@@ -17487,8 +17507,9 @@
             <text>◯</text>
             </StaffText>
           <StaffText>
-            <minDistance>-0.493904</minDistance>
-            <offset x="-7.07975" y="-1.95012"/>
+            <placement>below</placement>
+            <minDistance>-999</minDistance>
+            <offset x="-9.16667" y="2.39758"/>
             <text>(interval shape)</text>
             </StaffText>
           <Chord>
@@ -17577,7 +17598,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <offset x="-11.4912" y="4.66761"/>
+            <offset x="-6.6912" y="4.66761"/>
             <text>(chromatic walk)</text>
             </StaffText>
           <Chord>
@@ -17688,7 +17709,7 @@
           <StaffText>
             <placement>below</placement>
             <minDistance>0.2</minDistance>
-            <offset x="-7.57197" y="5.86537"/>
+            <offset x="-6.47197" y="5.86537"/>
             <text>(chord shape)</text>
             </StaffText>
           <Chord>
@@ -17798,8 +17819,8 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <minDistance>-999</minDistance>
-            <offset x="-5.66356" y="4.12449"/>
+            <minDistance>0.0319268</minDistance>
+            <offset x="-5.66356" y="3.92449"/>
             <text>(chord shape)</text>
             </StaffText>
           <StaffText>
@@ -17807,7 +17828,7 @@
             <minDistance>-999</minDistance>
             <size>32</size>
             <italic>1</italic>
-            <offset x="-3.59953" y="1.70679"/>
+            <offset x="-3.59953" y="1.30679"/>
             <text>◯</text>
             </StaffText>
           <Chord>
@@ -23066,8 +23087,8 @@
               </Note>
             </Chord>
           <StaffText>
-            <minDistance>0.2</minDistance>
-            <offset x="-14.1117" y="-3.649"/>
+            <minDistance>0.0788209</minDistance>
+            <offset x="-16.4117" y="-3.349"/>
             <text>(interval shape)</text>
             </StaffText>
           <Chord>
@@ -23151,9 +23172,9 @@
               </Note>
             </Chord>
           <StaffText>
-            <minDistance>0.252951</minDistance>
-            <offset x="-3.75508" y="-3.60092"/>
-            <text>(prevent )</text>
+            <minDistance>-0.247049</minDistance>
+            <offset x="-8.25508" y="-3.26092"/>
+            <text>(prevent natural)</text>
             </StaffText>
           <Chord>
             <durationType>eighth</durationType>
@@ -23664,8 +23685,8 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <minDistance>-999</minDistance>
-            <offset x="-7.29917" y="5.49241"/>
+            <minDistance>0.18218</minDistance>
+            <offset x="-13.0866" y="4.8994"/>
             <text>(per-note expectation / interval shape)</text>
             </StaffText>
           <Chord>
@@ -27107,8 +27128,9 @@
       <Measure>
         <voice>
           <StaffText>
-            <minDistance>0.0407613</minDistance>
-            <offset x="-28.859" y="-3.04873"/>
+            <placement>below</placement>
+            <minDistance>-0.966201</minDistance>
+            <offset x="-29.3024" y="1.86102"/>
             <text>(interval shape / consistent)</text>
             </StaffText>
           <Chord>
@@ -27233,7 +27255,8 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="-0.870381" y="2.60403"/>
+            <minDistance>0.351467</minDistance>
+            <offset x="-0.870381" y="2.10403"/>
             <text>(consistent)</text>
             </StaffText>
           <Chord>
@@ -28636,8 +28659,8 @@
             </StaffText>
           <StaffText>
             <placement>below</placement>
-            <minDistance>-0.774409</minDistance>
-            <offset x="1.04236" y="4.9088"/>
+            <minDistance>-0.328416</minDistance>
+            <offset x="-5.80237" y="4.98013"/>
             <text>(interval shape)</text>
             </StaffText>
           <Chord>
@@ -29222,7 +29245,8 @@
               </Note>
             </Chord>
           <StaffText>
-            <offset x="-7.67215" y="-3.21287"/>
+            <minDistance>-0.191039</minDistance>
+            <offset x="-7.67215" y="-2.01287"/>
             <text>(interval shape)</text>
             </StaffText>
           <Chord>
@@ -29332,7 +29356,8 @@
             <span>1</span>
             </BarLine>
           <StaffText>
-            <offset x="-0.46481" y="-2.80033"/>
+            <minDistance>0.115676</minDistance>
+            <offset x="-2.92984" y="-2.14299"/>
             <text>(consistent)</text>
             </StaffText>
           <Beam>
@@ -29624,9 +29649,9 @@
       <Measure>
         <voice>
           <StaffText>
-            <minDistance>-0.03572</minDistance>
-            <offset x="1.97837" y="-3.47225"/>
-            <text>(no clear preference for # or b / similar to original)</text>
+            <minDistance>0.16428</minDistance>
+            <offset x="-1.02163" y="-3.67225"/>
+            <text>(no clear preference for # or b / same as original)</text>
             </StaffText>
           <Beam>
             </Beam>
@@ -29675,8 +29700,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Beam>
-            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -29821,8 +29844,8 @@
             </Chord>
           <StaffText>
             <minDistance>0.252951</minDistance>
-            <offset x="-3.75508" y="-3.60092"/>
-            <text>(prevent )</text>
+            <offset x="-7.05508" y="-3.60092"/>
+            <text>(prevent natural)</text>
             </StaffText>
           <Chord>
             <durationType>eighth</durationType>
@@ -31390,7 +31413,8 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="-1.30433" y="3.62335"/>
+            <minDistance>0.188599</minDistance>
+            <offset x="-1.30433" y="3.22335"/>
             <text>(chord shape)</text>
             </StaffText>
           <Chord>
