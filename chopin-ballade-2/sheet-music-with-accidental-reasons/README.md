@@ -18,8 +18,8 @@ Variation of simplified sheet music, with *reasons* for b or #. See [b and # rea
 
 ### Contents
 
-- [Chopin Ballade Ⅱ Sheet Music with Accidental Reasons (PDF)](chopin-ballade-2-sheet-music-with-accidental-reasons.pdf) `[ Draft ]`
-- [Chopin Ballade Ⅱ Sheet Music with Accidental Reasons (MuseScore Uncompressed XML File)](chopin-ballade-2-sheet-music-with-accidental-reasons.mscx) `[ Draft ]`
+- [Sheet Music with Accidental Reasons (PDF)](chopin-ballade-2-sheet-music-with-accidental-reasons.pdf) `[ Draft ]`
+- [Sheet Music with Accidental Reasons (MuseScore Uncompressed XML File)](chopin-ballade-2-sheet-music-with-accidental-reasons.mscx) `[ Draft ]`
 
 ### Original
 
