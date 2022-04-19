@@ -6922,7 +6922,8 @@
               </Note>
             </Chord>
           <StaffText>
-            <offset x="-0.121285" y="-2.48446"/>
+            <minDistance>0.436488</minDistance>
+            <offset x="-0.121285" y="-1.88446"/>
             <text>(interval shape)</text>
             </StaffText>
           <Beam>
@@ -6974,7 +6975,7 @@
               </Note>
             </Chord>
           <StaffText>
-            <offset x="-2.4" y="-2.5"/>
+            <offset x="-2.4" y="-2.1"/>
             <text>(chromatic walk)</text>
             </StaffText>
           <StaffText>
@@ -7070,7 +7071,7 @@
               </Note>
             </Chord>
           <StaffText>
-            <offset x="-7.12704" y="-1.52956"/>
+            <offset x="-7.12704" y="-1.22956"/>
             <text>(chromatic walk)</text>
             </StaffText>
           <StaffText>
@@ -7751,7 +7752,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="-4.20474" y="4.1969"/>
+            <offset x="-5.04258" y="5.2192"/>
             <text>(part of key)</text>
             </StaffText>
           <Chord>
@@ -7807,8 +7808,9 @@
               </Arpeggio>
             </Chord>
           <StaffText>
-            <minDistance>-0.171607</minDistance>
-            <offset x="-4.71903" y="-2.11335"/>
+            <placement>below</placement>
+            <minDistance>-999</minDistance>
+            <offset x="-4.91903" y="2.73944"/>
             <text>(chord shape)</text>
             </StaffText>
           <StaffText>
@@ -7965,7 +7967,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="-3.89122" y="4.20286"/>
+            <offset x="-4.4446" y="5.49408"/>
             <text>(part of key)</text>
             </StaffText>
           <Chord>
@@ -8029,8 +8031,9 @@
             <text>◯</text>
             </StaffText>
           <StaffText>
-            <minDistance>-0.38601</minDistance>
-            <offset x="-4.75338" y="-2.08468"/>
+            <placement>below</placement>
+            <minDistance>-4.69969</minDistance>
+            <offset x="-5.11352" y="2.88493"/>
             <text>(chord shape)</text>
             </StaffText>
           <Chord>
@@ -17759,8 +17762,8 @@
               </Note>
             </Chord>
           <StaffText>
-            <minDistance>0.0837759</minDistance>
-            <offset x="-8.46625" y="-1.78769"/>
+            <minDistance>-0.116219</minDistance>
+            <offset x="-8.46625" y="-1.58769"/>
             <text>(per-note expectation)</text>
             </StaffText>
           <Chord>
@@ -29843,8 +29846,8 @@
               </Note>
             </Chord>
           <StaffText>
-            <minDistance>0.252951</minDistance>
-            <offset x="-7.05508" y="-3.60092"/>
+            <minDistance>-0.319078</minDistance>
+            <offset x="-8.22633" y="-3.02889"/>
             <text>(prevent natural)</text>
             </StaffText>
           <Chord>
