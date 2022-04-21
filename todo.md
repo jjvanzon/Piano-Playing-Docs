@@ -12,6 +12,9 @@ TODO
 
 ### 2022-03-13 TODO
 
+- [ ] Rehearsing all to not forget.
+- [ ] Omitting large piece analyses (Chopin Ballade Ⅱ)
+    - [ ] (More work than time and energy for. Taking away attention smaller pieces.)
 - [ ] __... Sheet Music Simplified using MuseScore for:__
     - [ ] __... [Chopin - Ballade Ⅱ](chopin-ballade-2/sheet-music-simplified/README.md)__
     - [ ] Debussy - Arabesque Ⅰ (?)
