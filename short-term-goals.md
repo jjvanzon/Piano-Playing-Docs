@@ -11,8 +11,8 @@ Preparation for Performance on April 1, 2022
 ### Philosophy
 
 ***Analyses*** rather than piece-learning. Was behind on that.  
-Rehearsing all pieces a bit for memory preservation.  
-May omit further analyses of large piece Chopin Ballade II.
+Rehearsing all pieces for memory preservation.  
+Omitting further analyses of large piece Chopin Ballade II.
 
 ### Checklist
 
