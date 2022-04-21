@@ -10,7 +10,7 @@ Sheet Music with Accidental Reasons
 
 ### Introduction
 
-Variation of simplified sheet music, with *reasons* for b or #. See [b and # reasons](https://jjvanzon.github.io/Piano-Playing-Docs/methods/sheet-music-simplification.html#b-and--reasons).
+Variation of simplified sheet music, annotated with reasons for b or #. See [b and # reasons](https://jjvanzon.github.io/Piano-Playing-Docs/methods/sheet-music-simplification.html#b-and--reasons).
 
 ### Preview
 
