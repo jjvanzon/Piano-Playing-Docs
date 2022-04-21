@@ -31,4 +31,7 @@ Recordings of my playing some piano pieces.
   Your browser does not support the audio element. <a href="mozart-sonata-facile-part-1/recording/mozart-sonata-facile-part-1-2nd-half-recording-320kbps.mp3" download>Download file</a>
 </audio>
 
+<br/>
+<img src="resources/preview-mini-disk-recorder-detail.png" width="300" />
+
 [back](./README.md)
