@@ -3,7 +3,7 @@
 
 *JJ van Zon, 2022*
 
-<div class="crop" style="width=700px; overflow: hidden;">
+<div style="width=700px; overflow: hidden;">
     <img src="resources/preview-mini-disk-recorder-detail.png" style="height:300px; width:700px; margin:-75px 0 0 -75px" />
 </div>
 
