@@ -35,7 +35,8 @@ Philosophy:
 - Going for ***imperfect*** piano playing.
 - Things may go wrong on any aspect: note reading / memorizing / technique / motor skills / expression / listening / performing
 - Obtaining ***skills*** to compensate.
-- ***Improvising*** might be key.
+- ***Analyses*** may be my strong suit.
+- ***Improvising*** may play a role.
 
 Skills:
 
