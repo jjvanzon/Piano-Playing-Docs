@@ -14,10 +14,10 @@
 
 <br/>
 
-- [Recording](recording/README.md)
-- [Sheet Music](sheet-music/README.md)
-- [Sheet Music Simplified](sheet-music-simplified/README.md)
-- [Practice Schema](mozart-sonata-facile-part-1-practice-schema.md)
-- [Studying Notes](mozart-sonata-facile-part-1-studying-notes.md)
+- 🔊 [Recording](recording/README.md)
+- 🎼 [Sheet Music](sheet-music/README.md)
+- 🎵 [Sheet Music Simplified](sheet-music-simplified/README.md)
+- 📈 [Practice Schema](mozart-sonata-facile-part-1-practice-schema.md)
+- ✍ [Studying Notes](mozart-sonata-facile-part-1-studying-notes.md)
 
 [back](../README.md)
