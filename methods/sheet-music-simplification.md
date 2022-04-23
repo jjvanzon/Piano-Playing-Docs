@@ -66,7 +66,7 @@ Sheet Music Simplification
 
 ### b and \# Reasons
 
-- [ ] Part of key.
+- [ ] Part of key (specify key).
 - [ ] Chord shape minor / major.
 - [ ] Interval shape.
 - [ ] Melody tones.

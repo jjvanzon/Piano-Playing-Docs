@@ -77,6 +77,7 @@ TODO
     - [x] Cleaner typography for annotations (pencil and paper still).
     - [x] Checking by playing in editing software.
     - [ ] Keep checking by playing the print, until no more corrections.
+    - [ ] With "part of key" specify which key.
 - [ ] May call it "Simplified Notation" instead of "Simplified", since the notes basically do not change.
 
 [back](./README.md)
