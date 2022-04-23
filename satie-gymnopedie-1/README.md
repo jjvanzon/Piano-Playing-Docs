@@ -7,6 +7,6 @@
 
 - 🎼 [Sheet Music](sheet-music/README.md)
 - 🎶 [Sheet Music Simplified](sheet-music-simplified/README.md)
-- 📝 [Studying Notes](satie-gymnopedie-1-studying-notes.md)
+- ✍ [Studying Notes](satie-gymnopedie-1-studying-notes.md)
 
 [back](../README.md)
