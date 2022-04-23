@@ -5,10 +5,8 @@
 
 [back](../README.md)
 
-Content produced while studying this piano piece.
-
-- [Sheet Music](sheet-music/README.md)
-- [Sheet Music Simplified](sheet-music-simplified/README.md)
-- [Studying Notes](satie-gymnopedie-1-studying-notes.md)
+- 🎼 [Sheet Music](sheet-music/README.md)
+- 🎶 [Sheet Music Simplified](sheet-music-simplified/README.md)
+- 📝 [Studying Notes](satie-gymnopedie-1-studying-notes.md)
 
 [back](../README.md)
