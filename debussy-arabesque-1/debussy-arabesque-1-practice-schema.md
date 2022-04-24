@@ -49,6 +49,6 @@ Practice Schema
 | __13__   | - - - 8 - | - - - 8 - | - - - 8 - | - - - - - |
 | __14__   | - - - 8 - | - - - 8 - | - - - 8 - | - - - - - |
 
-Links: [method description](https://jjvanzon.github.io/Piano-Playing-Docs/methods/practice-schema.html), [notes with fragment subdivision](notes-fragment-subdivision/README.md)
+Links: [method description](https://jjvanzon.github.io/Piano-Playing-Docs/methods/practice-schema.html), [notes with rehearsal marks](notes-rehearsal-marks/README.md)
 
 [back](./README.md)

@@ -16,7 +16,7 @@ You may find some of my methods of working here.
 
     - A way to simplify musical score by leaving out details and adding accidentals near notes for instance.
 
-- [Fragment Subdivision](fragment-subdivision.md)
+- [Rehearsal Marks](rehearsal-marks.md)
 
     - A way to annotate sheet music to denote subdivision into fragments. Individual memorization or attention to technique may be desired for each fragment when studying it.
 
