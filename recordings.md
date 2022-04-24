@@ -3,11 +3,11 @@
 
 *JJ van Zon, 2022*
 
+[back](./README.md)
+
 <div style="width=700px; overflow: hidden;">
     <img src="resources/preview-mini-disk-recorder-detail.png" style="height:300px; width:700px; margin:-75px 0 0 -75px" />
 </div>
-
-[back](./README.md)
 
 Recordings of my playing some piano pieces.
 
