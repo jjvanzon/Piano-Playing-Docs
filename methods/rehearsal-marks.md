@@ -14,7 +14,7 @@ Adding annotations to sheet music to denote subdivision into fragments. Individu
 
 ### Guidelines
 
-- Fragments numbers:
+- Rehearsal numbers:
     - Might be numbered:
     - `1`, `2`, `3`, `4`
 - Sub-fragments:
