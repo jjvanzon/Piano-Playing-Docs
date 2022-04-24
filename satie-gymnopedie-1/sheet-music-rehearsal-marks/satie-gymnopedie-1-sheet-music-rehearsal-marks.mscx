@@ -61,7 +61,8 @@
       <mmRestRangeFontSize>10</mmRestRangeFontSize>
       <staffFontFace>Calibri</staffFontFace>
       <staffFontSize>12</staffFontSize>
-      <rehearsalMarkFontSize>10</rehearsalMarkFontSize>
+      <rehearsalMarkFontFace>Calibri</rehearsalMarkFontFace>
+      <rehearsalMarkFontSize>12</rehearsalMarkFontSize>
       <repeatLeftFontSize>10</repeatLeftFontSize>
       <repeatRightFontSize>10</repeatRightFontSize>
       <glissandoFontSize>10</glissandoFontSize>
@@ -618,7 +619,7 @@
             </RehearsalMark>
           <StaffText>
             <offset x="0.849344" y="-2.26344"/>
-            <text>chorus</text>
+            <text>chorus 1</text>
             </StaffText>
           <Chord>
             <durationType>quarter</durationType>
@@ -747,7 +748,7 @@
             </RehearsalMark>
           <StaffText>
             <offset x="0.749344" y="-2.32553"/>
-            <text>chorus</text>
+            <text>chorus 2</text>
             </StaffText>
           <Chord>
             <durationType>quarter</durationType>
@@ -867,27 +868,27 @@
         <measureNumberMode>2</measureNumberMode>
         <voice>
           <RehearsalMark>
-            <offset x="-0.191219" y="-6.00118"/>
+            <offset x="-0.191219" y="-5.20118"/>
             <text>5</text>
             </RehearsalMark>
-          <StaffText>
-            <minDistance>0.489076</minDistance>
-            <offset x="-0.278435" y="-1.99705"/>
+          <RehearsalMark>
+            <bold>0</bold>
+            <offset x="5.11826" y="-5.30566"/>
+            <frameType>0</frameType>
             <text>bridge</text>
-            </StaffText>
+            </RehearsalMark>
           <Spanner type="Volta">
             <Volta>
               <endHookType>1</endHookType>
               <beginText>1</beginText>
               <Segment>
                 <subtype>1</subtype>
-                <offset x="-1.51303" y="-4.58228"/>
+                <offset x="-1.51303" y="-3.78228"/>
                 <off2 x="1.57565" y="0"/>
-                <minDistance>0.8</minDistance>
                 </Segment>
               <Segment>
                 <subtype>3</subtype>
-                <offset x="0" y="-5.02121"/>
+                <offset x="0" y="-4.22121"/>
                 <off2 x="-0.772756" y="0"/>
                 </Segment>
               <endings>1</endings>
@@ -1123,13 +1124,16 @@
             <accidental>0</accidental>
             </KeySig>
           <RehearsalMark>
-            <offset x="1.1" y="-6.37353"/>
+            <minDistance>0.499999</minDistance>
+            <offset x="1.1" y="-5.57353"/>
             <text>6</text>
             </RehearsalMark>
-          <StaffText>
-            <offset x="-0.5" y="-2.39733"/>
+          <RehearsalMark>
+            <bold>0</bold>
+            <offset x="6.08717" y="-5.62878"/>
+            <frameType>0</frameType>
             <text>finale</text>
-            </StaffText>
+            </RehearsalMark>
           <Spanner type="Volta">
             <prev>
               <location>
@@ -1143,9 +1147,9 @@
               <beginText>2</beginText>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="-2.36216" y="-5.0162"/>
+                <offset x="-2.36216" y="-4.2162"/>
                 <off2 x="3.29534" y="0"/>
-                <minDistance>0.89631</minDistance>
+                <minDistance>0.615119</minDistance>
                 </Segment>
               <endings>2</endings>
               </Volta>
