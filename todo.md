@@ -12,7 +12,9 @@ TODO
 
 ### 2022-03-13 TODO
 
+- [ ] Practicing Satie Gnossienne Ⅰ: something new and doable.
 - [ ] Rehearsing all to not forget.
+- [ ] Renaming "fragment subdivision" to "rehearsal marks".
 - [ ] Omitting large piece analyses (Chopin Ballade Ⅱ)
     - [ ] (More work than energy for. Taking away attention smaller pieces.)
 - [ ] __... Sheet Music Simplified using MuseScore for:__
