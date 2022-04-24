@@ -13,8 +13,8 @@ Sheet Music with Rehearsal Marks
 ### Introduction
 
 - Visually simpler.  
-- Rehearsal marks added (1, 2, 3, 4.1, 4.2, etc.)
-- Fragments stereotyped (prefix, verse, chorus, etc.)
+- Rehearsal marks added (`1`, `2`, `3`, `4.1`, `4.2`, etc.)
+- Fragments stereotyped (`prefix`, `verse`, `chorus`, etc.)
 - Simplified using the following [guidelines](https://jjvanzon.github.io/Piano-Playing-Docs/methods/sheet-music-simplification.html).
 
 ### Contents
