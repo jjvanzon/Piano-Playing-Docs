@@ -72,7 +72,7 @@ Styles & Attitudes
 - ***Styles:***
     - ***Classical*** style.
     - ***Romantic*** era is favorite.
-    - ***Barok*** side-ways appreciated.
+    - ***Baroque*** side-ways appreciated.
     - ***Solo piano*** by default.
     - ***Composers:***
     - 🧡 Chopin, Debussy, Satie, Ravel, Grieg,
