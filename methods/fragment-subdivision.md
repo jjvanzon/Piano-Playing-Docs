@@ -61,7 +61,7 @@ __1.3__
 
 ### Description
 
-Simplified sheet music with rehearsal marks (1, 2, 3, 4.1, 4.2, etc.) and stereotyped fragments (prefix, verse, chorus, etc.) which helped me memorize.
+Simplified sheet music with rehearsal marks (1, 2, 3, 4.1, 4.2, etc.) and stereotyped fragments (prefix, verse, chorus, etc.) which may help memorize.
 
 It is visually simplified. More readable considering my autism, making me more distracted by visual details beyond my control.
 
