@@ -10,17 +10,20 @@ Studying Notes
 
 ### Expression
     
-- Felt Upright sounds nice for this
+- Felt Upright nice for this
 - p loud enough
 - Slow
 - Keep simultaneity
 - Micro-dynamics in soft-range
-- Micro-timing durations (but keep simultaneity)
+- Micro-timing durations (keeping simultaneity)
+- Per fragment:
+    - Prefix and verse does not need much, to sound nice.
+    - Chorus bit less soft, more expressiveness.
+    - Bridge bit soft and mysterious
+    - Finale more pronounced and 'made special'.
 
 ### Technique
 
 - The ninths are hard to grasp
-
-...
 
 [back](./README.md)
