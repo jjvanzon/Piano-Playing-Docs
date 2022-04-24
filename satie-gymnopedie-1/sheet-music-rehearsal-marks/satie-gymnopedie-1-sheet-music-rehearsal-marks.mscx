@@ -167,7 +167,7 @@
           <size>16</size>
           <bold>1</bold>
           <align>center,center</align>
-          <text>Gymnopédie I - Erik Satie (with Rehearsal Marks) [Draft]</text>
+          <text>Gymnopédie I - Erik Satie (with Rehearsal Marks)</text>
           </Text>
         </VBox>
       <Measure>
@@ -234,15 +234,14 @@
       <Measure>
         <voice>
           <RehearsalMark>
-            <offset x="0" y="-1.8"/>
+            <offset x="-0.5" y="-2"/>
             <text>2</text>
             </RehearsalMark>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
           <StaffText>
-            <minDistance>0.466759</minDistance>
-            <offset x="-2.4446" y="-1.90409"/>
+            <offset x="-2.9446" y="-2.20409"/>
             <text>verse</text>
             </StaffText>
           <Chord>
