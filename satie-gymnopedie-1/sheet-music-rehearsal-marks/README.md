@@ -18,6 +18,7 @@ Sheet Music with Rehearsal Marks
 ### Contents
 
 - [Sheet Music with Rehearsal Marks (PDF)](satie-gymnopedie-1-sheet-music-rehearsal-marks.pdf)
+- [Sheet Music with Rehearsal Marks (MuseScore File)](satie-gymnopedie-1-sheet-music-rehearsal-marks.mscz)
 - [Sheet Music with Rehearsal Marks (MuseScore Uncompressed XML File)](satie-gymnopedie-1-sheet-music-rehearsal-marks.mscx)
 
 ### Original
