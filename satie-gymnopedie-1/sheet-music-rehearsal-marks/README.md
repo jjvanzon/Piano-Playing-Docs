@@ -16,6 +16,10 @@ Sheet Music with Rehearsal Marks
 - Simplified using the following [guidelines](https://jjvanzon.github.io/Piano-Playing-Docs/methods/sheet-music-simplification.html).
 - Rehearsal marks using the following [guidelines](https://jjvanzon.github.io/Piano-Playing-Docs/methods/fragment-subdivision.html)
 
+### Preview
+
+<img src="satie-gymnopedie-1-sheet-music-rehearsal-marks-preview.png" width="400" />
+
 ### Contents
 
 - [Sheet Music with Rehearsal Marks (PDF)](satie-gymnopedie-1-sheet-music-rehearsal-marks.pdf)
