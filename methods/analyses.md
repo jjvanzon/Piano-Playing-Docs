@@ -12,7 +12,7 @@ I might do several analyses or derived works from musical score.
 Not sure yet which might be most useful.
 
 - [Sheet music __simplification__](sheet-music-simplification.md)
-- Subdividing into __fragments__ (for a [practice schema](practice-schema.md))
+- Adding __rehearsal marks__ (for a [practice schema](practice-schema.md))
 - __Phrase__ structure analysis
 - Notes / [__finger numbers__](finger-numbers.md)
 - Notes / finger numbers / [__piano motion symbols__](piano-motion-symbols.md)?
