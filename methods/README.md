@@ -56,4 +56,8 @@ You may find some of my methods of working here.
 
   - Symbols for only lower arm positions from the [Piano Motion Symbols](piano-motion-symbols.pdf) document. This is an idea of extending fingering notation from just numbers to additional symbols, indicating the kind of body movement involved. This is in PDF format, which may be easier to print. 
 
+- [MiniDisk Recorder Functions of Interest](mini-disk-recorder-functions-of-interest.md)
+
+  - Went through the manual for "Sony Portable MiniDisk Recorder MZ-R35". Identified these functions that I'd like to remember.
+
 [back](../README.md)
