@@ -12,10 +12,10 @@ TODO
 
 ### 2022-03-13 TODO
 
-- [ ] Practicing Satie Gnossienne Ⅰ: something new and doable.
+- [ ] __... Satie Gnossienne Ⅰ: Practicing something new and doable.__
+- [ ] Satie Gnossienne Ⅰ: Editing practice recording: around 1:15 there are 2 pauses.
 - [ ] Rehearsing all to not forget.
-- [x] Renaming "fragment subdivision" to "rehearsal marks".
-- [ ] Omitting large piece analyses (Chopin Ballade Ⅱ)
+- [ ] Omitting further large piece analyses (Chopin Ballade Ⅱ)
     - [ ] (More work than energy for. Taking away attention smaller pieces.)
 - [ ] __... Sheet Music Simplified using MuseScore for:__
     - [ ] __... [Chopin - Ballade Ⅱ](chopin-ballade-2/sheet-music-simplified/README.md)__
@@ -24,7 +24,7 @@ TODO
 
 ### 2021-11-16 TODO
 
-- [ ] Changing fragment numbering for:
+- [ ] Changing rehearsal numbering for:
     - [ ] Chopin - Ballade Ⅱ
     - [ ] Chopin - Mazurka Op. 24, No. 2
 - [ ] Chopin - Mazurka Op. 24, No. 2
@@ -35,7 +35,7 @@ TODO
     - [ ] See specialized [TODO](debussy-arabesque-1/debussy-arabesque-1-todo.md)
 - [ ] Satie - Gnossienne Ⅰ
     - [ ] Chords
-    - [ ] Structure analysis (for memorization)
+    - [x] Structure analysis (for memorization)
     - [ ] Harmonic analysis
     - [ ] See [studying notes](satie-gnossienne-1/satie-gnossienne-1-studying-notes.md)
 - [ ] Learning a piece by ear.

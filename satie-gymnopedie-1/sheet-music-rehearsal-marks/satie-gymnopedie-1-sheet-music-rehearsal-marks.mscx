@@ -617,7 +617,7 @@
             <text>4.1</text>
             </RehearsalMark>
           <StaffText>
-            <offset x="0.849344" y="-2.26344"/>
+            <offset x="1.04934" y="-2.16344"/>
             <text>chorus 1</text>
             </StaffText>
           <Chord>
@@ -746,7 +746,7 @@
             <text>4.2</text>
             </RehearsalMark>
           <StaffText>
-            <offset x="0.749344" y="-2.32553"/>
+            <offset x="0.849344" y="-2.22553"/>
             <text>chorus 2</text>
             </StaffText>
           <Chord>
@@ -872,7 +872,7 @@
             </RehearsalMark>
           <RehearsalMark>
             <bold>0</bold>
-            <offset x="5.51826" y="-5.30566"/>
+            <offset x="5.71826" y="-5.20566"/>
             <frameType>0</frameType>
             <text>bridge</text>
             </RehearsalMark>
@@ -1129,7 +1129,7 @@
             </RehearsalMark>
           <RehearsalMark>
             <bold>0</bold>
-            <offset x="6.38717" y="-5.62878"/>
+            <offset x="6.58717" y="-5.62878"/>
             <frameType>0</frameType>
             <text>finale</text>
             </RehearsalMark>
