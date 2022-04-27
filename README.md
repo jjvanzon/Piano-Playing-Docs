@@ -3,6 +3,8 @@ Introduction
 
 *JJ van Zon, 2022*
 
+[back](https://jjvanzon.github.io/)
+
 ![](resources/photo-jjs-piano-laptop-sheet-music-analysis-wide.jpg)
 
 Piano playing is a hobby of mine. Here I try to organize my thoughts about it. And share documents I may make.
@@ -40,3 +42,5 @@ I try to support these goals with the content found here.
     - Some rough plans about what I might like to do next.
 - ### [Archive 🗃](archive/README.md)
     - Older but somehow difficult to delete content.
+
+[back](https://jjvanzon.github.io/)
