@@ -145,6 +145,10 @@ Photos / Previews for Social Media
 
 <img alt="Preview Satie Gnossienne 1 Sheet Music Simplification (Detail)" src="preview-satie-gnossienne-1-sheet-music-simplification-detail.png" width="300" />
 
+### [Preview Satie Gymnopedie 1 Chords](preview-satie-gymnopedie-1-chords.jpg)
+
+<img alt="Preview Satie Gymnopedie 1 Chords" src="preview-satie-gymnopedie-1-chords.jpg" width="300" />
+
 ### [Preview Web Site JJ's Piano Playing Docs](preview-web-site-jjs-piano-playing-docs.png)
 
 <img alt="Preview Web Site JJ's Piano Playing Docs" src="preview-web-site-jjs-piano-playing-docs.png" width="300" />
