@@ -12,8 +12,21 @@ TODO
 
 ### 2022-03-13 TODO
 
-- [ ] __... Satie Gnossienne Ⅰ: Practicing something new and doable.__
-- [ ] Satie Gnossienne Ⅰ: Editing practice recording: around 1:15 there are 2 pauses.
+- [ ] Renaming "Sheet Music Simplified" to "Sheet Music Simplified Notation"
+- [ ] __... Satie Gnossienne Ⅰ__
+    - [ ] __... Practicing something new and doable.__
+    - [ ] __... Retroactive sheet music changes:__
+        - [ ] __... Sheet Music Simplified Notation:__
+            - [x] Left hand 9ths => right hand extra notes.
+            - [x] Double lines for fragments.
+            - [x] Line breaks more according to fragments.
+            - [x] "Simplified Notation" a sub-title.
+            - [ ] __...Check & correct__
+        - [ ] With Rehearsal Marks:
+            - [ ] Left hand 9ths => right hand extra notes.
+            - [ ] "With Rehearsal Marks" a sub-title.
+        - [ ] Before making versions with chords.
+    - [ ] Recording: Editing practice recording: around 1:15 there are 2 pauses.
 - [ ] Rehearsing all to not forget.
 - [ ] Omitting further large piece analyses (Chopin Ballade Ⅱ)
     - [ ] (More work than energy for. Taking away attention smaller pieces.)
