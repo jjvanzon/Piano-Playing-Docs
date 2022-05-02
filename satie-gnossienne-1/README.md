@@ -14,7 +14,7 @@
 
 - 🔊 [Recording](recording/README.md)
 - 🎼 [Sheet Music](sheet-music/README.md)
-- 🎵 [Sheet Music Simplified Notation](sheet-music-simplified-notation/README.md)
+- 🎵 [Sheet Music with Simplified Notation](sheet-music-simplified-notation/README.md)
 - ✍ [Studying Notes](satie-gnossienne-1-studying-notes.md)
 
 [back](../README.md)

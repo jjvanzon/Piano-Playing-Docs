@@ -18,9 +18,9 @@ Visually simpler. Simplified using the following [guidelines](https://jjvanzon.g
 
 ### Download
 
-- [Sheet Music Simplified Notation (PDF)](satie-gnossienne-1-sheet-music-simplified-notation.pdf)
-- [Sheet Music Simplified Notation (docx)](satie-gnossienne-1-sheet-music-simplified-notation.docx)
-- [Sheet Music Simplified Notation (png)](satie-gnossienne-1-sheet-music-simplified-notation.png)
+- [Sheet Music with Simplified Notation (PDF)](satie-gnossienne-1-sheet-music-simplified-notation.pdf)
+- [Sheet Music with Simplified Notation (docx)](satie-gnossienne-1-sheet-music-simplified-notation.docx)
+- [Sheet Music with Simplified Notation (png)](satie-gnossienne-1-sheet-music-simplified-notation.png)
 
 ### Original
 

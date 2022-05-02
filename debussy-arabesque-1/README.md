@@ -8,7 +8,7 @@
 Notes and analyses studying this piano piece.
 
 - 🎼 [Sheet Music](sheet-music/README.md)
-- 🎵 [Sheet Music Simplified Notation](sheet-music-simplified-notation/README.md)
+- 🎵 [Sheet Music with Simplified Notation](sheet-music-simplified-notation/README.md)
 - 🎹 [Chords (triads only) (Web Page)](debussy-arabesque-1-chords-triads-only.md) `[Draft]`
 - 🎹 [Chords (triads only) (PDF)](debussy-arabesque-1-chords-triads-only.pdf) `[Draft]`
 - 🔢 [Notes & Rehearsal Marks](notes-rehearsal-marks/README.md)

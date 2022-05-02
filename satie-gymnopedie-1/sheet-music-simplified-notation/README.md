@@ -5,8 +5,8 @@
 
 [back](../README.md)
 
-Sheet Music Simplified Notation
--------------------------------
+Sheet Music with Simplified Notation
+------------------------------------
 
 ### Introduction
 
@@ -19,9 +19,9 @@ Simplified using the following [guidelines](https://jjvanzon.github.io/Piano-Pla
 
 ### Contents
 
-- [Sheet Music Simplified Notation (PDF)](satie-gymnopedie-1-sheet-music-simplified-notation.pdf)
-- [Sheet Music Simplified Notation (MuseScore File)](satie-gymnopedie-1-sheet-music-simplified-notation.mscz)
-- [Sheet Music Simplified Notation (MuseScore Uncompressed XML File)](satie-gymnopedie-1-sheet-music-simplified-notation.mscx)
+- [Sheet Music with Simplified Notation (PDF)](satie-gymnopedie-1-sheet-music-simplified-notation.pdf)
+- [Sheet Music with Simplified Notation (MuseScore File)](satie-gymnopedie-1-sheet-music-simplified-notation.mscz)
+- [Sheet Music with Simplified Notation (MuseScore Uncompressed XML File)](satie-gymnopedie-1-sheet-music-simplified-notation.mscx)
 
 
 ### Original

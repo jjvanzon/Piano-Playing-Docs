@@ -5,8 +5,8 @@
 
 [back](../README.md)
 
-Sheet Music Simplified Notation
--------------------------------
+Sheet Music with Simplified Notation
+------------------------------------
 
 ### Introduction
 
@@ -19,10 +19,10 @@ Simplified using the following [guidelines](https://jjvanzon.github.io/Piano-Pla
 
 ### Contents
 
-- [Sheet Music Simplified Notation (PDF)](chopin-mazurka-op-24-no-2-sheet-music-simplified-notation.pdf)
-- <a href="https://musescore.com/user/42589871/scores/7733957" target="_blank" rel="noopener noreferrer">Sheet Music Simplified Notation (MuseScore Web Page)</a>
-- [Sheet Music Simplified Notation(MuseScore File)](chopin-mazurka-op-24-no-2-sheet-music-simplified-notation.mscz)
-- [Sheet Music Simplified Notation(MuseScore Uncompressed XML File)](chopin-mazurka-op-24-no-2-sheet-music-simplified-notation.mscx)
+- [Sheet Music with Simplified Notation (PDF)](chopin-mazurka-op-24-no-2-sheet-music-simplified-notation.pdf)
+- <a href="https://musescore.com/user/42589871/scores/7733957" target="_blank" rel="noopener noreferrer">Sheet Music with Simplified Notation (MuseScore Web Page)</a>
+- [Sheet Music with Simplified Notation(MuseScore File)](chopin-mazurka-op-24-no-2-sheet-music-simplified-notation.mscz)
+- [Sheet Music with Simplified Notation(MuseScore Uncompressed XML File)](chopin-mazurka-op-24-no-2-sheet-music-simplified-notation.mscx)
 
 ### Original
 

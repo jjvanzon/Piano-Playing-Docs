@@ -5,8 +5,8 @@
 
 [back](../README.md)
 
-Sheet Music Simplified Notation
--------------------------------
+Sheet Music with Simplified Notation
+------------------------------------
 
 ### Introduction
 
@@ -19,14 +19,14 @@ Simplified using the following [guidelines](https://jjvanzon.github.io/Piano-Pla
 
 ### Contents
 
-- [Sheet Music Simplified Notation (PDF)](debussy-arabesque-1-sheet-music-simplified-notation.pdf)
-- [Sheet Music Simplified Notation (docx)](debussy-arabesque-1-sheet-music-simplified-notation.docx)
-- [Sheet Music Simplified Notation Page 1 (png)](debussy-arabesque-1-sheet-music-simplified-notation-page-1.png)
-- [Sheet Music Simplified Notation Page 2 (png)](debussy-arabesque-1-sheet-music-simplified-notation-page-2.png)
-- [Sheet Music Simplified Notation Page 3 (png)](debussy-arabesque-1-sheet-music-simplified-notation-page-3.png)
-- [Sheet Music Simplified Notation Page 4 (png)](debussy-arabesque-1-sheet-music-simplified-notation-page-4.png)
-- [Sheet Music Simplified Notation Page 5 (png)](debussy-arabesque-1-sheet-music-simplified-notation-page-5.png)
-- [Sheet Music Simplified Notation Preview](debussy-arabesque-1-sheet-music-simplified-notation-preview.jpg)
+- [Sheet Music with Simplified Notation (PDF)](debussy-arabesque-1-sheet-music-simplified-notation.pdf)
+- [Sheet Music with Simplified Notation (docx)](debussy-arabesque-1-sheet-music-simplified-notation.docx)
+- [Sheet Music with Simplified Notation Page 1 (png)](debussy-arabesque-1-sheet-music-simplified-notation-page-1.png)
+- [Sheet Music with Simplified Notation Page 2 (png)](debussy-arabesque-1-sheet-music-simplified-notation-page-2.png)
+- [Sheet Music with Simplified Notation Page 3 (png)](debussy-arabesque-1-sheet-music-simplified-notation-page-3.png)
+- [Sheet Music with Simplified Notation Page 4 (png)](debussy-arabesque-1-sheet-music-simplified-notation-page-4.png)
+- [Sheet Music with Simplified Notation Page 5 (png)](debussy-arabesque-1-sheet-music-simplified-notation-page-5.png)
+- [Sheet Music with Simplified Notation Preview](debussy-arabesque-1-sheet-music-simplified-notation-preview.jpg)
 
 ### Original
 

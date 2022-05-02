@@ -12,11 +12,11 @@ TODO
 
 ### 2022-03-13 TODO
 
-- [ ] Renaming "Sheet Music Simplified" to "Sheet Music Simplified Notation"
+- [ ] Renaming "Sheet Music Simplified" to "Sheet Music with Simplified Notation"
 - [ ] __... Satie Gnossienne Ⅰ__
     - [ ] __... Practicing something new and doable.__
     - [ ] __... Retroactive sheet music changes:__
-        - [x] Sheet Music Simplified Notation:
+        - [x] Sheet Music with Simplified Notation:
             - [x] Left hand 9ths => right hand extra notes.
             - [x] Double lines for fragments.
             - [x] Line breaks more according to fragments.

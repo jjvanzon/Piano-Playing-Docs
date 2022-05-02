@@ -14,7 +14,7 @@
 
 - 🔊 [Recording](recording/README.md)
 - 🎼 [Sheet Music](sheet-music/README.md)
-- 🎵 [Sheet Music Simplified Notation](sheet-music-simplified-notation/README.md)
+- 🎵 [Sheet Music with Simplified Notation](sheet-music-simplified-notation/README.md)
 - 🎹 [Chords (Web Page)](chopin-mazurka-op-24-no-2-chords.md)
 - 🎹 [Chords (PDF)](chopin-mazurka-op-24-no-2-chords.pdf)
 - 🔔 [Harmonic Analysis (Web Page)](chopin-mazurka-op-24-no-2-harmonic-analysis.md)
