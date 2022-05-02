@@ -39,7 +39,7 @@ Sheet Music Notation Simplification
     - [ ] Repeating in-measure accidentals.
     - [ ] Introducing key changes to prevent natural symbols <img src="https://jjvanzon.github.io/Piano-Playing-Docs/resources/natural-symbol.png" height="20" style="vertical-align:middle" />.
     - [ ] Correcting unnecessary natural symbols.
-    - [ ] See [b and # reasons](https://jjvanzon.github.io/Piano-Playing-Docs/methods/sheet-music-simplification.html#b-and--reasons).
+    - [ ] See [b and # reasons](https://jjvanzon.github.io/Piano-Playing-Docs/methods/sheet-music-notation-simplification.html#b-and--reasons).
 - [ ] Voicing:
     - [ ] Removing some rest symbols.
     - [ ] Simplifying note durations / voicing notation.

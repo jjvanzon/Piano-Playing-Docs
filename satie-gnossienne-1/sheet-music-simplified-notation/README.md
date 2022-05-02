@@ -10,7 +10,7 @@ Sheet Music with Simplified Notation
 
 ### Introduction
 
-Visually simpler. Simplified using the following [guidelines](https://jjvanzon.github.io/Piano-Playing-Docs/methods/sheet-music-simplification.html).
+Visually simpler. Simplified using the following [guidelines](https://jjvanzon.github.io/Piano-Playing-Docs/methods/sheet-music-notation-simplification.html).
 
 ### Preview
 

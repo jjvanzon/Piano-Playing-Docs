@@ -13,7 +13,7 @@ Sheet Music with Rehearsal Marks
 - Visually simpler.  
 - Rehearsal marks added (__1, 2, 3, 4.1, 4.2__, etc.)
 - Fragments stereotyped (__prefix, verse, chorus__, etc.)
-- Simplified using the following [guidelines](https://jjvanzon.github.io/Piano-Playing-Docs/methods/sheet-music-simplification.html).
+- Simplified using the following [guidelines](https://jjvanzon.github.io/Piano-Playing-Docs/methods/sheet-music-notation-simplification.html).
 - Rehearsal marks using the following [guidelines](https://jjvanzon.github.io/Piano-Playing-Docs/methods/rehearsal-marks.html).
 
 ### Preview

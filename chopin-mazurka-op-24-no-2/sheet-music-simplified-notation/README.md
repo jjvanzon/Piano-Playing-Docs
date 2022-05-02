@@ -11,7 +11,7 @@ Sheet Music with Simplified Notation
 ### Introduction
 
 Visually simpler. Accidentals always placed near notes, even when part of the key. Organized in a more regular pattern of 4 bars per line. Fragments / phrases are separated by double bar lines.  
-Simplified using the following [guidelines](https://jjvanzon.github.io/Piano-Playing-Docs/methods/sheet-music-simplification.html).
+Simplified using the following [guidelines](https://jjvanzon.github.io/Piano-Playing-Docs/methods/sheet-notation-music-simplification.html).
 
 ### Preview
 

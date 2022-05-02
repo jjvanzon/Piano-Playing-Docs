@@ -37,7 +37,7 @@ TODO
     - [x] ~~Introducing key changes to prevent natural symbols <img src="https://jjvanzon.github.io/Piano-Playing-Docs/resources/natural-symbol.png" height="20" style="vertical-align:middle" />.~~
     - [x] Repeating in-measure accidentals.
     - [x] Correcting unnecessary natural symbols.
-    - [ ] See [b and # reasons](https://jjvanzon.github.io/Piano-Playing-Docs/methods/sheet-music-simplification.html#b-and--reasons).
+    - [ ] See [b and # reasons](https://jjvanzon.github.io/Piano-Playing-Docs/methods/sheet-music-notation-simplification.html#b-and--reasons).
 - [x] Layout:
     - [x] Adding title (adding the term 'simplified notation').
     - [x] Removing page headers and footers, mostly.
@@ -70,7 +70,7 @@ TODO
     - [x] Corrections to digital version.
     - [ ] Keep checking by playing the print, until no more corrections.
 - [ ] Variation of sheet music, with *reasons* for b or #:
-    - [ ] See [b and # reasons](https://jjvanzon.github.io/Piano-Playing-Docs/methods/sheet-music-simplification.html#b-and--reasons).
+    - [ ] See [b and # reasons](https://jjvanzon.github.io/Piano-Playing-Docs/methods/sheet-music-notation-simplification.html#b-and--reasons).
     - [x] Adding reasons to draft sheet music with simplified notation.
     - [x] On paper
     - [x] Changing some occurrences of "per-note expectation" to "chord shape".

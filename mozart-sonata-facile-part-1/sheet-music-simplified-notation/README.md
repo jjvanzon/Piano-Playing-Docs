@@ -10,7 +10,7 @@ Sheet Music with Simplified Notation
 
 ### Introduction
 
-Visually simpler. The layout is quite widely spaced. Simplified using the following [guidelines](https://jjvanzon.github.io/Piano-Playing-Docs/methods/sheet-music-simplification.html).
+Visually simpler. The layout is quite widely spaced. Simplified using the following [guidelines](https://jjvanzon.github.io/Piano-Playing-Docs/methods/sheet-music-notation-simplification.html).
 
 ### Preview
 
