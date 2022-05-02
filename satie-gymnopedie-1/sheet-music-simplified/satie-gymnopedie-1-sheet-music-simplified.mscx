@@ -859,13 +859,13 @@
               <beginText>1</beginText>
               <Segment>
                 <subtype>1</subtype>
-                <offset x="0" y="-4.25813"/>
-                <off2 x="0" y="0"/>
+                <offset x="-0.1" y="-4.25813"/>
+                <off2 x="0.1" y="0"/>
                 </Segment>
               <Segment>
                 <subtype>3</subtype>
-                <offset x="-1.2" y="-4.31"/>
-                <off2 x="0.5" y="0"/>
+                <offset x="-1.2" y="-4.61"/>
+                <off2 x="0.6" y="0"/>
                 </Segment>
               <endings>1</endings>
               </Volta>
@@ -986,6 +986,10 @@
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
+            <Note>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              </Note>
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
@@ -1115,8 +1119,8 @@
               <beginText>2</beginText>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="-0.3" y="-3"/>
-                <off2 x="0.3" y="0"/>
+                <offset x="-2.4" y="-3"/>
+                <off2 x="2.4" y="0"/>
                 </Segment>
               <endings>2</endings>
               </Volta>
@@ -1141,12 +1145,18 @@
       <Measure>
         <voice>
           <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
               <pitch>77</pitch>
               <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           </voice>
@@ -1220,6 +1230,10 @@
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
+            <Note>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              </Note>
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
@@ -2489,10 +2503,6 @@
               <pitch>66</pitch>
               <tpc>20</tpc>
               </Note>
-            <Note>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
-              </Note>
             </Chord>
           </voice>
         </Measure>
@@ -2623,10 +2633,6 @@
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
-            <Note>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
-              </Note>
             </Chord>
           </voice>
         </Measure>
@@ -2707,10 +2713,6 @@
             <Note>
               <pitch>65</pitch>
               <tpc>13</tpc>
-              </Note>
-            <Note>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
               </Note>
             </Chord>
           </voice>
