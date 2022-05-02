@@ -48,7 +48,7 @@ To perhaps focus on things with lower scores.
     <br/><br/>
 - __Reading__:
     - Might include annotating with mnemonics and cheats.  
-    - May include my making simplified musical score or chord progressions.
+    - May include my making sheet music with simplified notation and/or chord progressions.
 - __Memorizing__:
     - Analyzing phrase and repetition structure may help.
     - Memorizing might at one point include memorizing the chords.  

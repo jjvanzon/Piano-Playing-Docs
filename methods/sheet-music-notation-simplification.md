@@ -5,8 +5,8 @@ Methods
 
 [back](./README.md)
 
-Sheet Music Simplification
---------------------------
+Sheet Music Notation Simplification
+-----------------------------------
 
 ### Checklist
 
@@ -45,7 +45,7 @@ Sheet Music Simplification
     - [ ] Simplifying note durations / voicing notation.
     - [ ] Left hand / right hand separated and together.
 - [ ] Layout:
-    - [ ] Adding title (adding the word 'simplified').
+    - [ ] Adding title (adding the tern 'simplified notation').
     - [ ] Removing page headers and footers, mostly.
     - [ ] Adding page numbers (suggested font: Calibri 14pt).
     - [ ] Adjusting spacing between staves.

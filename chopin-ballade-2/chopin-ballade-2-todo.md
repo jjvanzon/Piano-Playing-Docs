@@ -39,7 +39,7 @@ TODO
     - [x] Correcting unnecessary natural symbols.
     - [ ] See [b and # reasons](https://jjvanzon.github.io/Piano-Playing-Docs/methods/sheet-music-simplification.html#b-and--reasons).
 - [x] Layout:
-    - [x] Adding title (adding the word 'simplified').
+    - [x] Adding title (adding the term 'simplified notation').
     - [x] Removing page headers and footers, mostly.
     - [x] Adding page numbers (suggested font: Calibri 14pt).
     - [x] Adjusting spacing between staves.
@@ -71,7 +71,7 @@ TODO
     - [ ] Keep checking by playing the print, until no more corrections.
 - [ ] Variation of sheet music, with *reasons* for b or #:
     - [ ] See [b and # reasons](https://jjvanzon.github.io/Piano-Playing-Docs/methods/sheet-music-simplification.html#b-and--reasons).
-    - [x] Adding reasons to draft simplified sheet music.
+    - [x] Adding reasons to draft sheet music with simplified notation.
     - [x] On paper
     - [x] Changing some occurrences of "per-note expectation" to "chord shape".
     - [x] Cleaner typography for annotations (pencil and paper still).

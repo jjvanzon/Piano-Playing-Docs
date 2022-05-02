@@ -10,7 +10,7 @@ Notes & Rehearsal Marks
 
 ### Introduction
 
-Subdivision into fragments of simplified sheet music for Debussy Arabesque Ⅰ. Individual memorization or attention to technique may be desired for each fragment when studying it.
+Subdivision into fragments of sheet music with simplified notation for Debussy Arabesque Ⅰ. Individual memorization or attention to technique may be desired for each fragment when studying it.
 
 ### Preview
 

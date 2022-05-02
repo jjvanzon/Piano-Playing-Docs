@@ -16,22 +16,22 @@ TODO
 - [ ] __... Satie Gnossienne Ⅰ__
     - [ ] __... Practicing something new and doable.__
     - [ ] __... Retroactive sheet music changes:__
-        - [ ] __... Sheet Music Simplified Notation:__
+        - [x] Sheet Music Simplified Notation:
             - [x] Left hand 9ths => right hand extra notes.
             - [x] Double lines for fragments.
             - [x] Line breaks more according to fragments.
             - [x] "Simplified Notation" a sub-title.
-            - [ ] __...Check & correct__
+            - [x] Check & correct
         - [ ] With Rehearsal Marks:
-            - [ ] Left hand 9ths => right hand extra notes.
+            - [ ] Left hand 9ths / octaves => right hand extra notes.
             - [ ] "With Rehearsal Marks" a sub-title.
         - [ ] Before making versions with chords.
     - [ ] Recording: Editing practice recording: around 1:15 there are 2 pauses.
 - [ ] Rehearsing all to not forget.
 - [ ] Omitting further large piece analyses (Chopin Ballade Ⅱ)
     - [ ] (More work than energy for. Taking away attention smaller pieces.)
-- [ ] __... Sheet Music Simplified using MuseScore for:__
-    - [ ] __... [Chopin - Ballade Ⅱ](chopin-ballade-2/sheet-music-simplified/README.md)__
+- [ ] __... Sheet Music with Simplified Notation using MuseScore for:__
+    - [ ] __... [Chopin - Ballade Ⅱ](chopin-ballade-2/sheet-music-simplified-notation/README.md)__
     - [ ] Debussy - Arabesque Ⅰ (?)
     - [ ] Satie - Gnossienne Ⅰ (?)
 

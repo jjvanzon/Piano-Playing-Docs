@@ -5,8 +5,8 @@
 
 [back](../README.md)
 
-Sheet Music Simplified
-----------------------
+Sheet Music Simplified Notation
+-------------------------------
 
 ### Introduction
 
@@ -14,13 +14,13 @@ Visually simpler. Simplified using the following [guidelines](https://jjvanzon.g
 
 ### Preview
 
-<img src="satie-gnossienne-1-sheet-music-simplified-preview.png" width="375" />
+<img src="satie-gnossienne-1-sheet-music-simplified-notation-preview.png" width="375" />
 
 ### Download
 
-- [Satie Gnossienne Ⅰ Sheet Music Simplified (PDF)](satie-gnossienne-1-sheet-music-simplified.pdf)
-- [Satie Gnossienne Ⅰ Sheet Music Simplified (docx)](satie-gnossienne-1-sheet-music-simplified.docx)
-- [Satie Gnossienne Ⅰ Sheet Music Simplified (png)](satie-gnossienne-1-sheet-music-simplified.png)
+- [Sheet Music Simplified Notation (PDF)](satie-gnossienne-1-sheet-music-simplified-notation.pdf)
+- [Sheet Music Simplified Notation (docx)](satie-gnossienne-1-sheet-music-simplified-notation.docx)
+- [Sheet Music Simplified Notation (png)](satie-gnossienne-1-sheet-music-simplified-notation.png)
 
 ### Original
 

@@ -62,7 +62,7 @@ Skills:
     - To put online.
     - For entertainment.
 - ***Sharing:***
-    - Most of the things I produce I might put online, including recordings, chords and simplified sheet music and other analyses.
+    - Most of the things I produce I might put online, including recordings, chords and sheet music with simplified notation and other analyses.
 
 Styles & Attitudes
 ------------------
