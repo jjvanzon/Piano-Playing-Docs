@@ -32,10 +32,13 @@ I try to support these goals with the content found here.
     - [Chopin Ballade Ⅱ](chopin-ballade-2/README.md)
 - ### [Methods ⚙](methods/README.md)
     - You may find some of my methods of working here.
-- ### [Links 🌐](links.md)
-    - Links to possibly useful information.
+
+<hr>
+
 - ### [Nord Piano 4 🎹](nord-piano-4/README.md)
     - Lists some of my favorite sounds for my Nord Piano 4 digital piano. Also has planning notes about how I worked on selecting them.
+- ### [Links 🌐](links.md)
+    - Links to possibly useful information.
 - ### [Resources 🔧](resources/README.md)
     - Pictures and also characters and symbols that might be a helpful aid for music notes and analyses.
 - ### [TODO ✅](todo.md)
