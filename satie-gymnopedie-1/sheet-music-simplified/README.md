@@ -17,6 +17,7 @@ Simplified using the following [guidelines](https://jjvanzon.github.io/Piano-Pla
 
 - [Sheet Music Simplified v2 (MuseScore Uncompressed XML File)](satie-gymnopedie-1-sheet-music-simplified.mscx)
 - [Sheet Music Simplified v2 (MuseScore File)](satie-gymnopedie-1-sheet-music-simplified.mscz)
+- [Sheet Music Simplified v2 (PDF)](satie-gymnopedie-1-sheet-music-simplified.pdf)
 - [Sheet Music Simplified v1 (PDF)](satie-gymnopedie-1-sheet-music-simplified-v1.pdf)
 - <a href="https://musescore.com/user/42589871/scores/7719923" target="_blank" rel="noopener noreferrer">Sheet Music Simplified v1 (MuseScore Web Page)</a>
 - [Sheet Music Simplified v1 (MuseScore Uncompressed XML File)](satie-gymnopedie-1-sheet-music-simplified-v1.mscx)
