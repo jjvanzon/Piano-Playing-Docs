@@ -5,8 +5,8 @@
 
 [back](../README.md)
 
-Sheet Music Simplified Notation
--------------------------------
+Sheet Music with Simplified Notation
+------------------------------------
 
 ### Introduction
 
