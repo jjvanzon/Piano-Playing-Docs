@@ -5,7 +5,7 @@
 
 [back](../README.md)
 
-<audio controls>
+<audio controls autoplay>
   <source src="recording/satie-gnossienne-1-recording-320-kbps.mp3" type="audio/mpeg">
   Your browser does not support the audio element. <a href="recording/satie-gnossienne-1-recording-320-kbps.mp3" download>Download file</a>
 </audio>
