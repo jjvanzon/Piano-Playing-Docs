@@ -30,7 +30,7 @@ I try to support these goals with the content found here.
     - [Debussy Arabesque Ⅰ](debussy-arabesque-1/README.md)
     - [Mozart Sonata Facile K. 545 Part 1](mozart-sonata-facile-part-1/README.md) 🔉
     - [Chopin Ballade Ⅱ](chopin-ballade-2/README.md)
-    - [Bill Frisel Across the Universe](bill-frisel-across-the-universe/README.md)
+    - [Bill Frisell Across the Universe](bill-frisell-across-the-universe/README.md)
 
 <hr>
 
