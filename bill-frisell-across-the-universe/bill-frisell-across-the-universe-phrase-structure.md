@@ -8,7 +8,7 @@
 Phrase Structure
 ----------------
 
-Intro A - Intro B - Bridge (1st 1/2) - Bridge (1st 1/2)
+Intro A - Intro B - Bridge (1<sup>st</sup> ½ ) - Bridge (1<sup>st</sup> ½)  
 Verse A - Verse B - Bridge - Chorus - Chorus  
 Verse A - Verse B - Bridge - Chorus - Chorus  
 Verse __B__ - Verse __A__ - Bridge - Chorus - Chorus  
