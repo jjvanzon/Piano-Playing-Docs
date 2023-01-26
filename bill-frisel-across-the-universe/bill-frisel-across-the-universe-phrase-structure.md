@@ -29,10 +29,4 @@ Chorus (climax, end)
 
 Outtro  
 
-
-Brainstorm
-----------
-
-...
-
 [back](./README.md)
