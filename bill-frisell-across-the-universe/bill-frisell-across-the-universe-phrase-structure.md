@@ -19,19 +19,19 @@ Outtro
 
 ### Variations
 
-- Verse loop 1: Guitar lead
-- Verse loop 2: Violin lead
-- Verse loop 3: Guitar + violin unison lead
+Verse loop 1: Guitar lead  
+Verse loop 2: Violin lead  
+Verse loop 3: Guitar + violin unison lead  
 
 ### Musical Forms
 
-- Melody
-- Improv dub
-- 3rds melody
-- 3rds on the beat (violins mostly)
-- Legatos
-- Chords
-- Bassline
-- Drum pretty zen
+Melody  
+Improv dub  
+3rds melody  
+3rds on the beat (violins mostly)  
+Legatos  
+Chords  
+Bassline  
+Drum pretty zen  
 
 [back](./README.md)
