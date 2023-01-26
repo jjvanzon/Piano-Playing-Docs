@@ -5,28 +5,16 @@
 
 [back](./README.md)
 
-
 Phrase Structure
 ----------------
 
-Prefix - Prefix
-
-Verse A - Verse B  
-Bridge  
-Chorus - Chorus  
-
-Verse A - Verse B  
-Bridge  
-Chorus - Chorus  
-
-Verse B - Verse A  
-Bridge  
-Chorus - Chorus  
-Chorus (variation) - Chorus (improv)  
+Intro A - Intro B  
+Verse A - Verse B - Bridge - Chorus - Chorus  
+Verse A - Verse B - Bridge - Chorus - Chorus  
+Verse B - Verse A - Bridge - Chorus - Chorus  
+Chorus (var) - Chorus (improv)  
 Chorus (improv) - Chorus (improv)  
-Chorus (improv) - Chorus (rock)  
-Chorus (climax, end)  
-
+Chorus (improv) - Chorus (rock) - Chorus (climax, end)  
 Outtro  
 
 [back](./README.md)
