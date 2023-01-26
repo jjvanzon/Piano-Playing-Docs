@@ -8,7 +8,7 @@
 TODO
 ----
 
-### 2023-01-26 TODO
+*2023-01-26*
 
 - [ ] Melody practice
 - [ ] Chord practice
