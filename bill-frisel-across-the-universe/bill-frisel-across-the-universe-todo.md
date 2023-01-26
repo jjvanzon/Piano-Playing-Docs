@@ -10,6 +10,7 @@ TODO
 
 - [ ] __Phrase structure__
 - [ ] __Melody practice__
+- [ ] Variations
 - [ ] Chord practice
 - [ ] Harmonic structure
 
