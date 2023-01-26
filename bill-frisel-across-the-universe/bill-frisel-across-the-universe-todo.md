@@ -1,18 +1,16 @@
 ✅ Bill Frisel - Across The Universe
 =====================================
 
-*JJ van Zon, 2021*
+*JJ van Zon, 2023*
 
 [back](./README.md)
 
 TODO
 ----
 
-*2023-01-26*
-
-- [ ] Melody practice
+- [ ] __Phrase structure__
+- [ ] __Melody practice__
 - [ ] Chord practice
-- [ ] Phrase structure
 - [ ] Harmonic structure
 
 [back](./README.md)
