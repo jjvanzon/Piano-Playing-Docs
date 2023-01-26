@@ -9,7 +9,7 @@ Mellow high-perf country music.
 Trying to perform it on a kalimba.  
 (Piano unavailable.)  
 
-- [🔊 Spotify (Original)](https://open.spotify.com/track/3fLomIuShzWNmoDnQ4Wsdh?si=e7424d12cd724f8e)
+- [🔊 Spotify (original)](https://open.spotify.com/track/3fLomIuShzWNmoDnQ4Wsdh?si=e7424d12cd724f8e)
 - 🗣 [Phrase Structure](bill-frisel-across-the-universe-phrase-structure.md)
 - ✅ [TODO](bill-frisel-across-the-universe-todo.md)
 
