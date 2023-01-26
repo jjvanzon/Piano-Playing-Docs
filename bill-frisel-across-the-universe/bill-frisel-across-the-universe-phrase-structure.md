@@ -1,4 +1,4 @@
-🔮  Bill Frisel - Across The Universe
+🗣️ Bill Frisel - Across The Universe
 =====================================
 
 *JJ van Zon, 2023*
@@ -11,7 +11,7 @@ Phrase Structure
 Intro A - Intro B  
 Verse A - Verse B - Bridge - Chorus - Chorus  
 Verse A - Verse B - Bridge - Chorus - Chorus  
-Verse B - Verse A - Bridge - Chorus - Chorus  
+Verse __B__ - Verse __A__ - Bridge - Chorus - Chorus  
 Chorus (var) - Chorus (improv)  
 Chorus (improv) - Chorus (improv)  
 Chorus (improv) - Chorus (rock) - Chorus (climax, end)  
