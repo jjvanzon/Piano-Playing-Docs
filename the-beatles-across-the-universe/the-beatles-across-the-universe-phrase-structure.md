@@ -1,5 +1,7 @@
-🗣️ Bill Frisell - Across The Universe
+🗣️ The Beatles - Across The Universe
 ======================================
+
+(Bill Frisell rendition.)
 
 *JJ van Zon, 2023*
 
