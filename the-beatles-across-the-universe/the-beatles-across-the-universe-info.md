@@ -5,10 +5,10 @@
 
 [back](./README.md)
 
+*Bill Frisell rendition*
+
 Info
 ----
-
-Bill Frisell rendition.
 
 ### Duration
 

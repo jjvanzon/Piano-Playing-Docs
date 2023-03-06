@@ -5,9 +5,10 @@
 
 [back](../README.md)
 
-Heard the "Bill Frisell" rendition of what is apparently a song by The Beatles. Rendition sounded like mellow high-perf country music.  
+Heard the "Bill Frisell" rendition of what is apparently a song by The Beatles.  
+Rendition sounded like mellow high-perf country music.  
 Trying to perform it on a kalimba.  
-(Piano unavailable.)  
+(I don't have my piano available.)  
 
 - 📢 [Info](the-beatles-across-the-universe-info.md)
 - 🔊 [Spotify (original)](https://open.spotify.com/track/3fLomIuShzWNmoDnQ4Wsdh?si=e7424d12cd724f8e)

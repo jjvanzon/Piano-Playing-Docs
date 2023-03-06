@@ -5,7 +5,7 @@
 
 [back](./README.md)
 
-Bill Frisell rendition.
+*Bill Frisell rendition*
 
 Phrase Structure
 ----------------
