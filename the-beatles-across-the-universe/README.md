@@ -1,11 +1,13 @@
 🔮 The Beatles - Across the Universe
 ======================================
 
+(Bill Frisell rendition.)
+
 *JJ van Zon, 2023*
 
 [back](../README.md)
 
-Mellow high-perf country music.  
+Heard the "Bill Frisell" rendition of what is apparently a song by The Beatles. Rendition sounded like mellow high-perf country music.  
 Trying to perform it on a kalimba.  
 (Piano unavailable.)  
 
