@@ -1,11 +1,11 @@
 🗣️ The Beatles - Across The Universe
 ======================================
 
-(Bill Frisell rendition.)
-
 *JJ van Zon, 2023*
 
 [back](./README.md)
+
+Bill Frisell rendition.
 
 Phrase Structure
 ----------------
