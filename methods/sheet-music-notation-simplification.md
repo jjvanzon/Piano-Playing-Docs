@@ -10,20 +10,20 @@ Sheet Music Notation Simplification
 
 ### Checklist
 
-- [ ] My mind might trip over all those details.  
-- [ ] Might leave out most things except the notes themselves.
+- [ ] My mind can trip over all those details.  
+- [ ] Could leave out most things except the notes themselves.
 - [ ] Not needed in MuseScore:
-    - [ ] Scanning and editing score.  
+    - [ ] Scanning paper and editing score.  
     - [ ] Brightness / contrast of the scan (e.g. brightness +10%, contrast +10%).
     - [ ] Crop image.
-- [ ] In MuseScore "Load Style" might take care of the following:
+- [ ] In MuseScore "Load Style" can take care of the following:
     - [ ] Thicker lines
     - [ ] Bigger notes
     - [ ] Removing measure numbers.
     - [ ] Removing repeated key signatures.
     - [ ] Removing repeated clefs.
 - [ ] Removing details:
-    - [ ] In MuseScore, right clicking an element, then choosing  "Select" may help with this:
+    - [ ] In MuseScore, right clicking an element, then choosing  "Select" could help with this:
     - [ ] Removing the big accolades at the left.
     - [ ] Removing expression symbols (and pedal symbols, tempo, words, dynamics).
     - [ ] Removing expression bows.
@@ -37,7 +37,7 @@ Sheet Music Notation Simplification
     - [ ] In MuseScore, using the "Plugins" menu, "Accidentals" and the options there may help with the following, though it's not perfect. (You may install it from [https://musescore.org/en/project/add-and-remove-courtesy-accidentals](https://musescore.org/en/project/add-and-remove-courtesy-accidentals))
     - [ ] Adding accidentals (even when part of key).
     - [ ] Repeating in-measure accidentals.
-    - [ ] Introducing key changes to prevent natural symbols <img src="https://jjvanzon.github.io/Piano-Playing-Docs/resources/natural-symbol.png" height="20" style="vertical-align:middle" />.
+    - [ ] Introducing key changes to prevent accidental natural symbols <img src="https://jjvanzon.github.io/Piano-Playing-Docs/resources/natural-symbol.png" height="20" style="vertical-align:middle" />.
     - [ ] Correcting unnecessary natural symbols.
     - [ ] See [b and # reasons](https://jjvanzon.github.io/Piano-Playing-Docs/methods/sheet-music-notation-simplification.html#b-and--reasons).
 - [ ] Voicing:
