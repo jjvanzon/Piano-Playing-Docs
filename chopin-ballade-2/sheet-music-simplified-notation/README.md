@@ -11,7 +11,7 @@ Sheet Music with Simplified Notation
 ------------------------------------
 
 ### Introduction
-
+ 
 Visually simpler. Accidentals always placed near notes, even when part of the key.  
 Simplified using the following [guidelines](https://jjvanzon.github.io/Piano-Playing-Docs/methods/sheet-music-notation-simplification.html).
 
