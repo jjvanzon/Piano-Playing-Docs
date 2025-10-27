@@ -17,8 +17,8 @@ Simplified using the following [guidelines](https://jjvanzon.github.io/Piano-Pla
 
 ### Contents
 
-- [Chopin Ballade Ⅱ Sheet Music with Simplified Notation (PDF)](chopin-ballade-2-sheet-music-simplified-notation.pdf) `[ Draft ]`
-- [Chopin Ballade Ⅱ Sheet Music with Simplified Notation (MuseScore Uncompressed XML File)](chopin-ballade-2-sheet-music-simplified-notation.mscx) `[ Draft ]`
+- [Chopin Ballade Ⅱ Notes Simplified (PDF)](chopin-ballade-2-sheet-music-simplified-notation.pdf) `[ Draft ]`
+- [Chopin Ballade Ⅱ Notes Simplified (MuseScore Uncompressed XML File)](chopin-ballade-2-sheet-music-simplified-notation.mscx) `[ Draft ]`
 
 ### Original
 
