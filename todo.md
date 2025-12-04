@@ -10,7 +10,15 @@ More specific TODO lists may be in other documents.
 TODO
 ----
 
-### 2022-03-13 TODO
+### 2025-10-27 TODO Body Rigidity
+
+I've mapped body motions and invented symbols, but I haven't quite mapped the parts of the body that have a natural rigidity that you can use for "free stationary force" so to speak. I have incorporated the "free force" from gravity that you can use instead of muscle strain. "Free stationary force" would be a nice tool to be aware of to unburden more muscles more often.
+
+Just like the "bounciness" of the keyboard itself is also an external free force you use. The collision alone can give you a bounce back. The weightedness and slight springiness built in can help. Sometimes it's missing in a certain specimen of piano, which you then also have to adjust to.
+
+As such the rigid, immobile parts of the body can help. Start mapping out with the fingers and then the wrist and working our way up the arm and onward.
+
+### 2022-03-13 TODO Specifics
 
 - [ ] Renaming "Sheet Music Simplified" to "Sheet Music with Simplified Notation"
 - [ ] __... Satie Gnossienne Ⅰ__
@@ -35,7 +43,7 @@ TODO
     - [ ] Debussy - Arabesque Ⅰ (?)
     - [ ] Satie - Gnossienne Ⅰ (?)
 
-### 2021-11-16 TODO
+### 2021-11-16 TODO Notation & Memorizing
 
 - [ ] Changing rehearsal numbering for:
     - [ ] Chopin - Ballade Ⅱ
@@ -55,7 +63,7 @@ TODO
 - [ ] [Nord Piano Sound Selections](nord-piano-4/nord-piano-4-sound-selection-notes.md)
     - [ ] Might become more relevant once I might improvise more.
 
-### 2021-11-16 TODO List of Pieces to Play
+### 2021-11-16 TODO Listing Pieces to Play
 
 - [ ] Listing of pieces that I play / have played / would like to play.
 - [x] Using <a href="https://www.youtube.com/watch?v=PCx8Xcm9l7U&t=1099s" target="_blank">100 Songs You´ve Heard And Don´t Know The Name</a>
